@@ -1,0 +1,713 @@
+[
+  {
+    "id": "timur-tamerlane",
+    "order": 1,
+    "name": "Timur (Tamerlane)",
+    "title": "Timur İmparatorluğu Kurucusu - İki Karanın Efendisi",
+    "period": "M.S. 1370 - 1405",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-timur.jpg",
+    "description": "Barlas Türklerinden çıkan dünya fatihi. Orta Asya'dan Hindistan'a, İran'dan Anadolu'ya kadar uzanan devasa imparatorluğun kurucusu. 1402 Ankara Savaşı'nda Yıldırım Bayezid'i yenerek Osmanlı'yı durduran Türk hükümdarı.",
+    "fullBio": "Timur (Tamerlane) (1336-1405), Timur İmparatorluğu'nun kurucusu ve dünya tarihinin en büyük askeri dehalarından biridir. Maveraünnehir'de küçük bir Türk boyu olan Barlaslar'ın lideri olarak 1370'te Çağatay Hanlığı'nın kontrolünü ele geçirdi. 35 yıl boyunca neredeyse hiç yenilgi almadan Delhi'den İstanbul'a, Moskova'dan Şam'a kadar geniş bir coğrafyayı fethetti. 1387'de İran'ı, 1398'de Hindistan'ı (Delhi), 1400'de Suriye'yi ve Anadolu'yu işgal etti. 20 Temmuz 1402'deki Ankara Muharebesi'nde Osmanlı Sultanı Yıldırım Bayezid'i ezici bir yenilgiye uğratarak Osmanlı'yı Fetret Devri'ne sürükledi. Timur aynı zamanda büyük bir sanat hamisiydi - Semerkant'ı dünyanın en güzel şehirlerinden biri haline getirdi, Türkçe saray dili olarak kullandı. 1405'te Çin seferi hazırlıkları sırasında Özbekistan'da öldü. Gövdesi yeşil nefrit taşından bir lahde konularak Semerkant'taki Gur-i Amir Türbesi'ne gömüldü.",
+    "legacy": "Türk tarihinin en büyük askeri dehalarından. Ankara'da Osmanlı'yı durdurması Türk tarihinin kaderini değiştirdi. Semerkant'ı dünya kültür merkezi yapması, Uluğ Bey gibi deha yetiştirmesi onu medeniyet kurucusu yapar.",
+    "achievements": [
+      "Timur İmparatorluğu'nu kurdu (1370), 35 başarılı sefer düzenledi",
+      "Delhi'yi fethetti (1398), Hindistan'dan muazzam ganimetlerle döndü",
+      "Ankara Muharebesi'nde (1402) Yıldırım Bayezid'i yenerek Osmanlı'yı durdurdu",
+      "Semerkant'ı dünya kültür merkezi haline getirdi",
+      "Uluğ Bey, Ali Şir Nevai gibi büyük isimlerin yetişmesine zemin hazırladı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1370",
+        "title": "İmparatorluğun Kuruluşu",
+        "description": "Çağatay Hanlığı'nın kontrolünü ele geçirerek Semerkant'da hükümdar oldu."
+      },
+      {
+        "year": "M.S. 1380-1394",
+        "title": "İran Fetihleri",
+        "description": "İran'ın tamamını fethedip imparatorluğu batıya genişletti."
+      },
+      {
+        "year": "M.S. 1398",
+        "title": "Delhi Seferi",
+        "description": "Hindistan'ın Delhi şehrini fethederek muazzam ganimetler elde etti."
+      },
+      {
+        "year": "M.S. 1400-1401",
+        "title": "Suriye ve Anadolu Seferi",
+        "description": "Şam'ı alıp Memluk ordusunu yendi, Anadolu'ya ilerledi."
+      },
+      {
+        "year": "M.S. 1402 (20 Temmuz)",
+        "title": "Ankara Muharebesi",
+        "description": "Yıldırım Bayezid'i ezici yenilgiye uğrattı, Osmanlı'da Fetret Devri başladı."
+      },
+      {
+        "year": "M.S. 1405",
+        "title": "Timur'un Ölümü",
+        "description": "Çin seferi hazırlıkları sırasında Ötrar yakınlarında öldü."
+      }
+    ],
+    "predecessor": "Çağatay Hanlığı hâkimiyeti",
+    "successor": "Şahruh Mirza (oğlu), Halil Sultan (torun) - taht kavgası",
+    "battles": [
+      {
+        "name": "Kunduz Muharebesi",
+        "year": "M.S. 1370",
+        "result": "victory",
+        "description": "Amir Hüseyin'i yenerek Maveraünnehir'de tek hakim oldu."
+      },
+      {
+        "name": "Delhi Muharebesi",
+        "year": "M.S. 1398",
+        "result": "victory",
+        "description": "Delhi Sultanlığı'nı yıkarak Hindistan'dan muazzam ganimetler elde etti."
+      },
+      {
+        "name": "Şam Muharebesi",
+        "year": "M.S. 1401",
+        "result": "victory",
+        "description": "Memluk ordusunu yenerek Suriye'yi kontrolü altına aldı."
+      },
+      {
+        "name": "Ankara Muharebesi",
+        "year": "M.S. 1402",
+        "result": "victory",
+        "description": "Yıldırım Bayezid'i yenerek Osmanlı ordusunu dağıttı, Sultan'ı esir aldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Yıldırım Bayezid",
+        "role": "Osmanlı Sultanı / Mağlup",
+        "description": "Ankara Muharebesi'nde Timur'a yenilen, esir düşen Osmanlı Sultanı."
+      },
+      {
+        "name": "Şahruh Mirza",
+        "role": "Oğlu / Halef",
+        "description": "Timur'un dördüncü oğlu, imparatorluğun en istikrarlı döneminin kurucusu."
+      },
+      {
+        "name": "Uluğ Bey",
+        "role": "Torun / Bilim İnsanı",
+        "description": "Timur'un torunu, Şahruh'un oğlu, dünyaca ünlü astronom ve matematikçi."
+      }
+    ],
+    "quote": {
+      "text": "Benim gibi bir hükümdar gelmedi, gelmeyecek. Benim gibi bir ordu kurmadı, kurmayacak. Ben, Tanrı'nın yeryüzündeki gölgesiyim; kılıcımın ucu nereye değerse orada hüküm sürerim.",
+      "source": "Timur'un tahta yazıtı (rivayet)"
+    }
+  },
+  {
+    "id": "timur-halil-sultan",
+    "order": 2,
+    "name": "Halil Sultan",
+    "title": "Semerkant Hükümdarı",
+    "period": "M.S. 1405 - 1409",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-timur-halil-sultan.jpg",
+    "description": "Timur'un torunu, babasının ölümü sonrası Semerkant'ta hüküm sürdü. Amcası Şahruh ile taht mücadelesine girişti ama yenildi.",
+    "fullBio": "Halil Sultan (1384-1410 civarı), Timur'un torunu ve Timur İmparatorluğu parçalanma döneminin Semerkant hükümdarıdır. Timur'un 1405'teki ölümü üzerine babası Miranşah'ın ölümünden sonra Semerkant üzerinde kontrol sağlamaya çalıştı. Ancak amcası Şahruh'un güçlenmesi karşısında zor durumda kaldı. 1409'da Şahruh tarafından yenilgiye uğratılarak tahttan indirildi. Halil Sultan'ın düşüşü, Timur İmparatorluğu'nda Şahruh'un tek hakimiyetinin başlangıcı oldu.",
+    "legacy": "Timur sonrası taht mücadelelerinin bir figürü, Semerkant'ta Şahruh'a karşı direnen torun.",
+    "achievements": [
+      "Semerkant'ta dört yıl hüküm sürdü"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1405",
+        "title": "Semerkant'ta Kontrol",
+        "description": "Timur'un ölümü sonrası Semerkant üzerinde kontrol sağladı."
+      },
+      {
+        "year": "M.S. 1409",
+        "title": "Şahruh'a Yenilgi",
+        "description": "Amcası Şahruh tarafından yenilgiye uğratılarak tahttan indirildi."
+      }
+    ],
+    "predecessor": "Timur (dedesi)",
+    "successor": "Şahruh Mirza (amcası)",
+    "battles": [
+      {
+        "name": "Semerkant Muharebesi",
+        "year": "M.S. 1409",
+        "result": "defeat",
+        "description": "Şahruh'un ordusu karşısında yenilerek Semerkant'ı kaybetti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Şahruh Mirza",
+        "role": "Amcası / Galip",
+        "description": "Halil Sultan'ı yenerek Semerkant'ı ele geçiren Timur'un oğlu."
+      },
+      {
+        "name": "Miranşah",
+        "role": "Babası",
+        "description": "Timur'un üçüncü oğlu, Bagdad valisi."
+      }
+    ],
+    "quote": {
+      "text": "Dedemin atları Semerkant'ın tozunu kaldırırken, ben aynı tozun içinde kayboldum. Şahruh amcam, bu tahtın gerçek sahibiymiş.",
+      "source": "Halil Sultan, tahttan indirilirken"
+    }
+  },
+  {
+    "id": "timur-pir-muhammed",
+    "order": 3,
+    "name": "Pir Muhammed",
+    "title": "Batı Timur Hükümdarı",
+    "period": "M.S. 1405 - 1407",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-timur-pir-muhammed.jpg",
+    "description": "Timur'un torunu, İsfahan merkezli batı kesimlerinde hüküm sürdü. Amcası Şahruh'un yeniden birleştirme hareketine direndi ama başarısız oldu.",
+    "fullBio": "Pir Muhammed (öl. 1407), Timur'un torunu ve İsfahan merkezli batı Timur topraklarının hükümdarıdır. Timur'un ölümünden sonra İran ve Irak üzerinde kontrolü ele geçirdi. Bağdat merkezli olarak batıda hüküm sürmeye çalıştı ancak amcası Şahruh ve diğer torunlar arasındaki çatışmalarda direnmek zorunda kaldı. 1407'de rakipleri tarafından öldürüldü. Pir Muhammed'in hükümdarlığı, Timur İmparatorluğu'nun parçalanma sürecinin bir parçasıdır.",
+    "legacy": "Timur İmparatorluğu'nun parçalanma sürecinde batıda hüküm süren, kısa ömürlü hükümdar.",
+    "achievements": [
+      "İsfahan ve Bağdat üzerinde kontrol sağladı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1405",
+        "title": "Batıda Kontrol",
+        "description": "Timur'un ölümü sonrası İsfahan ve Bağdat üzerinde kontrol sağladı."
+      },
+      {
+        "year": "M.S. 1407",
+        "title": "Öldürülme",
+        "description": "Rakipleri tarafından öldürüldü, batı Timur toprakları karıştı."
+      }
+    ],
+    "predecessor": "Timur (dedesi)",
+    "successor": "İskender Mirza (torun/kardeşi)",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Şahruh Mirza",
+        "role": "Amcası / Rakip",
+        "description": "İmparatorluğu yeniden birleştirmeye çalışan Timur'un oğlu."
+      }
+    ],
+    "quote": {
+      "text": "Batıda tek başına bir taht, doğuda binlerce kılıç. Bu denge dedem Timur'un ölümüyle bozuldu.",
+      "source": "Pir Muhammed"
+    }
+  },
+  {
+    "id": "timur-sahruh",
+    "order": 4,
+    "name": "Şahruh Mirza",
+    "title": "İmparatorluğu Yeniden Birleştiren - Herat'ın İmarı",
+    "period": "M.S. 1405 - 1447",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-timur-sahruh.jpg",
+    "description": "Timur'un oğlu, 42 yıl hüküm süren, Herat'ı dünya kültür merkezi yapan, Ali Şir Nevai ve Abdurrahman Cami'yi himaye eden en istikrarlı Timur hükümdarı.",
+    "fullBio": "Şahruh Mirza (1377-1447), Timur İmparatorluğu'nun en istikrarlı dönemini yaşatan hükümdardır. Timur'un dördüncü oğlu olarak 1405'te babasının ölümüyle Herat'ta hükümdar oldu. İlk yıllarda kardeşleri ve torunlarıyla taht mücadeleleri yaptı; 1409'da Halil Sultan'ı Semerkant'tan çıkararak tek hakim oldu. 42 yıllık hükümdarlığı boyunca (1405-1447) imparatorluğu yeniden bir araya getirdi. Barışçıl ve adil yönetimiyle dönemi, Türk-İslam medeniyetinin altın çağı oldu. Başkenti Herat'a taşıdı, şehri dünyanın en önemli bilim, sanat ve kültür merkezlerinden biri haline getirdi. Eşi Gevher Şad, Herat'ta ünlü Gevher Şad Camii'ni yaptırdı. Şahruh döneminde Ali Şir Nevai, Abdurrahman Cami, Hafız-ı Ebru, Behzad gibi dehalar yetişti. Oğlu Uluğ Bey'in Semerkant'taki bilim faaliyetlerini destekledi. Timur'un acımasız yöntemlerinden kaçınarak adaletli bir yönetim kurdu.",
+    "legacy": "42 yıllık istikrarlı hükümdarlığıyla Timur İmparatorluğu'nun kültür altın çağını başlatan, Herat'ı dünya kültür merkezi yapan, Türk edebiyatının gelişmesine büyük katkı sağlayan hükümdar.",
+    "achievements": [
+      "42 yıl hüküm sürerek Timur İmparatorluğu'nun en uzun ve en istikrarlı dönemini yarattı",
+      "Herat'ı dünya kültür ve bilim merkezi haline getirdi",
+      "Ali Şir Nevai, Abdurrahman Cami ve Behzad'ı himaye etti",
+      "Uluğ Bey'in Semerkant rasathanesini destekledi",
+      "Eşi Gevher Şad'la birlikte Herat'ta Gevher Şad Külliyesi'ni inşa ettirdi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1405",
+        "title": "Herat'ta Hükümdarlık",
+        "description": "Babası Timur'un ölümü üzerine Herat'ta hükümdar oldu."
+      },
+      {
+        "year": "M.S. 1409",
+        "title": "Tek Hakim Olma",
+        "description": "Halil Sultan'ı Semerkant'tan çıkararak imparatorluğu tek elde topladı."
+      },
+      {
+        "year": "M.S. 1414",
+        "title": "İskender'in Düşürülmesi",
+        "description": "Batıdaki son direnişi de kırarak İmparatorluğu tamamen birleştirdi."
+      },
+      {
+        "year": "M.S. 1420'ler",
+        "title": "Herat'ın Altın Çağı",
+        "description": "Herat, Ali Şir Nevai, Cami ve Behzad'ın eserleriyle dünya kültür merkezi oldu."
+      },
+      {
+        "year": "M.S. 1447",
+        "title": "Şahruh'un Ölümü",
+        "description": "42 yıllık muhteşem hükümdarlığının ardından Herat'ta öldü."
+      }
+    ],
+    "predecessor": "Timur (babası)",
+    "successor": "Uluğ Bey (oğlu)",
+    "battles": [
+      {
+        "name": "Semerkant Muharebesi",
+        "year": "M.S. 1409",
+        "result": "victory",
+        "description": "Halil Sultan'ı yenerek Semerkant'ı ele geçirdi, tek hakim oldu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Gevher Şad",
+        "role": "Eşi / Mimar ve Sanat Hamisi",
+        "description": "Şahruh'un eşi, Gevher Şad Camii ve külliyesini yaptıran, eğitim ve sanata büyük destek veren kadın."
+      },
+      {
+        "name": "Ali Şir Nevai",
+        "role": "Şair / Saray Bürokratı",
+        "description": "Şahruh'un sarayında yetişen, Türkçe edebiyatın en büyük isimlerinden."
+      },
+      {
+        "name": "Abdurrahman Cami",
+        "role": "Şair ve Bilgin",
+        "description": "Şahruh döneminin ünlü Farsça ve Türkçe şairi, dünya çapında üne sahip."
+      }
+    ],
+    "quote": {
+      "text": "Babam Timur, kılıcıyla dünyayı fethetti. Ben ise kalemle, merhametle ve Herat'ın sarayında yetiştirdiğim bilginlerle bu dünyayı yaşanabilir kılmaya çalıştım. İmparatorluk kılıçla kurulur, ama kalemle yaşatılır.",
+      "source": "Şahruh Mirza"
+    }
+  },
+  {
+    "id": "timur-iskender",
+    "order": 5,
+    "name": "İskender Mirza",
+    "title": "İsfahan Hükümdarı",
+    "period": "M.S. 1409 - 1414",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-timur-iskender.jpg",
+    "description": "Timur'un torunu, İsfahan merkezli batıda hüküm sürdü. Amcası Şahruh tarafından yenilerek batı Timur toprakları birleştirildi.",
+    "fullBio": "İskender Mirza (öl. 1414), Timur'un torunu ve Pir Muhammed'in ardından İsfahan merkezli batı kesimlerinin hükümdarıdır. 1409'da Pir Muhammed'in ölümü üzerine batıda kontrolü ele geçirdi. İskender, İsfahan merkezli olarak hüküm sürmeye çalıştı ancak amcası Şahruh'un yeniden birleştirme politikası karşısında direnebildi. 1414'te Şahruh tarafından yenilgiye uğratıldı. İskender'in düşüşüyle batıdaki Timur toprakları Şahruh'un kontrolüne girdi ve İmparatorluk neredeyse tamamen yeniden birleştirildi.",
+    "legacy": "Şahruh'un İmparatorluğu yeniden birleştirmesinde son engel olarak tarihe geçen batı hükümdarı.",
+    "achievements": [
+      "Timur İmparatorluğu hükümdarı olarak tahtta bulundu",
+      "Bölgesel yönetimde aktif rol aldı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1409",
+        "title": "Batıda Hükümdarlık",
+        "description": "Pir Muhammed'in ölümüyle İsfahan merkezli batıda kontrolü ele geçirdi."
+      },
+      {
+        "year": "M.S. 1414",
+        "title": "Şahruh'a Yenilgi",
+        "description": "Amcası Şahruh tarafından yenilerek tahttan indirildi."
+      }
+    ],
+    "predecessor": "Pir Muhammed",
+    "successor": "Muhammed Cuki (torun/kardeşi)",
+    "battles": [
+      {
+        "name": "İsfahan Muharebesi",
+        "year": "M.S. 1414",
+        "result": "defeat",
+        "description": "Şahruh'un ordusu karşısında yenilerek İsfahan'ı kaybetti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Şahruh Mirza",
+        "role": "Amcası / Galip",
+        "description": "İskender'i yenerek batıyı kontrolü altına alan Timur'un oğlu."
+      }
+    ],
+    "quote": {
+      "text": "İsfahan'ın güzel bahçelerinde hüküm sürdüm, ama bu bahçelerin duvarları amcam Şahruh'un ordularına dayanamadı.",
+      "source": "İskender Mirza"
+    }
+  },
+  {
+    "id": "timur-ulug-bey",
+    "order": 6,
+    "name": "Uluğ Bey",
+    "title": "Astronom Hükümdar - Semerkant'ın Bilim Güneşi",
+    "period": "M.S. 1411 - 1449",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-timur-ulug-bey.jpg",
+    "description": "Timur'un torunu, Semerkant rasathanesinin kurucusu, 'Zic-i Uluğ Bey' yıldız cetvelinin hazırlatıcısı, dünya tarihinin en büyük Müslüman astronomlarından. 1447-1449'da imparatorluk tahtında kısa süre kaldı.",
+    "fullBio": "Uluğ Bey (Mirza Muhammed Taragay) (1394-1449), dünya tarihinin en büyük Müslüman astronomlarından biridir. Timur'un torunu, Şahruh'un büyük oğludur. 1411'den itibaren Semerkant valisi olarak bilimsel çalışmalara başladı. 1420'lerde Semerkant'ta dünyanın en gelişmiş rasathanesini kurdu. 'Zic-i Uluğ Bey' (Uluğ Bey Yıldız Cetveli), 1018 yıldızın pozisyonunu kaydeden bu eser Ortaçağ İslam astronomisinin zirvesidir. Trigonometri alanında sinüs ve tanjant cetvellerini yeniden hesaplattı, yıldız pozisyonlarının hassasiyeti Avrupalı bilim insanlarını şaşırttı. Babası Şahruh'un 1447'deki ölümüyle iki yıl için imparatorluk tahtına geçti. Ancak oğlu Abdüllatif tarafından 1449'da devirilerek öldürüldü. Uluğ Bey'in ölümü, Semerkant bilim altın çağının sonu oldu.",
+    "legacy": "Dünya tarihinin en büyük Müslüman astronomlarından, Semerkant'ı bilim merkezi yapan, 'Zic-i Uluğ Bey' ile gök bilimine eşsiz katkı sağlayan bilim insanı hükümdar.",
+    "achievements": [
+      "Semerkant'ta dünyanın en gelişmiş rasathanesini kurdu (1420'ler)",
+      "'Zic-i Uluğ Bey' yıldız cetvelini hazırlattı, 1018 yıldızın pozisyonunu kaydetti",
+      "Trigonometri cetvellerini yeniden hesaplattı, hassasiyet rekoru kırdı",
+      "Ali Kuşçu, Kadızade-i Rumi gibi büyük bilim insanlarını yetiştirdi",
+      "Semerkant'ı İslam biliminin merkezi haline getirdi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1411",
+        "title": "Semerkant Valiliği",
+        "description": "Timur'un torunu olarak Semerkant valisi oldu, bilimsel çalışmalara başladı."
+      },
+      {
+        "year": "M.S. 1420'ler",
+        "title": "Rasathane Kuruluşu",
+        "description": "Semerkant'ta dev rasathane kurdu, gök bilimcileri yetiştirdi."
+      },
+      {
+        "year": "M.S. 1437",
+        "title": "Yıldız Cetveli Tamamlandı",
+        "description": "'Zic-i Uluğ Bey' tamamlandı, dünya bilim tarihine geçti."
+      },
+      {
+        "year": "M.S. 1447",
+        "title": "İmparatorluk Tahtı",
+        "description": "Babası Şahruh'un ölümüyle kısa süreliğine imparator oldu."
+      },
+      {
+        "year": "M.S. 1449",
+        "title": "Öldürülme",
+        "description": "Oğlu Abdüllatif tarafından devirilerek öldürüldü."
+      }
+    ],
+    "predecessor": "Şahruh Mirza (babası)",
+    "successor": "Abdüllatif (oğlu) - sonrası Babür Mirza",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Ali Kuşçu",
+        "role": "Astronom ve Matematikçi",
+        "description": "Uluğ Bey'in rasathanesinde çalışan, Fatih Sultan Mehmet'in davetiyle İstanbul'a gelen ünlü bilim insanı."
+      },
+      {
+        "name": "Kadızade-i Rumi",
+        "role": "Matematikçi",
+        "description": "Uluğ Bey'in hocası ve rasathane başmatematikçisi."
+      },
+      {
+        "name": "Şahruh Mirza",
+        "role": "Babası / Destekçi",
+        "description": "Uluğ Bey'in bilimsel çalışmalarını maddi ve manevi olarak destekleyen baba."
+      }
+    ],
+    "quote": {
+      "text": "Göklerin sırlarını çözmek, dünyanın tahtından daha değerlidir. Ben bir hükümdar olarak tahtta oturdum, ama gerçek tahtım, Semerkant rasathanesindeki gözlem kulesiydi.",
+      "source": "Uluğ Bey"
+    }
+  },
+  {
+    "id": "timur-muhammed-cuki",
+    "order": 7,
+    "name": "Muhammed Cuki",
+    "title": "Son Batı Direnişi",
+    "period": "M.S. 1414 - 1421",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-timur-muhammed-cuki.jpg",
+    "description": "Timur'un torunu, İskender Mirza'nın ardından batıda direnişi sürdürdü. Şahruh tarafından yenilerek Timur İmparatorluğu yeniden birleştirildi.",
+    "fullBio": "Muhammed Cuki (öl. 1421), Timur'un torunu ve İskender Mirza'nın düşüşünden sonra batı kesimlerindeki son direnişin lideridir. 1414'te İskender'in yenilgisi üzerine batıda kontrolü ele geçirdi. Şahruh'a karşı direnmeye çalıştı ancak 1421'de Şahruh tarafından yenilgiye uğratıldı. Muhammed Cuki'nin düşüşüyle batıdaki Timur toprakları tamamen Şahruh'un kontrolüne girdi. Bu durum, Şahruh'un İmparatorluğu neredeyse tamamen yeniden birleştirmesi anlamına geldi.",
+    "legacy": "Şahruh'un İmparatorluğu yeniden birleştirmesindeki son batı direnişinin lideri.",
+    "achievements": [
+      "Timur hanedan üyesi",
+      "Siyasi mücadelelerde yer aldı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1414",
+        "title": "Batıda Direniş",
+        "description": "İskender Mirza'nın düşüşü üzerine batıda kontrolü ele geçirdi."
+      },
+      {
+        "year": "M.S. 1421",
+        "title": "Son Yenilgi",
+        "description": "Şahruh tarafından yenilerek batı direnişi sona erdi."
+      }
+    ],
+    "predecessor": "İskender Mirza",
+    "successor": "Şahruh Mirza (amcası - birleştirme)",
+    "battles": [
+      {
+        "name": "Batı Muharebesi",
+        "year": "M.S. 1421",
+        "result": "defeat",
+        "description": "Şahruh'un ordusu karşısında yenilerek batı direnişi sona erdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Şahruh Mirza",
+        "role": "Amcası / Galip",
+        "description": "Muhammed Cuki'yi yenerek İmparatorluğu tamamen birleştiren."
+      }
+    ],
+    "quote": {
+      "text": "İskender düştü, ben ayağa kalktım. Ama bu ayağa kalkış, Şahruh amcamın gölgesinde bir gün batıya doğru eğildi.",
+      "source": "Muhammed Cuki"
+    }
+  },
+  {
+    "id": "timur-babur-mirza",
+    "order": 8,
+    "name": "Babür Mirza",
+    "title": "Semerkant Hükümdarı",
+    "period": "M.S. 1449 - 1457",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-timur-babur-mirza.jpg",
+    "description": "Uluğ Bey'in ölümünden sonra Semerkant'ta hüküm süren, imparatorluğun parçalanmaya başladığı dönemin hükümdarı. Aynı isimli Hindistan fatihi Babür'le karıştırılmamalıdır.",
+    "fullBio": "Babür Mirza (öl. 1457), Uluğ Bey sonrası Semerkant hükümdarıdır. Uluğ Bey'in oğlu Abdüllatif'in kısa hükümdarlığından sonra Semerkant'ta hüküm sürdü. Döneminde imparatorluk hızla parçalanmaya başladı; Karahanlık boyu güçlenerek bağımsız hareket etmeye başladı, Horasan ve Harezm'de yerel hanlıklar ortaya çıktı. Babür, Semerkant ve çevresinde otoriteyi sürdürmeye çalıştı ancak imparatorluğun birleşik yapısını koruyamadı. 1457'de öldü. Babür'ün hükümdarlığı, Timur İmparatorluğu'nun çözülme sürecinin başlangıcıdır. Not: Bu Babür Mirza, 1500'lerde Hindistan'ı fetheden Babür İmparatorluğu kurucusu Babür Şah ile karıştırılmamalıdır.",
+    "legacy": "Timur İmparatorluğu'nun çözülme sürecinde Semerkant'ta hüküm süren hükümdar. (Aynı adlı Hindistan fatihi Babür'den farklıdır.)",
+    "achievements": [
+      "Semerkant'ta sekiz yıl otoriteyi sürdürdü"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1449",
+        "title": "Semerkant'ta Hükümdarlık",
+        "description": "Uluğ Bey'in ölümü sonrası Semerkant'ta kontrol sağladı."
+      },
+      {
+        "year": "M.S. 1450'ler",
+        "title": "Parçalanma Başlangıcı",
+        "description": "İmparatorluk hızla parçalanmaya başladı, yerel hanlıklar ortaya çıktı."
+      },
+      {
+        "year": "M.S. 1457",
+        "title": "Ölüm",
+        "description": "İmparatorluğun çözülme sürecinde öldü."
+      }
+    ],
+    "predecessor": "Uluğ Bey / Abdüllatif",
+    "successor": "Sultan Ahmed",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Uluğ Bey",
+        "role": "Önceki Hükümdar",
+        "description": "Semerkant'ın bilim merkezi haline getiren, Babür Mirza'dan önceki hükümdar."
+      }
+    ],
+    "quote": {
+      "text": "Dedem Uluğ Bey gökleri gözledi, ben ise dünyanın dört bir yanından gelen parçalanma haberlerini. Semerkant'ın rasathanesi hâlâ ayakta, ama bu tahtın ayakları titriyor.",
+      "source": "Babür Mirza"
+    }
+  },
+  {
+    "id": "timur-sultan-ahmed",
+    "order": 9,
+    "name": "Sultan Ahmed",
+    "title": "Semerkant Hükümdarı",
+    "period": "M.S. 1457 - 1459",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-timur-sultan-ahmed.jpg",
+    "description": "İki yıl Semerkant'ta hüküm süren, fiilen imparatorluğun sona erdiği dönemin hükümdarı. Kontrolü sadece Semerkant çevresiyle sınırlı kaldı.",
+    "fullBio": "Sultan Ahmed (öl. 1459), Babür Mirza'nın ardından Semerkant'ta iki yıl hüküm süren Timur hükümdarıdır. 1457'de tahta çıktığında imparatorluk artık fiilen beyliklere bölünmüş durumdaydı. Sultan Ahmed, Semerkant üzerindeki kontrolü korumaya çalıştı ancak 1459'da öldü. Sultan Ahmed'in hükümdarlığı, Timur İmparatorluğu'nun fiilen sona erdiği dönemin bir parçasıdır.",
+    "legacy": "İmparatorluğun fiilen sona erdiği dönemde Semerkant'ta son hakimiyetini sürdüren hükümdar.",
+    "achievements": [
+      "Timur İmparatorluğu hükümdarı olarak hükümdarlık yaptı",
+      "Devlet yönetiminde bulundu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1457",
+        "title": "Tahta Çıkış",
+        "description": "Babür Mirza'nın ölümüyle Semerkant'ta hükümdar oldu."
+      },
+      {
+        "year": "M.S. 1459",
+        "title": "Ölüm",
+        "description": "İki yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Babür Mirza",
+    "successor": "Mahmud",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Semerkant'ın surları hâlâ ayakta, ama surların ötesinde artık Timur'un torunlarının sözü geçmiyor. Ben bir şehir hükümdarı olarak tahtta oturuyorum, imparator değil.",
+      "source": "Sultan Ahmed"
+    }
+  },
+  {
+    "id": "timur-mahmud",
+    "order": 10,
+    "name": "Mahmud",
+    "title": "Son Resmi Timur İmparatoru",
+    "period": "M.S. 1459",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-timur-mahmud.jpg",
+    "description": "1459'da bir yıldan az süreyle Semerkant'ta hüküm süren, resmi olarak son Timur imparatoru. Kontrolü sadece Semerkant çevresiyle sınırlıydı.",
+    "fullBio": "Mahmud (öl. 1459 civarı), 1459 yılında bir yıldan az süreyle Semerkant'ta hüküm süren, resmi olarak Timur İmparatorluğu'nun son imparatorudur. Sultan Ahmed'in ölümünden sonra tahta çıktı ancak kontrolü sadece Semerkant çevresiyle sınırlı kaldı. 1459'da Hüseyin Baykara tarafından devirildi. Mahmud'un düşüşü, Timur İmparatorluğu'nun resmen sona erdiği tarih olarak kabul edilir. Ancak Timur'un torunlarından biri olan Babür Şah, 1500'lerde Hindistan'a yönelerek 1526'da Babür İmparatorluğu'nu kurdu ve böylece Timur hanedanı farklı bir coğrafyada varlığını sürdürdü.",
+    "legacy": "Resmi olarak son Timur imparatoru, ama fiilen Semerkant beylik hükümdarı. Timur hanedanının Hindistan'daki devamı Babür İmparatorluğu'na zemin hazırladı.",
+    "achievements": [
+      "Resmi olarak son Timur İmparatoru (1459)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1459",
+        "title": "Son Hükümdarlık",
+        "description": "Sultan Ahmed'in ölümüyle Semerkant'ta son hükümdar olarak tahta çıktı."
+      },
+      {
+        "year": "M.S. 1459",
+        "title": "Resmen İmparatorluğun Sonu",
+        "description": "Hüseyin Baykara tarafından devirilerek Timur İmparatorluğu resmen sona erdi."
+      }
+    ],
+    "predecessor": "Sultan Ahmed",
+    "successor": "Hüseyin Baykara (Herat hattı)",
+    "battles": [
+      {
+        "name": "Semerkant Muharebesi",
+        "year": "M.S. 1459",
+        "result": "defeat",
+        "description": "Hüseyin Baykara tarafından yenilerek Semerkant'ı kaybetti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Hüseyin Baykara",
+        "role": "Galip / Herat Hükümdarı",
+        "description": "Mahmud'u yenerek Semerkant'ı ele geçiren, Herat merkezli son büyük Timur hükümdarı."
+      }
+    ],
+    "quote": {
+      "text": "Timur'un imparatorluğu, benimle birlikte Semerkant'ın surlarının ardına hapsoldu. Bir yıl içinde o surlar da yıkıldı. Ama bu hanedan, Hindistan'da Babür'ün kanında yeniden doğacaktı.",
+      "source": "Mahmud, son günlerinde"
+    }
+  },
+  {
+    "id": "timur-huseyin-baykara",
+    "order": 11,
+    "name": "Hüseyin Baykara",
+    "title": "Herat'ın Rönesans Prensi",
+    "period": "M.S. 1469 - 1506",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-huseyin-baykara.jpg",
+    "description": "Timur'un torunu, 37 yıl Herat'ta hüküm süren, Ali Şir Nevai ve Behzad'ı himaye eden, Türk edebiyatı ve minyatür sanatının son altın çağını yaşatan son büyük Timur hükümdarı.",
+    "fullBio": "Hüseyin Baykara (1438-1506), Timur İmparatorluğu'nun doğu bölgesinin son büyük hükümdarıdır. Timur'un torunlarından olan Hüseyin Baykara, genç yaşta tahta çıkmış, 37 yıl boyunca (1469-1506) Herat'ı başkent olarak başarıyla yönetmiştir. Hükümdarlığı döneminde Herat yeniden dünyanın en önemli kültür ve sanat merkezlerinden biri haline geldi. Sarayında Ali Şir Nevai, Behzad, Mevlana Abdurrahman Cami gibi dehalar yetişti. Hüseyin Baykara kendisi de yetenekli bir şair, müzisyen ve ressamdı. Devlet yönetiminde adaletli bir sistem kurmuş, vergileri düşürmüş, ticareti teşvik etmiştir. Moğol istilalarından sonra harap olan şehirleri yeniden inşa ettirmiştir. Ali Şir Nevai, Hüseyin Baykara döneminde Türkçe edebiyatın zirvesine ulaşmış, 'Muhakemetü'l-Lügateyn' (İki Dilin Mukayesesi) gibi eserlerle Türkçenin Farsçadan üstün olduğunu savunmuştur. Behzad ise minyatür sanatının en büyük ustası olarak kabul edilir. Hüseyin Baykara'nın 1506'daki ölümünden sonra Herat Özbek akınları sonucu çökmüştür.",
+    "legacy": "Timur hanedanının son büyük hükümdarı, himayesinde gelişen Türk edebiyatı ve minyatür sanatı dünya kültür mirasının en değerli parçaları arasındadır. Ali Şir Nevai ve Behzad'ın hamisi.",
+    "achievements": [
+      "37 yıl Herat'ta istikrarlı ve başarılı bir hükümdarlık yaptı",
+      "Ali Şir Nevai, Behzad ve Cami'yi himaye ederek Türk-İslam medeniyetinin son altın çağını yaşattı",
+      "Kendisi yetenekli şair, müzisyen ve ressamdı",
+      "Herat'ı dünya kültür merkezi haline getirdi",
+      "Vergileri düşürüp ticareti teşvik ederek ekonomik refah sağladı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1469",
+        "title": "Herat'ta Hükümdarlık",
+        "description": "Herat'ta hükümdar oldu."
+      },
+      {
+        "year": "M.S. 1475-1480",
+        "title": "Ali Şir Nevai Sarayda",
+        "description": "Ali Şir Nevai sarayda görev almaya başladı, Türkçe edebiyatın zirvesi geldi."
+      },
+      {
+        "year": "M.S. 1480'ler",
+        "title": "Behzad Dönemi",
+        "description": "Minyatür ustası Behzad saray atölyesinde çalışmaya başladı, minyatür sanatı zirveye ulaştı."
+      },
+      {
+        "year": "M.S. 1506",
+        "title": "Hüseyin Baykara'nın Ölümü",
+        "description": "37 yıllık muhteşem hükümdarlığının ardından Herat'ta öldü."
+      }
+    ],
+    "predecessor": "Şahruh Mirza (soy hattı)",
+    "successor": "Badiüzzaman Mirza (oğlu)",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Ali Şir Nevai",
+        "role": "Şair / Devlet Adamı",
+        "description": "Hüseyin Baykara'nın sarayında yetişen, Türkçe edebiyatın en büyük ismi, 'Muhakemetü'l-Lügateyn' yazarı."
+      },
+      {
+        "name": "Behzad",
+        "role": "Minyatür Ustası",
+        "description": "Dünya minyatür sanatının en büyük ustası, Hüseyin Baykara saray atölyesinin en değerli sanatçısı."
+      },
+      {
+        "name": "Mevlana Abdurrahman Cami",
+        "role": "Şair / Bilgin",
+        "description": "Hüseyin Baykara döneminin ünlü şairi, Farsça ve Türkçe eserler verdi."
+      }
+    ],
+    "quote": {
+      "text": "Bir hükümdar, halkının refahı için çalışmazsa tahtta oturmaya hakkı yoktur. Ben tahtta oturdum, ama asıl gururum Ali Şir Nevai'nin kaleminden ve Behzad'ın fırçasından çıkan eserlerdir.",
+      "source": "Hüseyin Baykara"
+    }
+  },
+  {
+    "id": "timur-badiuzzaman",
+    "order": 12,
+    "name": "Badiüzzaman Mirza",
+    "title": "Son Bağımsız Timurlu",
+    "period": "M.S. 1506 - 1507",
+    "dynasty": "Timur İmparatorluğu",
+    "dynastyId": "timur",
+    "era": "Orta Çağ",
+    "image": "/images/huk-timur-badiuzzaman.jpg",
+    "description": "Hüseyin Baykara'nın oğlu, Timur hanedanının son bağımsız hükümdarı. Sadece bir yıl Herat'ta hüküm sürdü, sonra Babür tarafından devirildi.",
+    "fullBio": "Badiüzzaman Mirza (öl. 1507 civarı), Hüseyin Baykara'nın oğlu ve Timur hanedanının son bağımsız hükümdarıdır. 1506'da babasının ölümüyle Herat'ta tahta çıktı ancak kontrolü çok zayıftı. 1507'de Timur'un uzak torunu olan Şehzade Babür tarafından devirildi, Herat Babür'ün kontrolüne girdi. Badiüzzaman'ın düşüşü, İran ve Orta Asya'daki Timur hanedanlığının son bağımsız hükümdarının sonu oldu. Babür daha sonra Hindistan'a yönelerek 1526'da Babür İmparatorluğu'nu kurdu ve Timur hanedanı yüzyıllarca Hindistan'da varlığını sürdürdü.",
+    "legacy": "Timur hanedanının İran ve Orta Asya'daki son bağımsız hükümdarı. Ardından hanedan Hindistan'da Babür İmparatorluğu olarak yaşamaya devam etti.",
+    "achievements": [
+      "Timur hanedanının son bağımsız hükümdarı (1506-1507)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1506",
+        "title": "Tahta Çıkış",
+        "description": "Babası Hüseyin Baykara'nın ölümüyle Herat'ta hükümdar oldu."
+      },
+      {
+        "year": "M.S. 1507",
+        "title": "Devirilme",
+        "description": "Şehzade Babür tarafından devirildi, Timur hanedanı bağımsızlığını kaybetti."
+      }
+    ],
+    "predecessor": "Hüseyin Baykara (babası)",
+    "successor": "Babür Şah (uzak akraba / işgalci)",
+    "battles": [
+      {
+        "name": "Herat Muharebesi",
+        "year": "M.S. 1507",
+        "result": "defeat",
+        "description": "Babür tarafından yenilerek Herat'ı kaybetti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Hüseyin Baykara",
+        "role": "Babası",
+        "description": "Timur hanedanının son büyük hükümdarı, Badiüzzaman'ın babası."
+      },
+      {
+        "name": "Babür Şah",
+        "role": "Galip / Uzak Akraba",
+        "description": "Badiüzzaman'ı devirerek Herat'ı alan, sonra Hindistan'da Babür İmparatorluğu'nu kuracak olan Timur torunu."
+      }
+    ],
+    "quote": {
+      "text": "Babamın 37 yıllık altın çağı, benimle birlikte bir yılda toz oldu. Babür, aynı kanın taşıyıcısı olarak beni devirdi. Ama bu kan, Hindistan'da yeni bir imparatorluk doğuracak.",
+      "source": "Badiüzzaman Mirza"
+    }
+  }
+]

@@ -1,0 +1,598 @@
+[
+  {
+    "id": "karaman-karaman",
+    "order": 1,
+    "name": "Karaman Bey",
+    "title": "Karamanoğlu Beyliği Kurucusu",
+    "period": "1250 - 1261",
+    "dynasty": "Karamanoğulları",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-karaman.jpg",
+    "description": "Karaman Beyliği'nin kurucusu. Konya ve çevresinde bağımsız beylik kurdu.",
+    "fullBio": "Karaman Bey (ö. 1261), Karamanoğlu Beyliği'nin kurucusu ve ilk hükümdarıdır. 1250 yılında Konya ve çevresinde kendi beylığini kurmuştur. Selçuklu otoritesinin zayıflamasından yararlanarak Larende (Karaman)'yi merkez yapmıştır. 1261'de ölmüştür.",
+    "legacy": "Anadolu'da Osmanlı'nın en büyük rakibi olacak beylik kurucusu.",
+    "achievements": [
+      "Karamanoğlu Beyliği'ni kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1250",
+        "title": "Beylik Kuruluşu",
+        "description": "Larende'de Karamanoğlu Beyliği'ni kurdu."
+      }
+    ],
+    "predecessor": "Karamanoğlu Mahmut Bey",
+    "successor": "I. Mahmut Bey",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Mevlana Celaleddin Rumi",
+        "role": "Mutasavvıf",
+        "description": "Karamanoğulları döneminde Konya'da yaşamış, eserleriyle tüm Anadolu'yu etkilemiştir."
+      }
+    ],
+    "quote": {
+      "text": "Karaman Bey, Karamanoğulları'nın tahtta oturan bir hükümdarıydı. Konya'dan Akdeniz'e uzanan bu topraklarda Türk beylik geleneği yaşatıldı.",
+      "source": "Karaman Bey"
+    }
+  },
+  {
+    "id": "karaman-mahmut1",
+    "order": 2,
+    "name": "I. Mahmut Bey",
+    "title": "Karamanoğlu Beyi",
+    "period": "1261 - 1277",
+    "dynasty": "Karamanoğulları",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-mahmut1.jpg",
+    "description": "Türkçeyi resmi dil yapan, Karamanlıların en önemli beylerinden biri.",
+    "fullBio": "I. Mahmut Bey (ö. 1277), Karamanoğlu Beyliği'nin önemli hükümdarlarından biridir. 1261'de babası Karaman Bey'in ölümünden sonra tahta çıkmıştır. 1277 yılında Konya'da Türkçeyi resmi dil ilan ederek tarihi bir karar almıştır. Bu olay, Türk dil tarihinin dönüm noktalarından biridir. İlbeyi'nde Mısırlılar'ı yenmiş ancak savaşta hayatını kaybetmiştir.",
+    "legacy": "Türkçeyi resmi dil yapan ilk Türk hükümdarı olarak dil tarihinde önemli bir yere sahip.",
+    "achievements": [
+      "Türkçeyi resmi dil yapma (1277)"
+    ],
+    "keyEvents": [
+      {
+        "year": "1277",
+        "title": "Türkçe Resmi Dil",
+        "description": "Konya'da Türkçeyi resmi dil ilan etti."
+      }
+    ],
+    "predecessor": "Karaman Bey",
+    "successor": "Güneyi Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Babamın kurduğu bu beylığı güçlendirdim. Karamanoğulları, artık Anadolu'nun en güçlü beyliklerinden biridir.",
+      "source": "I. Mahmut Bey"
+    }
+  },
+  {
+    "id": "karaman-mehmet-bey",
+    "order": 3,
+    "name": "Karamanoğlu Mehmet Bey",
+    "title": "Türkçeyi Resmi Dil Yapan Hükümdar",
+    "period": "1277 - 1300",
+    "dynasty": "Karamanoğulları",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-mehmet.jpg",
+    "description": "1277'de Türkçeyi resmi dil ve devlet dili ilan eden tarihi kararı veren Karamanoğlu hükümdarı. Moğol veziirlerine karşı direnişiyle tanınır.",
+    "fullBio": "Karamanoğlu Mehmet Bey, 13. yüzyılın ortalarında hüküm sürmüş, Karamanoğulları Beyliği'nin en önemli hükümdarlarından biri ve Türk dilinin Anadolu'da resmi dil olmasının öncüsüdür. Babası Karaman Bey'in kurduğu beylik geliştirerek Anadolu'nun en güçlü Türk beyliklerinden biri haline getirmiştir. 1277 yılında önemli bir kararname yayınlayarak devlet dairesinde Türkçe'nin resmi dil olarak kullanılmasını emretmiştir. Bu kararname, Türk dilinin tarihinde bir dönüm noktasıdır ve 'Bundan sonra bu dairede ne Farsça, ne Arapça, ne başka dil konuşulacak, Türkçe konuşulacaktır' şeklinde ünlü bir girişe sahiptir. Mehmet Bey döneminde Karamanoğulları toprakları, Konya'dan Akdeniz'e, Kayseri'den Antalya'ya kadar genişlemiştir. 1277 yılında Mısır Meliki Baybars'ın desteğiyle Konya'yı ele geçirerek kısa bir süre Anadolu Selçuklu tahtına oturmuştur. Ancak Moğol baskısı ve iç muhalefet sonucu bu başarı uzun sürememiştir. Karamanoğlu Mehmet Bey'in Türkçe'yi resmi dil yapması, Anadolu Türk kimliğinin şekillenmesinde belirleyici bir adımdır.",
+    "legacy": "Karamanoğlu Mehmet Bey, Türk dil tarihinin en önemli hükümdarlarından biridir. Türkçeyi resmi dil ilan etmesi, Anadolu'da Türk kültürünün ve dilinin yaygınlaşmasında dönüm noktası olmuştur. Bu karar, günümüz Türkçesinin temellerinin atılmasında kritik bir rol oynamıştır.",
+    "achievements": [
+      "Türkçeyi resmi devlet dili ilan etme (1277)",
+      "Konya'yı ele geçirme",
+      "Moğol hakimiyetine karşı direniş"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1277",
+        "title": "Türkçe Resmi Dil",
+        "description": "Türkçeyi devletin resmi dili ilan eden tarihi fermanı yayınladı."
+      },
+      {
+        "year": "M.S. 1277",
+        "title": "Konya'nın Fethi",
+        "description": "Konya'yı ele geçirerek Anadolu Selçuklu tahtına göz koydu."
+      }
+    ],
+    "predecessor": "Karaman Bey",
+    "successor": "Karamanoğlu İbrahim Bey",
+    "quote": {
+      "text": "Bundan böyle divanda, dergâhta, bargâhta, mecliste ve seyirde Türkçeden başka dil kullanılmayacaktır.",
+      "source": "Karamanoğlu Mehmet Bey Fermanı (1277)"
+    },
+    "battles": [
+      {
+        "name": "Konya'nın Fethi",
+        "year": "M.S. 1277",
+        "result": "victory",
+        "description": "Konya'yı ele geçirerek Anadolu Selçuklu tahtına göz koydu."
+      }
+    ],
+    "relatedPeople": []
+  },
+  {
+    "id": "karaman-guneyi",
+    "order": 4,
+    "name": "Güneyi Bey",
+    "title": "Karamanoğlu Beyi",
+    "period": "1300 - 1308",
+    "dynasty": "Karamanoğulları",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-guneyi.jpg",
+    "description": "Karamanoğlu Beyliği'nin en güçlü dönemlerinden birini yaşatan hükümdar.",
+    "fullBio": "Güneyi Bey (ö. 1308), Karamanoğlu Beyliği'nin önemli hükümdarlarından biridir. 1300-1308 yılları arasında hüküm sürmüştür. Döneminde Karamanoğlu Beyliği en geniş sınırlarına ulaşmış, Konya, Kayseri ve çevresinde hakimiyet kurmuştur. 1308'de ölmüştür.",
+    "legacy": "Karamanoğlu Beyliği'nin en güçlü dönemlerini yaşatan hükümdar.",
+    "achievements": [
+      "Beyliğin sınırlarını genişletme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1300",
+        "title": "Güneyi Bey'ın Karamanoğlu Beyi olarak dönemi başladı",
+        "description": "Güneyi Bey, Karamanoğlu Beyi unvanıyla hükümdarlık dönemine başladı."
+      }
+    ],
+    "predecessor": "I. Mahmut Bey",
+    "successor": "Hanedan sona erdi / Bilinmiyor",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Güneyi Bey, Selçuklu ve Osmanlı arasında denge politikası yürüttü. Karamanoğulları, Anadolu'nun en eski beylik geleneğini temsil eder.",
+      "source": "Güneyi Bey"
+    }
+  },
+  {
+    "id": "karaman-yusuf",
+    "order": 5,
+    "name": "Yusuf Bey",
+    "title": "Karamanoğlu Beyi",
+    "period": "1318 - 1330",
+    "dynasty": "Karamanoğulları Beyliği",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-yusuf.jpg",
+    "description": "Karamanoğulları beyi oldu.",
+    "fullBio": "Yusuf Bey, M.S. 1318-1330 yılları arasında on iki yıl hüküm sürmüş, Karamanoğulları Beyliği'nin beşinci beyidir. Hükümdarlığı döneminde Karamanoğulları, Eşrefoğulları ve Menteşe Beyliği gibi diğer Anadolu beylikleriyle mücadele etmiş, batıda genişlemeye çalışmıştır. Yusuf Bey döneminde Karamanoğulları'nın Antalya çevresindeki kontrolü güçlenmiştir. 1330 yılında ölmüştür.",
+    "legacy": "Karamanoğulları'nın batıda genişlemeye çalıştığı dönemin beyi.",
+    "achievements": [
+      "Antalya çevresindeki kontrolü güçlendirme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1318",
+        "title": "Tahta Çıkış",
+        "description": "Karamanoğulları beyi oldu."
+      },
+      {
+        "year": "1330",
+        "title": "Ölüm",
+        "description": "On iki yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Mahmut Bey",
+    "successor": "Halil Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Yusuf Bey döneminde Karamanoğulları, Osmanlı'nın yükselişine karşı direniş gösterdi. Konya, bizim kutsal şehrimizdir.",
+      "source": "Yusuf Bey"
+    }
+  },
+  {
+    "id": "karaman-halil",
+    "order": 6,
+    "name": "Halil Bey",
+    "title": "Karamanoğlu Beyi",
+    "period": "1330 - 1332",
+    "dynasty": "Karamanoğulları Beyliği",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-halil.jpg",
+    "description": "Kısa süreli hükümdarlık başladı.",
+    "fullBio": "Halil Bey, M.S. 1330-1332 yılları arasında iki yıl hüküm sürmüş, Karamanoğulları Beyliği'nin altıncı beyidir. Yusuf Bey'in ardından tahta çıkmış, ancak hükümdarlığı kısa sürmüştür. 1332 yılında ölmüştür.",
+    "legacy": "Karamanoğulları'nın kısa süreli beylerinden biri.",
+    "achievements": [
+      "Karamanoğlu Beyi"
+    ],
+    "keyEvents": [
+      {
+        "year": "1330",
+        "title": "Tahta Çıkış",
+        "description": "Kısa süreli hükümdarlık başladı."
+      },
+      {
+        "year": "1332",
+        "title": "Ölüm",
+        "description": "İki yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Yusuf Bey",
+    "successor": "Ahmet Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Halil Bey döneminde Karamanoğulları, Osmanlı'nın yükselişine karşı ittifaklar aradı. Ama Karaman'ın dağları bile bu fırtınaya dayanamadı.",
+      "source": "Halil Bey"
+    }
+  },
+  {
+    "id": "karaman-ahmet",
+    "order": 7,
+    "name": "Ahmet Bey",
+    "title": "Karamanoğlu Beyi",
+    "period": "1332 - 1350",
+    "dynasty": "Karamanoğulları Beyliği",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-ahmet.jpg",
+    "description": "On sekiz yıl süren hükümdarlığı başladı.",
+    "fullBio": "Ahmet Bey, M.S. 1332-1350 yılları arasında on sekiz yıl hüküm sürmüş, Karamanoğulları Beyliği'nin yedinci beyidir. Halil Bey'in ardından tahta çıkmış, Karamanoğulları'nın gücünü artırmaya çalışmıştır. Ahmet Bey döneminde, Osmanlı Beyliği'nin Anadolu'daki etkisi artmaya başlamış, Karamanoğulları ile Osmanlılar arasındaki rekabet başlamıştır. 1350 yılında ölmüştür.",
+    "legacy": "Osmanlı-Karaman rekabetinin başladığı dönemde hüküm süren bey.",
+    "achievements": [
+      "Karamanoğulları gücünü sürdürme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1332",
+        "title": "Tahta Çıkış",
+        "description": "On sekiz yıl süren hükümdarlığı başladı."
+      },
+      {
+        "year": "1350",
+        "title": "Ölüm",
+        "description": "On sekiz yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Halil Bey",
+    "successor": "Sami Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Ahmet Bey döneminde Karamanoğulları, Osmanlı'ya karşı mücadeleye devam etti. Anadolu Türklüğü, bu topraklarda filizlendi.",
+      "source": "Ahmet Bey"
+    }
+  },
+  {
+    "id": "karaman-sami",
+    "order": 8,
+    "name": "Sami Bey",
+    "title": "Karamanoğlu Beyi",
+    "period": "1350 - 1352",
+    "dynasty": "Karamanoğulları Beyliği",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-sami.jpg",
+    "description": "İki yıllık hükümdarlık başladı.",
+    "fullBio": "Sami Bey, M.S. 1350-1352 yılları arasında iki yıl hüküm sürmüş, Karamanoğulları Beyliği'nin sekizinci beyidir. Ahmet Bey'in ardından tahta çıkmış, kısa bir hükümdarlık gerçekleştirmiştir. 1352 yılında ölmüştür.",
+    "legacy": "Karamanoğulları'nın kısa süreli beylerinden biri.",
+    "achievements": [
+      "Karamanoğlu Beyi"
+    ],
+    "keyEvents": [
+      {
+        "year": "1350",
+        "title": "Tahta Çıkış",
+        "description": "İki yıllık hükümdarlık başladı."
+      },
+      {
+        "year": "1352",
+        "title": "Ölüm",
+        "description": "Kısa süren hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Ahmet Bey",
+    "successor": "İbrahim Bey I",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Sami Bey döneminde beylik giderek küçülüyordu. Anadolu'da artık tek güç Osmanlı'ydı, beylikler çağı sona eriyordu.",
+      "source": "Sami Bey"
+    }
+  },
+  {
+    "id": "karaman-alaeddin",
+    "order": 9,
+    "name": "Alaeddin Bey",
+    "title": "Karamanoğlu Beyi",
+    "period": "1370 - 1397",
+    "dynasty": "Karamanoğulları Beyliği",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-alaeddin.jpg",
+    "description": "Yirmi yedi yıllık hükümdarlık başladı.",
+    "fullBio": "Alaeddin Bey, M.S. 1370-1397 yılları arasında yirmi yedi yıl hüküm sürmüş, Karamanoğulları Beyliği'nin on ikinci beyidir. Hükümdarlığı döneminde Karamanoğulları, Anadolu'daki en güçlü beyliklerden biri olmaya devam etmiştir. Alaeddin Bey, 1370'lerde ve 1380'lerde Osmanlı Beyliği ile mücadele etmiş, I. Murat ve Yıldırım Bayezid dönemlerinde çeşitli ittifaklar kurmuştur. Karamanoğlu Mehmet Bey Camii'ni yaptırmış, bu cami günümüze ulaşan önemli bir Karamanoğlu eseridir. 1397 yılında ölmüştür.",
+    "legacy": "Karamanoğlu Mehmet Bey Camii'nin yaptıran, uzun süreli hüküm süren bey.",
+    "achievements": [
+      "Karamanoğlu Mehmet Bey Camii'ni yaptırma",
+      "Osmanlılarla mücadele"
+    ],
+    "keyEvents": [
+      {
+        "year": "1370",
+        "title": "Tahta Çıkış",
+        "description": "Yirmi yedi yıllık hükümdarlık başladı."
+      },
+      {
+        "year": "1397",
+        "title": "Ölüm",
+        "description": "Yirmi yedi yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Hacı Bey",
+    "successor": "II. Mehmet Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Alaeddin Bey, Karamanoğulları'nın son direnişlerinden birini temsil eder. Karaman, Anadolu Türklüğünün simgesidir.",
+      "source": "Alaeddin Bey"
+    }
+  },
+  {
+    "id": "karaman-mehmet-2",
+    "order": 10,
+    "name": "II. Mehmet Bey",
+    "title": "Karamanoğlu Beyi",
+    "period": "1397 - 1398",
+    "dynasty": "Karamanoğulları Beyliği",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-mehmet-2.jpg",
+    "description": "Kısa süreli hükümdarlık başladı.",
+    "fullBio": "II. Mehmet Bey, M.S. 1397-1398 yılları arasında bir yıl hüküm sürmüş, Karamanoğulları Beyliği'nin on üçüncü beyidir. Babası Alaeddin Bey'in ardından tahta çıkmış, ancak hükümdarlığı kısa sürmüştür. 1398 yılında ölmüştür.",
+    "legacy": "Karamanoğulları'nın kısa süreli beylerinden biri.",
+    "achievements": [
+      "Karamanoğlu Beyi"
+    ],
+    "keyEvents": [
+      {
+        "year": "1397",
+        "title": "Tahta Çıkış",
+        "description": "Kısa süreli hükümdarlık başladı."
+      },
+      {
+        "year": "1398",
+        "title": "Ölüm",
+        "description": "Bir yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Alaeddin Bey",
+    "successor": "Bengi Ali Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "II. Mehmet Bey, Karamanoğulları'nın tahtta oturan bir hükümdarıydı. Konya'dan Akdeniz'e uzanan bu topraklarda Türk beylik geleneği yaşatıldı.",
+      "source": "II. Mehmet Bey"
+    }
+  },
+  {
+    "id": "karaman-bengi-ali",
+    "order": 11,
+    "name": "Bengi Ali Bey",
+    "title": "Karamanoğlu Beyi",
+    "period": "1398 - 1406",
+    "dynasty": "Karamanoğulları Beyliği",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-bengi-ali.jpg",
+    "description": "Sekiz yıllık hükümdarlık başladı.",
+    "fullBio": "Bengi Ali Bey, M.S. 1398-1406 yılları arasında sekiz yıl hüküm sürmüş, Karamanoğulları Beyliği'nin on dördüncü beyidir. II. Mehmet Bey'in ardından tahta çıkmış, Ankara Savaşı (1402) sonrasında Fetret Devri'nde Osmanlı tahtına adaylık konusunda önemli bir rol oynamıştır. 1406 yılında ölmüştür.",
+    "legacy": "Fetret Devri'nde Osmanlı tahtına adaylık koyan Karamanoğlu beyi.",
+    "achievements": [
+      "Fetret Devri'nde Osmanlı tahtına adaylık"
+    ],
+    "keyEvents": [
+      {
+        "year": "1398",
+        "title": "Tahta Çıkış",
+        "description": "Sekiz yıllık hükümdarlık başladı."
+      },
+      {
+        "year": "1402",
+        "title": "Ankara Savaşı Sonrası",
+        "description": "Fetret Devri'nde Osmanlı tahtına aday oldu."
+      },
+      {
+        "year": "1406",
+        "title": "Ölüm",
+        "description": "Öldü."
+      }
+    ],
+    "predecessor": "II. Mehmet Bey",
+    "successor": "Damad İbrahim Bey II",
+    "battles": [
+      {
+        "name": "Ankara Savaşı Sonrası",
+        "year": "1402",
+        "result": "victory",
+        "description": "Fetret Devri'nde Osmanlı tahtına aday oldu."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Bengi Ali Bey, Karamanoğulları'nın tahtta oturan bir hükümdarıydı. Konya'dan Akdeniz'e uzanan bu topraklarda Türk beylik geleneği yaşatıldı.",
+      "source": "Bengi Ali Bey"
+    }
+  },
+  {
+    "id": "karaman-ibrahim-bey",
+    "order": 12,
+    "name": "Karamanoğlu İbrahim Bey",
+    "title": "Karaman Beyliği'nin En Büyük Hükümdarı",
+    "period": "1424 - 1464",
+    "dynasty": "Karamanoğulları",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-ibrahim.jpg",
+    "description": "Karamanoğulları Beyliği'nin en geniş sınırlara ulaştığı dönemin hükümdarı. Osmanlı'ya karşı Müslüman hükümdarlar ittifakını kurdu.",
+    "fullBio": "Karamanoğlu İbrahim Bey, 1424-1464 yılları arasında hüküm sürmüş, Karamanoğulları Beyliği'nin en uzun süreli ve en etkili hükümdarlarından biridir. 40 yıl boyunca ülkesini yöneten İbrahim Bey, beylikleri en geniş sınırlarına ulaştırmıştır. Döneminde Karamanoğulları toprakları, Konya'dan Akdeniz'e, Isparta'dan Ceyhan Nehri'ne kadar uzanmaktaydı. İbrahim Bey, Osmanlılarla sürekli mücadele etmiş, II. Murat döneminde Osmanlı baskısına karşı direniş örgütlemiştir. 1444 yılında II. Murat'ın tahtı oğluna bırakmasından yararlanarak kaybettiği toprakları geri almaya çalışmıştır. Fatih Sultan Mehmet döneminde ise daha diplomat bir politika izlemiş, kızını Osmanlı sarayına vererek ilişkileri yumuşatmaya çalışmıştır. İbrahim Bey, iç yönetimde önemli reformlar yapmış, vergi sistemini düzenlemiş, ticareti teşvik etmiş, şehirleri imar etmiştir. Onun döneminde Karaman, önemli bir kültür ve sanat merkezi haline gelmiştir. İbrahim Bey'in ölümünden sonra Karamanoğulları, Osmanlılar karşısında giderek zayıflamış ve 1487 yılında tamamen ilhak edilmişlerdir.",
+    "legacy": "Karamanoğulları, İbrahim Bey döneminde en parlak dönemini yaşamıştır. Osmanlı'ya karşı son direnişi temsil eden beylik, Türk tarihinde önemli bir yer tutar.",
+    "achievements": [
+      "Karamanoğulları'nı en geniş sınırlarına ulaştırma",
+      "Akdeniz limanlarını kontrol etme",
+      "Osmanlı'ya karşı Anadolu ittifakı kurma",
+      "Beylik içinde birliği sağlama"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1424",
+        "title": "Tahta Çıkış",
+        "description": "Beyliğin başına geçti."
+      },
+      {
+        "year": "M.S. 1451",
+        "title": "Osmanlı Rekabeti",
+        "description": "Fatih Sultan Mehmet'in tahta çıkmasıyla rekabet yeniden başladı."
+      },
+      {
+        "year": "M.S. 1464",
+        "title": "İbrahim Bey'in Ölümü",
+        "description": "Vefat etti, beylik zayıfladı."
+      }
+    ],
+    "predecessor": "Karamanoğlu Mehmet Bey",
+    "successor": "Karamanoğlu Mahmut Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Bundan sonra bu dairede Türkçe'den başka dil konuşulmayacak.",
+      "source": "Karamanoğlu İbrahim Bey"
+    }
+  },
+  {
+    "id": "karaman-ishak",
+    "order": 13,
+    "name": "İshak Bey",
+    "title": "Karamanoğlu Beyi",
+    "period": "1464 - 1483",
+    "dynasty": "Karamanoğulları Beyliği",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-ishak.jpg",
+    "description": "On dokuz yıllık hükümdarlık başladı.",
+    "fullBio": "İshak Bey, M.S. 1464-1483 yılları arasında on dokuz yıl hüküm sürmüş, Karamanoğulları Beyliği'nin on altıncı ve son önemli beylerinden biridir. Damad İbrahim Bey II'nin ardından tahta çıkmış, Fatih Sultan Mehmet ile mücadele etmek zorunda kalmıştır. 1471-1474 yılları arasında Fatih Sultan Mehmet ile sürekli çatışma halinde olmuş, Osmanlı orduları Karaman topraklarını işgal etmiştir. 1483 yılında ölmüştür.",
+    "legacy": "Fatih Sultan Mehmet ile mücadele eden Karamanoğlu beyi.",
+    "achievements": [
+      "Fatih Sultan Mehmet ile mücadele"
+    ],
+    "keyEvents": [
+      {
+        "year": "1464",
+        "title": "Tahta Çıkış",
+        "description": "On dokuz yıllık hükümdarlık başladı."
+      },
+      {
+        "year": "1471-1474",
+        "title": "Osmanlı Savaşları",
+        "description": "Fatih Sultan Mehmet ile mücadele etti."
+      },
+      {
+        "year": "1483",
+        "title": "Ölüm",
+        "description": "Öldü."
+      }
+    ],
+    "predecessor": "Damad İbrahim Bey II",
+    "successor": "II. Mahmut Bey",
+    "battles": [
+      {
+        "name": "Osmanlı Savaşları",
+        "year": "1471-1474",
+        "result": "victory",
+        "description": "Fatih Sultan Mehmet ile mücadele etti."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "İshak Bey, 1487'de beylik resmen Osmanlı'ya katıldı. 200 yıllık Karamanoğulları geleneği, Osmanlı vilayeti olarak devam etti.",
+      "source": "İshak Bey"
+    }
+  },
+  {
+    "id": "karaman-mahmut-bey",
+    "order": 14,
+    "name": "Karamanoğlu Mahmut Bey",
+    "title": "Karaman Beyliği'nin Son Büyük Beyi",
+    "period": "1464 - 1483",
+    "dynasty": "Karamanoğulları",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-mahmut.jpg",
+    "description": "Osmanlı'ya karşı son büyük direnişi veren Karamanoğlu hükümdarı. Fatih Sultan Mehmet'e karşı savaştı ancak mağlup oldu.",
+    "fullBio": "Karamanoğlu Mahmut Bey, 15. yüzyılın ikinci yarısında hüküm sürmüş, Karamanoğulları Beyliği'nin son büyük hükümdarı ve Osmanlılara karşı verdiği direnişle tanınan kahraman bir liderdir. Babası İbrahim Bey'den sonra tahta çıkan Mahmut Bey, Osmanlılarla sürekli çatışma içinde olmuştur. Fatih Sultan Mehmet döneminde Osmanlı baskısı giderek artmış, Mahmut Bey bu baskıya karşı direniş örgütlemiştir. 1471 yılında Fatih'e karşı ittifaklar kurmaya çalışmış, Akkoyunlu Uzun Hasan ve Mısır Memluk Sultanlığı ile ittifaklar kurmuştur. Ancak bu ittifaklar Osmanlı gücünü durdurmaya yetmemiştir. Mahmut Bey, ülkesinin bağımsızlığını korumak için tüm diplomatik ve askeri yolları denemiştir. 1474 yılında Osmanlı orduları Karaman'ı işgal etmiş, Mahmut Bey kaçmak zorunda kalmıştır. Birkaç kez geri dönmeye çalışsa da başarılı olamamıştır. Karamanoğlu Mahmut Bey'in direnişi, Anadolu'da bağımsız Türk beyliklerinin Osmanlı karşısındaki son önemli direniş örneğidir. Onun düşüşü, Anadolu'da bağımsız Türk beylikleri döneminin sona ermesini simgeler.",
+    "legacy": "Karamanoğulları, Anadolu'nun en güçlü beyliklerinden biri olarak Türk tarihinde önemli bir yer tutar. Mehmet Bey'in Türkçeyi resmi dil ilan etmesi, Türk kültür mirasının en değerli parçalarındandır.",
+    "achievements": [
+      "Osmanlı'ya karşı son direniş",
+      "Karamanoğulları'nı sonuna kadar savunma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1468",
+        "title": "Osmanlı Seferi",
+        "description": "Fatih Sultan Mehmet Karamanoğulları üzerine sefer düzenledi."
+      },
+      {
+        "year": "M.S. 1483",
+        "title": "Karamanoğulları'nın Sona Ermesi",
+        "description": "Mahmut Bey'in ölümüyle beylik fiilen sona erdi."
+      }
+    ],
+    "predecessor": "Karamanoğlu İbrahim Bey",
+    "successor": "Karaman Bey",
+    "battles": [
+      {
+        "name": "Osmanlı Seferi",
+        "year": "M.S. 1468",
+        "result": "victory",
+        "description": "Fatih Sultan Mehmet Karamanoğulları üzerine sefer düzenledi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Karamanoğlu Mahmut Bey, Karamanoğulları'nın tahtta oturan bir hükümdarıydı. Konya'dan Akdeniz'e uzanan bu topraklarda Türk beylik geleneği yaşatıldı.",
+      "source": "Karamanoğlu Mahmut Bey"
+    }
+  },
+  {
+    "id": "karaman-mahmut-2",
+    "order": 15,
+    "name": "II. Mahmut Bey",
+    "title": "Son Karamanoğlu Beyi",
+    "period": "1483 - 1487",
+    "dynasty": "Karamanoğulları Beyliği",
+    "dynastyId": "karaman",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karaman-mahmut-2.jpg",
+    "description": "Son Karamanoğlu beyi oldu.",
+    "fullBio": "II. Mahmut Bey, M.S. 1483-1487 yılları arasında dört yıl hüküm sürmüş, Karamanoğulları Beyliği'nin son beyidir. Babası İshak Bey'in ardından tahta çıkmış, ancak beyliğin durumu çok kötüydü. Fatih Sultan Mehmet, 1487 yılında son bir sefer düzenleyerek Karamanoğulları Beyliği'ni tamamen ortadan kaldırmıştır. II. Mahmut Bey, esir alınmış ve İstanbul'a götürülmüştür. 1250 yılında kurulan Karamanoğulları Beyliği, 237 yıllık varlığına son vermiştir. Karaman toprakları, Osmanlı İmparatorluğu'na katılmıştır.",
+    "legacy": "237 yıllık Karamanoğulları Beyliği'nin son beyi.",
+    "achievements": [
+      "Son Karamanoğlu beyi olma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1483",
+        "title": "Tahta Çıkış",
+        "description": "Son Karamanoğlu beyi oldu."
+      },
+      {
+        "year": "1487",
+        "title": "Karamanoğulları'nın Sonu",
+        "description": "Fatih Sultan Mehmet tarafından beyliğe son verildi."
+      }
+    ],
+    "predecessor": "İshak Bey",
+    "successor": "Yok (Devlet sona erdi)",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Karaman, Anadolu Türklüğünün kalesidir.",
+      "source": "II. Mahmut Bey"
+    }
+  }
+]

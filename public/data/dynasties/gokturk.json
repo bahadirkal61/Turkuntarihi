@@ -1,0 +1,676 @@
+[
+  {
+    "id": "gokturk-bumin",
+    "order": 1,
+    "name": "Bumin Kağan (Kutluğ)",
+    "title": "Göktürk Kurucu Kağanı - İlteriş",
+    "period": "M.S. 551 - 552",
+    "dynasty": "Göktürk Kağanlığı (Birinci Dönem)",
+    "dynastyId": "gokturk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gokturk-bumin.jpg",
+    "description": "'Türk' adını taşıyan ilk devleti kurdu. Rouran (Avar) egemenliğini sona erdirerek bağımsızlığı kazandırdı.",
+    "fullBio": "Bumin Kağan (Kutluğ İlteriş), M.S. 551-552 yılları arasında hüküm sürmüş, Göktürk Kağanlığı'nın kurucusu ve Türk adını taşıyan ilk devletin önderidir. Aşina sülalesinden gelen Bumin, başlangıçta Rouran (Juan-Juan) Kağanlığı'na bağlı bir kabile reisiydi. Rouran hakanının kızıyla evlenerek güçlendi ancak Rouran zulmüne karşı çıkarak bağımsızlık mücadelesi başlattı. 551 yılında resmen Kağan unvanını alarak Göktürk Kağanlığı'nı kurdu. 'İlteriş' unvanı 'ülke düzenleyen' anlamındadır. Bumin, kardeşi İstemi Yabgu'yu batı ordularının başına geçirerek batıya doğru fetihler başlattı. 552 yılında Rouran ordusunu yenerek bağımsızlığı tamamladı ancak aynı yıl hastalıktan öldü. Onun kurduğu devlet, Moğolistan'dan Hazar Denizi'ne kadar uzandı. 'Türk' adı ilk kez bu devletle birlikte dünya tarihine girdi. Bumin'in kurduğu kağanlık sistemi, iki kanat (doğu-batı) teşkilatı, onlu askeri sistem sonraki tüm Türk devletlerine model oldu.",
+    "legacy": "'Türk' adını taşıyan ilk devleti kurarak Türk tarihinde yeni bir çağ açtı. Ondan sonra gelen tüm Türk devletleri 'Türk' adını onun kurduğu devletten aldı.",
+    "achievements": [
+      "'Türk' adını taşıyan ilk devleti kurdu (551)",
+      "Rouran (Avar) hâkimiyetine son verdi (552)",
+      "Kardeşi İstemi'yi batı seferlerinin başına geçirdi",
+      "Kağanlık sistemini ve iki kanat teşkilatını kurdu",
+      "Onlu askeri sistemi (on-yüz-bin-on bin) kurdu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 545",
+        "title": "Rouran Sarayında Güçlenme",
+        "description": "Rouran Kağanı'nın kızıyla evlenerek kabile liderliğini güçlendirdi."
+      },
+      {
+        "year": "M.S. 551",
+        "title": "Göktürk Kağanlığı'nın Kuruluşu",
+        "description": "Kağan unvanını alarak 'Türk' adını taşıyan ilk devleti kurdu."
+      },
+      {
+        "year": "M.S. 552",
+        "title": "Rouran Zaferi ve Ölüm",
+        "description": "Rouran ordusunu yenerek bağımsızlığı tamamladı ancak aynı yıl öldü."
+      }
+    ],
+    "predecessor": "Rouran (Juan-Juan) Kağanlığı hâkimiyeti",
+    "successor": "Kara İssık Kağan (oğlu)",
+    "quote": {
+      "text": "Türk milleti başka millete tabi olmaz.",
+      "source": "Bumin Kağan"
+    },
+    "battles": [
+      {
+        "name": "Rouran Bağımsızlık Savaşı",
+        "year": "M.S. 552",
+        "result": "victory",
+        "description": "Rouran ordusunu yenerek Türk bağımsızlığını kazandı, Orta Asya'da yeni bir dönem başladı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "İstemi Yabgu",
+        "role": "Kardeşi, Batı Yabgu",
+        "description": "Bumin'in kardeşi. Batı Göktürk ordularının başına geçerek batıya fetihler başlattı (552-575)."
+      },
+      {
+        "name": "Rouran Kağanı (Anakuan)",
+        "role": "Düşman / Eski Hâkim",
+        "description": "Rouran Kağanlığı'nın son hükümdarı. Bumin tarafından yenilgiye uğratıldı."
+      },
+      {
+        "name": "Kara İssık",
+        "role": "Oğlu, Halefi",
+        "description": "Bumin'den sonra tahta çıkan ilk oğlu. Kısa süreli hükümdarlık."
+      }
+    ]
+  },
+  {
+    "id": "gokturk-istemi",
+    "order": 2,
+    "name": "İstemi Yabgu (Şad)",
+    "title": "Batı Yabgu - İpek Yolu Fatihi",
+    "period": "M.S. 552 - 575",
+    "dynasty": "Göktürk Kağanlığı (Birinci Dönem)",
+    "dynastyId": "gokturk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gokturk-istemi.jpg",
+    "description": "Bumin'in kardeşi. Batıya fetihler yaptı, İpek Yolu'nu kontrol altına aldı, Bizans ve Sasani elçilikleri kurdu.",
+    "fullBio": "İstemi Yabgu (Şad), M.S. 552-575 arasında batıdaki Türk ordularına komuta etmiş, Göktürk İmparatorluğu'nun batıdaki fetihlerinin mimarıdır. Ağabeyi Bumin Kağan tarafından batı yabgusu olarak atandı. 557 yılında Sasani İmparatorluğu ile ittifak kurarak Eftalit (Ak Hun) İmparatorluğu'nu yenilgiye uğrattı. Bu zafer, Türklerin Orta Asya ticaret yollarının kontrolünü ele geçirmesini sağladı. 568 yılında Bizans İmparatoru I. Justinos'a elçiler göndererek İpek Yolu ticaretinde aracılık yapan Sasani İran'ın yerini aldı. Bu, Türk-Bizans diplomatik ilişkilerinin başlangıcıdır. İstemi döneminde Türk nüfuzu batıda Hazar Denizi'ne, Kafkasya'ya kadar ulaştı. Maniah adlı Sogd elçisi liderliğindeki heyet, Bizans'ta büyük yankı uyandırdı. İstemi, Göktürkleri dünya ticaretinin merkezine oturtmuş, Avrupa-Asya arasındaki en önemli aracı güç yapmıştır.",
+    "legacy": "İpek Yolu'nun kontrolünü ele geçirerek Göktürkleri dünya ticaretinin merkezine yerleştirdi. Kardeşi Bumin ile birlikte 'Türk' adının dünya sahnesine çıkmasını sağladı.",
+    "achievements": [
+      "Eftalit (Ak Hun) İmparatorluğu'nu yendi (557)",
+      "İpek Yolu'nun kontrolünü ele geçirdi",
+      "Bizans'a ilk Türk elçiliğini gönderdi (568)",
+      "Sasani İran'ın ticaret tekelini kırdı",
+      "Türk nüfuzunu Hazar Denizi'ne kadar yaydı",
+      "Sogdiana ve Maveraünnehir'i Türk egemenliğine aldı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 552",
+        "title": "Batı Yabgu Atanması",
+        "description": "Ağabeyi Bumin tarafından batı ordularının komutanı olarak atandı."
+      },
+      {
+        "year": "M.S. 557",
+        "title": "Eftalit Seferi",
+        "description": "Sasanilerle ittifak kurarak Eftalit (Ak Hun) İmparatorluğu'nu yendi."
+      },
+      {
+        "year": "M.S. 562",
+        "title": "Maveraünnehir Fethi",
+        "description": "Buhara, Semerkant ve Sogdiana bölgesini Türk egemenliğine aldı."
+      },
+      {
+        "year": "M.S. 568",
+        "title": "Bizans Elçiliği",
+        "description": "Maniah başkanlığında elçi heyetini Bizans'a göndererek İpek Yolu ticaret anlaşması imzaladı."
+      },
+      {
+        "year": "M.S. 575",
+        "title": "İstemi'nin Ölümü",
+        "description": "23 yıllık başarılı hükümdarlığın ardından öldü, torunu Tardu kâhinliğe yükseldi."
+      }
+    ],
+    "predecessor": "Bumin Kağan (ağabeyi)",
+    "successor": "Tardu Şad (torunu)",
+    "quote": {
+      "text": "Batıda Bizans, doğuda Çin arasında Türk gücü yükseliyor.",
+      "source": "İstemi Yabgu, Bizans elçilerine"
+    },
+    "battles": [
+      {
+        "name": "Eftalit (Ak Hun) Muharebesi",
+        "year": "M.S. 557",
+        "result": "victory",
+        "description": "Sasani ittifakıyla Eftalitleri Orta Asya'dan sürdü, İpek Yolu'nun kontrolünü ele geçirdi."
+      },
+      {
+        "name": "Maveraünnehir Seferi",
+        "year": "M.S. 562",
+        "result": "victory",
+        "description": "Buhara, Semerkant ve Sogdiana fethedilerek zengin ticaret yolları Türk egemenliğine girdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Bumin Kağan",
+        "role": "Ağabeyi, Göktürk Kurucusu",
+        "description": "Göktürk Kağanlığı'nın kurucusu. İstemi'yi batı yabgusu olarak atadı."
+      },
+      {
+        "name": "I. Justinos (Justinian)",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (565-578). İstemi'nin elçilerini kabul ederek Türk-Bizans ilişkilerini başlattı."
+      },
+      {
+        "name": "Hüsrev I (Anuşirvan)",
+        "role": "Sasani Şahı",
+        "description": "Sasani İmparatoru (531-579). İstemi ile Eftalitlere karşı ittifak kurdu."
+      },
+      {
+        "name": "Maniah",
+        "role": "Sogd Elçisi",
+        "description": "İstemi'nin Bizans elçisi. İpek Yolu ticaret anlaşmasını müzakere etti."
+      }
+    ]
+  },
+  {
+    "id": "gokturk-muhan",
+    "order": 3,
+    "name": "Muhan Kağan",
+    "title": "Göktürk Kağanı - Batı Fetihleri",
+    "period": "M.S. 554 - 572",
+    "dynasty": "Göktürk Kağanlığı (Birinci Dönem)",
+    "dynastyId": "gokturk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gokturk-muhan.jpg",
+    "description": "İstemi'nin oğlu. 567'de Maveraünnehir'i tamamen fethetti, Göktürkler batıda zirveye ulaştı.",
+    "fullBio": "Muhan Kağan (Mukan), M.S. 554-572 arasında hüküm sürmüş, Batı Göktürk kolunun en güçlü kağanıdır. İstemi Yabgu'nun oğlu olan Muhan, babasının başlattığı batı fetihlerini zirveye taşımıştır. 557'de babasının Eftalit zaferinden sonra Maveraünnehir bölgesini tamamen Türk egemenliğine aldı. 567 yılında Buhara, Semerkant, Harezm ve tüm Sogdiana bölgesini fethederek Göktürk sınırlarını Amu Derya'na (Ceyhun) kadar genişletti. Muhan döneminde Batı Göktürkleri, Hazar Denizi'nden Pamir Dağları'na, Kafkasya'dan Hindikuş'a kadar genişleyerek tarihindeki en büyük topraklara ulaştı. Bizans İmparatoru Justinos ile ittifak kurarak Sasanilere karşı mücadele etti. Ancak 568 sonrası Türk-Sasani ilişkileri bozuldu ve iki süper güç çatışmaya başladı. Muhan, Bizans'a ipek satışını artırarak Sasanilerin ticaret gelirini baltaladı. 572'de öldüğünde Batı Göktürkleri dünya ticaretinin merkezindeydi.",
+    "legacy": "Babasının başlattığı batı fetihlerini tamamlayarak Göktürkleri Orta Asya'nın en geniş topraklarına ulaştırdı. İpek Yolu'nun tamamını Türk kontrolüne aldı.",
+    "achievements": [
+      "Maveraünnehir'i tamamen fethetti (567)",
+      "Buhara, Semerkant, Harezm'i Türk egemenliğine aldı",
+      "Göktürk sınırlarını Amu Derya'na kadar genişletti",
+      "Bizans ile ittifak kurdu",
+      "Sasani İran'ın ticaret tekelini tamamen kırdı",
+      "Batı Göktürklerini zirveye taşıdı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 554",
+        "title": "Tahta Çıkış",
+        "description": "Babası İstemi'den sonra Batı Göktürk kağanı oldu."
+      },
+      {
+        "year": "M.S. 557-567",
+        "title": "Maveraünnehir Fetihleri",
+        "description": "10 yıllık sürekli seferlerle Buhara'dan Pamir'e kadar tüm bölge fethedildi."
+      },
+      {
+        "year": "M.S. 568",
+        "title": "Türk-Sasani Çatışması Başlangıcı",
+        "description": "Eftalit toprakları üzerindeki anlaşmazlık nedeniyle Sasani İran ile savaş başladı."
+      },
+      {
+        "year": "M.S. 571",
+        "title": "Bizans İttifakı",
+        "description": "Sasani tehdidine karşı Bizans İmparatoru Justinos ile askeri ve ticari ittifak kuruldu."
+      },
+      {
+        "year": "M.S. 572",
+        "title": "Muhan'ın Ölümü",
+        "description": "Göktürklerin batıdaki en geniş sınırlarına ulaşıldıktan sonra öldü."
+      }
+    ],
+    "predecessor": "İstemi Yabgu (babası)",
+    "successor": "Taspar Kağan (Doğu), Tardu (Batı)",
+    "quote": {
+      "text": "Bumin'in oğlu olarak değil, kendi kılıcımın gücüyle bu toprakları aldım.",
+      "source": "Muhan Kağan"
+    },
+    "battles": [
+      {
+        "name": "Buhara Muharebesi",
+        "year": "M.S. 562",
+        "result": "victory",
+        "description": "Buhara şehri ve çevresi fethedilerek Maveraünnehir'in kapısı açıldı."
+      },
+      {
+        "name": "Amu Derya Seferi",
+        "year": "M.S. 567",
+        "result": "victory",
+        "description": "Göktürk orduları Amu Derya'ya (Ceyhun) ulaşarak batıdaki en geniş sınırlara erişti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "İstemi Yabgu",
+        "role": "Babası, Önceki Batı Yabgu",
+        "description": "Batı fetihlerini başlatan Bumin Kağan'ın kardeşi."
+      },
+      {
+        "name": "I. Justinos",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (565-578). Muhan ile Sasani karşıtı ittifak kurdu."
+      },
+      {
+        "name": "Hüsrev I",
+        "role": "Sasani Şahı",
+        "description": "Sasani İmparatoru. Eftalit toprakları üzerinde Türklerle çatıştı."
+      }
+    ]
+  },
+  {
+    "id": "gokturk-taspar",
+    "order": 4,
+    "name": "Taspar Kağan",
+    "title": "Göktürk Kağanı - Hoşgörü Dönemi",
+    "period": "M.S. 572 - 581",
+    "dynasty": "Göktürk Kağanlığı (Birinci Dönem)",
+    "dynastyId": "gokturk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gokturk-taspar.jpg",
+    "description": "Budizmi ve Maniheizmi destekledi, Çin'den sanatçılar davet etti. Göktürk sanatının gelişimine katkı sağladı.",
+    "fullBio": "Taspar Kağan, M.S. 572-581 arasında Doğu Göktürk Kağanlığı'nın hükümdarı olmuş, dinî hoşgörüsü ve sanata desteğiyle tanınan kağandır. İstemi'nin yeğeni olan Taspar, döneminde Budizmi, Maniheizmi ve Tengriciliği bir arada barındırmıştır. Çin'den Budist rahipler, sanatçılar ve bilginler davet ederek Göktürk kültür hayatını zenginleştirdi. 576 yılında Çinli Budist rahip Huesi-Çao'yu sarayına davet etti. Bu dönemde Göktürk sanatında Çin-Sasani-Budist karışımı yeni bir üslup gelişti. Ancak Taspar'ın dinî açık fikirliliği, Tengrici gelenekçi çevrelerin tepkisini çekti. Ölümünden sonra taht kavgaları başladı ve 581'de kağanlık doğu-batı olarak ikiye bölündü. Taspar, Göktürklerin sadece savaşçı değil, aynı zamanda kültür ve sanatla ilgilenen bir medeniyet olduğunu gösteren önemli bir dönüm noktasıdır.",
+    "legacy": "Göktürk sanatının ve dinlerarası hoşgörünün gelişimine katkı sağladı. Onun dönemi, Göktürk medeniyetinin çok yönlülüğünü gösterir.",
+    "achievements": [
+      "Budist ve Maniheist bilginleri sarayına davet etti",
+      "Göktürk sanatının gelişimine öncülük etti",
+      "Çin-Sasani-Budist karışımı yeni sanat üslubu oluşturdu",
+      "Dinî hoşgörü ortamı sağladı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 572",
+        "title": "Tahta Çıkış",
+        "description": "Doğu Göktürk kağanı olarak tahta çıktı."
+      },
+      {
+        "year": "M.S. 576",
+        "title": "Çinli Rahiplerin Daveti",
+        "description": "Çin'den Budist rahip Huesi-Çao ve diğer bilginler saraya davet edildi."
+      },
+      {
+        "year": "M.S. 579",
+        "title": "Sanat Atölyeleri",
+        "description": "Sarayda Çin ve Sasani sanatçıları için atölyeler kuruldu, Göktürk sanatı yeni bir boyut kazandı."
+      },
+      {
+        "year": "M.S. 581",
+        "title": "Ölüm ve Bölünme",
+        "description": "Ölümü üzerine taht kavgaları başladı, kağanlık doğu-batı olarak ikiye bölündü."
+      }
+    ],
+    "predecessor": "Kara İssık Kağan",
+    "successor": "İşbara Kağan (Doğu)",
+    "quote": {
+      "text": "Gök Tanrı birdir ama ona ulaşan yollar çoktur.",
+      "source": "Taspar Kağan"
+    },
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Huesi-Çao",
+        "role": "Çinli Budist Rahip",
+        "description": "Taspar tarafından saraya davet edilen Çinli Budist rahip. Göktürk-Budist etkileşimini başlattı."
+      },
+      {
+        "name": "İşbara Kağan",
+        "role": "Amcası Oğlu / Halef",
+        "description": "Taspar'dan sonra Doğu Göktürk tahtına çıktı, kağanlığın bölünmesinde rol oynadı."
+      }
+    ]
+  },
+  {
+    "id": "gokturk-ilteris",
+    "order": 5,
+    "name": "Elteriş Kağan (Kutluk)",
+    "title": "Göktürk Kağanı - İkinci Kurucu",
+    "period": "M.S. 682 - 691",
+    "dynasty": "Göktürk Kağanlığı (İkinci Dönem)",
+    "dynastyId": "gokturk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gokturk-ilteris.jpg",
+    "description": "Çin Tang esaretinden Türk boylarını kurtardı, İkinci Göktürk Kağanlığı'nı kurdu. Tonyukuk'un desteğiyle başarıldı.",
+    "fullBio": "Elteriş Kağan (Kutluk İlteriş), M.S. 682-691 arasında hüküm sürmüş, İkinci Göktürk Kağanlığı'nın kurucusu ve Türk bağımsızlığının sembolüdür. Tang Çin İmparatorluğu'nun 50 yıllık esaretinden Türk boylarını kurtaran Elteriş, Aşina sülalesinden gelmekteydi. 681 yılında gizli bir örgütlenme başlattı, 682'de açık isyan ilan ederek Çin garnizonlarını yendi. Tonyukuk (o dönemde genç bir komutan) ona büyük destek verdi. 683-687 arasında Toŋa (Çin) ordularına karşı bir dizi zafer kazandı. 687'de 32 boyu bir araya getirerek 'İkinci Göktürk Kağanlığı'nı resmen kurdu. 'Elteriş' unvanı 'ülke düzenleyen', 'Kutluk' ise 'kutlu/kutsal' anlamındadır. 691'de hastalıktan öldü, oğulları Kapgan ve Kot Türk devletini zirveye taşıdı. Elteriş'in 9 yıllık hükümdarlığı, Türk tarihinin en önemli bağımsızlık mücadelelerinden biridir.",
+    "legacy": "Çin esaretinden Türk boylarını kurtararak İkinci Göktürk Kağanlığı'nı kurdu. Onun başlattığı bağımsızlık mücadelesi, Orhun Yazıtları'nda övgüyle anılır.",
+    "achievements": [
+      "Çin Tang esaretinden Türk boylarını kurtardı (682)",
+      "İkinci Göktürk Kağanlığı'nı kurdu (687)",
+      "32 Türk boyunu bir araya getirdi",
+      "Tonyukuk'u devlet hizmetine aldı",
+      "Toŋa (Çin) ordularına karşı zaferler kazandı",
+      "Aşina sülalesinin devamını sağladı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 681",
+        "title": "Gizli Örgütlenme",
+        "description": "Çin hâkimiyeti altındaki Türk boyları arasında gizli bağımsızlık örgütlenmesi başlattı."
+      },
+      {
+        "year": "M.S. 682",
+        "title": "Bağımsızlık İsyanı",
+        "description": "Açık isyan ilan ederek Çin garnizonlarını yenmeye başladı."
+      },
+      {
+        "year": "M.S. 687",
+        "title": "İkinci Kağanlığın Kuruluşu",
+        "description": "32 boyu birleştirerek İkinci Göktürk Kağanlığı'nı resmen kurdu."
+      },
+      {
+        "year": "M.S. 689",
+        "title": "Tonyukuk'un Vezirliği",
+        "description": "Genç Tonyukuk'u baş danışmanı atadı, bu ikili devleti zirveye taşıyacaktı."
+      },
+      {
+        "year": "M.S. 691",
+        "title": "Elteriş'in Ölümü",
+        "description": "Hastalıktan öldü, kardeşi Kapgan tahta çıktı."
+      }
+    ],
+    "predecessor": "Çin Tang İmparatorluğu hâkimiyeti",
+    "successor": "Kapgan Kağan (kardeşi)",
+    "quote": {
+      "text": "Kılıç kınından çıktı mı kan damlar, Türk kılıcı çıktı mı esaret zinciri kırılır.",
+      "source": "Elteriş Kağan, bağımsızlık ilanında"
+    },
+    "battles": [
+      {
+        "name": "Ötüken Bağımsızlık Savaşı",
+        "year": "M.S. 682",
+        "result": "victory",
+        "description": "Çin garnizonlarına karşı ilk büyük zafer, bağımsızlık mücadelesinin başlangıcı."
+      },
+      {
+        "name": "32 Boy Birliği Muharebesi",
+        "year": "M.S. 687",
+        "result": "victory",
+        "description": "Dağınık Türk boylarını birleştirerek Çin ordularına karşı ortak cephe kurdu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Tonyukuk",
+        "role": "Baş Danışman / Vezir",
+        "description": "Elteriş döneminde genç bir komutan olarak yükseldi, sonraki 40 yıl devletin en güçlü ismi oldu."
+      },
+      {
+        "name": "Kapgan Kağan",
+        "role": "Kardeşi, Halef",
+        "description": "Elteriş'ten sonra tahta çıktı (693-716), devleti zirveye taşıdı."
+      },
+      {
+        "name": "Kutluk Tigin (Bilge)",
+        "role": "Oğlu",
+        "description": "Elteriş'in oğlu, sonradan Bilge Kağan adıyla tahta çıktı (717-734)."
+      },
+      {
+        "name": "Kül Tigin",
+        "role": "Oğlu",
+        "description": "Elteriş'in diğer oğlu, Bilge Kağan'ın kardeşi. Ünlü askeri komutan."
+      }
+    ]
+  },
+  {
+    "id": "gokturk-kapgan",
+    "order": 6,
+    "name": "Kapgan Kağan",
+    "title": "Göktürk Kağanı - Demir Yumruk",
+    "period": "M.S. 693 - 716",
+    "dynasty": "Göktürk Kağanlığı (İkinci Dönem)",
+    "dynastyId": "gokturk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gokturk-kapgan.jpg",
+    "description": "İkinci Göktürklerin en güçlü kağanı. Çin'e büyük seferler düzenledi, Tonyukuk'un akıl hocası olduğu dönem.",
+    "fullBio": "Kapgan Kağan, M.S. 693-716 arasında 23 yıl hüküm sürmüş, İkinci Göktürk Kağanlığı'nın en güçlü hükümdarıdır. Elteriş Kağan'ın kardeşi olan Kapgan, demir yumruk yönetimiyle parçalanmış Türk boylarını yeniden birleştirdi. 701 yılında Çin'in batı topraklarına büyük baskınlar düzenledi. 711'de Türgeş kabilesini yenerek Orta Asya ticaret yollarının kontrolünü tamamen ele geçirdi. 714'te Çin seddini aşarak şaşırtıcı bir sefer düzenledi. Kapgan döneminde Göktürk ordusu yüzbinleri aşan, dünyanın en güçlü atlı okçu ordusu haline geldi. Tonyukuk, Kapgan döneminde devletin gerçek yöneticisi konumundaydı, 'Bilge Vezir' olarak tüm stratejik kararları alıyordu. 716'da Bayırku (Kırgız) seferinde gece baskınında şehit düştü. Tonyukuk, devletin çöküşünü engelleyerek yeğenleri Bilge ve Kül Tigin'in tahta çıkmasını sağladı. Kapgan'ın ölümü üzerine yazılan 'Ben ölsem de Türk milleti asla ölmez' sözü, Türk milliyetçiliğinin temel sloganıdır.",
+    "legacy": "Tonyukuk ile birlikte İkinci Göktürk birliğini demir yumrukla yeniden kurdu. 'Ben ölsem de Türk milleti asla ölmez' sözü ondan kalmadır.",
+    "achievements": [
+      "Parçalanmış Türk boylarını yeniden birleştirdi",
+      "Çin seddini aşarak sefer düzenledi (714)",
+      "Türgeşleri yenerek Orta Asya'yı tamamen kontrol etti (711)",
+      "100.000+ atlı okçu ordusu kurdu",
+      "Tonyukuk'un vezirliğiyle altın çağı başlattı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 693",
+        "title": "Tahta Çıkış",
+        "description": "Ağabeyi Elteriş'ten sonra Tonyukuk'un desteğiyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 701",
+        "title": "Çin Seferi",
+        "description": "Tang Çin'in batı eyaletlerine büyük baskınlar düzenledi."
+      },
+      {
+        "year": "M.S. 711",
+        "title": "Türgeş Zaferi",
+        "description": "Orta Asya'daki en büyük rakip Türgeş kabilesini yenilgiye uğrattı."
+      },
+      {
+        "year": "M.S. 714",
+        "title": "Çin Seddi'ni Aşma",
+        "description": "Tarihte ender görülen bir başarıyla Çin seddini aşıp içerlere kadar girdi."
+      },
+      {
+        "year": "M.S. 716",
+        "title": "Şehadet",
+        "description": "Bayırku (Kırgız) seferinde gece baskınında şehit düştü. Tonyukuk devleti kurtardı."
+      }
+    ],
+    "predecessor": "Elteriş Kağan (ağabeyi)",
+    "successor": "Bilge Kağan (yeğeni)",
+    "quote": {
+      "text": "Ben ölsem de Türk milleti asla ölmez! Türk milleti yok olursa, kimin için kağanlık yapacağım?",
+      "source": "Kapgan Kağan"
+    },
+    "battles": [
+      {
+        "name": "Türgeş Muharebesi",
+        "year": "M.S. 711",
+        "result": "victory",
+        "description": "Orta Asya'nın en güçlü rakibi Türgeşler ezici yenilgiye uğratıldı."
+      },
+      {
+        "name": "Çin Seddi Aşma Harekâtı",
+        "year": "M.S. 714",
+        "result": "victory",
+        "description": "Çin seddini aşarak Tang topraklarına girildi, tarihte ender bir askeri başarı."
+      },
+      {
+        "name": "Bayırku Gece Baskını",
+        "year": "M.S. 716",
+        "result": "defeat",
+        "description": "Kırgızların düzenlediği gece baskınında şehit düştü, ordusu dağıldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Tonyukuk",
+        "role": "Bilge Vezir / Danışman",
+        "description": "Kapgan döneminde devletin gerçek yöneticisi. Stratejik kararları aldı."
+      },
+      {
+        "name": "Bilge Kağan (Kutluk)",
+        "role": "Yeğeni, Halef",
+        "description": "Kapgan'ın yeğeni. Kapgan'dan sonra Tonyukuk'un desteğiyle tahta çıktı."
+      },
+      {
+        "name": "Kül Tigin",
+        "role": "Yeğeni",
+        "description": "Bilge Kağan'ın kardeşi, ünlü askeri komutan."
+      },
+      {
+        "name": "Elteriş Kağan",
+        "role": "Ağabeyi",
+        "description": "İkinci Göktürk Kağanlığı'nın kurucusu."
+      }
+    ]
+  },
+  {
+    "id": "gokturk-bilge",
+    "order": 7,
+    "name": "Bilge Kağan",
+    "title": "Göktürk Kağanı - Bilge Hükümdar",
+    "period": "M.S. 717 - 734",
+    "dynasty": "Göktürk Kağanlığı (İkinci Dönem)",
+    "dynastyId": "gokturk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gokturk-bilge.jpg",
+    "description": "Orhun Yazıtları'nın sahibi, Türk dünyasının en bilge hükümdarı. Tonyukuk ve Kül Tigin'le birlikte altın çağı yaşattı.",
+    "fullBio": "Bilge Kağan (Kutluk Bilge), M.S. 717-734 arasında hüküm sürmüş, Göktürk İmparatorluğu'nun en bilge hükümdarı ve Orhun Yazıtları'nın sahibidir. Elteriş Kağan'ın oğlu, Kül Tigin'in ağabeyidir. Tonyukuk ve kardeşi Kül Tigin'in desteğiyle tahta çıktı. 720 yılında Çin ordusunu ezici bir yenilgiye uğrattı. Bilge Kağan, sadece askeri bir deha değil, aynı zamanda felsefi derinliğiyle tanınan bir devlet adamıydı. 732 yılında kardeşi Kül Tigin'in ölümü üzerine ünlü Orhun Yazıtları'nı diktirdi. 'Üstte gök çökmese, altta yer delinmese, Türk milleti ilini töreni kim bozabilir?' sözü Türk devlet felsefesinin temelidir. Bilge Kağan döneminde Türk kültürü, dili ve edebiyatı büyük gelişme gösterdi. Tonyukuk'un 724'teki ölümünden sonra devlet yavaşça zayıflamaya başladı. 734'te zehirlenerek öldüğü söylenir.",
+    "legacy": "Orhun Yazıtları ile Türk dilinin ve kültürünün en önemli mirasını bıraktı. 'Üstte gök çökmese' sözü Türk milliyetçiliğinin temelidir.",
+    "achievements": [
+      "Orhun Yazıtları'nı yaptırdı (732)",
+      "Çin ordusunu yenilgiye uğrattı (720)",
+      "Tonyukuk ve Kül Tigin'le altın çağı yaşattı",
+      "Türk kültür ve edebiyatının gelişimini destekledi",
+      "Türk devlet felsefesini sistemleştirdi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 717",
+        "title": "Tahta Çıkış",
+        "description": "Tonyukuk, Kül Tigin ve amcası Kapgan'ın desteğiyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 720",
+        "title": "Çin Zaferi",
+        "description": "Çin ordusunu ezici bir yenilgiye uğratarak bağımsızlığı korudu."
+      },
+      {
+        "year": "M.S. 731",
+        "title": "Kül Tigin'in Ölümü",
+        "description": "Kardeşi ve sadık komutanı Kül Tigin öldü, Bilge Kağan büyük üzüntüye düştü."
+      },
+      {
+        "year": "M.S. 732",
+        "title": "Orhun Yazıtları",
+        "description": "Kül Tigin anısına Orhun Yazıtları'nı diktirdi, Türk tarihinin en büyük kültür mirası."
+      },
+      {
+        "year": "M.S. 734",
+        "title": "Bilge Kağan'ın Ölümü",
+        "description": "Zehirlenerek öldüğü rivayet edilir, Göktürk altın çağı sona erdi."
+      }
+    ],
+    "predecessor": "Kapgan Kağan (amcası)",
+    "successor": "Yollug Tigin (oğlu)",
+    "quote": {
+      "text": "Üstte gök çökmese, altta yer delinmese, Türk milleti ilini töreni kim bozabilir?",
+      "source": "Orhun Yazıtları, Bilge Kağan"
+    },
+    "battles": [
+      {
+        "name": "Çin Muharebesi",
+        "year": "M.S. 720",
+        "result": "victory",
+        "description": "Tang ordusu ezici bir yenilgiye uğratıldı, Göktürk bağımsızlığı kesinleşti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Kül Tigin",
+        "role": "Kardeşi, Komutan",
+        "description": "Göktürklerin en büyük askeri komutanı. 731'de ölümü üzerine Orhun Yazıtları dikildi."
+      },
+      {
+        "name": "Tonyukuk",
+        "role": "Bilge Vezir",
+        "description": "Bilge Kağan döneminde de danışmanlık yaptı, 724'te öldü."
+      },
+      {
+        "name": "Elteriş Kağan",
+        "role": "Babası",
+        "description": "İkinci Göktürk Kağanlığı'nın kurucusu."
+      },
+      {
+        "name": "Yollug Tigin",
+        "role": "Oğlu, Halef",
+        "description": "Bilge Kağan'dan sonra tahta çıktı ancak devlet yavaşça zayıfladı."
+      }
+    ]
+  },
+  {
+    "id": "gokturk-kul-tigin",
+    "order": 8,
+    "name": "Kül Tigin",
+    "title": "Göktürk Tigini - Efsanevi Komutan",
+    "period": "M.S. 684 - 731",
+    "dynasty": "Göktürk Kağanlığı (İkinci Dönem)",
+    "dynastyId": "gokturk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gokturk-kul-tigin.jpg",
+    "description": "Bilge Kağan'ın kardeşi, Göktürklerin en büyük askeri dehası. Adını taşıyan Orhun Yazıtı Türk tarihinin en önemli abidevi eseridir.",
+    "fullBio": "Kül Tigin (Kül Tigin), M.S. 684-731 arasında yaşamış, Göktürk İmparatorluğu'nun en büyük askeri komutanı ve Bilge Kağan'ın kardeşidir. Elteriş Kağan'ın oğlu olan Kül Tigin, henüz çocuk yaşta babasının isyanına katıldı. 16 yaşında ilk komutanlığını yaptı, 22 yaşında büyük ordu seferlerinin başına geçti. Kapgan Kağan döneminde (693-716) imparatorluğun en önemli askeri lideri oldu. 701'de Çin seferlerinde, 711'de Türgeş muharebesinde, 714'te Çin seddi aşma harekâtında en önde savaştı. 716'da amcası Kapgan'ın şehadeti üzerine Tonyukuk'la birlikte devleti çöküşten kurtardı, kardeşi Bilge Kağan'ı tahta çıkardı. 720'de Çin ordusunu ezici bir yenilgiye uğrattı. 731'de 47 yaşında hastalıktan öldü. Kardeşi Bilge Kağan, onun anısına Orhun Yazıtları'nın en görkemli olanı olan Kül Tigin Yazıtı'nı diktirdi. Bu yazıt, Türk askeri geleneğinin, kahramanlık anlayışının ve kardeşlik bağlarının en büyük abidevi anıtıdır.",
+    "legacy": "Kül Tigin Yazıtı, Türk tarihinin en görkemli abidevi eseridir. Onun askeri dehası ve kardeşliği, Türk kahramanlık geleneğinin zirvesini temsil eder.",
+    "achievements": [
+      "Göktürklerin en büyük askeri komutanı oldu",
+      "16 yaşında komutanlığa başladı",
+      "Çin ordularına karşı birçok zafer kazandı",
+      "Kapgan'dan sonra devleti çöküşten kurtardı",
+      "Kardeşi Bilge Kağan'ı tahta çıkardı",
+      "Adını taşıyan Orhun Yazıtı Türk tarihinin en büyük eseridir"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 684",
+        "title": "Doğum",
+        "description": "Elteriş Kağan'ın oğlu olarak doğdu."
+      },
+      {
+        "year": "M.S. 700",
+        "title": "İlk Komutanlık",
+        "description": "16 yaşında ilk askeri komutanlığını yaptı."
+      },
+      {
+        "year": "M.S. 711",
+        "title": "Türgeş Muharebesi",
+        "description": "Kapgan Kağan'ın en önemli zaferinde komutan olarak görev aldı."
+      },
+      {
+        "year": "M.S. 716",
+        "title": "Devleti Kurtarma",
+        "description": "Kapgan'ın şehadeti sonrası Tonyukuk'la birlikte devleti çöküşten kurtardı."
+      },
+      {
+        "year": "M.S. 720",
+        "title": "Çin Zaferi",
+        "description": "Bilge Kağan döneminde Çin ordusunu ezici yenilgiye uğrattı."
+      },
+      {
+        "year": "M.S. 731",
+        "title": "Ölüm ve Yazıt",
+        "description": "47 yaşında öldü, kardeşi onun adına ünlü Kül Tigin Yazıtı'nı diktirdi."
+      }
+    ],
+    "predecessor": "-",
+    "successor": "-",
+    "quote": {
+      "text": "Ben ölünce halkım ağladı, düşmanım sevindi. Ama Türk ordusu benim yolumdan sapmadı.",
+      "source": "Kül Tigin Yazıtı"
+    },
+    "battles": [
+      {
+        "name": "Türgeş Muharebesi",
+        "year": "M.S. 711",
+        "result": "victory",
+        "description": "Göktürk ordusunun en büyük zaferlerinden biri, Kül Tigin'in komutasında kazanıldı."
+      },
+      {
+        "name": "Çin Muharebesi (720)",
+        "year": "M.S. 720",
+        "result": "victory",
+        "description": "Bilge Kağan döneminde Çin ordusu tamamen imha edildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Bilge Kağan",
+        "role": "Ağabeyi, Kağan",
+        "description": "Göktürk Kağanı. Kül Tigin'in ölümü üzerine onun adına Orhun Yazıtı diktirdi."
+      },
+      {
+        "name": "Tonyukuk",
+        "role": "Bilge Vezir",
+        "description": "Kül Tigin'le birlikte Kapgan'dan sonra devleti kurtardı."
+      },
+      {
+        "name": "Kapgan Kağan",
+        "role": "Amcası",
+        "description": "Kül Tigin'in en büyük askeri başarılarını kazandığı dönemin kağanı."
+      },
+      {
+        "name": "Elteriş Kağan",
+        "role": "Babası",
+        "description": "İkinci Göktürk Kağanlığı'nın kurucusu."
+      }
+    ]
+  }
+]

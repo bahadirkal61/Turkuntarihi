@@ -1,0 +1,782 @@
+[
+  {
+    "id": "safevi-ismail-1",
+    "order": 1,
+    "name": "I. İsmail",
+    "title": "Safevi Devleti Kurucusu - Şah",
+    "period": "M.S. 1501 - 1524",
+    "dynasty": "Safevi Devleti",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-ismail.jpg",
+    "description": "14 yaşında İran'ı fetheden, Şiiliği resmi din yapan, Türkçe şiirler yazan (Hatayi mahlası) efsanevi kurucu şah. Anadolu Türkmen boylarının desteğiyle Tebriz'de devleti kurdu.",
+    "fullBio": "I. İsmail (1487-1524), Safevi Devleti'nin kurucusu ve İran'ın en etkileyici hükümdarlarından biridir. Anadolu'daki Türkmen boylarından (Kızılbaşlar) destek görmüş, 1501'de Tebriz'de Safevi Devleti'ni kurarak İran'ı tek çatı altında birleştirmiştir. Sadece 14 yaşındayken tahta çıkmıştır. İran'ın resmi dinini Şiilik yapmış ve bu karar İran tarihinin seyrini sonsuza dek değiştirmiştir. 1514'te Yavuz Sultan Selim ile Çaldıran Muharebesi'nde toplu tüfek ve top kullanan Osmanlı ordusu karşısında yenilmiş, bu yenilgi Türk-İran sınırını belirlemiştir. I. İsmail, Türkçe'yi saray dili olarak kullanmış, kendisi Hatayi mahlasıyla pek çok Türkçe şiir yazmıştır. Eserleri günümüze kadar gelmiştir ve Türk edebiyatının önemli eserlerindendir.",
+    "legacy": "Modern İran'ın kurucusu, Şiiliği İran'ın resmi dini yapan, Türkçe şiirleriyle (Hatayi) hem siyasetçi hem şair olan eşsiz bir hükümdar.",
+    "achievements": [
+      "Safevi Devleti'ni kurdu (1501), İran'ı tek çatı altında birleştirdi",
+      "Şiiliği İran'ın resmi dini yaptı, İran'ın tarihini sonsuza dek değiştirdi",
+      "Türkçe'yi saray dili olarak kullandı, Hatayi mahlasıyla şiirler yazdı",
+      "Anadolu Türkmen boylarını (Kızılbaşlar) İran'da merkezi bir rolde konumlandırdı",
+      "İsfahan'ı geliştirerek önemli bir kültür merkezi haline getirdi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1501",
+        "title": "Safevi Devleti'nin Kuruluşu",
+        "description": "Tebriz'de Safevi Devleti'ni kurdu, kendini İran Şahı ilan etti."
+      },
+      {
+        "year": "M.S. 1508",
+        "title": "Bağdat ve Horasan'ın Fethi",
+        "description": "Bağdat ve Horasan'ı ele geçirerek İran'ı tamamen birleştirdi."
+      },
+      {
+        "year": "M.S. 1510",
+        "title": "Merv Muharebesi - Özbek Yenilgisi",
+        "description": "Özbek Hanı Şeybani'yi Merv'de ağır bir yenilgiye uğrattı."
+      },
+      {
+        "year": "M.S. 1514 (23 Ağustos)",
+        "title": "Çaldıran Muharebesi",
+        "description": "Yavuz Sultan Selim karşısında yenildi, toplu tüfek ve topa karşı geleneksel süvari ordusu mağlup oldu."
+      },
+      {
+        "year": "M.S. 1524",
+        "title": "Ölüm",
+        "description": "I. İsmail öldü, 10 yaşındaki oğlu Tahmasp tahta çıktı."
+      }
+    ],
+    "predecessor": "Akkoyunlu-Karakoyunlu dönemi / Safevi Tarikatı",
+    "successor": "I. Tahmasp (oğlu)",
+    "battles": [
+      {
+        "name": "Şirvan Seferi",
+        "year": "M.S. 1500",
+        "result": "victory",
+        "description": "Bakü ve Şirvan'ı ele geçirerek Hazar Denizi kıyısına ulaştı."
+      },
+      {
+        "name": "Merv Muharebesi",
+        "year": "M.S. 1510",
+        "result": "victory",
+        "description": "Özbek Şeybani Han'ı yenerek Horasan'ı güvence altına aldı."
+      },
+      {
+        "name": "Çaldıran Muharebesi",
+        "year": "M.S. 1514",
+        "result": "defeat",
+        "description": "Yavuz Sultan Selim'e yenildi, Doğu Anadolu ve Kuzey Irak Osmanlı kontrolüne girdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Şeyh Cüneyt",
+        "role": "Dedesi / Safevi Tarikatı Lideri",
+        "description": "Safevi tarikatının lideri, Şah İsmail'in dedesi ve manevi mirasçısı."
+      },
+      {
+        "name": "Yavuz Sultan Selim",
+        "role": "Osmanlı Sultanı / Çaldıran'da Galip",
+        "description": "Şah İsmail'in en büyük rakibi, Çaldıran'da Safevi ordusunu yenmiştir."
+      },
+      {
+        "name": "Şeybani Han",
+        "role": "Özbek Hanı / Mağlup",
+        "description": "Merv'de Şah İsmail tarafından yenilgiye uğratılan Özbek lideri."
+      }
+    ],
+    "quote": {
+      "text": "Ben İsmail, Kızılbaşların başı, Hak yolunun eri, Tebriz'den doğan güneşim. Çaldıran'da düştümse de, İran'ı birleştiren el benim elmdir.",
+      "source": "Şah I. İsmail (Hatayi)"
+    }
+  },
+  {
+    "id": "safevi-tahmasp1",
+    "order": 2,
+    "name": "I. Tahmasp",
+    "title": "Şah - 52 Yıllık Saltanat",
+    "period": "M.S. 1524 - 1576",
+    "dynasty": "Safevi Devleti",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-safevi-tahmasp1.jpg",
+    "description": "10 yaşında tahta çıkıp 52 yıl hüküm süren, babasının eserini koruyan, Kanuni döneminde Osmanlı-Safevi mücadelesinin simgesi. Ustaca denge politikası izledi.",
+    "fullBio": "I. Tahmasp (1514-1576), I. İsmail'in oğlu ve Safevi Devleti'nin ikinci şahıdır. Babasının ölümü üzerine 1524'te sadece 10 yaşındayken tahta çıkmıştır. 52 yıllık hükümdarlığı (1524-1576) döneminde, devletin içinde bulunduğu karışıklıkları bastırmış ve Safevi Devleti'ni ayakta tutmayı başarmıştır. Kanuni Sultan Süleyman dönemindeki Osmanlı-Safevi mücadelesinde önemli bir figürdür. 1534'te Kanuni Bağdat'ı almış, 1548 ve 1554'te Tebriz işgal edilmiştir. Ancak Tahmasp, Amasya Antlaşması'yla (1555) sınırları belirlemiştir. Sanata büyük ilgi duymuş, minyatür sanatının altın çağını yaşatmış, ünlü Tebriz nakkaşhanesini kurmuştur. Aynı zamanda oyun yazarıdır.",
+    "legacy": "Çocuk yaşta tahta çıkıp 52 yıl devleti ayakta tutan, sanatın hamisi, ustaca denge politikasıyla Safevi varlığını sürdüren şah.",
+    "achievements": [
+      "52 yıl hüküm sürerek Safevi Devleti'nin en uzun süreli şahı oldu",
+      "Amasya Antlaşması (1555) ile Osmanlı-Safevi sınırını belirledi",
+      "Tebriz nakkaşhanesini kurarak minyatür sanatının altın çağını yaşattı",
+      "Devletin iç karışıklıklarını bastırarak Safevi varlığını korudu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1524",
+        "title": "Tahta Çıkış",
+        "description": "Sadece 10 yaşında babasının ölümüyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 1533",
+        "title": "Kiğılı İsyanı",
+        "description": "İç karışıklıkları bastırarak tam otoritesini sağladı."
+      },
+      {
+        "year": "M.S. 1534",
+        "title": "Bağdat'ın Kaybı",
+        "description": "Kanuni Sultan Süleyman Bağdat'ı ele geçirdi."
+      },
+      {
+        "year": "M.S. 1548-1554",
+        "title": "Tebriz İşgalleri",
+        "description": "Kanuni tarafından iki kez Tebriz işgal edildi."
+      },
+      {
+        "year": "M.S. 1555",
+        "title": "Amasya Antlaşması",
+        "description": "Osmanlı İmparatorluğu ile barış antlaşması imzalandı, sınırlar belirlendi."
+      },
+      {
+        "year": "M.S. 1576",
+        "title": "Ölüm",
+        "description": "52 yıllık hükümdarlığının ardından İsfahan'da öldü."
+      }
+    ],
+    "predecessor": "I. İsmail (babası)",
+    "successor": "II. İsmail (oğlu)",
+    "battles": [
+      {
+        "name": "Diyarbakır Savunması",
+        "year": "M.S. 1532",
+        "result": "victory",
+        "description": "Osmanlı saldırılarına karşı Diyarbakır bölgesini savundu."
+      },
+      {
+        "name": "Gürcistan Seferi",
+        "year": "M.S. 1541",
+        "result": "victory",
+        "description": "Gürcistan'a sefer düzenleyerek Kafkasya'da nüfuzunu artırdı."
+      },
+      {
+        "name": "Ustacan Muharebesi",
+        "year": "M.S. 1552",
+        "result": "victory",
+        "description": "Özbekler'e karşı Horasan'da önemli bir askeri zafer kazandı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Kanuni Sultan Süleyman",
+        "role": "Osmanlı Sultanı / Rakip",
+        "description": "Tahmasp döneminin ana rakibi, üç kez İran seferi düzenlemiştir."
+      },
+      {
+        "name": "Rüstem Paşa",
+        "role": "Osmanlı Sadrazamı",
+        "description": "Amasya Antlaşması'nı müzakere eden Osmanlı Sadrazamı."
+      }
+    ],
+    "quote": {
+      "text": "On yaşımda bu tahta oturdum. Eller büyüklerimin kanına bulaşmıştı. Ama ben, fırçamın ucundaki mürekkeple, kılıcımdan daha keskin bir iz bıraktım İran'da.",
+      "source": "Şah I. Tahmasp"
+    }
+  },
+  {
+    "id": "safevi-ismail-2",
+    "order": 3,
+    "name": "II. İsmail",
+    "title": "Şah",
+    "period": "M.S. 1576 - 1577",
+    "dynasty": "Safevi Devleti",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-safevi-ismail-2.jpg",
+    "description": "Babasının 52 yıllık saltanatından sonra sadece bir yıl tahtta kalabilen, saray entrikalarının kurbanı genç şah.",
+    "fullBio": "II. İsmail (1537-1577), I. Tahmasp'ın oğlu ve Safevi Devleti'nin üçüncü şahıdır. 1576'da babasının ölümü üzerine tahta çıkmıştır. Döneminde saray entrikaları ve Kızılbaş-emir çatışmaları doruk noktasına ulaşmıştır. Hükümdarlığı sadece bir yıl sürmüş, 1577'de saray içindeki entrikalar sonucu zehirlenerek öldürülmüştür. Kısaltılmış hükümdarlığı, Safevi sarayının iç çekişmelerinin ne kadar şiddetli olabileceğini göstermektedir.",
+    "legacy": "Babasının uzun saltanatından sonra sadece bir yıl hüküm sürebilen, saray entrikalarının kurbanı genç şah.",
+    "achievements": [
+      "Safevi hükümdarı olarak tahtta bulundu",
+      "Devlet yönetiminde aktif rol aldı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1576",
+        "title": "Tahta Çıkış",
+        "description": "Babası I. Tahmasp'ın ölümüyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 1577",
+        "title": "Öldürülme",
+        "description": "Saray entrikaları sonucu zehirlenerek öldürüldü."
+      }
+    ],
+    "predecessor": "I. Tahmasp (babası)",
+    "successor": "Muhammed Hudabende (ağabeyi)",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Parikhān Khānum",
+        "role": "Kız Kardeşi / Saray Güç Merkezi",
+        "description": "II. İsmail'in güçlü kız kardeşi, saray entrikalarının önemli aktörü."
+      }
+    ],
+    "quote": {
+      "text": "Babam elli iki yıl hüküm sürdü, ben bir yılda bu tahtın altından geçti. Tarih, İsmail'in ikincisini bir fısıltıyla anacaktır.",
+      "source": "Şah II. İsmail"
+    }
+  },
+  {
+    "id": "safevi-hudabende",
+    "order": 4,
+    "name": "Muhammed Hudabende",
+    "title": "Şah - Görebilen Hükümdar",
+    "period": "M.S. 1577 - 1587",
+    "dynasty": "Safevi Devleti",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-safevi-hudabende.jpg",
+    "description": "Safevi zayıflama döneminin şahı. Osmanlılar karşısında büyük toprak kayıpları yaşandı, Bakü ve Derbent kaybedildi. Oğlu Abbas tarafından tahttan indirildi.",
+    "fullBio": "Muhammed Hudabende (1532-1595), II. İsmail'in ağabeyi ve Safevi Devleti'nin dördüncü şahıdır. 1577'de tahta çıkmış, ancak zayıf karakteri ve kötü yönetimiyle döneminde Safevi Devleti büyük kayıplar yaşamıştır. 1578-1590 Osmanlı-Safevi Savaşı'nda (Meşale Savaşları) büyük toprak kayıpları yaşanmış, Bakü, Derbent, Gürcistan ve Azerbaycan'ın büyük bölümü Osmanlı kontrolüne girmiştir. Hudabende'nin gözleri az gördüğü için 'Hudabende' (Gören/Görebilen) lakabını almıştır. 1587'de oğlu Abbas tarafından tahttan indirilmiş, 1595'te ölmüştür.",
+    "legacy": "Safevi zayıflama döneminin simgesi, Osmanlılara karşı toprak kaybeden, oğlu tarafından tahttan indirilen şah.",
+    "achievements": [
+      "Safevi geleneğini devam ettirdi (zayıf da olsa)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1577",
+        "title": "Tahta Çıkış",
+        "description": "II. İsmail'in ölümüyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 1578-1590",
+        "title": "Meşale Savaşları",
+        "description": "Osmanlılarla yapılan savaşlarda büyük toprak kayıpları yaşandı."
+      },
+      {
+        "year": "M.S. 1585",
+        "title": "Tebriz'in Kaybı",
+        "description": "Osmanlılar Tebriz'i ele geçirdi."
+      },
+      {
+        "year": "M.S. 1587",
+        "title": "Tahttan İndirilme",
+        "description": "Oğlu I. Abbas tarafından tahttan indirildi."
+      }
+    ],
+    "predecessor": "II. İsmail (kardeşi)",
+    "successor": "I. Abbas / Büyük Abbas (oğlu)",
+    "battles": [
+      {
+        "name": "Çıldır Muharebesi",
+        "year": "M.S. 1578",
+        "result": "defeat",
+        "description": "Osmanlı ordusu karşısında ağır yenilgi, Kafkasya kaybedildi."
+      },
+      {
+        "name": "Tebriz Muharebesi",
+        "year": "M.S. 1585",
+        "result": "defeat",
+        "description": "Osmanlılar Tebriz'i ele geçirdi, Safevi başkenti düştü."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "III. Murat",
+        "role": "Osmanlı Sultanı / Galip",
+        "description": "Hudabende döneminde Safevi topraklarını genişleten Osmanlı Sultanı."
+      },
+      {
+        "name": "I. Abbas / Büyük Abbas",
+        "role": "Oğlu / Halef",
+        "description": "Hudabende'yi tahttan indiren ve Safevi'yi yeniden yükselten oğlu."
+      }
+    ],
+    "quote": {
+      "text": "Gözlerim az görür, ama tahttan indirildiğimde gördüm ki, oğlum Abbas gözlerinden daha keskin bir vizyonla bakıyor İran'a.",
+      "source": "Muhammed Hudabende, tahttan indirilirken"
+    }
+  },
+  {
+    "id": "safevi-abbas-1",
+    "order": 5,
+    "name": "I. Abbas / Büyük Abbas",
+    "title": "Şah - İsfahan'ın Mucidi",
+    "period": "M.S. 1588 - 1629",
+    "dynasty": "Safevi Devleti",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-abbas.jpg",
+    "description": "16 yaşında tahta çıkıp babasını deviren, İran'ın altın çağını yaratan, İsfahan'ı dünyanın en güzel şehrine dönüştüren, Osmanlılardan geniş toprakları geri alan en büyük Safevi şahı.",
+    "fullBio": "I. Abbas / Büyük Abbas (1571-1629), Safevi Devleti'nin en büyük ve en başarılı şahıdır. 1587'de babası Muhammed Hudabende'yi tahttan indirerek 16 yaşında şah olmuştur. Tahta çıktığında devlet çökme noktasındaydı; Osmanlılar ve Özbekler toprakları işgal etmişti. İngilizlerden destek alarak ordusunu modernleştirmiş, topçu ve tüfek birlikleri kurmuştur. 1598'de Tebriz'i ve Horasan'ı Özbeklerden geri almış, 1603-1618 savaşlarında Osmanlılardan Güney Kafkasya, Azerbaycan, Bağdat, Diyarbakır ve Tabriz'i geri almıştır. Ancak Büyük Abbas'ın en büyük mirası İsfahan'dır. İmam Meydanı (Naqsh-e Jahan), Şeyh Lütfullah Camii, Ali Kapı Sarayı, Çehel Sütun Sarayı gibi dünya mirası niteliğindeki eserleri inşa ettirmiştir. İsfahan, Abbas döneminde dünyanın en güzel ve en çok nüfusa sahip şehirlerinden biri haline gelmiştir. Avrupalı seyyahlar ve tüccarlar buraya akın etmiş, İngiliz Doğu Hindistan Şirketi ile ticaret anlaşmaları imzalanmıştır.",
+    "legacy": "İran'ın altın çağını yaşatan, İsfahan'ı dünya mirası haline getiren, Osmanlılardan geniş topraklar geri alan, modern ordusuyla Safevi'yi zirveye taşıyan en büyük şah.",
+    "achievements": [
+      "Osmanlılardan Güney Kafkasya, Azerbaycan, Bağdat, Diyarbakır'ı geri aldı (1603-1618)",
+      "İsfahan'ı dünyanın en güzel şehrine dönüştürdü, İmam Meydanı'nı inşa ettirdi",
+      "İngilizlerden destek alarak modern ordu kurdu, topçu ve tüfek birlikleri oluşturdu",
+      "İngiliz Doğu Hindistan Şirketi ile ticaret anlaşmaları imzaladı",
+      "Minyatür sanatının ve çini işçiliğinin altın çağını yaşattı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1587",
+        "title": "Tahta Çıkış",
+        "description": "16 yaşında babasını tahttan indirerek şah oldu."
+      },
+      {
+        "year": "M.S. 1598",
+        "title": "Tebriz ve Horasan'ın Geri Alınması",
+        "description": "Özbeklerden Tebriz ve Horasan'ı geri alarak iç tehdidi ortadan kaldırdı."
+      },
+      {
+        "year": "M.S. 1598",
+        "title": "Başkent İsfahan'a Taşındı",
+        "description": "Başkenti Tebriz'den İsfahan'a taşıdı, şehri yeniden inşa etti."
+      },
+      {
+        "year": "M.S. 1603-1618",
+        "title": "Osmanlı Savaşları ve Zaferler",
+        "description": "Osmanlılardan Güney Kafkasya, Azerbaycan, Bağdat ve Diyarbakır'ı geri aldı."
+      },
+      {
+        "year": "M.S. 1616",
+        "title": "İngiliz Ticaret Anlaşması",
+        "description": "İngiliz Doğu Hindistan Şirketi ile ticaret anlaşması imzaladı."
+      },
+      {
+        "year": "M.S. 1629",
+        "title": "Ölüm",
+        "description": "41 yıllık muhteşem hükümdarlığının ardından İsfahan'da öldü."
+      }
+    ],
+    "predecessor": "Muhammed Hudabende (babası)",
+    "successor": "I. Safi (torunu)",
+    "battles": [
+      {
+        "name": "Güney Kafkasya Seferi",
+        "year": "M.S. 1603",
+        "result": "victory",
+        "description": "Osmanlılardan Gürcistan, Ermenistan ve Dağıstan'ı geri aldı."
+      },
+      {
+        "name": "Bağdat Kuşatması",
+        "year": "M.S. 1623",
+        "result": "victory",
+        "description": "Osmanlılardan Bağdat'ı geri alarak eski Safevi başkentini kurtardı."
+      },
+      {
+        "name": "Urmiye Gölü Muharebesi",
+        "year": "M.S. 1618",
+        "result": "victory",
+        "description": "Osmanlı ordusunu büyük bir yenilgiye uğrattı, Serav Antlaşması'nı imzaladı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Şeyh Bahai",
+        "role": "Bilgin ve Mimar",
+        "description": "Abbas döneminin ünlü bilgini, İmam Meydanı'nın planlamasında rol oynadı."
+      },
+      {
+        "name": "I. Elizabeth",
+        "role": "İngiltere Kraliçesi",
+        "description": "Abbas'ın çağdaşı, İngiltere-Safevi ticaret anlaşmalarını imzaladı."
+      },
+      {
+        "name": "Robert Sherley",
+        "role": "İngiliz Elçisi",
+        "description": "Abbas'ın sarayında kabul ettiği İngiliz elçisi, iki ülke arasında köprü oldu."
+      }
+    ],
+    "quote": {
+      "text": "İsfahan, dünyanın yarısıdır (Nesf-e Jahan). Ben bu şehri inşa ettim, ama asıl büyüklük, burada yaşayan her birinin gönlünde gizlidir.",
+      "source": "Şah I. Abbas / Büyük Abbas"
+    }
+  },
+  {
+    "id": "safevi-safi1",
+    "order": 6,
+    "name": "I. Safi",
+    "title": "Şah",
+    "period": "M.S. 1629 - 1642",
+    "dynasty": "Safevi Devleti",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-safevi-safi-1.jpg",
+    "description": "Büyük Abbas'ın torunu, Safevi zirve döneminden gerileme dönemine geçişin şahı. 13 yaşında tahta çıktı.",
+    "fullBio": "I. Safi (1611-1642), Büyük Abbas'ın torunu ve Safevi Devleti'nin altıncı şahıdır. 1629'da büyük dedesinin ölümüyle 13 yaşında tahta çıkmıştır. Döneminde Safevi Devleti'nin zirveden gerilemeye geçişi başlamıştır. Osmanlılarla çeşitli sınır çatışmaları yaşanmış, özellikle Bağdat üzerindeki kontrol kaybedilmiştir. Safi, saray içinde reformlar yapmaya çalışmış ancak devletin temel sorunlarına çare bulamamıştır. 1642'de ölmüştür.",
+    "legacy": "Büyük Abbas'ın muhteşem mirasını koruyamayan, Safevi gerileme döneminin ilk şahı.",
+    "achievements": [
+      "Büyük Abbas'ın eserini korumaya çalıştı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1629",
+        "title": "Tahta Çıkış",
+        "description": "Büyük Abbas'ın ölümüyle 13 yaşında tahta çıktı."
+      },
+      {
+        "year": "M.S. 1630'lar",
+        "title": "Gerileme Başlangıcı",
+        "description": "Safevi Devleti'nin ekonomik ve askeri gücünde gerileme başladı."
+      },
+      {
+        "year": "M.S. 1642",
+        "title": "Ölüm",
+        "description": "13 yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "I. Abbas / Büyük Abbas (dedesi)",
+    "successor": "II. Abbas (oğlu)",
+    "battles": [
+      {
+        "name": "Bağdat Savunması",
+        "year": "M.S. 1630",
+        "result": "defeat",
+        "description": "Osmanlı saldırıları karşısında Bağdat'ın kontrolü zayıfladı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Dedem İsfahan'ı cennet yaptı. Ben ise bu cennetin kapılarını kapatamadım zamanın önünde.",
+      "source": "Şah I. Safi"
+    }
+  },
+  {
+    "id": "safevi-abbas2",
+    "order": 7,
+    "name": "II. Abbas",
+    "title": "Şah",
+    "period": "M.S. 1642 - 1666",
+    "dynasty": "Safevi Devleti",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-safevi-abbas-2.jpg",
+    "description": "24 yıl hüküm süren, Safevi gerileme döneminin devamını temsil eden şah. Döneminde devlet daha savunmacı bir politika izledi.",
+    "fullBio": "II. Abbas (1632-1666), I. Safi'nin oğlu ve Safevi Devleti'nin yedinci şahıdır. 1642'de babasının ölümüyle tahta çıkmış, 24 yıl boyunca hüküm sürmüştür. Döneminde Safevi Devleti giderek savunmacı bir politika izlemek zorunda kalmıştır. Osmanlı Devleti Viyana Kuşatması'na (1683) hazırlanırken, Safeviler Doğu sınırını korumaya odaklanmıştır. II. Abbas döneminde, devletin idari yapısında yozlaşma başlamış, eyalet valileri (valiler) merkeze karşı daha bağımsız hareket etmeye başlamıştır. 1666'da ölmüştür.",
+    "legacy": "Safevi gerileme döneminde uzun süre hüküm süren, devletin savunmacı politikaya yöneldiği şah.",
+    "achievements": [
+      "Safevi hükümdarı olarak hükümdarlık yaptı",
+      "Döneminde Safevi Devleti'nde gelişmeler yaşandı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1642",
+        "title": "Tahta Çıkış",
+        "description": "Babası I. Safi'nin ölümüyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 1666",
+        "title": "Ölüm",
+        "description": "24 yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "I. Safi (babası)",
+    "successor": "Süleyman I (kardeşi)",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Dedem Büyük Abbas fethederken, ben kaybetmemek için uğraşıyorum. Bu, bir gerilemenin sessiz çığlığıdır.",
+      "source": "Şah II. Abbas"
+    }
+  },
+  {
+    "id": "safevi-suleyman",
+    "order": 8,
+    "name": "Süleyman I",
+    "title": "Şah",
+    "period": "M.S. 1666 - 1694",
+    "dynasty": "Safevi Devleti",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-safevi-suleyman.jpg",
+    "description": "Safevi gerileme döneminde tahtta olan, harem köleleri (gulam) idaresinin yükseldiği, şahın otoritesinin zayıfladığı dönemin şahı.",
+    "fullBio": "Süleyman I (1648-1694), II. Abbas'ın kardeşi ve Safevi Devleti'nin sekizinci şahıdır. 1666'da tahta çıkmış, 28 yıl hüküm sürmüştür. Döneminde Safevi Devleti'nde gerileme hızlanmıştır. Süleyman, saray içinde harem köleleri (gulam) sisteminin yükselmesine tanık olmuştur; bu sistem, Gürcü ve Çerkes kölelerin devlet yönetiminde önemli roller üstlenmesi anlamına gelmekteydi. Süleyman, Osmanlıların Viyana Kuşatması (1683) sırasında harekete geçmemiş, bu fırsatı değerlendirememiştir. 1694'te ölmüştür.",
+    "legacy": "Safevi gerileme döneminin, gulam sisteminin yükseldiği, şah otoritesinin zayıfladığı döneminin hükümdarı.",
+    "achievements": [
+      "Safevi hükümdarı olarak tahttaydı",
+      "Devlet iç politikasında önemli olaylara tanıklık etti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1666",
+        "title": "Tahta Çıkış",
+        "description": "II. Abbas'ın ölümüyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 1683",
+        "title": "Viyana Fırsatı",
+        "description": "Osmanlıların Viyana yenilgisi sırasında harekete geçemedi."
+      },
+      {
+        "year": "M.S. 1694",
+        "title": "Ölüm",
+        "description": "28 yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "II. Abbas (ağabeyi)",
+    "successor": "Hüseyin (oğlu)",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Viyana'nın duvarları Osmanlı'yı durdurduğunda, benim elimde kılıç değil, mürekkep vardı. Tarih, fırsatları kılıç tutana verir.",
+      "source": "Şah Süleyman I"
+    }
+  },
+  {
+    "id": "safevi-huseyin",
+    "order": 9,
+    "name": "Hüseyin",
+    "title": "Şah - Son Dönemin Zayıf Hükümdarı",
+    "period": "M.S. 1694 - 1722",
+    "dynasty": "Safevi Devleti",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-safevi-huseyin.jpg",
+    "description": "28 yıl tahtta kalan ancak zayıf yönetimiyle devletin çöküşüne zemin hazırlayan son dönem şahı. 1722'de Afganlar İsfahan'ı kuşatınca tahttan çekilmek zorunda kaldı.",
+    "fullBio": "Hüseyin (1668-1726), Süleyman I'ın oğlu ve Safevi Devleti'nin dokuzuncu şahıdır. 1694'te tahta çıkmış, 28 yıl hüküm sürmüştür. Hüseyin, dindar ama zayıf bir hükümdardı. Döneminde devletin askeri ve ekonomik gücü hızla erimiştir. Afganistan'daki Güneşi (Hotaki) aşireti isyan başlatmış, devletin zayıflığı doruk noktasına ulaşmıştır. 1722'de Afgan lideri Mahmud Hotaki İsfahan'ı kuşatarak şehirde büyük bir kıtlık başlatmış, Hüseyin teslim olmak zorunda kalmış ve tahttan çekilmiştir. Bu olay, 235 yıllık Safevi Devleti'nin fiilen sona erdiği tarih olarak kabul edilir. Hüseyin, bir süre sonra ölmüştür.",
+    "legacy": "Zayıf yönetimiyle Safevi Devleti'nin çöküşüne zemin hazırlayan, Afgan kuşatması sonucu tahttan çekilen son dönem şahı.",
+    "achievements": [
+      "Safevi hükümdarı olarak hükümdarlık yaptı",
+      "Devletin son dönemlerinde tahtta bulundu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1694",
+        "title": "Tahta Çıkış",
+        "description": "Babası Süleyman I'ın ölümüyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 1709",
+        "title": "Mir Vais İsyanı",
+        "description": "Afganistan'da Mir Vais Hotaki Safevi yönetimine karşı isyan etti."
+      },
+      {
+        "year": "M.S. 1722",
+        "title": "İsfahan Kuşatması",
+        "description": "Mahmud Hotaki İsfahan'ı kuşattı, şehirde kıtlık başladı."
+      },
+      {
+        "year": "M.S. 1722 (Ekim)",
+        "title": "Tahttan Çekilme",
+        "description": "Afgan kuşatması karşısında teslim olarak tahttan çekildi."
+      }
+    ],
+    "predecessor": "Süleyman I (babası)",
+    "successor": "Tahmasp II (oğlu)",
+    "battles": [
+      {
+        "name": "Gülnebad Muharebesi",
+        "year": "M.S. 1722",
+        "result": "defeat",
+        "description": "Afgan ordusu karşısında ağır yenilgi, İsfahan kuşatıldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Mahmud Hotaki",
+        "role": "Afgan Lideri / Galip",
+        "description": "İsfahan'ı kuşatıp Hüseyin'i tahttan çekilmeye zorlayan Afgan lideri."
+      }
+    ],
+    "quote": {
+      "text": "Yirmi sekiz yıl bu tahtta oturdum, ama sonunda anladım ki, tahtta oturmak, hükmetmek değildir. Afgan'ın kılıcı, benim dualarımdan keskin çıktı.",
+      "source": "Şah Hüseyin, tahttan çekilirken"
+    }
+  },
+  {
+    "id": "safevi-tahmasp2",
+    "order": 10,
+    "name": "Tahmasp II",
+    "title": "Şah - Nadir'in Gölgesinde",
+    "period": "M.S. 1722 - 1732",
+    "dynasty": "Safevi Devleti",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-safevi-tahmasp2.jpg",
+    "description": "Afgan işgaline karşı taht mücadelesi başlatan, ama asıl gücün Nadir Şah Afşar'ın eline geçtiği şah. 1732'de Nadir tarafından tahttan indirildi.",
+    "fullBio": "Tahmasp II (1704-1740), Hüseyin'in oğlu ve Safevi Devleti'nin onuncu şahıdır. Babasının tahttan çekilmesi üzerine İsfahan'dan kaçarak taht mücadelesi başlatmıştır. Nadir Şah Afşar'ın desteğiyle 1729'da Afganları İran'dan atmış, 1730'da İsfahan'ı geri almıştır. Ancak Nadir Şah'ın askeri dehası sayesinde elde edilen zaferler, gerçek gücün Nadir'in eline geçtiğini göstermiştir. Tahmasp, 1732'de Nadir Şah tarafından tahttan indirilmiş, yerine bebeği Abbas III tahta çıkarılmıştır. 1740'ta öldürülmüştür.",
+    "legacy": "Nadir Şah'ın yükselişine zemin hazırlayan, Afşar dehasının gölgesinde kalan Safevi şahı.",
+    "achievements": [
+      "Nadir Şah'ın desteğiyle Afganları İran'dan attı (1729)",
+      "İsfahan'ı geri alarak Safevi başkentini kurtardı (1730)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1722",
+        "title": "Taht Mücadelesi Başlangıcı",
+        "description": "Babasının çekilmesi üzerine İsfahan'dan kaçarak taht mücadelesi başlattı."
+      },
+      {
+        "year": "M.S. 1729",
+        "title": "Afganların İran'dan Atılması",
+        "description": "Nadir Şah'ın komutasındaki orduyla Afganları İran'dan çıkardı."
+      },
+      {
+        "year": "M.S. 1730",
+        "title": "İsfahan'ın Kurtuluşu",
+        "description": "İsfahan Afgan işgalinden kurtarıldı."
+      },
+      {
+        "year": "M.S. 1732",
+        "title": "Tahttan İndirilme",
+        "description": "Nadir Şah tarafından tahttan indirildi."
+      }
+    ],
+    "predecessor": "Hüseyin (babası)",
+    "successor": "III. Abbas (oğlu)",
+    "battles": [
+      {
+        "name": "Mihmandoşt Muharebesi",
+        "year": "M.S. 1729",
+        "result": "victory",
+        "description": "Nadir Şah komutasında Afgan ordusu yenilgiye uğratıldı."
+      },
+      {
+        "name": "Kurman Muharebesi",
+        "year": "M.S. 1729",
+        "result": "victory",
+        "description": "Nadir Şah komutasında son büyük Afgan ordusu imha edildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Nadir Şah Afşar",
+        "role": "Komutan / Gerçek Güç",
+        "description": "Tahmasp'ın ordusunu komuta eden, zaferlerin asıl mimarı Afşar komutanı."
+      }
+    ],
+    "quote": {
+      "text": "Nadir kazandı, ben tahtta oturdum. Bu taht, onun kılıcının ucunda duruyordu. Ben sadece o kılıcın gölgesinde bir şahım.",
+      "source": "Şah Tahmasp II"
+    }
+  },
+  {
+    "id": "safevi-abbas3",
+    "order": 11,
+    "name": "III. Abbas",
+    "title": "Son Safevi Şahı",
+    "period": "M.S. 1732 - 1736",
+    "dynasty": "Safevi Devleti",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-safevi-abbas3.jpg",
+    "description": "Nadir Şah'ın kuklası olarak tahta çıkarılan, sadece 4 yaşında bir bebek. 1736'da Nadir kendini şah ilan edince 235 yıllık Safevi hanedanı sona erdi.",
+    "fullBio": "III. Abbas (1732-1740?), Tahmasp II'nin oğlu ve Safevi Devleti'nin onbirinci ve son resmi şahıdır. 1732'de babasının Nadir Şah tarafından indirilmesi üzerine, sadece birkaç aylık bebekken tahta çıkarılmıştır. Fiilen Nadir Şah'ın kuklası durumundaydı. 1736'da Nadir Şah kendini İran şahı ilan ederek Safevi hanedanına resmen son vermiştir. Böylece 1501'de I. İsmail tarafından kurulan ve 235 yıl hüküm süren Safevi Devleti sona ermiştir. Küçük Abbas'ın sonraki akıbeti bilinmemektedir.",
+    "legacy": "235 yıllık Safevi hanedanının son simgesi, Nadir Şah'ın kuklası olarak tahtta oturan bebek şah.",
+    "achievements": [
+      "Safevi hanedanının son dönem hükümdarlarından biri",
+      "Devlet yönetiminde yer aldı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1732",
+        "title": "Tahta Çıkış",
+        "description": "Birkaç aylık bebek olarak babasının yerine tahta çıkarıldı."
+      },
+      {
+        "year": "M.S. 1736",
+        "title": "Safevi Hanedanının Sona Ermesi",
+        "description": "Nadir Şah kendini şah ilan etti, 235 yıllık Safevi hanedanı sona erdi."
+      }
+    ],
+    "predecessor": "Tahmasp II (babası)",
+    "successor": "Nadir Şah Afşar (hanedan değişimi)",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Nadir Şah Afşar",
+        "role": "Nedim / Hanedanı Sonlandıran",
+        "description": "III. Abbas'ı tahttan indirerek Safevi hanedanına son veren Afşar komutanı."
+      }
+    ],
+    "quote": {
+      "text": "Ben tahtta oturduğumda emzik vardı elimde, indirildiğimde de. Tarih, beni bir bebek olarak hatırlayacak, ama bu bebek 235 yıllık bir hanedanın son nefesiydi.",
+      "source": "Şah III. Abbas (sonradan yazılan)",
+      "note": "III. Abbas bir bebek olduğu için bu alıntı tarihsel bir anlatı olarak düşünülmüştür."
+    }
+  },
+  {
+    "id": "safevi-nadir",
+    "order": 12,
+    "name": "Nadir Şah Afşar",
+    "title": "İran'ın Son Büyük Fatihi - Nadir Şah",
+    "period": "M.S. 1736 - 1747",
+    "dynasty": "Safevi Devleti (Afşar Hanedanı)",
+    "dynastyId": "safevi",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-safevi-nadir.jpg",
+    "description": "Türkmen Afşar aşiretinden çıkan, Delhi'yi yağmalayan, Osmanlı'ya meydan okuyan, ama sonunda suikastle öldürülen İran'ın son büyük fatihi. Safevi sonrası dönemin kurucusu.",
+    "fullBio": "Nadir Şah (1688-1747), İran tarihinin en büyük askeri dehalarından biridir. Kuzey Horasan'da Türkmen Afşar aşiretinden gelmektedir. Safevi çöküşünden sonra güçlenmiş, önce Safevi adına İran'ı Afgan istilacılardan kurtarmış, 1736'da kendini şah ilan ederek Afşar Hanedanı'nı kurmuştur. 1739'da Delhi'yi fethederek Hindistan'ı yağmalamış, Muhteşem Taht-ı Tavus (Papağan Tahtı) ve Koh-i Nur elması dahil muazzam ganimetlerle dönmüştür. Osmanlı'ya karşı 1743'te başarısız bir sefer düzenlemiş, giderek zalimleşmiş, gözlerini kaybetmiştir. 1747'de subayları tarafından suikastle öldürülmüştür. Ölümüyle birlikte kurduğu imparatorluk çökmüştür. Nadir Şah, hem Türk hem İran tarihinin en tartışmalı ama en yetenekli askeri liderlerinden biridir.",
+    "legacy": "Delhi'yi fetheden, İran'ı Afgan istilasından kurtaran, ama zalimliğiyle de tanınan, suikastle öldürülen İran'ın son büyük fatihi.",
+    "achievements": [
+      "İran'ı Afgan istilasından kurtardı (1729-1730)",
+      "Delhi'yi fethetti (1739), Taht-ı Tavus ve Koh-i Nur elmasını ele geçirdi",
+      "Osmanlı İmparatorluğu'na karşı başarılı seferler düzenledi",
+      "Kısa süreli de olsa İran'dan Hindistan'a uzanan imparatorluk kurdu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1729",
+        "title": "Afganların Atılması",
+        "description": "İran'ı Afgan istilacılardan tamamen kurtardı."
+      },
+      {
+        "year": "M.S. 1736",
+        "title": "Şah İlanı",
+        "description": "Safevi hanedanına son vererek kendini İran Şahı ilan etti."
+      },
+      {
+        "year": "M.S. 1739",
+        "title": "Delhi Fethi",
+        "description": "Delhi'yi fethederek muazzam ganimetler elde etti, şehir yağmalandı."
+      },
+      {
+        "year": "M.S. 1743",
+        "title": "Osmanlı Seferi",
+        "description": "Osmanlı topraklarına sefer düzenledi ancak büyük bir başarı elde edemedi."
+      },
+      {
+        "year": "M.S. 1747",
+        "title": "Suikast",
+        "description": "Gece yarısı subayları tarafından hançerlendi."
+      }
+    ],
+    "predecessor": "III. Abbas (Safevi son şahı)",
+    "successor": "Afşar Hanedanı sonrası kaos",
+    "battles": [
+      {
+        "name": "Karnal Muharebesi",
+        "year": "M.S. 1739",
+        "result": "victory",
+        "description": "Delhi yakınlarında Mughal İmparatoru Muhammed Şah'ı ezici bir yenilgiye uğrattı."
+      },
+      {
+        "name": "Kirkuk Muharebesi",
+        "year": "M.S. 1733",
+        "result": "victory",
+        "description": "Osmanlı ordusunu yenerek Kuzey Irak ve Azerbaycan'da üstünlük sağladı."
+      },
+      {
+        "name": "Bağdat Kuşatması",
+        "year": "M.S. 1743",
+        "result": "defeat",
+        "description": "Osmanlıların Bağdat savunması karşısında geri çekilmek zorunda kaldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Muhammed Şah",
+        "role": "Mughal İmparatoru / Mağlup",
+        "description": "Karnal'de Nadir Şah'a yenilen Delhi hükümdarı."
+      },
+      {
+        "name": "I. Mahmut",
+        "role": "Osmanlı Sultanı / Rakip",
+        "description": "Nadir Şah dönemindeki Osmanlı Sultanı."
+      }
+    ],
+    "quote": {
+      "text": "Delhi'nin hazineleri benim ayaklarımın altında. Taht-ı Tavus, benim tahtımdan daha görkemli. Ama bu görkem, bir gecede kanla yıkanabilir. Ve öyle de oldu...",
+      "source": "Nadir Şah Afşar"
+    }
+  }
+]

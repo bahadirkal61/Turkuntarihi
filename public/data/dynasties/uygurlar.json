@@ -1,0 +1,466 @@
+[
+  {
+    "id": "uygur-kutluk",
+    "order": 1,
+    "name": "Kutluk Bilge Kağan",
+    "title": "Uygur Kağanlığı Kurucusu",
+    "period": "M.S. 744 - 747",
+    "dynasty": "Uygur Kağanlığı",
+    "dynastyId": "uygurlar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-uygur-kutluk.jpg",
+    "description": "Göktürklerin çöküşünden sonra Uygur Kağanlığı'nı kurdu. Yeniden birleşik Türk devleti kurarak Orta Asya'nın en güçlü devletini oluşturdu.",
+    "fullBio": "Kutluk Bilge Kağan, M.S. 744 ile 747 yılları arasında hüküm sürmüş, Uygur Kağanlığı'nın kurucusu ve İkinci Göktürk Kağanlığı'nın çöküşünden sonra Türk birliğini yeniden sağlayan hükümdardır. 744 yılında, zayıflayan İkinci Göktürk Kağanlığı'nın son kağanı Özmiş Kağan'ı devirerek Uygur boyu liderliğinde yeni bir kağanlık kurdu. Önceki kağanlığın merkezi olan Ötüken'i (Orhun) başkent yaparak geleneği sürdürdü. Kutluk Bilge Kağan döneminde Uygur Kağanlığı, Moğolistan'dan Çin Seddi'ne, batıda Kazakistan'dan doğuda Mançurya'ya kadar genişledi. Çin Tang Hanedanı ile hemen ittifak kurarak diplomatik ilişkileri başlattı. Kutluk Bilge Kağan'ın en önemli kararı, Göktürk devlet geleneğini ve kurumlarını korumasıydı. Uygur yazısının geliştirilmesine öncülük etti. 747'de öldüğünde oğlu Bayan Çur tahta çıktı. Kurduğu devlet, 100 yıl boyunca Orta Asya'nın en güçlü ve en kültürlü devleti olmuştur.",
+    "legacy": "Göktürklerin çöküşünden sonra Türk birliğini yeniden kurarak Orta Asya'nın en güçlü devletini kurdu. Uygur medeniyetinin temellerini attı.",
+    "achievements": [
+      "Uygur Kağanlığı'nı kurdu (744)",
+      "Göktürk devlet geleneğini sürdürdü",
+      "Ötüken'i başkent yaptı",
+      "Uygur yazısının gelişimini başlattı",
+      "Çin Tang Hanedanı ile ittifak kurdu",
+      "Moğolistan'dan Çin Seddi'ne imparatorluk kurdu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 744",
+        "title": "Uygur Kağanlığı'nın Kuruluşu",
+        "description": "Göktürklerin çöküşünden sonra Ötüken'de Uygur Kağanlığı'nı kurdu."
+      },
+      {
+        "year": "M.S. 745",
+        "title": "Ötüken Başkent",
+        "description": "Göktürk başkenti Ötüken'i (Orhun) merkez yaparak devleti örgütledi."
+      },
+      {
+        "year": "M.S. 746",
+        "title": "Tang İttifakı",
+        "description": "Çin Tang Hanedanı ile diplomatik ilişkiler kuruldu, karşılıklı elçiler gönderildi."
+      },
+      {
+        "year": "M.S. 747",
+        "title": "Kutluk Bilge Kağan'ın Ölümü",
+        "description": "3 yıllık başarılı hükümdarlığın ardından öldü, oğlu Bayan Çur tahta çıktı."
+      }
+    ],
+    "predecessor": "İkinci Göktürk Kağanlığı (Özmiş Kağan)",
+    "successor": "Bayan Çur Kağan (oğlu)",
+    "quote": {
+      "text": "Göktürkler gitti, ama Türk devleti ve milleti asla yok olmayacak.",
+      "source": "Kutluk Bilge Kağan"
+    },
+    "battles": [
+      {
+        "name": "Özmiş Kağan Yenilgisi",
+        "year": "M.S. 744",
+        "result": "victory",
+        "description": "Zayıflayan son Göktürk kağanını devirerek yeni kağanlığın temellerini attı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Bayan Çur Kağan",
+        "role": "Oğlu, Halef",
+        "description": "Kutluk Bilge Kağan'dan sonra tahta çıktı (747-759). An Luşan isyanında Tang'a yardım etti."
+      },
+      {
+        "name": "Özmiş Kağan",
+        "role": "Son Göktürk Kağanı",
+        "description": "İkinci Göktürk Kağanlığı'nın son kağanı. Kutluk Bilge tarafından yenilgiye uğratıldı."
+      },
+      {
+        "name": "III. Tang Suzong",
+        "role": "Çin İmparatoru",
+        "description": "Tang Hanedanı imparatoru. Kutluk Bilge ile diplomatik ilişkiler kurdu."
+      }
+    ]
+  },
+  {
+    "id": "uygur-bayan",
+    "order": 2,
+    "name": "Bayan Çur Kağan",
+    "title": "Uygur Kağanı - Çin'in Kurtarıcısı",
+    "period": "M.S. 747 - 759",
+    "dynasty": "Uygur Kağanlığı",
+    "dynastyId": "uygurlar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-uygur-bayan.jpg",
+    "description": "An Luşan isyanını bastırarak Tang Çin'i çöküşten kurtardı. Uygurların zenginleşmesini sağladı.",
+    "fullBio": "Bayan Çur Kağan (ö. 759), M.S. 747 ile 759 yılları arasında hüküm sürmüş, Uygur Kağanlığı'nın ikinci kağanı ve Tang Çin'i çöküşten kurtaran hükümdardır. Babası Kutluk Bilge Kağan'dan sonra tahta çıktı. 755 yılında Çin'de general An Luşan, Tang Hanedanı'na karşı büyük bir isyan başlattı. İsyancılar başkent Chang'an'ı ele geçirdi, imparator kaçmak zorunda kaldı. Tang İmparatoru Suzong, 756 yılında Uygur Kağanı Bayan Çur'dan yardım istedi. Bayan Çur, 4.000 Uygur süvarisinden oluşan seçkin bir kuvveti Çin'e gönderdi. Uygur atlı okçuları, 757 yılında isyancıların merkezini kuşatıp yok etti. 758'de Luoyang şehri alındı. Uygur yardımı, Tang Hanedanı'nın tamamen çökmesini engelledi. Karşılığında Uygurlar, Chang'an ve Luoyang'dan devasa miktarda ganimet aldılar: altın, gümüş, ipek, değerli eşyalar ve binlerce köle. Bu ganimetler, Uygur Kağanlığı'nı Orta Asya'nın en zengin devleti yaptı. Bayan Çur döneminde Uygur ordusu profesyonelleşti, Çin usulü piyade birlikleri kuruldu. 759'da öldüğünde kardeşi Bögü Kağan tahta çıktı.",
+    "legacy": "Tang Çin'i çöküşten kurtararak Uygurların zenginleşmesini sağladı. Uygur-Çin ilişkilerinin temelini attı.",
+    "achievements": [
+      "An Luşan isyanını bastırdı (756-758)",
+      "Tang Çin'i çöküşten kurtardı",
+      "Uygur ordusunu profesyonelleştirdi",
+      "Çin'den devasa ganimet elde etti",
+      "Uygur Kağanlığı'nı en zengin dönemine hazırladı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 755",
+        "title": "An Luşan İsyanı",
+        "description": "Çin generali An Luşan Tang Hanedanı'na isyan etti, başkent düştü."
+      },
+      {
+        "year": "M.S. 756",
+        "title": "Tang'dan Yardım Çağrısı",
+        "description": "Tang İmparatoru Suzong, Bayan Çur'dan acil askeri yardım istedi."
+      },
+      {
+        "year": "M.S. 757",
+        "title": "Uygur Zaferi",
+        "description": "4.000 Uygur süvarisi isyancıları yenerek Tang'ı kurtardı."
+      },
+      {
+        "year": "M.S. 758",
+        "title": "Luoyang'ın Alınması",
+        "description": "İsyancıların son kalesi Luoyang Uygur-Tang birleşik ordusu tarafından alındı."
+      },
+      {
+        "year": "M.S. 759",
+        "title": "Bayan Çur'un Ölümü",
+        "description": "Başarılı hükümdarlığın ardından öldü, kardeşi Bögü Kağan tahta çıktı."
+      }
+    ],
+    "predecessor": "Kutluk Bilge Kağan (babası)",
+    "successor": "Bögü Kağan (kardeşi)",
+    "quote": {
+      "text": "Tang İmparatoru bizim dostumuzdur. Dostun düşmanı bizim düşmanımızdır.",
+      "source": "Bayan Çur Kağan, An Luşan isyanına müdahale ederken"
+    },
+    "battles": [
+      {
+        "name": "Chang'an Muharebesi",
+        "year": "M.S. 757",
+        "result": "victory",
+        "description": "4.000 Uygur süvarisi, An Luşan isyancılarını başkent Chang'an'da yenilgiye uğrattı."
+      },
+      {
+        "name": "Luoyang Muharebesi",
+        "year": "M.S. 758",
+        "result": "victory",
+        "description": "Tang-Uygur birleşik ordusu isyancıların son kalesi Luoyang'ı ele geçirdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "An Luşan",
+        "role": "Çin Askeri Lideri / İsyancı",
+        "description": "Tang generali. 755'te isyan başlattı, iki başkenti ele geçirdi, Uygurlar tarafından yenildi."
+      },
+      {
+        "name": "III. Tang Suzong",
+        "role": "Çin İmparatoru",
+        "description": "Tang İmparatoru (756-762). An Luşan isyanında Uygurlardan yardım istedi."
+      },
+      {
+        "name": "Bögü Kağan",
+        "role": "Kardeşi, Halef",
+        "description": "759'tan sonra tahta çıktı, Maniheizm'i devlet dini yaptı."
+      }
+    ]
+  },
+  {
+    "id": "uygur-bogu",
+    "order": 3,
+    "name": "Bögü Kağan",
+    "title": "Uygur Kağanı - Maniheizm'i Kabul Eden",
+    "period": "M.S. 759 - 780",
+    "dynasty": "Uygur Kağanlığı",
+    "dynastyId": "uygurlar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-uygur-bogu.jpg",
+    "description": "Maniheizm'i 763'te devlet dini yaptı. Uygur Kağanlığı'nın kültür ve sanat altın çağını yaşattı.",
+    "fullBio": "Bögü Kağan, M.S. 759 ile 780 yılları arasında 21 yıl hüküm sürmüş, Uygur Kağanlığı'nın en görkemli, en kültürlü ve en zengin dönemini yaşatan hükümdardır. Kardeşi Bayan Çur'dan sonra tahta çıktı. Onun döneminde Uygur Kağanlığı, Moğolistan'dan Çin Seddi'ne, batıda Kazakistan'dan doğuda Mançurya'ya kadar genişledi. Bögü Kağan'ın en önemli kararı, 763 yılında Maniheizm'i resmi devlet dini olarak ilan etmesidir. 762 yılında Luoyang'ı işgal ettiği sırada Maniheist rahiplerle tanıştı, dinin öğretilerinden etkilendi. Bu karar, Uygur Kağanlığı'nın kültür ve sanat hayatında derin etkiler yarattı. Maniheist, Budist ve Hristiyan eserleri Türkçeye çevrildi. Uygur yazısı gelişerek sonraları Moğol alfabesinin temelini oluşturdu. Başkent Karabalıgasun (Ordu-Balık), Orta Asya'nın en önemli kültür, bilim ve ticaret merkezi haline geldi. Ancak Bögü'nün Maniheizm'e geçişi, geleneksel Tengrici Türk boylarının tepkisini çekti. 780 yılında Tengrici boylar ayaklanarak Bögü Kağan'ı öldürdüler. Bu olay, Uygur Kağanlığı'nın ilk büyük iç çatışmasıydı.",
+    "legacy": "Maniheizm'i devlet dini yaparak Uygur kültürünü zenginleştirdi. Uygur yazısı, sanatı ve edebiyatının gelişimine öncülük etti. Moğol alfabesinin temeli olan Uygur yazısını geliştirdi.",
+    "achievements": [
+      "Maniheizm'i devlet dini olarak kabul etti (763)",
+      "Uygur yazısının gelişimini sağladı",
+      "Karabalıgasun'u kültür merkezi yaptı",
+      "Türkçeye ilk yazılı eserleri kazandırdı",
+      "Çin Tang ile ittifakları sürdürdü",
+      "Uygur sanatının altın çağını başlattı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 759",
+        "title": "Tahta Çıkış",
+        "description": "Kardeşi Bayan Çur'dan sonra Uygur kağanı oldu."
+      },
+      {
+        "year": "M.S. 762",
+        "title": "Luoyang ve Maniheizm",
+        "description": "Luoyang'ı işgal ederken Maniheist rahiplerle tanıştı, derinden etkilendi."
+      },
+      {
+        "year": "M.S. 763",
+        "title": "Maniheizm Resmi Din",
+        "description": "Maniheizm'i devlet dini ilan etti, ilk Maniheist Türk eserleri yazıldı."
+      },
+      {
+        "year": "M.S. 770",
+        "title": "Karabalıgasun Kültür Merkezi",
+        "description": "Başkent Karabalıgasun, Orta Asya'nın en önemli kültür ve ticaret merkezi haline geldi."
+      },
+      {
+        "year": "M.S. 780",
+        "title": "Bögü Kağan'ın Öldürülmesi",
+        "description": "Tengrici boylar ayaklanarak Bögü Kağan'ı öldürdü, geleneksel inanca dönüş başladı."
+      }
+    ],
+    "predecessor": "Bayan Çur Kağan (kardeşi)",
+    "successor": "Tun Baga Tarkan (katili/darbeci)",
+    "quote": {
+      "text": "Maniheizm, ışığın ve bilgeliğin dinidir. Bu ışık Uygur topraklarını aydınlatacaktır.",
+      "source": "Bögü Kağan, Maniheizm'i kabul ederken"
+    },
+    "battles": [
+      {
+        "name": "Luoyang Baskını",
+        "year": "M.S. 762",
+        "result": "victory",
+        "description": "Tang'ın ihanetine karşılık Luoyang'a baskın düzenledi, burada Maniheist rahiplerle tanıştı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Bayan Çur Kağan",
+        "role": "Kardeşi, Önceki Kağan",
+        "description": "Uygur Kağanlığı'nın ikinci kağanı. Tang'ı An Luşan isyanından kurtardı."
+      },
+      {
+        "name": "Rahip Ries",
+        "role": "Maniheist Rahip",
+        "description": "Bögü Kağan'ın Maniheizm'i tanımasını sağlayan rahip. Uygur sarayında dinî öğretmen oldu."
+      },
+      {
+        "name": "Tun Baga Tarkan",
+        "role": "General / Darbeci",
+        "description": "Tengrici general. Bögü Kağan'ı 780'de öldürerek tahta geçti."
+      },
+      {
+        "name": "III. Tang Dai Zong",
+        "role": "Çin İmparatoru",
+        "description": "Tang İmparatoru (762-779). Bögü Kağan ile ittifak ve çatışma dönemleri yaşadı."
+      }
+    ]
+  },
+  {
+    "id": "uygur-tun",
+    "order": 4,
+    "name": "Tun Baga Tarkan",
+    "title": "Uygur Kağanı - Tengrici Dönüş",
+    "period": "M.S. 780 - 795",
+    "dynasty": "Uygur Kağanlığı",
+    "dynastyId": "uygurlar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-uygur-tun.jpg",
+    "description": "Bögü Kağan'ı öldürerek tahta çıktı. Maniheizm karşıtı politikalar izledi, geleneksel Tengriciliğe döndü.",
+    "fullBio": "Tun Baga Tarkan, M.S. 780 ile 795 yılları arasında hüküm sürmüş, Bögü Kağan'ı öldürerek tahta çıkan ve Maniheizm karşıtı politikalar izleyen Uygur hükümdarıdır. Bögü Kağan'ın Maniheizm'i devlet dini yapmasına ve geleneksel Tengrici inançları terk etmesine karşı çıkan Tengrici boyların lideri olarak darbe yaptı. 780 yılında Bögü Kağan'ı öldürerek tahta çıktı. Döneminde Maniheist rahipler saraydan uzaklaştırıldı, geleneksel Türk inançları ve töreleri yeniden güçlendirildi. Ancak Tun Baga, tamamen Maniheizm'i yasaklamadı, sadece devlet desteğini kesti. Bu pragmatik yaklaşım, Uygur toplumunda dini çatışmaların önünü kesti. Tun Baga döneminde Tang Çin ile ilişkiler gerginleşti. 790'lı yıllarda Batı Türkistan'daki Tibetliler ve Çinlilerle mücadele edildi. 795'te öldüğünde torunu Kutluk Bilge II. tahta çıktı.",
+    "legacy": "Bögü Kağan'ın Maniheizm politikasını tersine çevirerek geleneksel Türk inançlarını korudu. Dini pragmatizm örneği gösterdi.",
+    "achievements": [
+      "Bögü Kağan'ı devirerek gelenekselçı bir politika izledi",
+      "Maniheist rahiplerin saray etkisini kırdı",
+      "Tengrici gelenekleri yeniden güçlendirdi",
+      "Uygur toplumunda dini dengeyi korudu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 780",
+        "title": "Darbe ve Tahta Çıkış",
+        "description": "Bögü Kağan'ı öldürerek Tengrici bir politikayla tahta çıktı."
+      },
+      {
+        "year": "M.S. 783",
+        "title": "Maniheist Politikanın Tersine Çevrilmesi",
+        "description": "Maniheist rahipler saraydan uzaklaştırıldı, Tengrici töreler yeniden kuruldu."
+      },
+      {
+        "year": "M.S. 790",
+        "title": "Batı Sınır Mücadeleleri",
+        "description": "Tibet ve Çin güçleriyle Batı Türkistan'da sınır çatışmaları yaşandı."
+      },
+      {
+        "year": "M.S. 795",
+        "title": "Tun Baga'nın Ölümü",
+        "description": "15 yıllık hükümdarlığın ardından öldü, torunu Kutluk Bilge II. tahta çıktı."
+      }
+    ],
+    "predecessor": "Bögü Kağan (öldürdüğü hükümdar)",
+    "successor": "Kutluk Bilge Kağan II (torunu)",
+    "quote": {
+      "text": "Gök Tanrı'nın töresi, Uygur'un töresidir. Yabancı dinler bizi böler.",
+      "source": "Tun Baga Tarkan"
+    },
+    "battles": [
+      {
+        "name": "Bögü Kağan Darbesi",
+        "year": "M.S. 780",
+        "result": "victory",
+        "description": "Tengrici boylarla birlikte saray darbesi yaparak Bögü Kağan'ı devirdi."
+      },
+      {
+        "name": "Beşbalık Sınır Savaşı",
+        "year": "M.S. 790",
+        "result": "victory",
+        "description": "Tibet güçlerine karşı Batı Türkistan sınırında zafer kazandı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Bögü Kağan",
+        "role": "Önceki Kağan / Kurban",
+        "description": "Maniheizm'i devlet dini yapan hükümdar. Tun Baga tarafından 780'de öldürüldü."
+      },
+      {
+        "name": "Kutluk Bilge Kağan II",
+        "role": "Torunu, Halef",
+        "description": "795'ten sonra tahta çıktı, Maniheizm ve Tengricilik arasında uzlaşcı politika izledi."
+      }
+    ]
+  },
+  {
+    "id": "uygur-kutluk2",
+    "order": 5,
+    "name": "Kutluk Bilge Kağan II",
+    "title": "Uygur Kağanı - Uzlaşmacı",
+    "period": "M.S. 795 - 808",
+    "dynasty": "Uygur Kağanlığı",
+    "dynastyId": "uygurlar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-uygur-kutluk2.jpg",
+    "description": "Maniheizm ve Tengricilik arasında uzlaşmacı politika izledi. Uygur devletinin son istikrarlı dönemini yaşattı.",
+    "fullBio": "Kutluk Bilge Kağan II, M.S. 795 ile 808 yılları arasında hüküm sürmüş, Uygur Kağanlığı'nın son istikrarlı ve refah dönemini yaşatan hükümdardır. Dedesi Tun Baga Tarkan'dan sonra tahta çıktı. Onun döneminde Maniheizm ve Tengricilik arasında uzlaşmacı bir politika izlendi. Maniheist rahiplere yeniden sarayda görev verildi ancak devlet tekeline alınmadı. Bu dengeli politika, Uygur toplumunda iç barışı sağladı. Kutluk Bilge II döneminde Tang Çin ile yeniden dostluk ilişkileri kuruldu. Çin, Uygurlara karşı Tibet tehdidine karşı askeri destek sağladı. 798 yılında Uygur ordusu Tibetlilere karşı önemli bir zafer kazandı. Bu dönem Uygur ticaretinin de zirvesiydi. İpek Yolu üzerinden gelen kervanlar Karabalıgasun'da duruyor, Uygur tüccarları Orta Asya ile Çin arasında aracılık yapıyordu. Ancak bu refah, devletin askeri gücünün zayıflamasını gizliyordu. 808'de öldüğünde devletin temelleri sarsılmaya başlamıştı.",
+    "legacy": "Uygur Kağanlığı'nın son istikrarlı dönemini yaşattı. Maniheizm-Tengricilik uzlaşması, Uygur toplumunun çok kültürlü yapısını korudu.",
+    "achievements": [
+      "Maniheizm ve Tengricilik arasında denge kurdu",
+      "Tang Çin ile ittifakları yeniledi",
+      "Tibetlilere karşı zafer kazandı (798)",
+      "Uygur ticaretinin zirvesini yaşattı",
+      "Son istikrarlı dönemi sağladı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 795",
+        "title": "Tahta Çıkış",
+        "description": "Dedesi Tun Baga'dan sonra tahta çıktı, uzlaşmacı politika izledi."
+      },
+      {
+        "year": "M.S. 798",
+        "title": "Tibet Zaferi",
+        "description": "Tibet ordusuna karşı önemli bir zafer kazanıldı, batı sınırları güvence altına alındı."
+      },
+      {
+        "year": "M.S. 800",
+        "title": "İpek Yolu Ticaretinin Zirvesi",
+        "description": "Karabalıgasun, İpek Yolu'nun en önemli kervan duraklarından biri haline geldi."
+      },
+      {
+        "year": "M.S. 808",
+        "title": "Kutluk Bilge II'nin Ölümü",
+        "description": "İstikrarlı dönem sona erdi, devletin zayıflaması hızlandı."
+      }
+    ],
+    "predecessor": "Tun Baga Tarkan (dedesi)",
+    "successor": "Bağa Tarkan (oğlu)",
+    "quote": {
+      "text": "Işığın dini de, göğün dini de bizim içindir. Ayrılık değil, birlik gerek.",
+      "source": "Kutluk Bilge Kağan II"
+    },
+    "battles": [
+      {
+        "name": "Tibet Muharebesi",
+        "year": "M.S. 798",
+        "result": "victory",
+        "description": "Tibet ordusu yenilgiye uğratıldı, batı sınırları korundu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Tun Baga Tarkan",
+        "role": "Dedesi, Önceki Kağan",
+        "description": "Bögü Kağan'ı devirerek Tengrici politika izleyen hükümdar."
+      },
+      {
+        "name": "Tang Dezong",
+        "role": "Çin İmparatoru",
+        "description": "Tang İmparatoru (779-805). Kutluk Bilge II ile dostluk ve ittifak ilişkileri kurdu."
+      }
+    ]
+  },
+  {
+    "id": "uygur-sondenem",
+    "order": 6,
+    "name": "Son Uygur Kağanları",
+    "title": "Uygur Kağanları - Çöküş ve Göç Dönemi",
+    "period": "M.S. 808 - 840",
+    "dynasty": "Uygur Kağanlığı",
+    "dynastyId": "uygurlar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-uygur-son.jpg",
+    "description": "Uygur Kağanlığı'nın son dönemi. 840'da Kırgızlar tarafından yıkıldı. Uygurların batıya göçü başladı.",
+    "fullBio": "808'den 840'a kadar olan dönem, Uygur Kağanlığı'nın gerileme ve çöküş dönemidir. Bu 32 yıllık süreçte birden fazla hükümdar tahta çıktı. Bağa Tarkan (808-821), Küçlüg Bilge (821-824), Öge Kağan (824-832) ve son olarak adı bilinmeyen son kağan (832-840) dönemlerinde devlet hızla zayıfladı. İç çatışmalar, dini bölünmeler (Maniheist-Tengrici), vergi toplanamaması ve ordu zayıflaması kağanlığı çökertti. 839 yılında büyük bir çirğa (veba) salgını ve kıtlık oldu. Bu zayıflıktan yararlanan Yenisey Kırgızları, 840 yılında Orhun vadisine büyük bir orduyla saldırdı. Uygur ordusu direnemedi, başkent Karabalıgasun düştü, son Uygur Kağan öldürüldü. Uygur Kağanlığı resmen sona erdi. Çöküşten sonra Uygurlar üç gruba ayrıldı: Bir grup Gansu'ya (Kansu) giderek Gansu Uygur Krallığı'nı kurdu. Bir grup Turfan'a giderek Turfan Uygur Krallığı'nı kurdu. Bir grup Karahanlılar bünyesine karıştı. Batıya giden Uygurlar, bugünkü Sincan Uygur Özerk Bölgesi'nin temelini oluşturdu.",
+    "legacy": "Uygur Kağanlığı'nın çöküşü, Türk tarihinin en önemli göç hareketlerinden birini başlattı. Batıya göç eden Uygurlar, bugünkü Sincan Uygurlarının atalarıdır.",
+    "achievements": [
+      "100 yıllık Uygur devlet geleneğini sürdürdüler",
+      "Çöküş sonrası batıda yeni Uygur devletleri kurdular"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 808",
+        "title": "Bağa Tarkan Dönemi",
+        "description": "Kutluk Bilge II'nin oğlu Bağa Tarkan tahta çıktı ancak devletin zayıflaması hızlandı."
+      },
+      {
+        "year": "M.S. 821",
+        "title": "İç Çatışmalar",
+        "description": "Taht kavgaları ve dini bölünmeler devleti zayıflattı."
+      },
+      {
+        "year": "M.S. 839",
+        "title": "Çirğa ve Kıtlık",
+        "description": "Büyük bir veba salgını ve kıtlık Uygur toplumunu çökertti."
+      },
+      {
+        "year": "M.S. 840",
+        "title": "Kırgız İstilası ve Yıkılış",
+        "description": "Yenisey Kırgızları Karabalıgasun'u yağmaladı, son Uygur Kağan öldürüldü, devlet sona erdi."
+      },
+      {
+        "year": "M.S. 840-860",
+        "title": "Uygur Göçü",
+        "description": "Uygurlar Gansu, Turfan ve Batı Türkistan'a göç ederek yeni devletler kurdular."
+      }
+    ],
+    "predecessor": "Kutluk Bilge Kağan II",
+    "successor": "Hanedan sona erdi / Gansu ve Turfan Uygur Krallıkları",
+    "quote": {
+      "text": "Karabalıgasun'un ateşi söndü, ama Uygur milleti göçebe ateşini batıda yeniden yaktı.",
+      "source": "Uygur geleneği"
+    },
+    "battles": [
+      {
+        "name": "Karabalıgasun Savunması",
+        "year": "M.S. 840",
+        "result": "defeat",
+        "description": "Kırgız ordusu başkenti kuşatıp yok etti, Uygur Kağanlığı çöktü."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Kırgız Kağanı",
+        "role": "Yenisey Kırgız Lideri",
+        "description": "Yenisey Kırgızlarının lideri. 840'ta Karabalıgasun'u yağmalayarak Uygur Kağanlığı'nı yıktı."
+      },
+      {
+        "name": "Pangtele",
+        "role": "Uygur Lideri / Gansu Kağanı",
+        "description": "Uygur göçmenlerinin lideri. Gansu'ya giderek Gansu Uygur Krallığı'nı kurdu (c. 848)."
+      },
+      {
+        "name": "Tang Wuzong",
+        "role": "Çin İmparatoru",
+        "description": "Tang İmparatoru (840-846). Uygur çöküşünden yararlanarak Maniheizmi Çin'de yasakladı."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1149 @@
+[
+  {
+    "id": "beylik-saltuk-bey",
+    "order": 1,
+    "name": "Saltuk Bey",
+    "title": "Saltuklular Beyliği Kurucusu - Erzurum Fatihi",
+    "period": "1071 - 1102",
+    "dynasty": "Saltuklular",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-saltuk-bey.jpg",
+    "description": "Malazgirt sonrası Doğu Anadolu'da Erzurum merkezli Saltuklular Beyliği'ni kuran Türk komutan. Erzurum Ulu Camii'nin yapıcısı.",
+    "fullBio": "Saltuk Bey, 1071-1102 yılları arasında hüküm sürmüş, Saltuklu Beyliği'nin kurucusu ve Erzurum bölgesinin ilk Türk hükümdarıdır. Aslen Oğuz Türklerinden olan Saltuk Bey, Malazgirt Zaferi sonrası Doğu Anadolu'ya gelen Türk akıncıları arasındadır. Bizans İmparatorluğu'nun Doğu Anadolu'daki kontrolünü zayıflatan Saltuk Bey, Erzurum ve çevresinde bağımsız bir beylik kurmuştur. Saltuk Bey, Gürcüler ve Bizanslılarla sürekli sınır çatışmaları yaşamış, bölgedeki Türk varlığını güçlendirmiştir. Onun kurduğu Saltuklu Beyliği, Doğu Anadolu'da Türk devlet geleneğinin ilk örneğidir. Saltuk Bey'in en büyük mirası, Erzurum ve çevresinin Türk yurdu olarak kalmasını sağlamasıdır. Saltuklu Beyliği döneminde Erzurum önemli bir ticaret ve kültür merkezi haline gelmiş, İpek Yolu üzerindeki kervanlar buradan geçmiştir. Saltuk Bey'den sonra oğulları ve torunları beylik yönetimini sürdürmüş, 1202 yılında Anadolu Selçukluları tarafından ilhak edilene kadar varlığını korumuştur. Saltuk Bey'in kurduğu düzen, Doğu Anadolu'nun Türkleşmesinde önemli bir rol oynamıştır.",
+    "legacy": "Saltuklular, Erzurum ve Doğu Anadolu'da yüzyılı aşkın süre hüküm süren önemli bir Türk beyliktir. Erzurum Ulu Camii, Anadolu Türk mimarisinin en eski örneklerindendir.",
+    "achievements": [
+      "Saltuklular Beyliği'ni kurma",
+      "Erzurum'u fethetme",
+      "Erzurum Ulu Camii'ni yaptırma",
+      "Doğu Anadolu'ya Türkmen iskanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1071",
+        "title": "Erzurum'un Fethi",
+        "description": "Malazgirt sonrası Erzurum ve çevresi fethedildi."
+      },
+      {
+        "year": "M.S. 1102",
+        "title": "Saltuk Bey'in Ölümü",
+        "description": "Beyliğin kurucusu vefat etti."
+      }
+    ],
+    "predecessor": "Danişmend Gazi",
+    "successor": "Çaka Bey",
+    "battles": [
+      {
+        "name": "Erzurum'un Fethi",
+        "year": "M.S. 1071",
+        "result": "victory",
+        "description": "Malazgirt sonrası Erzurum ve çevresi fethedildi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Erzurum'un taşından, Oltu'nun yeşilinden bir beylik kurduk. Malazgirt'ten sonra Doğu Anadolu, Türk'ün hakkıdır.",
+      "source": "Saltuk Bey"
+    }
+  },
+  {
+    "id": "danismend-gazi",
+    "order": 2,
+    "name": "Danişmend Gazi",
+    "title": "Danişmend Beyliği Kurucusu - Melik Gazi",
+    "period": "1071 - 1085",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-danismend-gazi.jpg",
+    "description": "Malazgirt sonrası Anadolu'da kurulan ilk Türk beyliklerinden Danişmend Beyliği'nin kurucusu. Samsun'dan Kayseri'ye kadar geniş bir bölgede hüküm sürdü.",
+    "fullBio": "Danişmend Gazi (ö. 1085), Malazgirt Zaferi sonrası Anadolu'da kurulan ilk Türk beyliklerinden Danişmend Beyliği'nin kurucusu ve ilk hükümdarıdır. Hakkında çok az tarihi kayıt bulunmasına rağmen, halk arasında 'Melik Gazi' olarak anılan efsanevi bir liderdir. Danişmendname adlı destan onun kahramanlıklarını anlatır. 1071'den sonra Anadolu'nun iç kesimlerine ilerleyerek Sivas, Niksar, Tokat, Amasya ve çevresinde kontrol sağladı. Bizanslılarla ve diğer Türk beyleriyle sürekli mücadele içinde oldu. 1075 civarında Kayseri'yi ele geçirdi. Hristiyanlığın önemli merkezlerinden Kappadokia bölgesindeki kaleleri fethederek Türk varlığını güçlendirdi. Ölümünden sonra oğulları ve torunları beyliği 1178'e kadar sürdürdü. Danişmendname destanında olağanüstü güçlere sahip, adil ve cesur bir lider olarak tasvir edilir.",
+    "legacy": "Anadolu'da kurulan ilk Türk beyliklerinden birinin kurucusu olarak, Türk varlığının İç Anadolu'ya yayılmasında önemli rol oynadı.",
+    "achievements": [
+      "Danişmend Beyliği'ni kurma",
+      "Kayseri'yi fethetme",
+      "Danişmendname destanının kahramanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1071",
+        "title": "Beylik Kuruluşu",
+        "description": "Malazgirt sonrası Niksar-Sivas bölgesinde beylik kurdu."
+      },
+      {
+        "year": "1075",
+        "title": "Kayseri Fethi",
+        "description": "Kayseri ve çevresini Bizanslılardan aldı."
+      }
+    ],
+    "predecessor": "Kadı Burhaneddin Ahmed",
+    "successor": "Emir Gazi",
+    "battles": [
+      {
+        "name": "Kayseri Fethi",
+        "year": "1075",
+        "result": "victory",
+        "description": "Kayseri ve çevresini Bizanslılardan aldı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Kayseri'nin kalesini aştığımızda, Anadolu'nun göbeğinde bir Türk güneşi doğdu. Danişmendname, bizim destanımızdır.",
+      "source": "Danişmend Gazi"
+    }
+  },
+  {
+    "id": "beylik-mengucek-gazi",
+    "order": 3,
+    "name": "Mengücek Gazi",
+    "title": "Mengücekliler Beyliği Kurucusu - Erzincan Fatihi",
+    "period": "1072 - 1118",
+    "dynasty": "Mengücekliler",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-mengucek-gazi.jpg",
+    "description": "Malazgirt Zaferi sonrası Doğu Anadolu'da kurulan Mengücekliler Beyliği'nin kurucusu. Erzincan, Bayburt ve Kemah civarında hüküm sürdü.",
+    "fullBio": "Mengücek Gazi, 12. yüzyılın başlarında hüküm sürmüş, Mengücekli Beyliği'nin kurucusu ve Erzincan, Kemah, Divriği bölgesinin ilk Türk hükümdarıdır. Aslen Oğuz Türklerinden olan Mengücek Gazi, Malazgirt Zaferi sonrası Doğu Anadolu'ya yerleşen Türk akıncıları arasındadır. Danişmend Gazi'nın komutası altında savaşmış, daha sonra Erzincan ve çevresinde bağımsız bir beylik kurmuştur. Mengücek Gazi, Bizanslılar ve Gürcülerle sürekli sınır çatışmaları yaşamış, Fırat Nehri vadisindeki Türk varlığını güçlendirmiştir. Onun kurduğu Mengücekli Beyliği, Doğu Anadolu'da önemli bir Türk-İslam kültür merkezi haline gelmiştir. Mengücekli Beyliği döneminde özellikle Divriği'de önemli mimari eserler inşa edilmiştir. Divriği Ulu Camii ve Darüşşifası, UNESCO Dünya Mirası Listesi'nde yer alan bu dönemin en önemli eserlerindendir. Mengücek Gazi'nin kurduğu beylik, 1228 yılına kadar varlığını sürdürmüş, daha sonra Anadolu Selçukluları tarafından ilhak edilmiştir. Onun mirası, Erzincan ve Divriği bölgesinin Türkleşmesinde ve İslamlaşmasında önemli bir rol oynamıştır.",
+    "legacy": "Mengücekliler, Doğu Anadolu'da önemli bir Türk beylik olarak Divriği Ulu Camii gibi dünya mirası eserler bırakmıştır.",
+    "achievements": [
+      "Mengücekliler Beyliği'ni kurma",
+      "Erzincan ve Bayburt'u fethetme",
+      "Divriği Ulu Camii'nin temellerini atma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1072",
+        "title": "Beylik Kuruluşu",
+        "description": "Erzincan civarında beylik kuruldu."
+      },
+      {
+        "year": "M.S. 1118",
+        "title": "Mengücek Gazi'nin Ölümü",
+        "description": "Beyliğin kurucusu vefat etti."
+      }
+    ],
+    "predecessor": "Çaka Bey",
+    "successor": "Kılıç Arslan I",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Erzincan'dan Bayburt'a, bu dağlar Türkmen'in kalesidir. Divriği'de bıraktığımız camii, taşla yazılmış vasiyetimizdir.",
+      "source": "Mengücek Gazi"
+    }
+  },
+  {
+    "id": "beylik-caka-bey",
+    "order": 4,
+    "name": "Çaka Bey",
+    "title": "İzmir Fatihi - İlk Türk Deniz Beyi",
+    "period": "1081 - 1092",
+    "dynasty": "Çaka Beyliği",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-caka-bey.jpg",
+    "description": "Anadolu'da ilk Türk donanmasını kuran, İzmir ve Ege adalarını fetheden Türk komutan. Bizans'a karşı denizlerde ilk büyük Türk zaferlerini kazandı.",
+    "fullBio": "Çaka Bey, 11. yüzyıl sonlarında hüküm sürmüş, Anadolu'da deniz gücü kuran ilk Türk komutanı ve İzmir bölgesinin fatihidir. Aslen Türkmen beylerinden olan Çaka Bey, Malazgirt Zaferi sonrası Anadolu'ya gelen Türk akıncıları arasındadır. Bizans İmparatoru Alexios Komnenos'un kızıyla evlenerek Bizans sarayında yetişmiş, bu sayede Bizans'ın askeri ve diplomatik yöntemlerini öğrenmiştir. Daha sonra İzmir ve Ege kıyılarını ele geçirerek burada bağımsız bir beyli kurmuştur. Çaka Bey'in en büyük başarısı, Türklerin ilk kez bir donanma kurmasını sağlamasıdır. Oluşturduğu deniz gücüyle Ege Denizi'nde Bizans gemilerine karşı başarılı operasyonlar düzenlemiş, Sakız Adası, Midilli ve hatta İstanbul'a kadar akınlar yapmıştır. Çaka Bey'in denizcilik faaliyetleri, sonraki yüzyıllarda Osmanlı donanmasının temelini oluşturacak denizcilik geleneğinin ilk örneğidir. Bizans İmparatoru tarafından kışkırtılan diğer Türk beyleri tarafından öldürülmüştür. Çaka Bey'in denizcilik mirası, Türk deniz gücünün kurucusu olarak tarihte yerini almıştır.",
+    "legacy": "Çaka Bey, Anadolu Türk tarihinin ilk deniz beyidir. Ege'de Türk varlığını başlatan ve Bizans'a karşı denizde zaferler kazanan tek Türk lideridir.",
+    "achievements": [
+      "İzmir'i fethetme (1081)",
+      "Anadolu'nun ilk Türk donanmasını kurma",
+      "Ege adalarını fethetme",
+      "Bizans donanmasını yenme"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1081",
+        "title": "İzmir'in Fethi",
+        "description": "İzmir Türk hâkimiyetine girdi."
+      },
+      {
+        "year": "M.S. 1092",
+        "title": "Çaka Bey'in Ölümü",
+        "description": "Bizans ajanları tarafından öldürüldü."
+      }
+    ],
+    "predecessor": "Saltuk Bey",
+    "successor": "Mengücek Gazi",
+    "battles": [
+      {
+        "name": "İzmir'in Fethi",
+        "year": "M.S. 1081",
+        "result": "victory",
+        "description": "İzmir Türk hâkimiyetine girdi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "İzmir'den çıkan ilk Türk donanması, Bizans'ın denizdeki gururunu paramparça etti. Çaka Bey, Ege'nin efendisidir.",
+      "source": "Çaka Bey"
+    }
+  },
+  {
+    "id": "danismend-emir",
+    "order": 5,
+    "name": "Emir Gazi",
+    "title": "Danişmend Bey",
+    "period": "1085 - 1134",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-danismend-emir.jpg",
+    "description": "Danişmend Gazi'nin oğlu, babasının fetihlerini sürdüren ikinci bey. Haçlılarla mücadele etti.",
+    "fullBio": "Emir Gazi (ö. 1134), Danişmend Beyliği'nin ikinci hükümdarı ve Danişmend Gazi'nin oğludur. Babasının ölümünden sonra 1085 yılında beyliğin başına geçmiştir. Döneminde en önemli olay I. Haçlı Seferi sonrası Anadolu'da oluşan yeni dengelerdir. 1101 yılında Haçlı komutanı William of Nevers'i Malatya yakınlarında yenilgiye uğratmıştır. 1116 yılında Bizans İmparatoru I. Aleksios'un oğlu John Comnenus'a karşı savaşmıştır. Danişmend Beyliği onun döneminde en geniş sınırlarına ulaşmış, Sivas, Tokat, Niksar, Amasya, Malatya ve Kayseri çevresinde hakimiyet kurmuştur. 1134 yılında öldüğünde yerine oğlu Melik Mehmed Gazi geçti.",
+    "legacy": "Babasının kurduğu beylik en geniş sınırlarına ulaştı. Haçlılarla olan mücadeleleri, Anadolu Türklerinin Haçlı seferlerine direnişinin önemli bir parçasıdır.",
+    "achievements": [
+      "Haçlı komutanı William of Nevers'i yenilgiye uğratma",
+      "Beyliğin sınırlarını genişletme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1101",
+        "title": "Haçlıları Yenme",
+        "description": "William of Nevers komutasındaki Haçlı ordusunu bozguna uğrattı."
+      }
+    ],
+    "predecessor": "Danişmend Gazi",
+    "successor": "Melik Mehmed Gazi",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Babamın kılıcı Kayseri'de kaldı, benim kılım Sivas'ta sürdü. Haçlılar geldi, ama Danişmend'in oğlu geri püskürttü.",
+      "source": "Emir Gazi"
+    }
+  },
+  {
+    "id": "beylik-kilic-arslan",
+    "order": 6,
+    "name": "Kılıç Arslan I",
+    "title": "Anadolu Selçuklu Sultanı - Konya'nın Fatihi",
+    "period": "1092 - 1107",
+    "dynasty": "Anadolu Selçukluları",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-kilic-arslan.jpg",
+    "description": "Anadolu Selçuklu Devleti'nin kurucusu sayılan ilk bağımsız sultanı. I. Haçlı Seferi'ne karşı direniş önderi. Konya'yı başkent yaptı.",
+    "fullBio": "Kılıç Arslan I, 1092-1107 yılları arasında hüküm sürmüş, Anadolu Selçuklu Devleti'nin kurucusu ve ilk büyük sultanıdır. Babası Kutalmışoğlu Süleyman Şah'ın ölümünden sonra tahta çıkan Kılıç Arslan, henüz genç yaşta devletin başına geçmiştir. Hükümdarlığının ilk yıllarında Haçlılarla ve Bizanslılarla mücadele etmek zorunda kalmıştır. 1096 yılında Birinci Haçlı Seferi sırasında Nicaea (İznik)'yi Haçlılara karşı savunmuş, ancak şehri kaybetmiştir. Ancak 1101 yılında Haçlılar'a karşı büyük bir zafer kazanarak durumu lehine çevirmiştir. Kılıç Arslan I, 1107 yılında Musul'a yönelik bir sefer sırasında Fırat Nehri'nde boğularak hayatını kaybetmiştir. Onun ölümü, Anadolu Selçuklu Devleti'nde bir kargaşa döneminin başlangıcı olmuştur. Kılıç Arslan I, Anadolu'da Türk devlet geleneğinin kurulmasında öncü rol oynamış, Konya'yı başkent haline getirerek Anadolu Selçuklu Devleti'nin temelini atmıştır. Onun kurduğu devlet, yüzyıllar boyunca Anadolu'nun en önemli siyasi ve kültür merkezi olmuştur.",
+    "legacy": "Kılıç Arslan I, Anadolu Türk devlet geleneğinin kurucusudur. Konya'yı Türk başkenti yapması ve Haçlı Seferleri'ne karşı ilk büyük direnişi örgütlemesi, Türk tarihinin dönüm noktalarındandır.",
+    "achievements": [
+      "Anadolu Selçuklu Devleti'ni kurma",
+      "Konya'yı başkent yapma",
+      "I. Haçlı Seferi'ni püskürtme",
+      "Civetot zaferi (1096)",
+      "1101 Haçlı Seferi'ni imha etme"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1092",
+        "title": "Bağımsızlık",
+        "description": "Melikşah'ın ölümü üzerine Anadolu'da bağımsız sultan oldu."
+      },
+      {
+        "year": "M.S. 1096",
+        "title": "Civetot Zaferi",
+        "description": "İlk Haçlı dalgasını Anadolu'da imha etti."
+      },
+      {
+        "year": "M.S. 1101",
+        "title": "1101 Haçlı Seferi",
+        "description": "Büyük Haçlı ordusunu Anadolu'da yok etti."
+      },
+      {
+        "year": "M.S. 1107",
+        "title": "Şehadet",
+        "description": "Musul seferinde öldü."
+      }
+    ],
+    "predecessor": "Mengücek Gazi",
+    "successor": "Artuk Bey",
+    "battles": [
+      {
+        "name": "Civetot (Köln) Muharebesi",
+        "year": "M.S. 1096",
+        "result": "victory",
+        "description": "Civetot (Köln) Muharebesi sırasında Kılıç Arslan I orduları mücadele etti."
+      },
+      {
+        "name": "1101 Haçlı Seferi Muharebeleri",
+        "year": "M.S. 1101",
+        "result": "victory",
+        "description": "1101 Haçlı Seferi Muharebeleri sırasında Kılıç Arslan I orduları mücadele etti."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Konya'nın tahtına oturduğumda, Sultan Dağları'nın ardında bir Selçuklu güneşi doğuyordu. Anadolu, artık bizim evidir.",
+      "source": "Kılıç Arslan"
+    }
+  },
+  {
+    "id": "beylik-artuk-bey",
+    "order": 7,
+    "name": "Artuk Bey",
+    "title": "Artuklular Beyliği Kurucusu - Kudüs Muhafızı",
+    "period": "1091 - 1101",
+    "dynasty": "Artuklular",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-artuk-bey.jpg",
+    "description": "Alp Arslan'ın komutanlarından. Haçlı Seferleri döneminde Kudüs'ü savunan Türk komutan. Artuklular Beyliği'nin kurucusu.",
+    "fullBio": "Artuk Bey, 11. yüzyılın sonlarında yaşamış, Artuklu Beyliği'nin kurucusu ve Malazgirt Zaferi'nin kahraman komutanlarından biridir. Aslen Döğer boyundan Oğuz Türkü olan Artuk Bey, Sultan Alp Arslan'ın emri altında Malazgirt Muharebesi'ne katılmıştır. Savaşta gösterdiği kahramanlıklar sayesinde kendisine Diyarbakır ve Mardin çevresinde topraklar verilmiştir. Artuk Bey, bu bölgede bağımsız bir beylik kurarak Artuklu Devleti'nin temelini atmıştır. 1091 yılında Kudüs'ü fethetmesi, onun en büyük askeri başarısıdır. Artuk Bey, Haçlılarla sürekli mücadele etmiş, özellikle 1098 yılında Haçlıların Kudüs'ü işgali sırasında büyük direniş göstermiştir. Oğulları Necmeddin İlgazi ve Necmeddin Alpı, babalarının mirasını devralarak Artuklu Beyliği'ni geliştirmişlerdir. Artuk Bey'in kurduğu beylik, Anadolu'nun güneydoğusunda yüzyılı aşkın bir süre hüküm sürmüş, Mardin ve Diyarbakır'da önemli mimari eserler bırakmıştır. Artuklu Beyliği döneminde inşa edilen camiler, medreseler ve köprüler, Anadolu Türk mimarisinin en güzel örneklerindendir.",
+    "legacy": "Artuk Bey, Kudüs'ü fetheden ve Haçlılara karşı kahramanca savunan Türk komutandır. Oğulları tarafından kurulan Artuklu Beyliği, Anadolu mimarisinin en güzel örneklerini bırakmıştır.",
+    "achievements": [
+      "Kudüs'ü fethetme (1085)",
+      "Haçlılara karşı Kudüs'ü savunma",
+      "Artuklular Beyliği'nin temellerini atma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1085",
+        "title": "Kudüs'ün Fethi",
+        "description": "Kudüs Selçuklu hâkimiyetine girdi."
+      },
+      {
+        "year": "M.S. 1091",
+        "title": "Şehadet",
+        "description": "Haçlılar'a karşı savaşırken şehit düştü."
+      }
+    ],
+    "predecessor": "Kılıç Arslan I",
+    "successor": "Menteşe Bey",
+    "battles": [
+      {
+        "name": "Kudüs Savunması",
+        "year": "M.S. 1091",
+        "result": "victory",
+        "description": "Kudüs Savunması sırasında Artuk Bey orduları mücadele etti."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Mardin'in taşları, Artuklu'nun kalesidir. Biz, büyük Selçuklu'nun kanatları altından çıkıp kendi gölgemizi yaratanlardık.",
+      "source": "Artuk Bey"
+    }
+  },
+  {
+    "id": "artuk-ilgazi",
+    "order": 8,
+    "name": "Artuk Bey (Ilıgazi)",
+    "title": "Artuklu Beyliği Kurucusu",
+    "period": "1101 - 1111",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-artuk-bey.jpg",
+    "description": "Malatya, Mardin ve Diyarbakır bölgesinde kurulan Artuklu Beyliği'nin kurucusu. Haçlılarla ve Bizanslılarla sürekli mücadele etti.",
+    "fullBio": "Artuk Bey (ö. 1111), Artuklu Beyliği'nin kurucusu ve ilk hükümdarıdır. Malazgirt Zaferi sonrası Anadolu'ya gelen Türk komutanlardan biridir. I. Kilij Arslan döneminde Selçuklu hizmetinde görev yapmıştır. 1101 yılında Haçlı komutanı William of Nevers'e karşı kazanılan zaferde önemli rol oynamıştır. Daha sonra Malatya, Harput ve Mardin bölgesinde kendi beylğini kurmuştur. Bizanslılarla ve Haçlılarla sürekli savaş halinde olmuştur. 1111'de öldüğünde beylik oğulları Artuk Arslan ve İlghazi arasında bölünmüştür.",
+    "legacy": "Güneydoğu Anadolu'da Türk varlığını sağlamlaştıran, Artuklu mimarisinin (Mardin Ulu Camii vb.) temelini atan beyliktir.",
+    "achievements": [
+      "Artuklu Beyliği'ni kurma",
+      "Haçlılara karşı direniş"
+    ],
+    "keyEvents": [
+      {
+        "year": "1101",
+        "title": "Beylik Kuruluşu",
+        "description": "Malatya-Mardin bölgesinde Artuklu Beyliği'ni kurdu."
+      }
+    ],
+    "predecessor": "Melik Yâğıbasan",
+    "successor": "Ilıgazi",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Mardin'den Diyarbakır'a, Artuklu'nun sancağı dalgalanıyor. Zengi'nin yanında, Haçlılara karşı kılıcımızı çektik.",
+      "source": "Necmeddin Ilgazi"
+    }
+  },
+  {
+    "id": "artuk-ilgazi2",
+    "order": 9,
+    "name": "Ilıgazi",
+    "title": "Artuklu Beyi - Mardin ve Mayyafariqin Hükümdarı",
+    "period": "1111 - 1122",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-artuk-ilgazi.jpg",
+    "description": "Artuk Bey'in oğlu, Mardin ve Mayyafariqin (Silvan) hükümdarı. 1115'te Haçlı Kontluğu Edessa'ya karşı zafer kazandı.",
+    "fullBio": "Ilıgazi (ö. 1122), Artuk Bey'in oğlu ve Artuklu Beyliği'nin Mardin-Meyyafarikin kolunun ilk hükümdarıdır. 1111'de babasının ölümünden sonra Mardin ve çevresinin kontrolünü ele almıştır. 1115 yılında Haçlı Kontluğu Edessa'ya karşı önemli bir zafer kazanmıştır. Döneminde Artuklu Beyliği Güneydoğu Anadolu'nun en güçlü Türk beyliklerinden biri haline gelmiştir. 1122'de ölmüştür.",
+    "legacy": "Artuklu Beyliği'nin Mardin kolunun kurucusu, Güneydoğu Anadolu'da Türk-İslam medeniyetinin temsilcisi.",
+    "achievements": [
+      "Haçlı Kontluğu Edessa'ya karşı zafer (1115)"
+    ],
+    "keyEvents": [
+      {
+        "year": "1115",
+        "title": "Haçlı Zaferi",
+        "description": "Edessa Haçlı Kontluğu'na karşı zafer kazandı."
+      }
+    ],
+    "predecessor": "Artuk Bey",
+    "successor": "Hüsâmeddin Timurtaş",
+    "battles": [
+      {
+        "name": "Haçlı Zaferi",
+        "year": "1115",
+        "result": "victory",
+        "description": "Edessa Haçlı Kontluğu'na karşı zafer kazandı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Damga Artuklu'nun damgasıdır. Ilgazi soyundan gelen bu el, Mardin'in surlarını zirveye taşıdı.",
+      "source": "Ilgazi II"
+    }
+  },
+  {
+    "id": "artuk-husameddin",
+    "order": 10,
+    "name": "Hüsâmeddin Timurtaş",
+    "title": "Artuklu Beyi",
+    "period": "1122 - 1154",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-artuk-timurtas.jpg",
+    "description": "Ilıgazi'nin oğlu, Artuklu Beyliği'nin en parlak dönemini yaşatan hükümdar.",
+    "fullBio": "Hüsâmeddin Timurtaş (ö. 1154), Artuklu Beyliği'nin en önemli hükümdarlarından biridir. 1122'de babası Ilıgazi'nin ölümünden sonra tahta çıkmıştır. Döneminde Artuklu Beyliği en geniş sınırlarına ulaşmış, Mardin, Meyyafarikin, Kızıltepe ve çevresinde tam hakimiyet kurmuştur. II. Haçlı Seferi döneminde bölgedeki Haçlı tehdidine karşı başarılı savunmalar yapmıştır. 1154'te ölmüştür.",
+    "legacy": "Artuklu Beyliği'nin en parlak dönemini yaşatan hükümdar.",
+    "achievements": [
+      "Artuklu Beyliği'nin sınırlarını genişletme",
+      "Haçlı tehdidine karşı direniş"
+    ],
+    "keyEvents": [
+      {
+        "year": "1122",
+        "title": "Hüsâmeddin Timurtaş'ın Artuklu Beyi olarak dönemi başladı",
+        "description": "Hüsâmeddin Timurtaş, Artuklu Beyi unvanıyla hükümdarlık dönemine başladı."
+      }
+    ],
+    "predecessor": "Ilıgazi",
+    "successor": "Aydınoğlu Mehmet Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Silvan Köprüsü, Artuklu'nun kudretini gösteren bir abide. Timurtaş, babalarının izinden giden son büyük Artuklu.",
+      "source": "Hüsameddin Timurtaş"
+    }
+  },
+  {
+    "id": "danismend-melahmed",
+    "order": 11,
+    "name": "Melik Mehmed Gazi",
+    "title": "Danişmend Bey",
+    "period": "1134 - 1142",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-danismend-melahmed.jpg",
+    "description": "Emir Gazi'nin oğlu, Danişmend Beyliği'nin üçüncü hükümdarı.",
+    "fullBio": "Melik Mehmed Gazi (ö. 1142), Danişmend Beyliği'nin üçüncü hükümdarıdır. 1134'te babası Emir Gazi'nin ölümüyle tahta çıkmıştır. Saltanatı kısa sürmüş, 1142'de ölmüştür.",
+    "legacy": "Danişmend Beyliği'nin son önemli hükümdarlarından biridir.",
+    "achievements": [
+      "Danişmend Beyliği yönetimi"
+    ],
+    "keyEvents": [
+      {
+        "year": "1134",
+        "title": "Melik Mehmed Gazi'ın Danişmend Bey olarak dönemi başladı",
+        "description": "Melik Mehmed Gazi, Danişmend Bey unvanıyla hükümdarlık dönemine başladı."
+      }
+    ],
+    "predecessor": "Emir Gazi",
+    "successor": "Melik Yâğıbasan",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Niksar'dan Tokat'a, Danişmend'in torunları bu toprakları Türkleştirdi. Haçlı seferleri karşısında beylik ayakta kaldı.",
+      "source": "Melik Mehmed"
+    }
+  },
+  {
+    "id": "danismend-yagibasan",
+    "order": 12,
+    "name": "Melik Yâğıbasan",
+    "title": "Danişmend Bey",
+    "period": "1142 - 1164",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-danismend-yagibasan.jpg",
+    "description": "Danişmend Beyliği'nin son büyük beyi. 1161'de Kılıç Arslan II tarafından yenilgiye uğratıldı.",
+    "fullBio": "Melik Yâğıbasan (ö. 1164), Danişmend Beyliği'nin son önemli hükümdarıdır. 1142'de tahta çıkmıştır. Saltanatı döneminde beylik zayıflamaya başlamış, Selçuklu baskısı artmıştır. 1161 yılında Ankara yakınlarında Kılıç Arslan II tarafından yenilgiye uğratılmıştır. 1164'te ölümüyle birlikte Danişmend Beyliği'nin gücü tamamen sona ermiş, toprakları Selçuklular ve diğer beylikler tarafından paylaşılmıştır.",
+    "legacy": "Danişmend Beyliği'nin son hükümdarı olarak, beylik tarihinin son sayfasını kapatmıştır.",
+    "achievements": [
+      "Danişmend Beyliği'nin son dönemini yönetti"
+    ],
+    "keyEvents": [
+      {
+        "year": "1161",
+        "title": "Selçuklu Yenilgisi",
+        "description": "Kılıç Arslan II tarafından yenilgiye uğratıldı."
+      }
+    ],
+    "predecessor": "Melik Mehmed Gazi",
+    "successor": "Artuk Bey",
+    "battles": [
+      {
+        "name": "Selçuklu Yenilgisi",
+        "year": "1161",
+        "result": "defeat",
+        "description": "Kılıç Arslan II tarafından yenilgiye uğratıldı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Sivas'ta son nefesimi verirken gördüm ki, Danişmend'in rüyası büyüdü. Ama Selçuklu'nun gölgesi, bizim güneşimizdi.",
+      "source": "Melik Yağıbasan"
+    }
+  },
+  {
+    "id": "mentese-mentese",
+    "order": 13,
+    "name": "Menteşe Bey",
+    "title": "Menteşe Beyliği Kurucusu",
+    "period": "1261 - 1280",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-mentese-bey.jpg",
+    "description": "Milas ve Bodrum çevresinde kurulan Menteşe Beyliği'nin kurucusu. Ege kıyılarında Türk varlığını sağlamlaştırdı.",
+    "fullBio": "Menteşe Bey (ö. 1280), Menteşe Beyliği'nin kurucusu ve ilk hükümdarıdır. 1261 yılında Selçuklu otoritesinin zayıflaması fırsatıyla Milas ve çevresinde kendi beylığini kurmuştur. Milas'ı başkent yapmış, Ege kıyılarında Türk varlığını sağlamlaştırmıştır. 1280'de ölmüştür.",
+    "legacy": "Ege kıyılarında Türk varlığını sağlamlaştıran beylik.",
+    "achievements": [
+      "Menteşe Beyliği'ni kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1261",
+        "title": "Beylik Kuruluşu",
+        "description": "Milas'ta Menteşe Beyliği'ni kurdu."
+      }
+    ],
+    "predecessor": "İsa Bey",
+    "successor": "Germiyan Yakub Bey I",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Menteşe Bey, Ege'nin kıyılarından fethettiği her limanda bir Türk bayrağı dikti. Milas, beyligin incisidir.",
+      "source": "Menteşe Bey"
+    }
+  },
+  {
+    "id": "beylik-mentese",
+    "order": 14,
+    "name": "Menteşe Bey (Mesud Bey)",
+    "title": "Menteşeoğulları Beyliği Kurucusu - Bodrum ve Muğla Fatihi",
+    "period": "1280 - 1295",
+    "dynasty": "Menteşeoğulları",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-mentese-bey.jpg",
+    "description": "Anadolu Selçuklu Devleti'nin zayıfladığı dönemde Muğla ve Bodrum yöresinde beylik kuran Türkmen lideri. Ege'de ilk Türk deniz gücünü oluşturan beyliklerden.",
+    "fullBio": "Menteşe Bey, 13. yüzyılın sonlarında hüküm sürmüş, Menteşe Beyliği'nin kurucusu ve Ege Denizi kıyılarında Türk varlığını tesis eden öncü liderlerden biridir. Moğol istilasından kaçarak batıya göç eden Türkmen aşiretlerinin lideri olan Menteşe Bey, bugünkü Muğla ve çevresinde kontrolü ele geçirerek bağımsız bir beylik kurmuştur. Döneminde Menteşe Beyliği, Ege Denizi kıyılarından Akdeniz'e kadar uzanan topraklarda hüküm sürmüştür. Menteşe Bey, denizcilik faaliyetlerini teşvik etmiş, Ege adalarına akınlar düzenleyerek bölgedeki Bizans ve Venedik varlığına son vermeye çalışmıştır. Onun kurduğu beylik, Türk denizcilik geleneğinin gelişmesinde önemli bir rol oynamıştır. Menteşe Beyliği döneminde Milas, Muğla ve Bodrum önemli ticaret ve kültür merkezleri haline gelmiştir. Menteşe Bey'in kurduğu beylik, yaklaşık bir yüzyıl boyunca varlığını sürdürmüş, daha sonra Osmanlılar tarafından ilhak edilmiştir. Onun mirası, Ege kıyılarının Türkleşmesinde ve Türk denizcilik geleneğinin oluşmasında belirleyici bir rol oynamıştır.",
+    "legacy": "Menteşeoğulları, Ege'de Türk denizciliğinin gelişmesinde öncü rol oynayan önemli bir beyliktir.",
+    "achievements": [
+      "Menteşeoğulları Beyliği'ni kurma",
+      "Muğla ve Bodrum'u fethetme",
+      "Ege'de Türk deniz gücü oluşturma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1280",
+        "title": "Beylik Kuruluşu",
+        "description": "Muğla-Bodrum arasında beylik kuruldu."
+      },
+      {
+        "year": "M.S. 1295",
+        "title": "Menteşe Bey'in Ölümü",
+        "description": "Beyliğin kurucusu vefat etti."
+      }
+    ],
+    "predecessor": "Artuk Bey",
+    "successor": "Eşrefoğlu Süleyman Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Bergama'dan Alaşehir'e, Menteşe'nin atları bu toprakları aştı. Anadolu'nun batısı, Türkmen'in yurdudur.",
+      "source": "Menteşe Beyliği Hükümdarı"
+    }
+  },
+  {
+    "id": "beylik-esrefoglu",
+    "order": 15,
+    "name": "Eşrefoğlu Süleyman Bey",
+    "title": "Eşrefoğulları Beyliği Kurucusu - Beyşehir Hükümdarı",
+    "period": "1280 - 1303",
+    "dynasty": "Eşrefoğulları",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-esrefoglu.jpg",
+    "description": "Anadolu Selçuklu Devleti'nin zayıfladığı dönemde Beyşehir merkezli beylik kuran Türkmen lideri. Eşrefoğlu Camii'nin yapıcısı.",
+    "fullBio": "Eşrefoğlu Süleyman Bey, 13. yüzyılın sonlarında hüküm sürmüş, Eşrefoğulları Beyliği'nin en önemli hükümdarı ve Beyşehir bölgesinin Türk yurdu haline gelmesini sağlayan liderdir. Moğol istilası sonrası Anadolu'da kurulan beyliklerden birini yöneten Eşrefoğlu Süleyman Bey, Beyşehir ve çevresinde kontrolü ele geçirmiştir. Onun döneminde Eşrefoğulları Beyliği, Konya'nın batısında önemli bir güç haline gelmiştir. Eşrefoğlu Süleyman Bey, özellikle mimari alanda önemli eserler bırakmıştır. Beyşehir'deki Eşrefoğlu Camii, onun adını yaşatan en önemli eserdir. Bu camii, Anadolu Türk mimarisinin en güzel örneklerinden biri olarak kabul edilir. Eşrefoğlu Süleyman Bey, Karamanoğulları ve diğer beyliklerle ittifaklar kurarak Anadolu'daki denge politikalarını yönetmeye çalışmıştır. Eşrefoğulları Beyliği döneminde Beyşehir Gölü çevresi önemli bir tarım ve ticaret merkezi haline gelmiştir. Onun kurduğu beylik, 14. yüzyıl ortalarına kadar varlığını sürdürmüş, daha sonra Karamanoğulları tarafından ilhak edilmiştir. Eşrefoğlu Süleyman Bey'in mirası, Beyşehir ve çevresinin gelişiminde önemli bir rol oynamıştır.",
+    "legacy": "Eşrefoğlu Camii, Anadolu Türk mimarisinin en özgün eserlerinden biridir. Ahşap destekli yapısıyla dünya mimari tarihinde özel bir yere sahiptir.",
+    "achievements": [
+      "Eşrefoğulları Beyliği'ni kurma",
+      "Eşrefoğlu Camii'ni yaptırma (1296)",
+      "Beyşehir'de sulama sistemleri kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1280",
+        "title": "Beylik Kuruluşu",
+        "description": "Beyşehir civarında beylik kuruldu."
+      },
+      {
+        "year": "M.S. 1296",
+        "title": "Eşrefoğlu Camii",
+        "description": "Beyşehir'de eşsiz ahşap cami inşa ettirildi."
+      }
+    ],
+    "predecessor": "Menteşe Bey",
+    "successor": "Dündar Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Beyşehir Gölü'nün kıyısında Eşrefoğlu'nun kalesi yükseldi. Anadolu'nun ortasında bir Türkmen beylığı daha filizlendi.",
+      "source": "Eşrefoğlu Bey"
+    }
+  },
+  {
+    "id": "esref-esref",
+    "order": 16,
+    "name": "Eşref Bey",
+    "title": "Eşrefoğlu Beyliği Kurucusu",
+    "period": "1280 - 1302",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-esref-bey.jpg",
+    "description": "Beyşehir çevresinde kurulan Eşrefoğlu Beyliği'nin kurucusu.",
+    "fullBio": "Eşref Bey (ö. 1302), Eşrefoğlu Beyliği'nin kurucusu ve ilk hükümdarıdır. 1280 yılında Beyşehir merkezli beylığini kurmuştur. 1302'de ölmüştür.",
+    "legacy": "Beyşehir bölgesinde kısa ömürlü bir beylik kurdu.",
+    "achievements": [
+      "Eşrefoğlu Beyliği'ni kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1280",
+        "title": "Beylik Kuruluşu",
+        "description": "Beyşehir'de Eşrefoğlu Beyliği'ni kurdu."
+      }
+    ],
+    "predecessor": "İbrahim Bey",
+    "successor": "Hanedan sona erdi / Bilinmiyor",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Beyşehir'de son nefesimi verirken anladım ki, Eşrefoğlu'nun mirası, bu topraklara kazınan bir damgadır.",
+      "source": "Eşrefoğlu Mesut"
+    }
+  },
+  {
+    "id": "candar-suleyman",
+    "order": 17,
+    "name": "Süleyman I Şah",
+    "title": "Candaroğlu Beyliği (İsfendiyar) Kurucusu",
+    "period": "1291 - 1309",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-candar-suleyman.jpg",
+    "description": "Kastamonu ve Sinop çevresinde kurulan Candaroğlu (İsfendiyar) Beyliği'nin kurucusu.",
+    "fullBio": "Süleyman I Şah (ö. 1309), Candaroğlu Beyliği'nin (İsfendiyar Beyliği) kurucusu ve ilk hükümdarıdır. 1291 yılında Kastamonu merkezli beylığini kurmuştur. Sinop ve çevresinde hakimiyet kurmuştur. 1309'da ölmüştür.",
+    "legacy": "Kastamonu-Sinop bölgesinde önemli bir beylik kurdu.",
+    "achievements": [
+      "Candaroğlu Beyliği'ni kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1291",
+        "title": "Beylik Kuruluşu",
+        "description": "Kastamonu'da Candaroğlu Beyliği'ni kurdu."
+      }
+    ],
+    "predecessor": "Süleyman Bey",
+    "successor": "İbrahim Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Kastamonu'nun dağları, Candaroğlu'nun kalesidir. Karadeniz'in kıyılarında bir Türk beylığı kurduk.",
+      "source": "Candarlı Süleyman"
+    }
+  },
+  {
+    "id": "beylik-hamit",
+    "order": 18,
+    "name": "Dündar Bey",
+    "title": "Hamitoğulları Beyliği Kurucusu - Isparta Hükümdarı",
+    "period": "1300 - 1324",
+    "dynasty": "Hamitoğulları",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-dundar-bey.jpg",
+    "description": "Isparta ve çevresinde Hamitoğulları Beyliği'ni kuran Türkmen lideri. Eğirdir Gölü çevresinde tarımsal gelişme sağladı.",
+    "fullBio": "Dündar Bey, 13. yüzyılın sonlarında hüküm sürmüş, Hamidoğulları Beyliği'nin kurucusu ve Isparta bölgesinin Türk yurdu haline gelmesini sağlayan öncü liderdir. Eşrefoğulları'nın beyi olan Dündar Bey, daha sonra bağımsız bir beylik kurarak Hamidoğulları Beyliği'ni tesis etmiştir. Döneminde Hamidoğulları Beyliği, Isparta, Eğirdir, Uluborlu ve çevresinde hüküm sürmüştür. Dündar Bey, Moğol baskısı altındaki Anadolu'da halkını koruyan, adil bir yönetim kuran bir hükümdardır. Eğirdir Gölü çevresindeki tarım alanlarını geliştirmiş, bölgede refahın artmasını sağlamıştır. Dündar Bey, komşu beyliklerle ittifaklar kurarak Moğol baskısına karşı direniş örgütlemiştir. Hamidoğulları Beyliği döneminde Isparta ve Eğirdir önemli kültür ve ticaret merkezleri haline gelmiş, bölgede camiler, medreseler ve kervansaraylar inşa edilmiştir. Dündar Bey'in kurduğu beylik, yaklaşık 150 yıl boyunca varlığını sürdürmüş, daha sonra Karamanoğulları ve ardından Osmanlılar tarafından ilhak edilmiştir. Onun mirası, Isparta ve Göller Bölgesi'nin Türk yurdu olarak kalmasını sağlamıştır.",
+    "legacy": "Hamitoğulları, Batı Anadolu'da önemli bir Türk beylik olarak tarımsal gelişmeye katkı sağlamıştır.",
+    "achievements": [
+      "Hamitoğulları Beyliği'ni kurma",
+      "Isparta ve Eğirdir'i geliştirme",
+      "Tarımsal sulama sistemleri kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1300",
+        "title": "Beylik Kuruluşu",
+        "description": "Isparta civarında beylik kuruldu."
+      },
+      {
+        "year": "M.S. 1324",
+        "title": "Dündar Bey'in Ölümü",
+        "description": "Beyliğin kurucusu vefat etti."
+      }
+    ],
+    "predecessor": "Eşrefoğlu Süleyman Bey",
+    "successor": "Hacı İlbey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Isparta'nın gölleri, Hamitoğlu'nun evidir. Anadolu'nun göbeğinde, Göller Yöresi'nde bir beylığin temellerini attık.",
+      "source": "Hamitoğlu Hükümdarı"
+    }
+  },
+  {
+    "id": "germiyan-yakub1",
+    "order": 19,
+    "name": "Germiyan Yakub Bey I",
+    "title": "Germiyan Beyliği Kurucusu",
+    "period": "1300 - 1325",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-germiyan-yakub.jpg",
+    "description": "Kütahya merkezli Germiyan Beyliği'nin kurucusu. Batı Anadolu'nun en güçlü beyliklerinden birini kurdu.",
+    "fullBio": "Germiyan Yakub Bey I (ö. 1325), Germiyan Beyliği'nin kurucusu ve ilk hükümdarıdır. 1300 yılında Kütahya merkezli beylığini kurmuştur. Döneminde Germiyan Beyliği, Batı Anadolu'nun en güçlü beyliklerinden biri haline gelmiş, toprakları Kütahya, Afyon, Uşak ve Eskişehir çevresini kapsamıştır. 1325'te ölmüştür.",
+    "legacy": "Batı Anadolu'nun en güçlü beyliklerinden Germiyan'ın kurucusu.",
+    "achievements": [
+      "Germiyan Beyliği'ni kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1300",
+        "title": "Beylik Kuruluşu",
+        "description": "Kütahya'da Germiyan Beyliği'ni kurdu."
+      }
+    ],
+    "predecessor": "Menteşe Bey",
+    "successor": "Mehmet Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Kütahya'nın kalesi, Germiyan'ın tahtıdır. Bizans sınırlarında en güçlü beylıklerden biri olarak yükseldik.",
+      "source": "Germiyanoğlu Yakub I"
+    }
+  },
+  {
+    "id": "karesi-karesi",
+    "order": 20,
+    "name": "Karesi Bey",
+    "title": "Karesi Beyliği Kurucusu",
+    "period": "1307 - 1328",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karesi-bey.jpg",
+    "description": "Balıkesir ve Bergama çevresinde kurulan Karesi Beyliği'nin kurucusu. Osmanlı'nın önemli bir kaynağı oldu.",
+    "fullBio": "Karesi Bey (ö. 1328), Karesi Beyliği'nin kurucusu ve ilk hükümdarıdır. 1307 yılında Balıkesir merkezli beylığini kurmuştur. Bergama, Edremit ve Ayvalık çevresinde hakimiyet kurmuştur. Karesi Beyliği, ordusu ve alimleriyle Osmanlı Beyliği'nin önemli bir kaynağı olmuştur. 1328'de ölmüştür.",
+    "legacy": "Osmanlı Beyliği'nin gelişimine katkı sağlayan önemli bir beylik.",
+    "achievements": [
+      "Karesi Beyliği'ni kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1307",
+        "title": "Beylik Kuruluşu",
+        "description": "Balıkesir'de Karesi Beyliği'ni kurdu."
+      }
+    ],
+    "predecessor": "Süleyman Şah",
+    "successor": "Süleyman Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Balıkesir'den Bergama'ya, Karesi Beyliği Ege kıyılarında bir Türk güneşi gibi doğdu. Denizde ve karada güçlüyüz.",
+      "source": "Karesi Bey"
+    }
+  },
+  {
+    "id": "beylik-hacı-emir",
+    "order": 21,
+    "name": "Hacı İlbey",
+    "title": "Aydınoğulları Komutanı - İlk Türk Denizcisi",
+    "period": "1308 - 1340",
+    "dynasty": "Aydınoğulları",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-aydinoglu.jpg",
+    "description": "Aydınoğulları Beyliği'nin en büyük komutanı. Ege Denizi'nde Bizans'a karşı deniz zaferleri kazandı. İzmir'i alan Türk komutan.",
+    "fullBio": "Hacı İlbey, 14. yüzyılın ilk yarısında hüküm sürmüş, Karesi Beyliği'nin kurucusu ve Kuzey Ege bölgesinin Türk yurdu haline gelmesini sağlayan öncü liderdir. Aslen Kayı boyundan olan Hacı İlbey, Anadolu Selçuklu Devleti'nin zayıflaması sonrası Balıkesir ve çevresinde kontrolü ele geçirerek bağımsız bir beylik kurmuştur. Karesi Beyliği, Hacı İlbey döneminde hızla genişleyerek Edremit Körfezi'nden Marmara Denizi'ne kadar uzanan toprakları kapsamıştır. Hacı İlbey, denizcilik faaliyetlerini teşvik etmiş, oluşturduğu donanmayla Marmara adalarına akınlar düzenlemiştir. Aynı zamanda tarım ve ticareti geliştirmiş, Balıkesir ve Bursa arasındaki ticaret yollarını güven altına almıştır. Hacı İlbey'in kurduğu Karesi Beyliği, Osmanlı Devleti'nin kuruluşunda önemli bir rol oynamıştır. 1345 yılında Karesi Beyliği'nin toprakları Osmanlı Beyliği'ne katılmış, bu sayede Osmanlılar Marmara Denizi'ne ve Ege'ye ulaşmışlardır. Hacı İlbey'in mirası, Kuzey Ege'nin Türkleşmesinde ve Osmanlı Devleti'nin büyümesinde belirleyici bir rol oynamıştır.",
+    "legacy": "Aydınoğulları, Ege'de Türk denizciliğinin en önemli temsilcilerindendir. Hacı İlbey, İzmir'i alan ve Ege'de Türk varlığını güçlendiren büyük bir deniz komutanıdır.",
+    "achievements": [
+      "İzmir'i fethetme (1317)",
+      "Ege Denizi'nde Bizans donanmasını yenme",
+      "Aydınoğulları'nı deniz beylik haline getirme"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1308",
+        "title": "Aydınoğulları Kuruluşu",
+        "description": "Aydın civarında beylik kuruldu."
+      },
+      {
+        "year": "M.S. 1317",
+        "title": "İzmir'in Fethi",
+        "description": "İzmir Türk hâkimiyetine girdi."
+      }
+    ],
+    "predecessor": "Dündar Bey",
+    "successor": "Umur Bey (Aydınoğlu)",
+    "battles": [
+      {
+        "name": "Ege Adaları Seferi",
+        "year": "M.S. 1317",
+        "result": "victory",
+        "description": "Çaka Bey komutasındaki donanma Ege adalarına sefer düzenledi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Babadağ'dan Denizli'ye, bu topraklar Türkmen'in kalesi. Beylikler dönemi, Anadolu'nun Türkleştiği çağdır.",
+      "source": "Hacı Emir"
+    }
+  },
+  {
+    "id": "aydin-aydino",
+    "order": 22,
+    "name": "Aydınoğlu Mehmet Bey",
+    "title": "Aydın Beyliği Kurucusu",
+    "period": "1308 - 1334",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-aydin-mehmet.jpg",
+    "description": "Ege Denizi'nde Türk deniz gücünü kuran, Birgi'den yöneten Aydın Beyliği'nin kurucusu.",
+    "fullBio": "Aydınoğlu Mehmet Bey (ö. 1334), Aydın Beyliği'nin kurucusu ve ilk hükümdarıdır. 1308 yılında Germiyan Beyliği'nden ayrılarak kendi beylığini kurmuştur. Birgi'yi (ören yeri) başkent yapmış, bölgede Türk deniz gücünün temelini atmıştır. Ege Denizi'nde Bizans adalarına akınlar düzenlemiş, İzmir Körfezi'nde hakimiyet kurmuştur. 1334'te öldüğünde yerine oğlu Umur Bey geçti.",
+    "legacy": "Ege Denizi'nde Türk denizciliğinin öncüsü olan Aydın Beyliği'nin kurucusu.",
+    "achievements": [
+      "Aydın Beyliği'ni kurma",
+      "Ege'de Türk deniz gücünü kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1308",
+        "title": "Beylik Kuruluşu",
+        "description": "Birgi'de Aydın Beyliği'ni kurdu."
+      }
+    ],
+    "predecessor": "Hüsâmeddin Timurtaş",
+    "successor": "Umur Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Aydın ovasında yükselen bu beylık, Ege'nin kıyısında bir kaledir. Aydınoğlu, batı Anadolu'nun efendisidir.",
+      "source": "Aydınoğlu Bey"
+    }
+  },
+  {
+    "id": "candar-ibrahim",
+    "order": 23,
+    "name": "İbrahim Bey",
+    "title": "Candaroğlu Beyi",
+    "period": "1309 - 1345",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-candar-ibrahim.jpg",
+    "description": "Kastamonu Ulu Camii'ni yaptıran Candaroğlu beyi.",
+    "fullBio": "İbrahim Bey (ö. 1345), Candaroğlu Beyliği'nin önemli hükümdarlarından biridir. 1309'da tahta çıkmıştır. Döneminde Kastamonu Ulu Camii inşa edilmiştir. 1345'te ölmüştür.",
+    "legacy": "Kastamonu'da önemli mimari eserler bırakan Candaroğlu beyi.",
+    "achievements": [
+      "Kastamonu Ulu Camii'ni yaptırma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1309",
+        "title": "İbrahim Bey'ın Candaroğlu Beyi olarak dönemi başladı",
+        "description": "İbrahim Bey, Candaroğlu Beyi unvanıyla hükümdarlık dönemine başladı."
+      }
+    ],
+    "predecessor": "Süleyman I Şah",
+    "successor": "Eşref Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Sinop'un surları, Candaroğlu'nun denizden gelen düşmanlara karşı kalkanıdır. Karadeniz'de Türk gücüyüz.",
+      "source": "Candaroğlu İbrahim"
+    }
+  },
+  {
+    "id": "germiyan-mehmet",
+    "order": 24,
+    "name": "Mehmet Bey",
+    "title": "Germiyan Beyi",
+    "period": "1325 - 1367",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-germiyan-mehmet.jpg",
+    "description": "Germiyan Beyliği'nin en parlak dönemini yaşatan hükümdar. Kütahya Ulu Camii'ni yaptırdı.",
+    "fullBio": "Mehmet Bey (ö. 1367), Germiyan Beyliği'nin en önemli hükümdarıdır. 1325'te babası Yakub Bey I'in ölümünden sonra tahta çıkmıştır. Döneminde Germiyan Beyliği en geniş sınırlarına ulaşmış, Batı Anadolu'nun en güçlü beyliklerinden biri olmuştur. 1371 yılında Kütahya Ulu Camii'ni yaptırmıştır. Yıldırım Bayezid'e karşı mücadele etmiş, 1367'de ölmüştür.",
+    "legacy": "Germiyan Beyliği'nin en parlak dönemini yaşatan, önemli mimari eserler bırakan hükümdar.",
+    "achievements": [
+      "Kütahya Ulu Camii'ni yaptırma",
+      "Germiyan Beyliği'ni güçlendirme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1371",
+        "title": "Ulu Camii",
+        "description": "Kütahya Ulu Camii'ni inşa ettirdi."
+      }
+    ],
+    "predecessor": "Germiyan Yakub Bey I",
+    "successor": "Süleyman Şah",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Kütahya'da sarayımızda sanatın ve edebiyatın zirvesine ulaştık. Germiyan, Anadolu'nun kültür beylığıdir.",
+      "source": "Germiyanoğlu Mehmet"
+    }
+  },
+  {
+    "id": "karesi-suleyman",
+    "order": 25,
+    "name": "Süleyman Bey",
+    "title": "Karesi Beyi",
+    "period": "1328 - 1361",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karesi-suleyman.jpg",
+    "description": "Karesi Beyliği'nin son hükümdarı. Orhan Gazi tarafından fethedildi.",
+    "fullBio": "Süleyman Bey (ö. 1361), Karesi Beyliği'nin son hükümdarıdır. 1328'de babası Karesi Bey'in ölümünden sonra tahta çıkmıştır. 1361 yılında Orhan Gazi tarafından fethedilerek beylik Osmanlı topraklarına katılmıştır.",
+    "legacy": "Karesi Beyliği'nin son hükümdarı, beylik Osmanlı'ya katıldı.",
+    "achievements": [
+      "Karesi Beyliği yönetimi"
+    ],
+    "keyEvents": [
+      {
+        "year": "1361",
+        "title": "Osmanlı Fethi",
+        "description": "Orhan Gazi tarafından fethedildi."
+      }
+    ],
+    "predecessor": "Karesi Bey",
+    "successor": "Süleyman I Şah",
+    "battles": [
+      {
+        "name": "Osmanlı Fethi",
+        "year": "1361",
+        "result": "victory",
+        "description": "Orhan Gazi tarafından fethedildi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Karesi'nin torunları olarak Balıkesir'de hüküm sürüyoruz. Bizans'a karşı Ege'de Türk bayrağı dalgalanıyor.",
+      "source": "Karesi Süleyman"
+    }
+  },
+  {
+    "id": "beylik-umur-bey",
+    "order": 26,
+    "name": "Umur Bey (Aydınoğlu)",
+    "title": "Ege'nin Korsanı - Batı Anadolu'nun Koruyucusu",
+    "period": "1334 - 1348",
+    "dynasty": "Aydınoğulları",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-umur-bey.jpg",
+    "description": "Aydınoğulları Beyliği'nin en ünlü hükümdarı. 'Ege'nin Korsanı' lakabıyla tanınır. Bizans'a karşı deniz savaşları ve İstanbul'a yardımıyla ünlü.",
+    "fullBio": "Umur Bey (Aydınoğlu), 1334-1348 yılları arasında hüküm sürmüş, Aydınoğlu Beyliği'nin en ünlü hükümdarı ve Türk denizcilik tarihinin efsanevi kahramanlarından biridir. Aydınoğlu Mehmet Bey'in oğlu olan Umur Bey, genç yaşında beyliğin başına geçmiştir. Umur Bey'in en büyük özelliği, Türklerin Ege Denizi'nde ilk kez büyük bir deniz gücü kurmasını sağlamasıdır. Oluşturduğu güçlü donanmayla Bizans adalarına, Mora yarımadasına ve hatta İstanbul Boğazı'na kadar akınlar düzenlemiştir. Bizans İmparatoru VI. Kantakuzenos'un daveti üzerine Balkanlardaki Sırplara ve Bulgarlara karşı Bizans'a yardım etmiş, bu sayede Türkler ilk kez Avrupa topraklarına ayak basmıştır. Umur Bey, aynı zamanda ünlü seyyah İbn Battuta'yı ağırlamış, ona büyük ikramlarda bulunmuştur. 1348 yılında Sakız Adası'na düzenlediği bir seferde şehit düşmüştür. Umur Bey'in denizcilik faaliyetleri, Osmanlı donanmacılığının temelini oluşturmuş, Ege Denizi'nde Türk varlığını kalıcı kılmıştır. O hakkında yazılmış destanlar, Türk denizcilik edebiyatının ilk örneklerindendir.",
+    "legacy": "Umur Bey, Anadolu Türk denizciliğinin efsanevi kahramanıdır. Ege'de Türk varlığını güçlendirmesi ve Bizans'a karşı deniz zaferleri, Türk tarihinin en çarpıcı olayları arasındadır.",
+    "achievements": [
+      "Ege Denizi'nde Bizans ve Venedik donanmalarını yenme",
+      "İstanbul'a yardım etme (1341)",
+      "Ege'de Türk denizciliğini zirveye taşıma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1334",
+        "title": "Tahta Çıkış",
+        "description": "Aydınoğulları Beyliği'nin başına geçti."
+      },
+      {
+        "year": "M.S. 1348",
+        "title": "Şehadet",
+        "description": "İzmir savunmasında şehit düştü."
+      }
+    ],
+    "predecessor": "Hacı İlbey",
+    "successor": "Kadı Burhaneddin Ahmed",
+    "quote": {
+      "text": "İzmir Körfezi'nde korsan gemileri değil, Türk donanması yüzüyor. Umur Bey, Ege'nin fatihidir.",
+      "source": "Umur Bey"
+    },
+    "battles": [],
+    "relatedPeople": []
+  },
+  {
+    "id": "aydin-umur",
+    "order": 27,
+    "name": "Umur Bey",
+    "title": "Aydınoğlu Bey - Denizler Fatihi",
+    "period": "1334 - 1348",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-aydin-umur.jpg",
+    "description": "Aydın Beyliği'nin en ünlü beyi. 'Umur Bey Denizleri Fatihi' destanının kahramanı. Ege'de Bizans'a karşı büyük deniz zaferleri kazandı.",
+    "fullBio": "Umur Bey (ö. 1348), Aydın Beyliği'nin en ünlü ve en başarılı hükümdarıdır. Babası Aydınoğlu Mehmet Bey'in ölümünden sonra 1334'te tahta çıkmıştır. Ege Denizi'nde Türk deniz gücünün en güçlü dönemini yaşatmıştır. İzmir'i merkez yaparak büyük bir donanma kurmuş, Bizans adalarına akınlar düzenlemiştir. 1344'te Papalık-Haçlı donanmasına karşı Smyrna (İzmir) Muharebesi'nde şehit düşmüştür. 'Umur Bey Denizleri Fatihi' destanı onun kahramanlıklarını anlatır. Döneminde Aydın Beyliği Ege'nin en güçlü deniz gücü haline gelmiştir.",
+    "legacy": "Ege Denizi'nde Türk deniz gücünün sembolü olan, halk destanlarına konu olmuş efsanevi bir lider.",
+    "achievements": [
+      "Ege'de Türk deniz üstünlüğü",
+      "Umur Bey Denizleri Fatihi destanı",
+      "İzmir'i merkez yapma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1334",
+        "title": "Beylik Yönetimi",
+        "description": "Aydın Beyliği'nin başına geçti."
+      },
+      {
+        "year": "1344",
+        "title": "Şehadet",
+        "description": "Smyrna Muharebesi'nde şehit düştü."
+      }
+    ],
+    "predecessor": "Aydınoğlu Mehmet Bey",
+    "successor": "İsa Bey",
+    "battles": [
+      {
+        "name": "Şehadet",
+        "year": "1344",
+        "result": "draw",
+        "description": "Smyrna Muharebesi'nde şehit düştü."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Smyrna'dan çıkan donanmamız, Bizans'ın Ege'deki adalarını titretti. Umur Bey, denizlerin sultanıdır.",
+      "source": "Umur Bey (Aydınoğlu)"
+    }
+  },
+  {
+    "id": "aydin-isa",
+    "order": 28,
+    "name": "İsa Bey",
+    "title": "Aydınoğlu Bey",
+    "period": "1348 - 1390",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-aydin-isa.jpg",
+    "description": "Aydın Beyliği'nin son dönem hükümdarı. İzmir'de İsa Bey Camii yaptırdı.",
+    "fullBio": "İsa Bey (ö. 1390), Aydın Beyliği'nin son önemli hükümdarıdır. 1348'de ağabeyi Umur Bey'in şehadetinden sonra tahta çıkmıştır. 1375 yılında İzmir'de ünlü İsa Bey Camii'ni yaptırmıştır. Aydın Beyliği onun döneminde Yıldırım Bayezid tarafından 1390'da Osmanlı topraklarına katılmıştır.",
+    "legacy": "Aydın Beyliği'nin son hükümdarı, İzmir'de önemli mimari eserler bıraktı.",
+    "achievements": [
+      "İsa Bey Camii'ni yaptırma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1390",
+        "title": "Osmanlı İlhakı",
+        "description": "Beylik Yıldırım Bayezid tarafından ilhak edildi."
+      }
+    ],
+    "predecessor": "Umur Bey",
+    "successor": "Menteşe Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Aydın Beyliği'nin son günlerinde, Osmanlı'nın gölgesi büyüdü. Ama Ege'deki miras, Türk'ün kalıcı izidir.",
+      "source": "Aydınoğlu İsa"
+    }
+  },
+  {
+    "id": "germiyan-suleyman",
+    "order": 29,
+    "name": "Süleyman Şah",
+    "title": "Germiyan Beyi",
+    "period": "1367 - 1387",
+    "dynasty": "Anadolu Beylikleri",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-germiyan-suleyman.jpg",
+    "description": "Germiyan Beyliği'nin son hükümdarı. 1387'de topraklarını Yıldırım Bayezid'e sattı.",
+    "fullBio": "Süleyman Şah (ö. 1387), Germiyan Beyliği'nin son hükümdarıdır. 1367'de babası Mehmet Bey'in ölümünden sonra tahta çıkmıştır. Döneminde beylik zayıflamış, Osmanlı baskısı artmıştır. 1387 yılında topraklarını Yıldırım Bayezid'e satarak beylik sona ermiştir.",
+    "legacy": "Germiyan Beyliği'nin son hükümdarı.",
+    "achievements": [
+      "Germiyan Beyliği yönetimi"
+    ],
+    "keyEvents": [
+      {
+        "year": "1387",
+        "title": "Osmanlı'ya Toprak Satışı",
+        "description": "Topraklarını Yıldırım Bayezid'e sattı."
+      }
+    ],
+    "predecessor": "Mehmet Bey",
+    "successor": "Karesi Bey",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Osmanlı'ya karşı son direnişimizi Kütahya'da verdik. Germiyan, Anadolu beyliklerinin en şanıhlısıydı.",
+      "source": "Germiyanoğlu Süleyman"
+    }
+  },
+  {
+    "id": "beylik-kadı-burhaneddin",
+    "order": 30,
+    "name": "Kadı Burhaneddin Ahmed",
+    "title": "Sivas Hükümdarı - Anadolu'nun Son Bağımsız Beyi",
+    "period": "1381 - 1398",
+    "dynasty": "Kadı Burhaneddin Devleti",
+    "dynastyId": "anadolu-beylikler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-kadi-burhaneddin.jpg",
+    "description": "Anadolu'nun son bağımsız Türk hükümdarı. Şair ve hukukçu kişiliğiyle tanınır. Timur ve Bayezid'e karşı bağımsızlığını korudu.",
+    "fullBio": "Kadı Burhaneddin Ahmed, 1381-1398 yılları arasında hüküm sürmüş, Sivas merkezli Kadı Burhaneddin Devleti'nin kurucusu ve Anadolu'nun en entelektüel hükümdarlarından biridir. Aslen kadı (hakim) olan Burhaneddin Ahmed, Karamanoğulları'nın Sivas bölgesini işgal etmesi üzerine halkın isteğiyle devletin başına geçmiştir. Bu durum, Türk tarihinde bir alimin devlet kurmasının ender örneklerindendir. Kadı Burhaneddin, hem büyük bir bilgin hem de üstün bir askeri komutan olarak tarihe geçmiştir. Döneminde Karamanoğulları, Eretna Devleti ve diğer komşu beyliklerle sürekli mücadele etmiş, Sivas ve çevresini başarıyla savunmuştur. 1398 yılında Akkoyunlu hükümdarı Kara Yülük Osman tarafından yenilerek esir alınmış ve idam edilmiştir. Kadı Burhaneddin aynı zamanda önemli bir edip ve şairdir; Farsça ve Arapça eserler yazmıştır. Onun devleti, Anadolu'nun Moğol istilasından sonraki en önemli siyasi birliklerinden biri olmuştur. Kadı Burhaneddin'in kurduğu düzen, Sivas ve çevresinin Türk yurdu olarak kalmasını sağlamıştır.",
+    "legacy": "Kadı Burhaneddin, Anadolu'nun son bağımsız Türk hükümdarıdır. Şairliği, hukukçuluğu ve bağımsızlık mücadelesi, onu Türk tarihinin eşsiz figürlerinden biri yapar.",
+    "achievements": [
+      "Sivas merkezli bağımsız devlet kurma",
+      "Anadolu'nun son bağımsız Türk hükümdarı olma",
+      "Şair ve hukukçu kişiliği",
+      "Timur ve Osmanlı'ya karşı direniş"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1381",
+        "title": "Bağımsızlık",
+        "description": "Sivas merkezli bağımsız hükümdar oldu."
+      },
+      {
+        "year": "M.S. 1398",
+        "title": "Ölüm",
+        "description": "Akkoyunlular'a yenilerek esir düştü, öldü."
+      }
+    ],
+    "predecessor": "Umur Bey (Aydınoğlu)",
+    "successor": "Danişmend Gazi",
+    "quote": {
+      "text": "Sivas'ta kurduğum bu devlet, Anadolu'nun en kudretli beylığıdir. Kadı Burhaneddin, hem alim hem fatih hem şairdir.",
+      "source": "Kadı Burhaneddin"
+    },
+    "battles": [],
+    "relatedPeople": []
+  }
+]

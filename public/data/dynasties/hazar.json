@@ -1,0 +1,426 @@
+[
+  {
+    "id": "hazar-bulan",
+    "order": 1,
+    "name": "Bulan",
+    "title": "Hazar Kağanı - İlk Yahudi Kağan",
+    "period": "740 - 786",
+    "dynasty": "Hazar Kağanlığı",
+    "dynastyId": "hazar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-hazar-bulan.jpg",
+    "description": "Hazar Kağanlığı'nda Yahudiliği resmi devlet dini olarak kabul eden ilk kağan. İpek Yolu ticaretini kontrol altına alarak Hazarları zirveye taşıdı.",
+    "fullBio": "Bulan, M.S. 740 ile 786 yılları arasında 46 yıl hüküm sürmüş, Hazar Kağanlığı'nın en dönüştürücü hükümdarıdır. Hazarlar, Oğuz Türklerinin bir kolu olarak Kuzey Kafkasya ve Güney Rusya bozkırlarında hüküm sürüyordu. Bulan tahta çıktığında, Hazar Kağanlığı Bizans İmparatorluğu ve Abbâsî Halifeliği arasında bir tampon devlet konumundaydı. Bulan'ın en tarihi kararı, yaklaşık 740 yılında kendisinin ve sarayının Yahudiliği kabul etmesidir. Bu karar, üç nedenden ötürü alınmıştı: Birincisi, Hristiyan Bizans ile Müslüman Araplar arasında kalıp taraf tutmamak; ikincisi, Yahudi bilginlerin zengin bilgi birikiminden yararlanmak; üçüncüsü, Hazar toplumunda mevcut tek tanrıcı inançlarla Yahudiliğin uyumlu olması. Bulan'ın Yahudiliği kabulü, Orta Çağ dünyasında büyük yankı uyandırmıştır. Ortadoğu'dan, İspanya'dan ve Bizans topraklarından birçok Yahudi bilgin Hazar sarayına gelmiş, hazar ordusunda ve idaresinde önemli görevler almıştır. Bulan döneminde Hazar ordusu, Müslüman Arapların Kafkasya'ya yayılmasını durdurmuş, 730'larda Arap ordularını ağır yenilgilere uğratmıştır. Hazar-Bizans ilişkileri ise stratejik işbirliği temelinde gelişmiş, İstanbul'dan gelen elçilerle diplomatik bağlar güçlendirilmiştir. Bulan'ın döneminde İtil (Astrahan yakınları) başkent olarak geliştirilmiş, şehir İpek Yolu'nun kuzey hattının önemli bir ticaret merkezi haline gelmiştir. Bulgarlar, Vikingler (Ruslar), Araplar, Bizanslılar ve Çin tüccarları bu kozmopolit şehirde buluşmuştur. Bulan'ın devlet felsefesi, üç büyük din arasında dengeli bir politika izleyerek Hazar bağımsızlığını korumak üzerine kuruluydu.",
+    "legacy": "Bulan, Hazar Kağanlığı'nı sadece bir bozkır devletinden, dinî ve kültürel kimliği olan bir imparatorluğa dönüştürmüştür. Yahudiliği kabulü, Türk tarihinin en ilginç ve eşsiz olaylarından biridir. 'Hazar Kaganate and the Jews' literatüründe Bulan, dönüşümün sembolü olarak anılır.",
+    "achievements": [
+      "Yahudiliği resmi devlet dini olarak kabul etti (c. 740)",
+      "Arapların Kafkasya'ya yayılmasını durdurdu",
+      "İpek Yolu kuzey hattının kontrolünü ele geçirdi",
+      "İtil'i uluslararası ticaret merkezi haline getirdi",
+      "Bizans-Arap dengesinde bağımsız politika izledi",
+      "Hazar ordusunu modernize etti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 740",
+        "title": "Yahudiliği Kabul",
+        "description": "Bulan ve saray ailesi Yahudiliği kabul etti, Hazar Kağanlığı dünyanın tek Yahudi Türk devleti oldu."
+      },
+      {
+        "year": "M.S. 730",
+        "title": "Arapları Kafkasya'da Durdurma",
+        "description": "Hazar ordusu, Suriye'den gelen Abbâsî Arap ordularını Kafkasya kapılarında ağır bir yenilgiye uğrattı."
+      },
+      {
+        "year": "M.S. 760",
+        "title": "İtil Başkentinin Geliştirilmesi",
+        "description": "İtil şehri (Volga Nehri ağzında) başkent olarak yeniden inşa edildi, saray, sinagog ve ticaret çarşıları yapıldı."
+      },
+      {
+        "year": "M.S. 775",
+        "title": "Viking Ticaret Anlaşması",
+        "description": "Kuzeyden gelen Viking (Rus) tüccarlarıyla ticaret anlaşması imzalandı, 'Volga rotası' resmen açıldı."
+      },
+      {
+        "year": "M.S. 786",
+        "title": "Bulan'ın Ölümü",
+        "description": "46 yıllık hükümdarlığının ardından öldü, torunu Obadiah tahta çıktı."
+      }
+    ],
+    "predecessor": "Devletin kurucusu / Önceki dönemden bilinmiyor",
+    "successor": "Obadiah",
+    "quote": {
+      "text": "Gök yüzünde tek Tanrı varsa, yeryüzünde tek yol da O'nun yoludur.",
+      "source": "Bulan Kağan'ın Yahudiliği kabulü üzerine"
+    },
+    "battles": [
+      {
+        "name": "Kafkasya Kapısı Muharebesi",
+        "year": "M.S. 730",
+        "result": "victory",
+        "description": "Hazar atlı okçuları, Abbâsî Arap ordusunu Kafkas Dağları geçitlerinde pusuya düşürerek ağır kayıplara uğrattı."
+      },
+      {
+        "name": "Arâs Nehri Savaşı",
+        "year": "M.S. 745",
+        "result": "victory",
+        "description": "Arap komutan Merwan el-Himyeri'nin Hazar topraklarına yönelik seferi, Arâs Nehri kıyısında durduruldu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Obadiah",
+        "role": "Torunu, Sonraki Kağan",
+        "description": "Bulan'ın torunu. 786-809 arasında hüküm sürdü, Yahudiliği devlet düzeyinde kurumsallaştırdı."
+      },
+      {
+        "name": "III. Konstantinos (Konstantinos Porphyrogennetos)",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (741-775). Hazarlarla ittifak kurmuş, Hazar prensesi Tzitzak (İrene) ile oğlu Leo'yu evlendirmiştir."
+      },
+      {
+        "name": "Mervan ibn Muhammed (Mervan el-Himyeri)",
+        "role": "Abbâsî Komutanı",
+        "description": "Abbâsî Halifeliği'nin Kafkasya komutanı. Hazarlarla birçok kez çarpıştı, 730'lardaki yenilgilerde hazır bulundu."
+      },
+      {
+        "name": "Tzitzak (İrene)",
+        "role": "Hazar Prensesi",
+        "description": "Bulan'ın kızı veya torunu. Bizans İmparatoru III. Konstantinos'un oğlu Leo'ya (sonra IV. Leo) gelin gitti."
+      }
+    ]
+  },
+  {
+    "id": "hazar-obadiah",
+    "order": 2,
+    "name": "Obadiah",
+    "title": "Hazar Kağanı - Kurumlaştırıcı",
+    "period": "786 - 809",
+    "dynasty": "Hazar Kağanlığı",
+    "dynastyId": "hazar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-hazar-obadiah.jpg",
+    "description": "Bulan'ın torunu. Yahudiliği devlet düzeyinde kurumsallaştırdı, sinagoglar inşa ettirdi, Talmud'u Hazar sarayında uyguladı.",
+    "fullBio": "Obadiah (Obadiyah), M.S. 786 ile 809 yılları arasında 23 yıl hüküm sürmüş, Hazar Kağanlığı'nın Yahudi kimliğini pekiştiren ve altın çağının temellerini atan hükümdardır. Büyükbabası Bulan'ın Yahudiliği kabul etmesinden sonra, Obadiah bu dinî değişimi devlet düzeyinde kurumsallaştırmıştır. Obadiah döneminde, Bağdat, Kudüs, İskenderiye ve Konstantinopolis'ten Yahudi bilginler saraya davet edilmiş, bunlar arasında sinagog hahamları, Talmud alimleri ve Filistinli bilginler vardı. Obadiah'ın en önemli icraatı, Hazar topraklarına sinagoglar açtırması, Yahudi hukukunu (Halakha) devlet yönetimine entegre etmesi ve sarayda İbranice'nin resmi dil olarak kullanılmasını teşvik etmesidir. Döneminde İtil başkenti, 7 sinagog, büyük bir saray kompleksi, ticaret hanları ve uluslararası bir pazar yeri ile dünyanın en kozmopolit şehirlerinden biri haline gelmiştir. Obadiah, Bizans İmparatorluğu ile 'perpetual peace' (sonsuz barış) antlaşması imzalayarak güney sınırlarını güvence altına almış, bu sayede Arap saldırılarına karşı tam gücüyle direnebilmiştir. Ticaret yollarının güvenliği için Hazar ordusunu yeniden yapılandırmış, Volga ve Don nehirleri üzerinde kontrol noktaları kurmuştur. Obadiah dönemi aynı zamanda Hazarların Doğu Avrupa'daki Slav kabileleri üzerindeki nüfuzunun arttığı bir dönem olmuştur. Kiev ve Novgorod'un ticaret ağları Hazar kontrolüne girmiştir.",
+    "legacy": "Obadiah, Hazar Kağanlığı'nın Yahudi kimliğini kalıcı hale getiren hükümdardır. Onun kurumsallaştırma çabaları sayesinde Hazar Yahudiliği, sonraki yüzyıllarda Doğu Avrupa Yahudilerinin (Aşkenaz) kültürel kökleri arasında kabul edilmiştir.",
+    "achievements": [
+      "Yahudiliği devlet düzeyinde kurumsallaştırdı",
+      "Sinagoglar inşa ettirdi, İbranice'yi saray dili yaptı",
+      "İtil'i kozmopolit ticaret merkezi haline getirdi",
+      "Bizans ile 'sonsuz barış' antlaşması imzaladı",
+      "Volga ticaret yollarını güvenli hale getirdi",
+      "Talmud bilginlerini Hazar sarayına davet etti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 786",
+        "title": "Tahta Çıkış ve Reformlar",
+        "description": "Bulan'ın torunu olarak tahta çıktı, Yahudiliği kurumsallaştırma reformlarına başladı."
+      },
+      {
+        "year": "M.S. 790",
+        "title": "Büyük Sinagog'un Açılışı",
+        "description": "İtil'de saray kompleksi içinde büyük bir sinagog açıldı, Kudüs'ten getirilen hahamlar görevlendirildi."
+      },
+      {
+        "year": "M.S. 795",
+        "title": "Bizans ile Sonsuz Barış",
+        "description": "Bizans İmparatorluğu ile ticaret ve savunma anlaşması imzalandı, Karadeniz ticareti serbest bırakıldı."
+      },
+      {
+        "year": "M.S. 800",
+        "title": "Volga Ticaret Güzergâhının Kontrolü",
+        "description": "Volga ve Don nehirleri üzerindeki ticaret istasyonları güçlendirildi, Rus-Viking tüccarlarıyla anlaşmalar yapıldı."
+      },
+      {
+        "year": "M.S. 809",
+        "title": "Obadiah'ın Ölümü",
+        "description": "23 yıllık başarılı hükümdarlığının ardından öldü, yeğeni Hezekiah tahta çıktı."
+      }
+    ],
+    "predecessor": "Bulan",
+    "successor": "Hezekiah",
+    "quote": {
+      "text": "Bir devletin gücü, sadece kılıcında değil, bilgeliğinde ve adaletindedir.",
+      "source": "Obadiah Kağan"
+    },
+    "battles": [
+      {
+        "name": "Don Nehri Sınır Savunması",
+        "year": "M.S. 792",
+        "result": "victory",
+        "description": "Kuzeydan gelen Peçenek ve Kuman akınlarını Don Nehri hattında durdurarak güney toprakları korundu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Irene (Hazar Prensesi)",
+        "role": "Bizans İmparatoriçesi",
+        "description": "Hazar asıllı Bizans İmparatoriçesi (797-802). Hazar-Bizans dostluğunun sembolüdür."
+      },
+      {
+        "name": "I. Harun el-Reşid",
+        "role": "Abbâsî Halifesi",
+        "description": "Abbâsî Halifesi (786-809). Obadiah döneminde Hazarlarla diplomatik ilişkiler kurmuş, elçiler göndermiştir."
+      },
+      {
+        "name": "Bulan",
+        "role": "Büyükbabası, Önceki Kağan",
+        "description": "Hazar Kağanlığı'nın Yahudiliği kabul eden ilk hükümdarı. Obadiah'ın reformlarının temelini attı."
+      }
+    ]
+  },
+  {
+    "id": "hazar-hezekiah",
+    "order": 3,
+    "name": "Hezekiah",
+    "title": "Hazar Kağanı - Altın Çağ",
+    "period": "809 - 860",
+    "dynasty": "Hazar Kağanlığı",
+    "dynastyId": "hazar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-hazar-hezekiah.jpg",
+    "description": "Hazar Kağanlığı'nın en görkemli dönemini yaşatan kağan. Hepsini döneminde Hazarlar Doğu Avrupa'daki en güçlü devletti.",
+    "fullBio": "Hezekiah (Hizkiya), M.S. 809 ile 860 yılları arasında hüküm sürmüş, Hazar Kağanlığı'nın mutlak zirvesinde olduğu altın çağın hükümdarıdır. Obadiah'ın kurumsallaştırma çabalarını tamamlayarak Hazar Kağanlığı'nı, Karadeniz'den Aral Gölü'ne, Kafkasya'dan Kiev'e kadar uzanan bir imparatorluk haline getirmiştir. Hezekiah döneminde Hazar ordusu, Müslüman Araplar ve Bizanslılardan oluşan ortak bir koalisyonu 837 yılında Kafkasya'da yenilgiye uğratmış, bu zafer Hazar egemenliğinin doruk noktasını temsil eder. Hazar Kağanlığı'nın dini hoşgörüsü, Hezekiah döneminde en üst seviyeye ulaşmıştır. İtil'de Yahudi sinagoglarının yanı sıra Hristiyan kiliseleri ve İslam camileri de hizmet vermekteydi. Hezekiah'ın sarayında Yahudi, Müslüman, Hristiyan ve pagan bilginler bir arada çalışıyordu. Bu dönemde, Hazar Kağanlığı'nın Yahudi-Hazar teorisine göre Doğu Avrupa Yahudiliği'nin kökeni olduğu düşüncesi güçlenmiştir. Hezekiah döneminde İpek Yolu ticareti zirve yapmış, İtil'deki uluslararası pazarda Çin ipekleri, Arap baharatları, Viking kürkleri ve Bizans altınları alınıp satılıyordu. Hazarlar, Doğu Avrupa'daki Slav kabileleri üzerindeki hegemonyalarını da pekiştirmiş, Kiev Knezliği ve Novgorod Hazar vergisine (hurç) bağlı kalmıştır.",
+    "legacy": "Hezekiah dönemi, Hazar Kağanlığı'nın askeri, ekonomik ve kültürel doruk noktasıdır. Onun hükümdarlığı, Türk-Yahudi kültürel sentezinin en mükemmel örneğidir.",
+    "achievements": [
+      "Hazar Kağanlığı'nı zirveye taşıdı",
+      "Arap-Bizans koalisyonunu Kafkasya'da yendi",
+      "İpek Yolu ticaretini zirveye çıkardı",
+      "Doğu Avrupa'daki Slav kabileleri üzerinde hegemonya kurdu",
+      "Dinî hoşgörüyü en üst seviyeye çıkardı",
+      "Hazar 'hurç' (haraç) sistemini kurdu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 809",
+        "title": "Tahta Çıkış",
+        "description": "Obadiah'ın yeğeni olarak Hazar Kağanlığı'nın en görkemli dönemini başlattı."
+      },
+      {
+        "year": "M.S. 830",
+        "title": "İpek Yolu Ticaretinin Zirvesi",
+        "description": "İtil'deki uluslararası pazar, Orta Çağ'ın en büyük ticaret merkezlerinden biri haline geldi."
+      },
+      {
+        "year": "M.S. 837",
+        "title": "Arap-Bizans Koalisyonunun Yenilgisi",
+        "description": "Araplar ve Bizanslıların ortak Kafkasya seferi, Hazar ordusu tarafından ağır bir yenilgiye uğratıldı."
+      },
+      {
+        "year": "M.S. 840",
+        "title": "Kiev Üzerindeki Nüfuzun Pekişmesi",
+        "description": "Kiev Knezliği, Hazar Kağanlığı'na vergi ödemeyi kabul etti, Doğu Avrupa'da Hazar hegemonyası güçlendi."
+      },
+      {
+        "year": "M.S. 860",
+        "title": "Hezekiah'ın Ölümü",
+        "description": "Uzun ve başarılı bir hükümdarlığın ardından öldü, dönemi Hazar altın çağının sonu oldu."
+      }
+    ],
+    "predecessor": "Obadiah",
+    "successor": "Zachariah",
+    "quote": {
+      "text": "Bizim zenginliğimiz kılıcımızda değil, yolcularımızın güvenliğindedir.",
+      "source": "Hezekiah Kağan"
+    },
+    "battles": [
+      {
+        "name": "Kafkasya Koalisyon Muharebesi",
+        "year": "M.S. 837",
+        "result": "victory",
+        "description": "Arap ve Bizans birleşik orduları, Kafkas geçitlerinde Hazar süvarileri tarafından ağır bir yenilgiye uğratıldı."
+      },
+      {
+        "name": "Kuzey Kafkasya Savunması",
+        "year": "M.S. 820",
+        "result": "victory",
+        "description": "Güneyden gelen Arap saldırıları Kafkasya savunma hattında püskürtüldü."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "II. Mihail (Mikhail)",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (820-829). Hezekiah döneminde Hazarlarla ittifakı sürdürdü, sonra Araplarla işbirliği yaptı."
+      },
+      {
+        "name": "el-Mu'tasim",
+        "role": "Abbâsî Halifesi",
+        "description": "Abbâsî Halifesi (833-842). 837'de Hazarlarla ittifak kuran Bizans'a karşı Kafkasya'da sefer düzenledi, ağır yenilgiye uğradı."
+      },
+      {
+        "name": "Rurik",
+        "role": "Varangian (Viking) Lideri",
+        "description": "Kuzeyli Viking lideri, sonradan Rusların atası sayıldı. Hezekiah döneminde Hazar ticaret ağının bir parçasıydı."
+      }
+    ]
+  },
+  {
+    "id": "hazar-zachariah",
+    "order": 4,
+    "name": "Zachariah",
+    "title": "Hazar Kağanı - Gerileme Dönemi",
+    "period": "860 - 920",
+    "dynasty": "Hazar Kağanlığı",
+    "dynastyId": "hazar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-hazar-zachariah.jpg",
+    "description": "Hazar Kağanlığı'nın gerileme dönemine tanık olan kağan. Rus Vikinglerinin baskınlarıyla mücadele etti.",
+    "fullBio": "Zachariah (Zekeriya), M.S. 860 ile 920 yılları arasında hüküm sürmüş, Hazar Kağanlığı'nın Hezekiah'ın altın çağından sonra gerilemeye başladığı dönemin hükümdarıdır. Zachariah döneminde en büyük tehdit, kuzeyden gelen Viking (Rus) korsanlarıydı. 860 yılında 200 kadırga ile gelen Rus donanması, ani bir baskınla Konstantinopolis'i kuşatmış, bu olay Hazarlar için de bir uyarı işareti olmuştur. Zachariah, Bizans İmparatorluğu ile birlikte Rus tehdidine karşı ortak savunma planları yapmış, Karadeniz'de devriye gezen Rus korsanlarına karşı donanma oluşturmuştur. Ancak Hazar Kağanlığı'nın iç yapısı bu dönemde gevşemeye başlamıştır. Slav kabileleri, özellikle Kiev Knezliği, Hazar egemenliğinden kurtulmaya başlamıştır. Peçeneklerin batıya göçü, Hazarların kuzey sınırlarını tehdit etmiştir. Ticaret yollarının kuzeyden Rus kontrolüne girmesi, Hazar ekonomisine darbe vurmuştur. Zachariah, iç isyanlarla da mücadele etmek zorunda kalmış, Özellikle kuzey kabilelerin isyanlarını bastırmak için büyük askeri güç harcamıştır. Zachariah'ın son dönemlerinde, Bulgaristan'dan kaçan Bulgarlar Hazar topraklarına sığınmış, bu durum Bizans-Hazar ilişkilerinde gerginliğe yol açmıştır. Zachariah'ın ölümünden sonra, Hazar Kağanlığı'nın çöküşü hızlanmıştır.",
+    "legacy": "Zachariah dönemi, Hazar Kağanlığı'nın dönüm noktasıdır. Kuzeyden gelen Rus tehdidi, sonraki yüzyılda Hazarların sonunu getirecek olan sürecin başlangıcıdır.",
+    "achievements": [
+      "Rus Vikinglerine karşı savunma hattı oluşturdu",
+      "Bizans ile ortak Karadeniz savunması planladı",
+      "İç isyanları bastırmaya çalıştı",
+      "Peçenek göçüne karşı önlemler aldı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 860",
+        "title": "Rusların Konstantinopolis Baskını",
+        "description": "Rus Vikingleri 200 kadırga ile Bizans başkentini kuşattı, Hazarlar için kuzey tehdidi belirdi."
+      },
+      {
+        "year": "M.S. 880",
+        "title": "Kiev'in Hazar Egemenliğinden Kopması",
+        "description": "Kiev Knezliği, Hazar Kağanlığı'ndan bağımsızlığını ilan ederek vergi ödemeyi kesti."
+      },
+      {
+        "year": "M.S. 889",
+        "title": "Peçeneklerin Batı Göçü",
+        "description": "Peçenek Türkleri batıya doğru göç ederek Hazar kuzey sınırlarını tehdit etmeye başladı."
+      },
+      {
+        "year": "M.S. 914",
+        "title": "Büyük Rus Baskını",
+        "description": "Rus korsanları Hazar topraklarına büyük bir baskın düzenleyerek Hazar ticaretini aksattı."
+      },
+      {
+        "year": "M.S. 920",
+        "title": "Zachariah'ın Ölümü",
+        "description": "Zorlu bir hükümdarlığın ardından öldü, oğlu II. Aaron tahta çıktı."
+      }
+    ],
+    "predecessor": "Hezekiah",
+    "successor": "II. Aaron",
+    "quote": {
+      "text": "Kuzeyden gelen fırtına, güneyden gelen yangından daha korkunçtur.",
+      "source": "Zachariah Kağan"
+    },
+    "battles": [
+      {
+        "name": "Kuzey Sınır Savunması",
+        "year": "M.S. 880",
+        "result": "defeat",
+        "description": "Kuzeyden gelen Rus korsanları ve Peçeneklerin ortak baskınları sonucu Hazar ordusu geri çekilmek zorunda kaldı."
+      },
+      {
+        "name": "Kiev İsyanının Bastırılması",
+        "year": "M.S. 882",
+        "result": "defeat",
+        "description": "Kiev Knez Oleg'i bağımsızlığını ilan etti, Hazar ordusu yenilgiye uğradı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Oleg (Oleg of Novgorod)",
+        "role": "Kiev Knezi",
+        "description": "Kiev Ruslarının ilk büyük knezi (882-912). Hazar egemenliğinden kurtularak güney Rus devletini kurdu."
+      },
+      {
+        "name": "VI. Leo (Leo the Wise)",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (886-912). Rus tehdidine karşı Hazarlarla işbirliği yaptı, 'Taktika'sında Hazar taktiklerini kaydetti."
+      },
+      {
+        "name": "Ibn Fadlan",
+        "role": "Arap Gezgin",
+        "description": "Ünlü Arap seyyah (c. 920). Hazar topraklarından geçerek Vikingleri ve Türkleri anlattı, Hazar Yahudilerinden bahsetti."
+      }
+    ]
+  },
+  {
+    "id": "hazar-aaron2",
+    "order": 5,
+    "name": "II. Aaron",
+    "title": "Hazar Kağanı - Son Büyük Kağan",
+    "period": "920 - 969",
+    "dynasty": "Hazar Kağanlığı",
+    "dynastyId": "hazar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-hazar-aaron.jpg",
+    "description": "Hazar Kağanlığı'nın son büyük kağanı. Kiev Prensi Svyatoslav tarafından yenilgiye uğratıldı, Itil yağmalandı.",
+    "fullBio": "II. Aaron, M.S. 920 ile 969 yılları arasında hüküm sürmüş, Hazar Kağanlığı'nın son büyük kağanı ve devletin çöküşüne tanıklık eden hükümdardır. Aaron tahta çıktığında, Hazar Kağanlığı'nın toprakları önemli ölçüde daralmış, kuzeydeki Rus knezlikleri bağımsızlıklarını ilan etmiş, Peçenekler batı göçüyle Hazar sınırlarını tehdit ediyordu. Aaron, Bizans İmparatoru I. Konstantinos ile 'perpetual peace' antlaşmasını yenileyerek güney sınırlarını güvence altına almaya çalışmıştır. Ancak en büyük tehdit, kuzeyden geliyordu. Kiev Prensi Svyatoslav Igorevich, 964 yılında Hazar topraklarına büyük bir sefer düzenledi. Hazar ordusu, modern silahlara sahip Rus kuvvetleri karşısında direnemedi. 965 yılında Svyatoslav, Hazar başkenti İtil'i (Sarkel yakınları) kuşattı ve yağmaladı. Şehir tamamen tahrip edildi, Hazar sarayı yakıldı. Aaron, bu felaketin ardından devleti toparlamaya çalışsa da, art arda gelen Rus ve Peçenek saldırıları karşısında direnemedi. 969 yılında öldüğünde, Hazar Kağanlığı fiilen çökmüş durumdaydı. Oğulları arasındaki taht kavgaları, son darbeyi vurdu. 969'dan sonra Hazar Kağanlığı küçük bir devletçik olarak varlığını sürdürmeye çalışsa da, 1030'larda tamamen ortadan kalktı.",
+    "legacy": "II. Aaron, 300 yıllık Hazar Kağanlığı'nın son büyük hükümdarıdır. Onun döneminde yaşanan çöküş, Türk tarihinin en dramatik sonlardan biridir. Hazar Kağanlığı'nın Yahudi mirası ise Doğu Avrupa Yahudiliği'nin kökenleri arasında hâlâ tartışılmaktadır.",
+    "achievements": [
+      "Bizans ile ittifakları yeniledi",
+      "Rus tehdidine karşı son direnişi örgütledi",
+      "Hazar devlet geleneğini son ana kadar sürdürdü"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 920",
+        "title": "Tahta Çıkış",
+        "description": "Zachariah'ın oğlu olarak tahta çıktı, gerileyen imparatorluğu kurtarmaya çalıştı."
+      },
+      {
+        "year": "M.S. 940",
+        "title": "Bizans İle İttifak",
+        "description": "Bizans İmparatoru I. Konstantinos ile savunma ve ticaret anlaşması imzalandı."
+      },
+      {
+        "year": "M.S. 964",
+        "title": "Svyatoslav Seferi Başladı",
+        "description": "Kiev Prensi Svyatoslav büyük bir orduyla Hazar topraklarına girdi."
+      },
+      {
+        "year": "M.S. 965",
+        "title": "İtil'in Düşmesi",
+        "description": "Ruslar başkent İtil'i yağmaladı, saray yandı, Hazar Kağanlığı fiilen çöktü."
+      },
+      {
+        "year": "M.S. 969",
+        "title": "II. Aaron'ın Ölümü ve Çöküş",
+        "description": "Aaron öldü, oğulları taht kavgasına düştü, Hazar Kağanlığı sona erdi."
+      }
+    ],
+    "predecessor": "Zachariah",
+    "successor": "Hanedan sona erdi / Kalıntılar 1030'lara kadar",
+    "quote": {
+      "text": "Üç asırlık imparatorluk bir günde yıkılabilir.",
+      "source": "II. Aaron Kağan, İtil düşerken"
+    },
+    "battles": [
+      {
+        "name": "İtil Muharebesi",
+        "year": "M.S. 965",
+        "result": "defeat",
+        "description": "Kiev Prensi Svyatoslav Hazar başkentini kuşatıp yağmaladı, Hazar ordusu dağıldı, saray yakıldı."
+      },
+      {
+        "name": "Sarkel Savunması",
+        "year": "M.S. 964",
+        "result": "defeat",
+        "description": "Rus ordusu Hazar kalesi Sarkel'i ele geçirerek Hazar savunma hattını yarıp geçti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Svyatoslav Igorevich",
+        "role": "Kiev Prensi (Büyük)",
+        "description": "Kiev Prensi (945-972). 964-965'te Hazar Kağanlığı'nı işgal ederek İtil'i yağmaladı, Hazarların sonunu getirdi."
+      },
+      {
+        "name": "I. Konstantinos (Konstantinos Porphyrogennetos)",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (913-959). Aaron ile ittifak kurmuş, De Administrando Imperio'da Hazarları detaylı anlattı."
+      },
+      {
+        "name": "Ibn Haukal",
+        "role": "Arap Coğrafyacı",
+        "description": "Ünlü Arap seyyah ve coğrafyacı (10. yüzyıl). Hazar topraklarını ziyaret ederek İtil ve sarayı hakkında detaylı kayıtlar bıraktı."
+      }
+    ]
+  }
+]

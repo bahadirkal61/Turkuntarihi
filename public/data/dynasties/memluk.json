@@ -1,0 +1,1620 @@
+[
+  {
+    "id": "memluk-sureci",
+    "order": 1,
+    "name": "Süreci (Aybek el-Turkmani)",
+    "title": "Memluk Sultanı",
+    "period": "1250 - 1257",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-sureci.jpg",
+    "description": "Eyyübi hanedanını devirerek Memluk Sultanı ilan edildi.",
+    "fullBio": "Süreci (I. Seyfeddin Aybek el-Turkmani), M.S. 1250-1257 yılları arasında yedi yıl hüküm sürmüş, Memluk Devleti'nin kurucusu ve ilk sultanıdır. Kıpçak Türkü kökenli Aybek, Eyyübi hükümdarı Salih Neccar'ın ölümünden sonra Memluk muhafızlarının komutanı olarak Kahire'de otoriteyi ele geçirmiştir. Eyyübi hanedanının son temsilcilerini deviren Aybek, 1250 yılında resmen Memluk Sultanı ilan edilmiştir. Hükümdarlığının ilk yıllarında, Eyyübi hanedanının Suriye'deki temsilcileriyle mücadele etmek zorunda kalmış, bu mücadelede başarılı olarak Memluk egemenliğini Kahire ve çevresinde pekiştirmiştir. Aybek döneminde Memluk ordusu, Türk kölelerden (Mamluk) oluşan özel bir askeri birlik olarak örgütlenmiş, bu yapı Memluk devletinin temelini oluşturmuştur. Aybek, Eyyübi döneminden kalma idari yapıyı koruyarak devletin istikrarlı bir geçiş dönemi yaşamasını sağlamıştır. 1257 yılında saray içindeki entrikalar sonucu öldürülmüştür. Eşi Şecerüddür ile olan ilişkileri, Memluk saray hayatının en karmaşık dönemlerinden birine yol açmıştır. Aybek'in kurduğu devlet yapısı, iki buçuk asır boyunca Mısır ve Suriye'nin kaderini belirleyecek olan güçlü bir imparatorluğun temelini oluşturmuştur.",
+    "legacy": "Memluk Devleti'nin kurucusu, Türk askeri geleneğinin Mısır'daki temsilcisi.",
+    "achievements": [
+      "Memluk Devleti'ni kurma",
+      "Eyyübi hanedanını sona erdirme",
+      "Memluk askeri örgütlenmesini oluşturma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1250",
+        "title": "Memluk Devleti'nin Kuruluşu",
+        "description": "Eyyübi hanedanını devirerek Memluk Sultanı ilan edildi."
+      },
+      {
+        "year": "1254",
+        "title": "Eyyübi Kalıntılarını Temizleme",
+        "description": "Suriye'deki Eyyübi direnişini bastırdı."
+      },
+      {
+        "year": "1257",
+        "title": "Aybek'in Ölümü",
+        "description": "Saray entrikaları sonucu öldürüldü."
+      }
+    ],
+    "predecessor": "Devletin kurucusu / Önceki dönemden bilinmiyor",
+    "successor": "Ali",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Süreci, Memluk hanedanının ilk adımıdır. Türkmen steplerinden Mısır'a uzanan bu yol, kölelerin sultan olduğu bir çağ başlattı.",
+      "source": "Süreci"
+    }
+  },
+  {
+    "id": "memluk-aybek",
+    "order": 2,
+    "name": "I. Seyfeddin Aybek",
+    "title": "Memluk Sultanı",
+    "period": "1250 - 1257",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-aybek.jpg",
+    "description": "Memluk Devleti'nin kurucusu. Kıpçak Türkü kökenli, Kölelikten sultanlığa yükselen ilk hükümdar.",
+    "fullBio": "I. Seyfeddin Aybek (ö. 1257), Memluk Devleti'nin kurucusu ve ilk sultanıdır. Kıpçak Türkü kökenlidir. Küçük yaşta köle olarak satılmış, Bahriyye Memlukları arasında yetişmiştir. 1250 yılında son Eyyubi hükümdarını devirerek Mısır'da Memluk Devleti'ni kurmuştur. Döneminde Mısır ve Suriye'de Türk-Memluk idaresini tesis etmiştir. 1257'de bir komplo sonucu öldürülmüştür.",
+    "legacy": "Mısır ve Suriye'de 267 yıl sürecek Türk-Memluk devletinin kurucusu.",
+    "achievements": [
+      "Memluk Devleti'ni kurma",
+      "Mısır'da Türk hâkimiyetini tesis etme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1250",
+        "title": "Devlet Kuruluşu",
+        "description": "Mısır'da Memluk Devleti'ni kurdu."
+      }
+    ],
+    "predecessor": "Sultan Baybars",
+    "successor": "El-Mansur Kalawun",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Kölelikten sultanlığa yükselen bu yol, Kıpçak steplerinden Nil nehrine uzanır. Memluk Devleti'nin temellerini ben attım.",
+      "source": "I. Seyfeddin Aybek"
+    }
+  },
+  {
+    "id": "memluk-ali",
+    "order": 3,
+    "name": "Ali",
+    "title": "Memluk Sultanı",
+    "period": "1257",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-ali.jpg",
+    "description": "Bir yıldan az süren hükümdarlığının ardından tahttan indirildi.",
+    "fullBio": "Ali, M.S. 1257 yılında bir yıldan az süreyle hüküm sürmüş, Memluk Devleti'nin ikinci sultanıdır. Aybek'in ölümünden sonra tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Aybek'in dul eşi Şecerüddür'ün etkisiyle tahta çıkarılmış, ancak gerçek güç yine Şecerüddür'ün elinde kalmıştır. Ali'nin hükümdarlığı sırasında Memluk ordusunda ayaklanmalar başlamış, özellikle Türk Memluk komutanlar ile Çerkes Memluk komutanlar arasındaki çatışmalar artmıştır. Ali, tahtta kalmaya çalışmış ancak ordunun desteğini kaybetmiş, aynı yıl içinde tahttan indirilmiştir. Ali'nin kısa hükümdarlığı, Memluk devletinin erken dönemindeki otorite boşluğunun ve saray entrikalarının bir örneğidir.",
+    "legacy": "Memluk Devleti'nin en kısa hükümdarlıklarından birine sahip sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1257",
+        "title": "Kısa Hükümdarlık",
+        "description": "Bir yıldan az süren hükümdarlığının ardından tahttan indirildi."
+      }
+    ],
+    "predecessor": "Aybek",
+    "successor": "Kutuz",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Bir yıl tahtta kaldım, ama bu bir yıl, Memluk hanedanının ne kadar kırılgan olabileceğini gösterdi.",
+      "source": "Ali"
+    }
+  },
+  {
+    "id": "memluk-kutuz",
+    "order": 4,
+    "name": "Sultan Kutuz",
+    "title": "Memluk Sultanı / Ayn Calut Komutanı",
+    "period": "1259 - 1260",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-kutuz.jpg",
+    "description": "Ayn Calut Muharebesi'nde Moğolları yenen, Memluk Devleti'nin kuruluşunu sağlayan hükümdar.",
+    "fullBio": "Sultan Kutuz, 1259-1260 yılları arasında kısa bir dönem hüküm sürmüş, ancak Türk tarihinin en önemli zaferlerinden birini kazanan Memluk hükümdarıdır. Aslen Kıpçak Türkü olan Kutuz, Baybars gibi köle olarak Mısır'a getirilmiş, Memluk ordusunda yükselerek sultan olmuştur. 1260 yılında Moğol orduları Suriye'yi işgal ettiğinde, Kutuz büyük bir cesaret göstererek ordusunu sefere çıkarmıştır. Baybars komutasındaki Memluk ordusu, Ein Celut Muharebesi'nde Moğol ordusunu büyük bir yenilgiye uğratmıştır. Bu zafer, Moğol yayılmasının durdurulduğu ilk andır ve dünya tarihinin seyrini değiştirmiştir. Kutuz, zaferden sonra başarılı komutanlarından korkarak Baybars'a suikast düzenlemeye çalışmış, ancak Baybars tarafından öldürülmüştür. Kısa hükümdarlığına rağmen Kutuz'un Ein Celut zaferi, İslam dünyasının ve Türk tarihinin en önemli dönüm noktalarından biridir. Bu zafer sayesinde Suriye, Mısır ve Arabistan Moğol istilasından kurtulmuş, İslam medeniyeti yaşatılmıştır.",
+    "legacy": "Moğol istilasını durdurmuş ancak zaferden hemen sonra suikastle öldürülmüştür.",
+    "achievements": [
+      "Ayn Calut Zaferi",
+      "Moğol ilerleyişini durdurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1260",
+        "title": "Ayn Calut",
+        "description": "Moğolları ilk kez büyük yenilgiye uğrattı."
+      }
+    ],
+    "predecessor": "Kansuh Gavri",
+    "successor": "Tomanbay (Tumanbay)",
+    "battles": [
+      {
+        "name": "Ayn Calut",
+        "year": "M.S. 1260",
+        "result": "defeat",
+        "description": "Moğolları ilk kez büyük yenilgiye uğrattı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Ayn Celut'ta Moğol'u durduran bu ordu, Kıpçak tıraşlı süvarilerin gücüdür. Kölelikten çıkan bu el, dünyayı değiştirdi.",
+      "source": "Sultan Kutuz"
+    }
+  },
+  {
+    "id": "memluk-baybars-2",
+    "order": 5,
+    "name": "Sultan Baybars el-Bundukdari",
+    "title": "Memluk Sultanı",
+    "period": "1260 - 1277",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-baybars.jpg",
+    "description": "Moğol ordularını ilk kez büyük bir yenilgiye uğrattı.",
+    "fullBio": "Sultan Baybars el-Bundukdari, M.S. 1260-1277 yılları arasında on yedi yıl hüküm sürmüş, Memluk Devleti'nin en büyük ve en etkili sultanlarından biridir. Kıpçak Türkü kökenli Baybars, Moğolların elinden kaçarak Mısır'a gelmiş, Memluk ordusuna katılmış ve kısa sürede en yetenekli komutanlardan biri olmuştur. 1260 yılında Kutuz ile birlikte Ayn Calut Muharebesi'nde Moğol ordularını yenilgiye uğratan Baybars, bu zaferin ardından Kutuz'u suikastle öldürerek tahta çıkmıştır. Baybars döneminde Memluk Devleti, Mısır ve Suriye'de tam egemenlik kurmuş, Haçlı kalıntılarını ve Moğol tehdidini bertaraf etmiştir. 1265 yılında Antakya'yı Haçlılardan geri almış, 1268 yılında Antiochia Haçlı Kontluğu'nu sona erdirmiştir. Baybars, aynı zamanda zeki bir diplomat olup, Bizans İmparatorluğu, Kumanlar ve hatta Altınordu ile ittifaklar kurarak Moğol tehdidine karşı stratejik bir çevre oluşturmuştur. İçerde ise Memluk askeri örgütlenmesini mükemmelleştirmiş, posta sistemi (barid) kurarak devletin haber alma ağını genişletmiştir. Baybars, İslam dünyasının siyasi birliğini sağlamaya çalışmış, Bağdat'taki Abbasi halifesinin soyundan birini Kahire'ye getirerek Abbasi Halifeliği'ni yeniden kurmuştur (1261). Bu hareket, Memluk sultanlarına İslam dünyasındaki meşruiyetlerini kazandırmıştır. Baybars'ın kurduğu güçlü devlet yapısı, Memluk İmparatorluğu'nun iki buçuk asırlık varlığının temelini oluşturmuştur.",
+    "legacy": "Memluk Devleti'nin en büyük sultanı, Moğol ve Haçlı tehdidine karşı İslam dünyasını savunan efsanevi komutan.",
+    "achievements": [
+      "Ayn Calut Zaferi (1260)",
+      "Antakya ve Antiochia'nın fethi",
+      "Memluk askeri örgütlenmesini mükemmelleştirme",
+      "Abbasi Halifeliği'ni yeniden kurma",
+      "Posta sistemi (barid) kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1260",
+        "title": "Ayn Calut Zaferi",
+        "description": "Moğol ordularını ilk kez büyük bir yenilgiye uğrattı."
+      },
+      {
+        "year": "1261",
+        "title": "Abbasi Halifeliği'nin Yeniden Kuruluşu",
+        "description": "Kahire'de Abbasi Halifeliği'ni yeniden kurdu."
+      },
+      {
+        "year": "1265",
+        "title": "Antakya Fethi",
+        "description": "Haçlılardan Antakya'yı geri aldı."
+      },
+      {
+        "year": "1268",
+        "title": "Antiochia Kontluğu'nun Sonu",
+        "description": "Son Antiochia Haçlı Kontluğu'nu sona erdirdi."
+      },
+      {
+        "year": "1277",
+        "title": "Baybars'ın Ölümü",
+        "description": "On yedi yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Kutuz",
+    "successor": "Berke Khan",
+    "battles": [
+      {
+        "name": "Ayn Calut Zaferi",
+        "year": "1260",
+        "result": "defeat",
+        "description": "Moğol ordularını ilk kez büyük bir yenilgiye uğrattı."
+      },
+      {
+        "name": "Antakya Fethi",
+        "year": "1265",
+        "result": "victory",
+        "description": "Haçlılardan Antakya'yı geri aldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Berke Han",
+        "role": "Altın Orda Hanı",
+        "description": "Baybars'ın müttefiki. Altın Orda-Memluk ittifakının temelini atmışlardır."
+      },
+      {
+        "name": "Louis IX",
+        "role": "Fransa Kralı",
+        "description": "Yedinci Haçlı Seferi'ni Baybars döneminde yapmış, Mansurah'ta esir düşmüştür."
+      }
+    ],
+    "quote": {
+      "text": "Ayn Celut'ta Kutuz'un yanında savaştım, ondan sonra tahta çıktım. Memluk saltanatının altın çağını ben başlattım.",
+      "source": "Sultan Baybars el-Bundukdari"
+    }
+  },
+  {
+    "id": "memluk-berke-khan",
+    "order": 7,
+    "name": "Berke Khan (Sulemis)",
+    "title": "Memluk Sultanı",
+    "period": "1277 - 1279",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-berke.jpg",
+    "description": "Baybars'ın ardından sultan oldu.",
+    "fullBio": "Berke Khan (Sulemis), M.S. 1277-1279 yılları arasında iki yıl hüküm sürmüş, Memluk Devleti'nin dördüncü sultanıdır. Baybars'ın ölümünden sonra tahta çıkmış, büyük sultanın mirasını korumaya çalışmıştır. Berke Khan döneminde Memluk Devleti, Suriye'deki Moğol tehdidine karşı savunma pozisyonunu sürdürmüştür. 1278 yılında, Suriye'nin kuzeyindeki Moğol saldırılarına karşı başarılı savunma hareketleri gerçekleştirmiştir. Berke Khan ayrıca, deniz gücünü geliştirerek Akdeniz'de Memluk varlığını güçlendirmiştir. İki yıllık kısa hükümdarlığının ardından 1279 yılında ölmüştür. Berke Khan'ın ölümünden sonra tahta Kalaun geçmiş, Memluk İmparatorluğu yeni bir zirve dönemi yaşamıştır.",
+    "legacy": "Baybars'tan sonra Memluk mirasını koruyan, kısa ama istikrarlı hüküm süren sultan.",
+    "achievements": [
+      "Baybars'ın mirasını koruma",
+      "Suriye'de Moğol savunması",
+      "Deniz gücünü geliştirme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1277",
+        "title": "Tahta Çıkış",
+        "description": "Baybars'ın ardından sultan oldu."
+      },
+      {
+        "year": "1278",
+        "title": "Suriye Savunması",
+        "description": "Moğol saldırılarına karşı başarılı savunma yaptı."
+      },
+      {
+        "year": "1279",
+        "title": "Ölüm",
+        "description": "İki yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Baybars",
+    "successor": "Kalaun",
+    "battles": [
+      {
+        "name": "Suriye Savunması",
+        "year": "1278",
+        "result": "victory",
+        "description": "Moğol saldırılarına karşı başarılı savunma yaptı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Berke Han'ın izinden giden bu Memluk sultanı, Altınordu ile ittifakın temsilcisi. İki Türk-Moğol dünyası arasında köprü oldum.",
+      "source": "Berke Han (Memluk)"
+    }
+  },
+  {
+    "id": "memluk-kalaun",
+    "order": 8,
+    "name": "Seyfeddin Kalaun el-Meliki",
+    "title": "Memluk Sultanı",
+    "period": "1279 - 1290",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-kalaun.jpg",
+    "description": "Berke Khan'ın ardından sultan oldu.",
+    "fullBio": "Seyfeddin Kalaun el-Meliki, M.S. 1279-1290 yılları arasında on bir yıl hüküm sürmüş, Memluk Devleti'nin en önemli sultanlarından biridir. Kuman (Kıpçak) kökenli Kalaun, Berke Khan'ın ölümünden sonra tahta çıkmış, devleti yeni bir zirveye taşımıştır. Kalaun döneminde Memluk ordusu, Suriye'de Moğol İlhanlı ordularına karşı bir dizi zafer kazanmış, 1281 yılında ikinci Homs Muharebesi'nde İlhanlı ordusunu büyük bir yenilgiye uğratmıştır. Bu zafer, Moğolların Suriye'yi işgal etme hayallerini sona erdirmiştir. Kalaun, 1285 yılında Trablusşam Haçlı Kontluğu'nu fethettirip son Haçlı varlıklarını Levant kıyılarından silmiştir. 1289 yılında ise Akka dışındaki son önemli Haçlı kalesi olan Mısır yakınlarındaki kalıntıları temizlemiştir. Kalaun, iç politikada da önemli reformlar yapmış, hastaneler (bimaristan) ve medreseler yaptırmış, özellikle Kahire'deki el-Mansuri Hastanesi, ortaçağ İslam dünyasının en önemli sağlık kurumlarından biri olmuştur. Kalaun ayrıca, deniz ticaretini geliştirerek Memluk ekonomisini güçlendirmiştir. Hindistan ve Uzakdoğu ile deniz ticareti yoluyla Kahire, dünya ticaretinin önemli bir merkezi haline gelmiştir. Kalaun, 1290 yılında ölmüş, ardından oğlu Halil tahta çıkmıştır.",
+    "legacy": "Memluk İmparatorluğu'nun en büyük yapıcı sultanlarından biri, Moğol ve Haçlı tehdidini bertaraf eden hükümdar.",
+    "achievements": [
+      "İkinci Homs Zaferi (1281)",
+      "Trablusşam'ın fethi (1285)",
+      "El-Mansuri Hastanesi'ni kurma",
+      "Haçlı varlıklarını Levant'tan silme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1279",
+        "title": "Tahta Çıkış",
+        "description": "Berke Khan'ın ardından sultan oldu."
+      },
+      {
+        "year": "1281",
+        "title": "İkinci Homs Zaferi",
+        "description": "Moğol İlhanlı ordusunu büyük bir yenilgiye uğrattı."
+      },
+      {
+        "year": "1285",
+        "title": "Trablusşam Fethi",
+        "description": "Son Haçlı kontluklarından birini sona erdirdi."
+      },
+      {
+        "year": "1290",
+        "title": "Kalaun'un Ölümü",
+        "description": "On bir yıllık başarılı hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Berke Khan",
+    "successor": "Halil",
+    "battles": [
+      {
+        "name": "İkinci Homs Zaferi",
+        "year": "1281",
+        "result": "defeat",
+        "description": "Moğol İlhanlı ordusunu büyük bir yenilgiye uğrattı."
+      },
+      {
+        "name": "Trablusşam Fethi",
+        "year": "1285",
+        "result": "victory",
+        "description": "Son Haçlı kontluklarından birini sona erdirdi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Kalaun, Memluk hanedanının üçüncü büyük sultanı. Suriye'de Moğol tehdidini sona erdirdim, Akka önlerinde toplarımız gürledi.",
+      "source": "Seyfeddin Kalaun el-Meliki"
+    }
+  },
+  {
+    "id": "memluk-kalawun",
+    "order": 9,
+    "name": "El-Mansur Kalawun",
+    "title": "Memluk Sultanı",
+    "period": "1279 - 1290",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-kalawun.jpg",
+    "description": "Baybars'ın ardından Memluk Devleti'nin en güçlü sultanı. 1281'de Moğolları Homs'ta yendi.",
+    "fullBio": "El-Mansur Kalawun (ö. 1290), Memluk Devleti'nin önemli sultanlarından biridir. Kıpçak Türkü kökenlidir. 1279'da sultan olmuştur. Baybars'ın başlattığı güçlü devlet yapısını sürdürmüştür. 1281 yılında Homs Muharebesi'nde İlhanlı Moğollarını yenilgiye uğratmıştır. 1289'da Haçlıların elindeki son önemli kalelerden Trablusşam'ı (Tripoli) fethetmiştir. Kudüs'ü Haçlılardan geri almayı hedeflemiş ancak hastalığı nedeniyle tamamlayamamıştır. 1290'da ölmüştür.",
+    "legacy": "Memluk gücünün doruklarında devleti yöneten, Moğol ve Haçlı tehdidine karşı duran sultan.",
+    "achievements": [
+      "Homs Zaferi (1281)",
+      "Trablusşam'ın fethi"
+    ],
+    "keyEvents": [
+      {
+        "year": "1281",
+        "title": "Homs Zaferi",
+        "description": "İlhanlı Moğollarını Homs'ta yendi."
+      },
+      {
+        "year": "1289",
+        "title": "Trablusşam Fethi",
+        "description": "Haçlıların elindeki Trablusşam'ı aldı."
+      }
+    ],
+    "predecessor": "I. Seyfeddin Aybek",
+    "successor": "El-Eşref Halil",
+    "battles": [
+      {
+        "name": "Homs Zaferi",
+        "year": "1281",
+        "result": "victory",
+        "description": "İlhanlı Moğollarını Homs'ta yendi."
+      },
+      {
+        "name": "Trablusşam Fethi",
+        "year": "1289",
+        "result": "victory",
+        "description": "Haçlıların elindeki Trablusşam'ı aldı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Kalawun, Memluk sisteminin kemikleştiği dönemin sultanı. Bahriye'den çıkan bu el, Memluk devletini zirveye taşıdı.",
+      "source": "El-Mansur Kalawun"
+    }
+  },
+  {
+    "id": "memluk-halil",
+    "order": 10,
+    "name": "Eşref Halil",
+    "title": "Memluk Sultanı",
+    "period": "1290 - 1293",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-halil.jpg",
+    "description": "Kalaun'un oğlu olarak sultan oldu.",
+    "fullBio": "Eşref Halil, M.S. 1290-1293 yılları arasında üç yıl hüküm sürmüş, Kalaun'un oğlu ve Memluk Devleti'nin altıncı sultanıdır. Babasının ölümünden sonra tahta çıkmış, genç yaşında hükümdar olmasına rağmen önemli askeri başarılar elde etmiştir. Halil döneminin en önemli olayı, 1291 yılında Akka'nın fethidir. Akka, Haçlıların Levant'taki son önemli kalesiydi ve bu fetih, Haçlı varlığının Filistin ve Suriye kıyılarındaki iki asırlık hâkimiyetine son vermiştir. Akka'nın düşüşü, Haçlı Seferleri tarihinde bir dönüm noktası olarak kabul edilir. Halil, fetihten sonra şehirdeki tüm Haçlı kalıntılarını temizlemiş, böylece Memluk egemenliği Levant kıyılarında tamamlanmıştır. Ancak Halil'in hükümdarlığı, Memluk aristokrasisi içindeki muhalifler tarafından tehdit edilmiş, 1293 yılında bir saray darbesiyle tahttan indirilerek öldürülmüştür. Halil'in kısa hükümdarlığı, Memluk Devleti'nin askeri zirvesinin bir parçasıdır.",
+    "legacy": "Haçlıların Levant'taki son kalesi Akka'yı fetheden genç sultan.",
+    "achievements": [
+      "Akka'nın fethi (1291)",
+      "Haçlı varlığına Levant'ta son verme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1290",
+        "title": "Tahta Çıkış",
+        "description": "Kalaun'un oğlu olarak sultan oldu."
+      },
+      {
+        "year": "1291",
+        "title": "Akka Fethi",
+        "description": "Haçlıların son önemli kalesini fethederek Levant'taki Haçlı hâkimiyetine son verdi."
+      },
+      {
+        "year": "1293",
+        "title": "Tahttan İndirilme",
+        "description": "Saray darbesiyle tahttan indirilerek öldürüldü."
+      }
+    ],
+    "predecessor": "Kalaun",
+    "successor": "Nasır Muhammed",
+    "battles": [
+      {
+        "name": "Akka Fethi",
+        "year": "1291",
+        "result": "victory",
+        "description": "Haçlıların son önemli kalesini fethederek Levant'taki Haçlı hâkimiyetine son verdi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Halil, Memluk çağının genç sultanlarından. Tahtta oturduğumda hanedan güçlüydü, ama iç çekişmeler büyüyordu.",
+      "source": "Eşref Halil"
+    }
+  },
+  {
+    "id": "memluk-eleşref",
+    "order": 11,
+    "name": "El-Eşref Halil",
+    "title": "Memluk Sultanı - Kudüs Fatihi",
+    "period": "1290 - 1293",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-elesref.jpg",
+    "description": "Kudüs'ü Haçlıların elinden kurtaran, Akka'yı fetheden Memluk sultanı.",
+    "fullBio": "El-Eşref Halil (ö. 1293), Memluk sultanı ve Kudüs'ü Haçlılardan kurtaran hükümdardır. Kalawun'un oğludur. 1290'da sultan olmuştur. Babasının başlattığı Haçlı seferini tamamlamış, 1291 yılında Akka'yı (Acre) fethederek Haçlıların Kudüs ve Filistin'deki son kalelerini yıkmıştır. Bu fetih, 1099'dan beri Haçlıların elinde olan Kudüs ve çevresinin tamamen Müslümanların kontrolüne girmesini sağlamıştır. 1293'te bir komplo sonucu öldürülmüştür.",
+    "legacy": "Kudüs'ü Haçlıların elinden kurtaran, Haçlı varlığına son veren Memluk sultanı.",
+    "achievements": [
+      "Akka Fethi (1291)",
+      "Kudüs'ü Haçlılardan kurtarma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1291",
+        "title": "Akka Fethi",
+        "description": "Haçlıların son kalesi Akka'yı fethetti."
+      }
+    ],
+    "predecessor": "El-Mansur Kalawun",
+    "successor": "En-Nasır Muhammed",
+    "battles": [
+      {
+        "name": "Akka Fethi",
+        "year": "1291",
+        "result": "victory",
+        "description": "Haçlıların son kalesi Akka'yı fethetti."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "El-Eşref, Memluk sarayının en görkemli dönemlerinde tahtta oturanlardan. Kahire'deki sarayımız, dünyanın gözbebeğiydi.",
+      "source": "El-Eşref Halil"
+    }
+  },
+  {
+    "id": "memluk-enasır",
+    "order": 12,
+    "name": "En-Nasır Muhammed",
+    "title": "Memluk Sultanı - Altın Çağ",
+    "period": "1293 - 1340",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-enasir.jpg",
+    "description": "Memluk Devleti'nin en uzun süre tahtta kalan ve en başarılı sultanı. 3 kez tahta çıktı, toplam 42 yıl hüküm sürdü.",
+    "fullBio": "En-Nasır Muhammed (1285-1341), Memluk Devleti'nin en uzun süre ve en başarılı döneminde hüküm süren sultanıdır. 1293 yılında 8 yaşındayken ilk kez tahta çıkmış, üç farklı dönemde (1293-1294, 1299-1309, 1310-1340) toplam 42 yıl hüküm sürmüştür. Döneminde Memluk Devleti altın çağını yaşamış, Mısır ve Suriye'de görkemli mimari eserler (El-Eşref Camii, Sultan Hasan Medresesi) inşa edilmiştir. 1303'te Şam yakınlarında Moğolları yenilgiye uğratmıştır. Ticareti teşvik etmiş, Hindistan ve Doğu Afrika ile ticaret yollarını güvenli hale getirmiştir. 1340'ta ölmüştür.",
+    "legacy": "Memluk Devleti'nin altın çağını yaşatan, en uzun süre hüküm süren, Mısır'ın en görkemli dönemini yaratan sultan.",
+    "achievements": [
+      "42 yıl hüküm sürmek",
+      "Memluk altın çağı",
+      "Sultan Hasan Medresesi",
+      "Moğolları Suriye'den çıkarma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1293",
+        "title": "İlk Tahta Çıkış",
+        "description": "8 yaşında ilk kez sultan oldu."
+      },
+      {
+        "year": "1303",
+        "title": "Moğol Yenilgisi",
+        "description": "Şam yakınlarında Moğolları yenilgiye uğrattı."
+      },
+      {
+        "year": "1310",
+        "title": "Üçüncü Saltanat",
+        "description": "Son ve en uzun saltanat dönemi başladı."
+      }
+    ],
+    "predecessor": "El-Eşref Halil",
+    "successor": "Berkuk (Barquq)",
+    "battles": [
+      {
+        "name": "Moğol Yenilgisi",
+        "year": "1303",
+        "result": "defeat",
+        "description": "Şam yakınlarında Moğolları yenilgiye uğrattı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "En-Nasır Muhammed, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "En-Nasır Muhammed"
+    }
+  },
+  {
+    "id": "memluk-ebu-bekir",
+    "order": 13,
+    "name": "Ebu Bekir",
+    "title": "Memluk Sultanı",
+    "period": "1340 - 1341",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-ebu-bekir.jpg",
+    "description": "Nasır Muhammed'in ardından sultan oldu.",
+    "fullBio": "Ebu Bekir, M.S. 1340-1341 yılları arasında bir yıl hüküm sürmüş, Memluk Devleti'nin dokuzuncu sultanıdır. En-Nasır Muhammed'in üçüncü hükümdarlığı sona erdikten sonra tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Ebu Bekir döneminde Memluk Devleti, Nasır Muhammed'in uzun ve zengin yönetiminin ardından bir dönüşüm geçirmeye başlamıştır. Memluk ordusu içindeki Türk ve Çerkes komutanlar arasındaki çatışmalar artmaya başlamıştır. Ebu Bekir, devletin sınırlarını korumaya çalışmış, ancak genç yaşı ve tecrübesizliği nedeniyle gerçek güç komutanların elinde kalmıştır. 1341 yılında tahttan indirilmiştir. Ebu Bekir'in düşüşü, Memluk devletinde Türk komutanlar ile Çerkes komutanlar arasındaki güç mücadelesinin ilk aşamasını temsil eder.",
+    "legacy": "Memluk devletinde Türk-Çerkes çatışmasının başladığı dönemde hüküm süren kısa ömürlü sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1340",
+        "title": "Tahta Çıkış",
+        "description": "Nasır Muhammed'in ardından sultan oldu."
+      },
+      {
+        "year": "1341",
+        "title": "Tahttan İndirilme",
+        "description": "Memluk komutanları tarafından tahttan indirildi."
+      }
+    ],
+    "predecessor": "En-Nasır Muhammed",
+    "successor": "Kucuk",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Ebu Bekir, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Ebu Bekir"
+    }
+  },
+  {
+    "id": "memluk-kucuk",
+    "order": 14,
+    "name": "Küçük Kujuk",
+    "title": "Memluk Sultanı",
+    "period": "1341 - 1342",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-kucuk.jpg",
+    "description": "Memluk komutanlarının desteğiyle sultan oldu.",
+    "fullBio": "Küçük Kujuk, M.S. 1341-1342 yılları arasında bir yıl hüküm sürmüş, Memluk Devleti'nin onuncu sultanıdır. Ebu Bekir'in tahttan indirilmesinden sonra, Memluk komutanlarının desteğiyle tahta çıkarılmış, ancak gerçek güç yine komutanların elinde kalmıştır. Küçük döneminde Memluk devletindeki Türk-Çerkes çatışması hız kazanmış, özellikle Çerkes kökenli Memluk komutanlar güçlenmeye başlamıştır. Küçük, hükümdarlığı sırasında Suriye'deki Moğol tehdidine karşı savunma hareketleri yürütmüş, ancak bu çabalar yetersiz kalmıştır. 1342 yılında tahttan indirilerek öldürülmüştür. Küçük'ün hükümdarlığı, Memluk devletinde çocuk sultanlar döneminin başlangıcını temsil eder.",
+    "legacy": "Memluk devletinde çocuk sultanlar döneminin başlangıcını temsil eden sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1341",
+        "title": "Tahta Çıkış",
+        "description": "Memluk komutanlarının desteğiyle sultan oldu."
+      },
+      {
+        "year": "1342",
+        "title": "Tahttan İndirilme",
+        "description": "Tahttan indirilerek öldürüldü."
+      }
+    ],
+    "predecessor": "Ebu Bekir",
+    "successor": "Ahmed",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Küçük Kujuk, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Küçük Kujuk"
+    }
+  },
+  {
+    "id": "memluk-ahmed-2",
+    "order": 15,
+    "name": "Ahmed",
+    "title": "Memluk Sultanı",
+    "period": "1342",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-ahmed.jpg",
+    "description": "Bir yıldan az süren hükümdarlığının ardından öldürüldü.",
+    "fullBio": "Ahmed, M.S. 1342 yılında bir yıldan az süreyle hüküm sürmüş, Memluk Devleti'nin on birinci sultanıdır. Küçük Kujuk'un tahttan indirilmesinden sonra tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Ahmed döneminde Memluk ordusu içindeki Türk ve Çerkes komutanlar arasındaki çatışma doruk noktasına ulaşmıştır. Ahmed, Çerkes komutanların desteğiyle tahta çıkmış, ancak Türk komutanlar tarafından desteklenen rakip adaylar tarafından tehdit edilmiştir. Aynı yıl içinde tahttan indirilerek öldürülmüştür. Ahmed'in hükümdarlığı, Memluk devletindeki etnik çatışmaların en şiddetli dönemlerinden biridir. Bu dönemden sonra Memluk ordusu içindeki güç dengesi giderek Çerkes komutanlar lehine değişmeye başlamıştır.",
+    "legacy": "Memluk devletinde Türk-Çerkes çatışmasının doruk noktasında hüküm süren sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1342",
+        "title": "Kısa Hükümdarlık",
+        "description": "Bir yıldan az süren hükümdarlığının ardından öldürüldü."
+      }
+    ],
+    "predecessor": "Küçük Kujuk",
+    "successor": "İsmail",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Ahmed, Memluk hanedanının bir sultanı olarak tahtta oturdu. Kahire'nin sarayında, Kıpçak süvarilerinin torunları hüküm sürüyordu.",
+      "source": "Ahmed"
+    }
+  },
+  {
+    "id": "memluk-ismail",
+    "order": 16,
+    "name": "İsmail",
+    "title": "Memluk Sultanı",
+    "period": "1342 - 1345",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-ismail.jpg",
+    "description": "Memluk komutanlarının desteğiyle sultan oldu.",
+    "fullBio": "İsmail, M.S. 1342-1345 yılları arasında üç yıl hüküm sürmüş, Memluk Devleti'nin on ikinci sultanıdır. Ahmed'in ölümünden sonra tahta çıkmış, genç yaşta hükümdar olmasına rağmen nispeten uzun bir süre tahtta kalmayı başarmıştır. İsmail döneminde Memluk devletindeki iç karışıklıklar bir miktar azalmış, devletin sınırlarını koruma çabaları yoğunlaşmıştır. 1343 yılında, Suriye'nin kuzeyindeki Moğol saldırılarına karşı savunma hareketleri düzenlemiştir. Ancak genel olarak hükümdarlığı, Memluk komutanlarının fiili yönetimi altında geçmiştir. 1345 yılında tahttan indirilmiştir. İsmail'in hükümdarlığı, Memluk devletinin çocuk sultanlar döneminin devamı olarak görülmektedir.",
+    "legacy": "Memluk çocuk sultanlar döneminde hüküm süren sultan.",
+    "achievements": [
+      "Suriye'de Moğol savunması"
+    ],
+    "keyEvents": [
+      {
+        "year": "1342",
+        "title": "Tahta Çıkış",
+        "description": "Memluk komutanlarının desteğiyle sultan oldu."
+      },
+      {
+        "year": "1345",
+        "title": "Tahttan İndirilme",
+        "description": "Tahttan indirildi."
+      }
+    ],
+    "predecessor": "Ahmed",
+    "successor": "Şa'ban",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "İsmail, Memluk tahtında kısa süre kalan sultanlardan. Çocuk sultanlar döneminde taht, emirlerin oyuncağı oldu.",
+      "source": "İsmail"
+    }
+  },
+  {
+    "id": "memluk-saban",
+    "order": 17,
+    "name": "Şa'ban",
+    "title": "Memluk Sultanı",
+    "period": "1345 - 1346",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-saban.jpg",
+    "description": "İsmail'in ardından sultan oldu.",
+    "fullBio": "Şa'ban, M.S. 1345-1346 yılları arasında bir yıl hüküm sürmüş, Memluk Devleti'nin on üçüncü sultanıdır. İsmail'in tahttan indirilmesinden sonra tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Şa'ban döneminde Memluk devletindeki iç çatışmalar devam etmiş, özellikle Kahire'deki Memluk komutanları arasındaki güç mücadeleleri şiddetlenmiştir. Şa'ban, tahtta kalmaya çalışmış ancak ordunun desteğini kaybetmiş, 1346 yılında tahttan indirilerek öldürülmüştür. Şa'ban'ın hükümdarlığı, Memluk devletinin en karışık dönemlerinden biridir.",
+    "legacy": "Memluk karışık döneminde hüküm süren kısa ömürlü sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1345",
+        "title": "Tahta Çıkış",
+        "description": "İsmail'in ardından sultan oldu."
+      },
+      {
+        "year": "1346",
+        "title": "Tahttan İndirilme",
+        "description": "Tahttan indirilerek öldürüldü."
+      }
+    ],
+    "predecessor": "İsmail",
+    "successor": "Hacı",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Şa'ban, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Şa'ban"
+    }
+  },
+  {
+    "id": "memluk-haci",
+    "order": 18,
+    "name": "Hacı",
+    "title": "Memluk Sultanı",
+    "period": "1346 - 1347",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-haci.jpg",
+    "description": "Şa'ban'ın ardından sultan oldu.",
+    "fullBio": "Hacı, M.S. 1346-1347 yılları arasında bir yıl hüküm sürmüş, Memluk Devleti'nin on dördüncü sultanıdır. Şa'ban'ın ölümünden sonra tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Hacı döneminde Memluk devletindeki Türk-Çerkes çatışması devam etmiş, Kahire'deki siyasi istikrarsızlık artmıştır. Hacı, Memluk komutanlarının kontrolünde bir hükümdar olmuş, bağımsız bir politik izlenememiştir. 1347 yılında tahttan indirilmiştir. Hacı'nın hükümdarlığı, Memluk devletinin en kötü dönemlerinden biri olan 1340'lı yılların karakteristik özelliklerini taşımaktadır.",
+    "legacy": "Memluk 1340'lı yıllarının karışık döneminde hüküm süren sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1346",
+        "title": "Tahta Çıkış",
+        "description": "Şa'ban'ın ardından sultan oldu."
+      },
+      {
+        "year": "1347",
+        "title": "Tahttan İndirilme",
+        "description": "Tahttan indirildi."
+      }
+    ],
+    "predecessor": "Şa'ban",
+    "successor": "Alaeddin bin Hacı",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Hacı, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Hacı"
+    }
+  },
+  {
+    "id": "memluk-alaeddin-bin-haci",
+    "order": 19,
+    "name": "Alaeddin bin Hacı",
+    "title": "Memluk Sultanı",
+    "period": "1347 - 1351",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-alaeddin-haci.jpg",
+    "description": "Hacı'nın ardından sultan oldu.",
+    "fullBio": "Alaeddin bin Hacı, M.S. 1347-1351 yılları arasında dört yıl hüküm sürmüş, Memluk Devleti'nin on beşinci sultanıdır. Hacı'nın tahttan indirilmesinden sonra tahta çıkmış, 1340'lı yılların karışık döneminde nispeten uzun bir hükümdarlık gerçekleştirmiştir. Alaeddin döneminde Memluk devletindeki iç çatışmalar bir miktar azalmış, devletin sınırlarını koruma çabaları yoğunlaşmıştır. 1348-1349 yıllarında, Memluk ordusunu Suriye'de Moğol tehdidine karşı seferber etmiştir. Ancak genel olarak hükümdarlığı, Memluk komutanlarının fiili yönetimi altında geçmiştir. 1351 yılında tahttan indirilmiştir. Alaeddin'in hükümdarlığı, Memluk devletinin 1340'lı yılların karışıklığından yavaş yavaş toparlanmaya başladığı dönemi temsil eder.",
+    "legacy": "Memluk devletinin 1340'lı yıllar karışıklığından toparlanmaya başladığı dönemde hüküm süren sultan.",
+    "achievements": [
+      "Suriye'de Moğol savunması"
+    ],
+    "keyEvents": [
+      {
+        "year": "1347",
+        "title": "Tahta Çıkış",
+        "description": "Hacı'nın ardından sultan oldu."
+      },
+      {
+        "year": "1348",
+        "title": "Suriye Seferi",
+        "description": "Moğol tehdidine karşı Suriye'de savunma hareketi düzenledi."
+      },
+      {
+        "year": "1351",
+        "title": "Tahttan İndirilme",
+        "description": "Tahttan indirildi."
+      }
+    ],
+    "predecessor": "Hacı",
+    "successor": "Hasan",
+    "battles": [
+      {
+        "name": "Suriye Seferi",
+        "year": "1348",
+        "result": "victory",
+        "description": "Moğol tehdidine karşı Suriye'de savunma hareketi düzenledi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Alaeddin bin Hacı, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Alaeddin bin Hacı"
+    }
+  },
+  {
+    "id": "memluk-hasan-memluk",
+    "order": 20,
+    "name": "Hasan",
+    "title": "Memluk Sultanı",
+    "period": "1351 - 1354",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-hasan.jpg",
+    "description": "Alaeddin bin Hacı'nın ardından sultan oldu.",
+    "fullBio": "Hasan, M.S. 1351-1354 yılları arasında üç yıl hüküm sürmüş, Memluk Devleti'nin on altıncı sultanıdır. Alaeddin bin Hacı'nın tahttan indirilmesinden sonra tahta çıkmıştır. Hasan döneminde Memluk devletindeki iç istikrar bir miktar artmış, devletin ekonomik durumu düzelmeye başlamıştır. Hasan, Memluk ordusunun disiplinini yeniden tesis etmeye çalışmış, Kahire'de bazı kamu işleri yaptırmıştır. Ancak hükümdarlığı genel olarak Memluk komutanlarının gölgesinde kalmıştır. 1354 yılında tahttan indirilmiştir. Hasan'ın hükümdarlığı, Memluk devletinin 1350'li yıllarda yavaş bir toparlanma sürecine girdiği dönemin bir parçasıdır.",
+    "legacy": "Memluk devletinin yavaş toparlanma döneminde hüküm süren sultan.",
+    "achievements": [
+      "Memluk ordusu disiplinini yeniden tesis etme çabası"
+    ],
+    "keyEvents": [
+      {
+        "year": "1351",
+        "title": "Tahta Çıkış",
+        "description": "Alaeddin bin Hacı'nın ardından sultan oldu."
+      },
+      {
+        "year": "1354",
+        "title": "Tahttan İndirilme",
+        "description": "Tahttan indirildi."
+      }
+    ],
+    "predecessor": "Alaeddin bin Hacı",
+    "successor": "Salih",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Hasan, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Hasan"
+    }
+  },
+  {
+    "id": "memluk-salih",
+    "order": 21,
+    "name": "Salih",
+    "title": "Memluk Sultanı",
+    "period": "1354 - 1361",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-salih.jpg",
+    "description": "Hasan'ın ardından sultan oldu.",
+    "fullBio": "Salih, M.S. 1354-1361 yılları arasında yedi yıl hüküm sürmüş, Memluk Devleti'nin on yedinci sultanıdır. Hasan'ın tahttan indirilmesinden sonra tahta çıkmış, 1350'li yılların ikinci yarısında hüküm sürmüştür. Salih döneminde Memluk devletindeki iç istikrar daha da artmış, devletin ekonomik ve askeri gücü yeniden güçlenmeye başlamıştır. Salih, Memluk ordusunu modernize etmeye çalışmış, Suriye'deki kaleleri onartmıştır. 1356 yılında, Memluk donanmasını Akdeniz'de devriye gezmeye göndererek deniz güvenliğini artırmıştır. Ancak 1360'lı yılların başında, Memluk komutanları arasındaki güç mücadeleleri yeniden şiddetlenmiş, bu durum Salih'in tahttan indirilmesine yol açmıştır. 1361 yılında tahttan indirilerek öldürülmüştür.",
+    "legacy": "Memluk devletinin 1350'li yıllarda toparlanma sürecinde hüküm süren sultan.",
+    "achievements": [
+      "Memluk ekonomisini güçlendirme",
+      "Suriye kalelerini onarma",
+      "Deniz güvenliğini artırma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1354",
+        "title": "Tahta Çıkış",
+        "description": "Hasan'ın ardından sultan oldu."
+      },
+      {
+        "year": "1356",
+        "title": "Deniz Devriyeleri",
+        "description": "Memluk donanmasını Akdeniz'de devriye gezmeye gönderdi."
+      },
+      {
+        "year": "1361",
+        "title": "Tahttan İndirilme",
+        "description": "Tahttan indirilerek öldürüldü."
+      }
+    ],
+    "predecessor": "Hasan",
+    "successor": "Muhammed",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Salih, Memluk hanedanının son dönem sultanlarından. Memluk sisteminin çürümüşlüğü, her geçen gün artıyordu.",
+      "source": "Salih"
+    }
+  },
+  {
+    "id": "memluk-muhammed-memluk",
+    "order": 22,
+    "name": "Muhammed",
+    "title": "Memluk Sultanı",
+    "period": "1361 - 1363",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-muhammed.jpg",
+    "description": "Salih'in ardından sultan oldu.",
+    "fullBio": "Muhammed, M.S. 1361-1363 yılları arasında iki yıl hüküm sürmüş, Memluk Devleti'nin on sekizinci sultanıdır. Salih'in ölümünden sonra tahta çıkmış, 1360'lı yılların başında hüküm sürmüştür. Muhammed döneminde Memluk devletindeki iç karışıklıklar devam etmiş, özellikle Çerkes kökenli Memluk komutanlar güçlenmeye başlamıştır. Muhammed, devletin sınırlarını korumaya çalışmış, ancak genel olarak zayıf bir hükümdar olarak kalmıştır. 1363 yılında tahttan indirilmiş, bu olay Bahriyye Memlukları döneminin sona ermesinin başlangıcı olarak görülmektedir. Çünkü Muhammed'in indirilmesindeki asıl güç, Çerkes kökenli Memluk komutan Barkuk'tur ve Barkuk kısa süre sonra kendisi tahta çıkarak Burci Memlukları dönemini başlatacaktır.",
+    "legacy": "Bahriyye Memlukları döneminin son sultanı olarak kabul edilen hükümdar.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1361",
+        "title": "Tahta Çıkış",
+        "description": "Salih'in ardından sultan oldu."
+      },
+      {
+        "year": "1363",
+        "title": "Tahttan İndirilme",
+        "description": "Tahttan indirildi, Bahriyye dönemi fiilen sona erdi."
+      }
+    ],
+    "predecessor": "Salih",
+    "successor": "Barkuk",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Muhammed, Memluk hanedanının son dönemlerinde tahtta oturan sultanlardan. Kahire'deki saray, artık eski ihtişamından uzaktı.",
+      "source": "Muhammed"
+    }
+  },
+  {
+    "id": "memluk-barkuk",
+    "order": 23,
+    "name": "Berkuk (Barquq)",
+    "title": "Memluk Sultanı - Burciyye Hanedanı Kurucusu",
+    "period": "1382 - 1399",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-memluk-barkuk.jpg",
+    "description": "Çerkes kökenli Burciyye Memluk hanedanının kurucusu. Timur'la mücadele etti.",
+    "fullBio": "Berkuk (Barquq) (ö. 1399), Memluk Devleti'nde Burciyye hanedanını kuran sultandır. Çerkes kökenlidir. 1382 yılında sultan olmuş, Bahriyye hanedanına son vererek Burciyye hanedanını kurmuştur. Döneminde Timur'un tehdidi ortaya çıkmış, Berkuk Timur'la diplomatik ilişkiler kurmaya çalışmıştır. 1399'da ölmüştür.",
+    "legacy": "Memluk Devleti'nde yeni bir hanedan başlatan sultan.",
+    "achievements": [
+      "Burciyye hanedanını kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1382",
+        "title": "Burciyye Hanedanı",
+        "description": "Yeni Memluk hanedanını kurdu."
+      }
+    ],
+    "predecessor": "En-Nasır Muhammed",
+    "successor": "Hanedan sona erdi / Bilinmiyor",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Berkuk (Barquq), Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Berkuk (Barquq)"
+    }
+  },
+  {
+    "id": "memluk-farac",
+    "order": 24,
+    "name": "Farac ibn Berkuk",
+    "title": "Memluk Sultanı",
+    "period": "1399 - 1405",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-farac.jpg",
+    "description": "Berkuk'un oğlu olarak genç yaşta sultan oldu.",
+    "fullBio": "Farac ibn Berkuk, M.S. 1399-1405 yılları arasında altı yıl hüküm sürmüş, Burci Memlukları döneminin ikinci sultanıdır. Babası Berkuk'un ölümünden sonra genç yaşta tahta çıkmış, hükümdarlığının ilk yıllarında naipler tarafından yönetilmiştir. Farac döneminin en önemli olayı, 1400-1401 yıllarında Timur'un Suriye seferidir. Timur, Halep ve Şam kentlerini yağmalamış, Memluk ordusunu ağır bir yenilgiye uğratmıştır. Bu yenilgi, Memluk Devleti'nin Suriye'deki otoritesini büyük ölçüde zayıflatmıştır. Farac, Timur'un saldırılarına karşı koymakta yetersiz kalmış, Kahire'ye çekilmek zorunda kalmıştır. Timur'un 1405 yılında ölümü, Memluk Devleti için bir nefes alma fırsatı olmuştur. Ancak Farac, aynı yıl tahttan indirilerek öldürülmüştür. Farac'ın hükümdarlığı, Memluk Devleti'nin en büyük dış tehditlerden biri olan Timur ile mücadele dönemini temsil eder.",
+    "legacy": "Timur tehdidi altında hüküm süren, Suriye'de ağır yenilgiye uğrayan Burci sultan.",
+    "achievements": [
+      "Timur saldırılarına karşı direniş"
+    ],
+    "keyEvents": [
+      {
+        "year": "1399",
+        "title": "Tahta Çıkış",
+        "description": "Berkuk'un oğlu olarak genç yaşta sultan oldu."
+      },
+      {
+        "year": "1400-1401",
+        "title": "Timur'un Suriye Seferi",
+        "description": "Timur Halep ve Şam'ı yağmaladı, Memluk ordusu ağır yenilgiye uğradı."
+      },
+      {
+        "year": "1405",
+        "title": "Tahttan İndirilme",
+        "description": "Timur'un ölümü yılında tahttan indirilerek öldürüldü."
+      }
+    ],
+    "predecessor": "Berkuk",
+    "successor": "Abdulaziz",
+    "battles": [
+      {
+        "name": "Timur'un Suriye Seferi",
+        "year": "1400-1401",
+        "result": "victory",
+        "description": "Timur Halep ve Şam'ı yağmaladı, Memluk ordusu ağır yenilgiye uğradı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Farac ibn Berkuk, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Farac ibn Berkuk"
+    }
+  },
+  {
+    "id": "memluk-abdulaziz",
+    "order": 25,
+    "name": "Abdülaziz",
+    "title": "Memluk Sultanı",
+    "period": "1405",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-abdulaziz.jpg",
+    "description": "Bir yıldan az süren hükümdarlığının ardından tahttan indirildi.",
+    "fullBio": "Abdülaziz, M.S. 1405 yılında bir yıldan az süreyle hüküm sürmüş, Burci Memlukları döneminin üçüncü sultanıdır. Farac'ın tahttan indirilmesinden sonra tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Abdülaziz döneminde Memluk Devleti, Timur'un ölümünden sonra Suriye'deki varlığını yeniden tesis etmeye çalışmıştır. Abdülaziz, Memluk komutanları arasındaki güç mücadelelerine engel olamamış, aynı yıl içinde tahttan indirilmiştir. Abdülaziz'in kısa hükümdarlığı, Burci dönemindeki taht değişikliklerinin sık yaşandığı dönemin bir parçasıdır.",
+    "legacy": "Burci döneminde kısa süre hüküm süren sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1405",
+        "title": "Kısa Hükümdarlık",
+        "description": "Bir yıldan az süren hükümdarlığının ardından tahttan indirildi."
+      }
+    ],
+    "predecessor": "Farac",
+    "successor": "Şeyh Mahmud",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Abdülaziz, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Abdülaziz"
+    }
+  },
+  {
+    "id": "memluk-seyh-mahmud",
+    "order": 26,
+    "name": "Şeyh Mahmud",
+    "title": "Memluk Sultanı",
+    "period": "1412 - 1421",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-seyh-mahmud.jpg",
+    "description": "Burci döneminin istikrarlı dönemini başlattı.",
+    "fullBio": "Şeyh Mahmud, M.S. 1412-1421 yılları arasında dokuz yıl hüküm sürmüş, Burci Memlukları döneminin önemli sultanlarından biridir. 1412 yılında tahta çıkmış, Burci döneminin ilk istikrarlı hükümdarlarından biri olmuştur. Şeyh Mahmud döneminde Memluk Devleti, Timur'un ölümünden sonra yeniden güçlenmeye başlamış, Suriye'deki otoritesini büyük ölçüde geri kazanmıştır. 1415 yılında, Memluk ordusunu Suriye'nin kuzeyine sevk ederek bölgedeki isyanları bastırmıştır. Şeyh Mahmud, aynı zamanda iç politikada reformlar yapmış, vergi sistemini düzenlemiş, ticareti teşvik etmiştir. Kahire'de önemli kamu işleri yaptırmış, özellikle şehrin su sistemini iyileştirmiştir. Dokuz yıllık hükümdarlığının ardından 1421 yılında ölmüştür. Şeyh Mahmud'un hükümdarlığı, Burci Memlukları döneminin istikrarlı döneminin başlangıcı olarak görülmektedir.",
+    "legacy": "Burci Memlukları döneminin istikrarlı dönemini başlatan önemli sultan.",
+    "achievements": [
+      "Memluk devletini yeniden güçlendirme",
+      "Suriye'de otoriteyi yeniden tesis etme",
+      "İç reformlar ve altyapı çalışmaları"
+    ],
+    "keyEvents": [
+      {
+        "year": "1412",
+        "title": "Tahta Çıkış",
+        "description": "Burci döneminin istikrarlı dönemini başlattı."
+      },
+      {
+        "year": "1415",
+        "title": "Suriye Seferi",
+        "description": "Suriye'nin kuzeyindeki isyanları bastırdı."
+      },
+      {
+        "year": "1421",
+        "title": "Ölüm",
+        "description": "Dokuz yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Abdülaziz",
+    "successor": "Muhammed",
+    "battles": [
+      {
+        "name": "Suriye Seferi",
+        "year": "1415",
+        "result": "victory",
+        "description": "Suriye'nin kuzeyindeki isyanları bastırdı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Şeyh Mahmud, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Şeyh Mahmud"
+    }
+  },
+  {
+    "id": "memluk-muhammed-burci",
+    "order": 27,
+    "name": "Muhammed",
+    "title": "Memluk Sultanı",
+    "period": "1421",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-muhammed-burci.jpg",
+    "description": "Bir yıldan az süren hükümdarlığının ardından öldürüldü.",
+    "fullBio": "Muhammed, M.S. 1421 yılında bir yıldan az süreyle hüküm sürmüş, Burci Memlukları döneminin kısa ömürlü sultanlarından biridir. Şeyh Mahmud'un ölümünden sonra tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Muhammed döneminde Memluk komutanları arasındaki güç mücadeleleri yeniden şiddetlenmiş, bu durum hükümdarlığının kısa sürmesine neden olmuştur. Aynı yıl içinde tahttan indirilerek öldürülmüştür. Muhammed'in hükümdarlığı, Burci dönemindeki sık taht değişikliklerinin devamı olarak görülmektedir.",
+    "legacy": "Burci döneminde kısa süre hüküm süren sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1421",
+        "title": "Kısa Hükümdarlık",
+        "description": "Bir yıldan az süren hükümdarlığının ardından öldürüldü."
+      }
+    ],
+    "predecessor": "Şeyh Mahmud",
+    "successor": "Barsbay",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Muhammed, Memluk hanedanının bir sultanı olarak tahtta oturdu. Kahire'nin sarayında, Kıpçak süvarilerinin torunları hüküm sürüyordu.",
+      "source": "Muhammed"
+    }
+  },
+  {
+    "id": "memluk-barsbay",
+    "order": 28,
+    "name": "Sayfeddin Barsbay",
+    "title": "Memluk Sultanı",
+    "period": "1422 - 1438",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-barsbay.jpg",
+    "description": "Memluk Devleti'ni yeni bir zirveye taşıdı.",
+    "fullBio": "Sayfeddin Barsbay, M.S. 1422-1438 yılları arasında on altı yıl hüküm sürmüş, Burci Memlukları döneminin en önemli sultanlarından biridir. Çerkes kökenli Barsbay, 1422 yılında tahta çıkmış, Memluk Devleti'ni yeni bir zirveye taşımıştır. Barsbay döneminin en önemli olayı, 1426 yılında Kıbrıs'ın fethidir. Kıbrıs Kralı Janus, Mısır kıyılarına baskın düzenleyince, Barsbay intikam olarak Kıbrıs'a sefer düzenlemiş, adayı feth ederek Kral Janus'u esir almıştır. Bu fetih, Memluk Deniz gücünün zirvesini temsil eder. Barsbay ayrıca, Hint Okyanusu ticaretini teşvik ederek Kahire'nin ekonomik zenginliğini artırmış, özellikle baharat ticaretinden elde edilen gelirlerle devlet hazinesini doldurmuştur. 1430 yılında, Memluk donanmasını Hint Okyanusu'na göndererek Yemen ve Hicaz kıyılarını güvence altına almıştır. Barsbay döneminde Kahire, İslam dünyasının en önemli ticaret ve kültür merkezlerinden biri haline gelmiştir. Barsbay, aynı zamanda sanatçıları ve bilim adamlarını himaye etmiş, Kahire'de önemli mimari eserler yaptırmıştır. 1438 yılında ölmüş, ardından oğlu Cakmak tahta çıkmıştır.",
+    "legacy": "Burci Memlukları'nın en güçlü sultanlarından biri, Kıbrıs fatihi, deniz gücünü zirveye taşıyan hükümdar.",
+    "achievements": [
+      "Kıbrıs'ın fethi (1426)",
+      "Kral Janus'u esir alma",
+      "Hint Okyanusu ticaretini teşvik etme",
+      "Memluk deniz gücünü zirveye taşıma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1422",
+        "title": "Tahta Çıkış",
+        "description": "Memluk Devleti'ni yeni bir zirveye taşıdı."
+      },
+      {
+        "year": "1426",
+        "title": "Kıbrıs Fethi",
+        "description": "Kıbrıs'ı fethetti ve Kral Janus'u esir aldı."
+      },
+      {
+        "year": "1430",
+        "title": "Hint Okyanusu Seferi",
+        "description": "Memluk donanmasını Hint Okyanusu'na gönderdi."
+      },
+      {
+        "year": "1438",
+        "title": "Barsbay'ın Ölümü",
+        "description": "On altı yıllık başarılı hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Muhammed",
+    "successor": "Cakmak",
+    "battles": [
+      {
+        "name": "Kıbrıs Fethi",
+        "year": "1426",
+        "result": "victory",
+        "description": "Kıbrıs'ı fethetti ve Kral Janus'u esir aldı."
+      },
+      {
+        "name": "Hint Okyanusu Seferi",
+        "year": "1430",
+        "result": "victory",
+        "description": "Memluk donanmasını Hint Okyanusu'na gönderdi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Sayfeddin Barsbay, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Sayfeddin Barsbay"
+    }
+  },
+  {
+    "id": "memluk-cakmak",
+    "order": 29,
+    "name": "Cakmak el-Zahir",
+    "title": "Memluk Sultanı",
+    "period": "1438 - 1453",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-cakmak.jpg",
+    "description": "Barsbay'ın ardından sultan oldu.",
+    "fullBio": "Cakmak el-Zahir, M.S. 1438-1453 yılları arasında on beş yıl hüküm sürmüş, Burci Memlukları döneminin önemli sultanlarından biridir. Babası Barsbay'dan sonra tahta çıkmış, devletin zenginliğini ve gücünü sürdürmüştür. Cakmak döneminde Memluk Devleti, ekonomik zenginliğini koruyarak Kahire'yi dünya ticaretinin merkezi haline getirmeye devam etmiştir. Cakmak, 1440'lı yıllarda Memluk donanmasını Akdeniz ve Kızıldeniz'de devriye gezmeye devam ettirmiş, ticaret yollarının güvenliğini sağlamıştır. 1453 yılında Osmanlı Sultanı II. Mehmet'in İstanbul'u fethi, Memluk Devleti için yeni bir dönemin başlangıcı olmuştur. Cakmak, bu olayın ardından Osmanlılarla ilişkilerini gözden geçirmeye başlamış, ancak aynı yıl ölmüştür. Cakmak döneminde Memluk sanat ve mimarisi yeni bir zirve yapmış, özellikle Kahire'de Cakmak camisi ve medresesi, İslam mimarisinin önemli örnekleri arasına girmiştir.",
+    "legacy": "Memluk zenginlik dönemini sürdüren, İstanbul'un fethini gören sultan.",
+    "achievements": [
+      "Memluk ekonomik zenginliğini sürdürme",
+      "Deniz ticaretini koruma",
+      "İslam mimarisine katkılar"
+    ],
+    "keyEvents": [
+      {
+        "year": "1438",
+        "title": "Tahta Çıkış",
+        "description": "Barsbay'ın ardından sultan oldu."
+      },
+      {
+        "year": "1453",
+        "title": "İstanbul'un Fethi",
+        "description": "Osmanlıların İstanbul'u fethi, Memluk-Osmanlı ilişkilerinde yeni dönem başladı."
+      },
+      {
+        "year": "1453",
+        "title": "Cakmak'ın Ölümü",
+        "description": "On beş yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Barsbay",
+    "successor": "Osman İnal",
+    "battles": [
+      {
+        "name": "İstanbul'un Fethi",
+        "year": "1453",
+        "result": "victory",
+        "description": "Osmanlıların İstanbul'u fethi, Memluk-Osmanlı ilişkilerinde yeni dönem başladı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Cakmak el-Zahir, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Cakmak el-Zahir"
+    }
+  },
+  {
+    "id": "memluk-osman-inal",
+    "order": 30,
+    "name": "Osman İnal",
+    "title": "Memluk Sultanı",
+    "period": "1453",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-osman-inal.jpg",
+    "description": "Osmanlıların İstanbul'u fethi yılında kısa süre hüküm sürdü.",
+    "fullBio": "Osman İnal, M.S. 1453 yılında bir yıldan az süreyle hüküm sürmüş, Burci Memlukları döneminin kısa ömürlü sultanlarından biridir. Cakmak'ın ölümünden sonra tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Osman İnal döneminde Memluk Devleti, Osmanlıların İstanbul'u fethinden sonra yeni bir güç dengesiyle karşı karşıya kalmıştır. Osman İnal, Osmanlı tehdidine karşı savunma hazırlıkları yapmaya çalışmış, ancak bu çabaları tamamlayamadan aynı yıl tahttan indirilerek öldürülmüştür. Osman İnal'ın hükümdarlığı, Memluk-Osmanlı rekabetinin başladığı dönemin bir parçasıdır.",
+    "legacy": "Memluk-Osmanlı rekabetinin başladığı dönemde kısa süre hüküm süren sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1453",
+        "title": "Kısa Hükümdarlık",
+        "description": "Osmanlıların İstanbul'u fethi yılında kısa süre hüküm sürdü."
+      }
+    ],
+    "predecessor": "Cakmak",
+    "successor": "Ahmed",
+    "battles": [
+      {
+        "name": "Kısa Hükümdarlık",
+        "year": "1453",
+        "result": "victory",
+        "description": "Osmanlıların İstanbul'u fethi yılında kısa süre hüküm sürdü."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Osman İnal, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Osman İnal"
+    }
+  },
+  {
+    "id": "memluk-ahmed-burci",
+    "order": 31,
+    "name": "Ahmed",
+    "title": "Memluk Sultanı",
+    "period": "1461",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-ahmed-burci.jpg",
+    "description": "Bir yıldan az süren hükümdarlığının ardından tahttan indirildi.",
+    "fullBio": "Ahmed, M.S. 1461 yılında bir yıldan az süreyle hüküm sürmüş, Burci Memlukları döneminin kısa ömürlü sultanlarından biridir. Osman İnal'ın ardından tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Ahmed döneminde Memluk devletindeki iç karışıklıklar devam etmiş, Memluk komutanları arasındaki güç mücadeleleri şiddetlenmiştir. Aynı yıl içinde tahttan indirilmiştir. Ahmed'in hükümdarlığı, Burci döneminin son dönemindeki istikrarsızlığın bir örneğidir.",
+    "legacy": "Burci döneminin istikrarsızlık döneminde kısa süre hüküm süren sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1461",
+        "title": "Kısa Hükümdarlık",
+        "description": "Bir yıldan az süren hükümdarlığının ardından tahttan indirildi."
+      }
+    ],
+    "predecessor": "Osman İnal",
+    "successor": "Husamuddin İnal",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Ahmed, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Ahmed"
+    }
+  },
+  {
+    "id": "memluk-husamuddin-inal",
+    "order": 32,
+    "name": "Hüsameddin İnal el-Alemi",
+    "title": "Memluk Sultanı",
+    "period": "1461 - 1467",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-husamuddin.jpg",
+    "description": "Memluk istikrarını korumaya çalıştı.",
+    "fullBio": "Hüsameddin İnal el-Alemi, M.S. 1461-1467 yılları arasında altı yıl hüküm sürmüş, Burci Memlukları döneminin önemli sultanlarından biridir. Ahmed'in tahttan indirilmesinden sonra tahta çıkmış, devletin istikrarını korumaya çalışmıştır. Hüsameddin İnal döneminde Memluk Devleti, Osmanlı İmparatorluğu'nun doğudaki genişlemesine tanık olmuştur. 1461 yılında Osmanlıların Trabzon İmparatorluğu'nu fethi, Memluk Devleti'nin kuzey sınırlarında yeni bir güç oluşumuna yol açmıştır. Hüsameddin İnal, bu gelişmelere karşı Memluk ordusunu güçlendirmeye çalışmış, Suriye'deki kaleleri onartmıştır. Altı yıllık hükümdarlığının ardından 1467 yılında ölmüştür. Hüsameddin İnal'ın hükümdarlığı, Memluk-Osmanlı rekabetinin şekillenmeye başladığı dönemi temsil eder.",
+    "legacy": "Memluk-Osmanlı rekabetinin şekillendiği dönemde hüküm süren sultan.",
+    "achievements": [
+      "Memluk ordusunu güçlendirme",
+      "Suriye savunmasını pekiştirme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1461",
+        "title": "Tahta Çıkış",
+        "description": "Memluk istikrarını korumaya çalıştı."
+      },
+      {
+        "year": "1461",
+        "title": "Trabzon'un Fethi",
+        "description": "Osmanlıların Trabzon'u fethini gördü, kuzey tehdidi arttı."
+      },
+      {
+        "year": "1467",
+        "title": "Ölüm",
+        "description": "Altı yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Ahmed",
+    "successor": "Şeyh Baliq",
+    "battles": [
+      {
+        "name": "Trabzon'un Fethi",
+        "year": "1461",
+        "result": "victory",
+        "description": "Osmanlıların Trabzon'u fethini gördü, kuzey tehdidi arttı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Hüsameddin İnal el-Alemi, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Hüsameddin İnal el-Alemi"
+    }
+  },
+  {
+    "id": "memluk-seyh-baliq",
+    "order": 33,
+    "name": "Şeyh Baliq",
+    "title": "Memluk Sultanı",
+    "period": "1467",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-seyh-baliq.jpg",
+    "description": "Bir yıldan az süren hükümdarlığının ardından öldürüldü.",
+    "fullBio": "Şeyh Baliq, M.S. 1467 yılında bir yıldan az süreyle hüküm sürmüş, Burci Memlukları döneminin kısa ömürlü sultanlarından biridir. Hüsameddin İnal'ın ölümünden sonra tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Şeyh Baliq döneminde Memluk devletindeki iç karışıklıklar devam etmiş, aynı yıl içinde tahttan indirilerek öldürülmüştür. Şeyh Baliq'ın hükümdarlığı, Burci döneminin son dönemindeki istikrarsızlığın devamıdır.",
+    "legacy": "Burci döneminde kısa süre hüküm süren sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1467",
+        "title": "Kısa Hükümdarlık",
+        "description": "Bir yıldan az süren hükümdarlığının ardından öldürüldü."
+      }
+    ],
+    "predecessor": "Hüsameddin İnal",
+    "successor": "Timurboga",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Şeyh Baliq, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Şeyh Baliq"
+    }
+  },
+  {
+    "id": "memluk-timurboga",
+    "order": 34,
+    "name": "Timurboga",
+    "title": "Memluk Sultanı",
+    "period": "1467 - 1468",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-timurboga.jpg",
+    "description": "Kısa süreli hükümdarlık başladı.",
+    "fullBio": "Timurboga, M.S. 1467-1468 yılları arasında bir yıl hüküm sürmüş, Burci Memlukları döneminin kısa ömürlü sultanlarından biridir. Şeyh Baliq'ın ölümünden sonra tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Timurboga döneminde Memluk devletindeki iç karışıklıklar devam etmiş, Memluk komutanları arasındaki güç mücadeleleri şiddetlenmiştir. 1468 yılında tahttan indirilerek öldürülmüştür. Timurboga'ın hükümdarlığı, Burci döneminin son dönemindeki derin istikrarsızlığın bir örneğidir.",
+    "legacy": "Burci döneminin istikrarsızlık döneminde hüküm süren sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1467",
+        "title": "Tahta Çıkış",
+        "description": "Kısa süreli hükümdarlık başladı."
+      },
+      {
+        "year": "1468",
+        "title": "Tahttan İndirilme",
+        "description": "Tahttan indirilerek öldürüldü."
+      }
+    ],
+    "predecessor": "Şeyh Baliq",
+    "successor": "Kaitbay",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Timurboga, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Timurboga"
+    }
+  },
+  {
+    "id": "memluk-kaitbay",
+    "order": 35,
+    "name": "El-Eşref Kaitbay",
+    "title": "Memluk Sultanı",
+    "period": "1468 - 1496",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-kaitbay.jpg",
+    "description": "Memluk sanatının altın çağını başlattı.",
+    "fullBio": "El-Eşref Kaitbay, M.S. 1468-1496 yılları arasında yirmi sekiz yıl hüküm sürmüş, Burci Memlukları döneminin en uzun ve en başarılı sultanlarından biridir. Çerkes kökenli Kaitbay, Timurboga'nın tahttan indirilmesinden sonra tahta çıkmış, Memluk Devleti'ni yeni bir altın çağa taşımıştır. Kaitbay döneminde Memluk sanat ve mimarisi zirve yapmış, özellikle Kahire'de Kaitbay külliyesi (camii, medrese, türbe, kervansaray), İslam mimarisinin en güzel örnekleri arasına girmiştir. 1473 yılında Osmanlı Sultanı Fatih Sultan Mehmet'in Otlukbeli Zaferi'ni takiben, Memluk-Osmanlı sınırlarında gerginlik artmıştır. Kaitbay, bu gelişme karşısında Memluk ordusunu güçlendirmiş, Suriye'deki kaleleri tahkim etmiştir. Kaitbay döneminde Memluk ekonomisi, özellikle baharat ve ipek ticaretinden elde edilen gelirlerle zenginleşmiş, Kahire dünya ticaretinin önemli bir merkezi olmaya devam etmiştir. Kaitbay ayrıca, Hicaz'daki kutsal toprkların koruyuculuğunu üstlenerek Memluk sultanlarına İslam dünyasındaki meşruiyetlerini pekiştirmiştir. 1492 yılında İspanya'dan kovulan Müslüman ve Yahudilerin Mısır'a kabulü, Kaitbay'ın hoşgörülü yönetiminin bir göstergesidir. Yirmi sekiz yıllık hükümdarlığının ardından 1496 yılında ölmüştür.",
+    "legacy": "Burci Memlukları'nın en uzun ve en başarılı sultanı, Memluk mimari sanatının zirvesini temsil eden hükümdar.",
+    "achievements": [
+      "Memluk sanatının altın çağını yaşatma",
+      "Kaitbay külliyesini inşa ettirme",
+      "Memluk ekonomisini zenginleştirme",
+      "Hicaz'ın koruyuculuğunu üstlenme",
+      "İspanya'dan kovulanları kabul etme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1468",
+        "title": "Tahta Çıkış",
+        "description": "Memluk sanatının altın çağını başlattı."
+      },
+      {
+        "year": "1473",
+        "title": "Otlukbeli Sonrası",
+        "description": "Osmanlı tehdidine karşı savunmayı güçlendirdi."
+      },
+      {
+        "year": "1492",
+        "title": "İspanya'dan Gelenler",
+        "description": "İspanya'dan kovulan Müslüman ve Yahudileri Mısır'a kabul etti."
+      },
+      {
+        "year": "1496",
+        "title": "Kaitbay'ın Ölümü",
+        "description": "Yirmi sekiz yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Timurboga",
+    "successor": "Muhammed",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "El-Eşref Kaitbay, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "El-Eşref Kaitbay"
+    }
+  },
+  {
+    "id": "memluk-muhammed-kansuh",
+    "order": 36,
+    "name": "Muhammed",
+    "title": "Memluk Sultanı",
+    "period": "1496 - 1498",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-muhammed-kansuh.jpg",
+    "description": "Kaitbay'ın ardından sultan oldu.",
+    "fullBio": "Muhammed, M.S. 1496-1498 yılları arasında iki yıl hüküm sürmüş, Burci Memlukları döneminin kısa ömürlü sultanlarından biridir. Kaitbay'ın ölümünden sonra tahta çıkmış, ancak genç yaşı ve tecrübesizliği nedeniyle gerçek güç komutanların elinde kalmıştır. Muhammed döneminde Memluk Devleti, Portekizli denizcilerin Hint Okyanusu'ndaki ilerlemesine tanık olmuştur. 1498 yılında Vasco da Gama'nın Ümit Burnu'nu dolaşarak Hindistan'a ulaşması, Memlukların İpek Yolu ve baharat ticaretindeki tekelini tehdit etmeye başlamıştır. Muhammed, bu tehdidi fark etmiş ancak etkili bir önlem alamadan iki yıllık hükümdarlığının ardından tahttan indirilmiştir.",
+    "legacy": "Portekiz tehdidinin başladığı dönemde hüküm süren sultan.",
+    "achievements": [
+      "Memluk Sultanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1496",
+        "title": "Tahta Çıkış",
+        "description": "Kaitbay'ın ardından sultan oldu."
+      },
+      {
+        "year": "1498",
+        "title": "Portekiz Tehdidi",
+        "description": "Vasco da Gama'nın Hint Okyanusu'ndaki ilerlemesi Memluk ticaretini tehdit etmeye başladı."
+      },
+      {
+        "year": "1498",
+        "title": "Tahttan İndirilme",
+        "description": "Tahttan indirildi."
+      }
+    ],
+    "predecessor": "Kaitbay",
+    "successor": "Kansuh Gavri",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Muhammed, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Muhammed"
+    }
+  },
+  {
+    "id": "memluk-kansuh-gavri",
+    "order": 37,
+    "name": "Kansuh Gavri",
+    "title": "Memluk Sultanı",
+    "period": "1501 - 1516",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-kansuh-gavri.jpg",
+    "description": "Memluk Devleti'ni son kez güçlendirmeye çalıştı.",
+    "fullBio": "Kansuh Gavri, M.S. 1501-1516 yılları arasında on beş yıl hüküm sürmüş, Memluk Devleti'nin son büyük sultanlarından biridir. 1501 yılında tahta çıkmış, devleti son bir kez güçlendirmeye çalışmıştır. Kansuh Gavri döneminde Memluk Devleti, Portekizlilerin Hint Okyanusu'ndaki ilerlemesiyle karşı karşıya kalmıştır. 1509 yılında Portekiz donanmasının Diu Muharebesi'nde Memluk-Gujarat ittifakını yenilgiye uğratması, Memluk deniz gücünün zayıfladığını göstermiştir. Kansuh Gavri, bu yenilginin ardından Osmanlı Sultanı Yavuz Sultan Selim'den donanma desteği istemiş, ancak bu istek sonuçsuz kalmıştır. Aynı dönemde Memluk devletindeki Çerkes-Türk çatışması yeniden alevlanmış, bu durum devletin iç birliğini zayıflatmıştır. 1516 yılında Osmanlı Sultanı Yavuz Sultan Selim'in Suriye'ye yönelik seferi, Kansuh Gavri için en büyük tehdit olmuştur. Kansuh Gavri, Mercidabık Ovası'nda Yavuz Sultan Selim'in ordusuyla çarpışmış, ancak ağır bir yenilgiye uğramış ve savaşta ölmüştür. Mercidabık yenilgisi, Memluk Devleti'nin sonunun başlangıcı olmuştur.",
+    "legacy": "Memluk Devleti'nin son büyük sultanı, Mercidabık'ta şehit düşen hükümdar.",
+    "achievements": [
+      "Memluk deniz gücünü korumaya çalışma",
+      "Mercidabık'ta direniş"
+    ],
+    "keyEvents": [
+      {
+        "year": "1501",
+        "title": "Tahta Çıkış",
+        "description": "Memluk Devleti'ni son kez güçlendirmeye çalıştı."
+      },
+      {
+        "year": "1509",
+        "title": "Diu Yenilgisi",
+        "description": "Portekiz donanmasına karşı ağır yenilgiye uğradı."
+      },
+      {
+        "year": "1516",
+        "title": "Mercidabık Savaşı",
+        "description": "Yavuz Sultan Selim'e karşı savaşta öldü."
+      }
+    ],
+    "predecessor": "Muhammed",
+    "successor": "Tomanbay",
+    "battles": [
+      {
+        "name": "Diu Yenilgisi",
+        "year": "1509",
+        "result": "defeat",
+        "description": "Portekiz donanmasına karşı ağır yenilgiye uğradı."
+      },
+      {
+        "name": "Mercidabık Savaşı",
+        "year": "1516",
+        "result": "victory",
+        "description": "Yavuz Sultan Selim'e karşı savaşta öldü."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Kansuh Gavri, Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Kansuh Gavri"
+    }
+  },
+  {
+    "id": "memluk-tomanbay",
+    "order": 38,
+    "name": "Tomanbay (Tumanbay)",
+    "title": "Son Memluk Sultanı",
+    "period": "1516 - 1517",
+    "dynasty": "Memluk Devleti",
+    "dynastyId": "memluk",
+    "era": "Orta Çağ",
+    "image": "/images/huk-memluk-tomanbay.jpg",
+    "description": "Kansuh Gavri'nin ardından son Memluk sultanı oldu.",
+    "fullBio": "Tomanbay (Tumanbay), M.S. 1516-1517 yılları arasında bir yıl hüküm sürmüş, Memluk Devleti'nin son sultanıdır. Kansuh Gavri'nin Mercidabık'ta ölümünden sonra tahta çıkmış, Memluk Devleti'nin son savunmasını organize etmeye çalışmıştır. Tomanbay, Osmanlı ordularının Kahire'ye ilerlemesine karşı direniş hattı oluşturmaya çalışmış, ancak Memluk ordusunun dağılmış durumda olması nedeniyle yeterli direnişi organize edememiştir. 1517 yılında Ridâniye Muharebesi'nde Yavuz Sultan Selim'in ordusuyla çarpışmış, ağır bir yenilgiye uğramıştır. Yavuz Sultan Selim, Kahire'ye girerek Memluk Devleti'ne son vermiştir. Tomanbay, esir alınmış ve idam edilmiştir. Tomanbay'ın idamı, 267 yıllık Memluk Devleti'nin resmen sona erdiği anlamına gelmektedir. Yavuz Sultan Selim, Memluk topraklarını Osmanlı İmparatorluğu'na katmış, böylece Mısır ve Suriye dört yüzyıl sürecek Osmanlı hâkimiyetine girmiştir.",
+    "legacy": "267 yıllık Memluk Devleti'nin son sultanı, son direnişi organize eden ve idam edilen hükümdar.",
+    "achievements": [
+      "Memluk Devleti'nin son savunmasını organize etme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1516",
+        "title": "Tahta Çıkış",
+        "description": "Kansuh Gavri'nin ardından son Memluk sultanı oldu."
+      },
+      {
+        "year": "1517",
+        "title": "Ridaniye Savaşı",
+        "description": "Osmanlı ordusuna karşı son direnişi organize etti."
+      },
+      {
+        "year": "1517",
+        "title": "Memluk Devleti'nin Sonu",
+        "description": "Esir alınarak idam edildi, Memluk Devleti sona erdi."
+      }
+    ],
+    "predecessor": "Kansuh Gavri",
+    "successor": "Yok (Devlet sona erdi)",
+    "battles": [
+      {
+        "name": "Ridaniye Savaşı",
+        "year": "1517",
+        "result": "victory",
+        "description": "Osmanlı ordusuna karşı son direnişi organize etti."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Tomanbay (Tumanbay), Memluk hanedanının bir parçası olarak tahtta oturdu. Kahire'deki saray, bu köle-sultanlar imparatorluğunun merkeziydi.",
+      "source": "Tomanbay (Tumanbay)"
+    }
+  }
+]

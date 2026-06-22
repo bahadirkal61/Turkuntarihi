@@ -1,0 +1,2289 @@
+[
+  {
+    "id": "osmanli-osman-gazi",
+    "order": 1,
+    "name": "Osman Gazi",
+    "title": "Kurucu Padişah",
+    "period": "M.S. 1299 - 1326",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-osman-gazi.jpg",
+    "description": "Osmanlı İmparatorluğu'nun kurucusu. Söğüt'te beylik kurdu. 'Devletin temeli adalettir.'",
+    "fullBio": "Osman Gazi (1258-1326), Osmanlı Devleti'nin kurucusu ve 36 padişahlık hanedanın atasıdır. Ertuğrul Gazi'nin oğlu olarak 1281'de Söğüt'te küçük bir beylik yönetiminin başına geçti. 1299'da bağımsız beylik ilan etti. 1302'de Koyunhisar'da Bizans ordusunu yenerek Anadolu'daki Türk ilerleyişinin önünü açtı. Bilecik, İnegöl ve Yenişehir'i fethetti. Şeyh Edebali'nin kızı Malhun Hatun ile evlenerek manevi destek sağladı. 1326'da Bursa kuşatması sürerken vefat etti, oğlu Orhan Gazi fetihleri tamamladı. Osman Gazi, fetihlerden sonra yeni gelen halklara din ve mezhep ayrımı gözetmeden hoşgörüyle yaklaşarak farklı kültürleri bir arada yaşatmayı başardı. Kurduğu devlet 600 yıl hüküm sürecek ve üç kıtaya yayılacaktır.",
+    "legacy": "600 yıllık bir imparatorluğun kurucusu. Adalet, hoşgörü ve sürekli fetih politikası ile Osmanlı devlet felsefesinin temelini attı.",
+    "achievements": [
+      "Osmanlı Beyliği'ni kurdu (1299)",
+      "Koyunhisar'da Bizans'ı yendi (1302)",
+      "Bilecik ve İnegöl'ü fethetti",
+      "Bursa kuşatmasını başlattı",
+      "Adalet ve hoşgörü sistemini kurdu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1299",
+        "title": "Osmanlı Beyliği'nin Kuruluşu",
+        "description": "Söğüt'te bağımsız beylik ilan edildi."
+      },
+      {
+        "year": "M.S. 1302",
+        "title": "Koyunhisar Zaferi",
+        "description": "Bizans ordusu yenilgiye uğratıldı, Anadolu'da Türk ilerleyişi başladı."
+      },
+      {
+        "year": "M.S. 1326",
+        "title": "Bursa Kuşatması ve Vefat",
+        "description": "Bursa kuşatması sürerken vefat etti, oğlu Orhan Gazi fetihleri tamamladı."
+      }
+    ],
+    "predecessor": "Ertuğrul Gazi",
+    "successor": "Orhan Gazi (oğlu)",
+    "quote": {
+      "text": "Devletin temeli adalettir.",
+      "source": "Osman Gazi"
+    },
+    "battles": [
+      {
+        "name": "Koyunhisar Muharebesi",
+        "year": "M.S. 1302",
+        "result": "victory",
+        "description": "Bizans ordusu yenilgiye uğratıldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Ertuğrul Gazi",
+        "role": "Babası",
+        "description": "Osmanlı Beyliği'nin öncüsü, Söğüt'te beylik yönetti."
+      },
+      {
+        "name": "Şeyh Edebali",
+        "role": "Manevi Lider",
+        "description": "Osman Gazi'nin kayınpederi ve manevi danışmanı."
+      },
+      {
+        "name": "Orhan Gazi",
+        "role": "Oğlu, Halef",
+        "description": "Osmanlı'nın ikinci padişahı, Bursa'yı fethederek ilk başkenti kurdu."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-orhan-gazi",
+    "order": 2,
+    "name": "Orhan Gazi",
+    "title": "2. Padişah",
+    "period": "M.S. 1326 - 1362",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-orhan-gazi.jpg",
+    "description": "Bursa'yı fethederek ilk başkenti oluşturan, donanmayı kuran, Rumeli'ye geçen padişah.",
+    "fullBio": "Orhan Gazi (1281-1362), Osmanlı'nın ikinci padişahıdır. Babası Osman Gazi'nin Bursa kuşatması sırasındaki vefatı üzerine tahta çıktı. 1326'da Bursa'yı fethetti, şehri ilk Osmanlı başkenti yaptı. 1329'da İznik, 1331'de İzmit, 1337'de Gelibolu fethedildi. 1354'te Süleyman Paşa komutasında Çanakkale Boğazı geçilerek Rumeli'ye ilk ayak basıldı. Bu olay, Osmanlıların Avrupa'daki fetihlerinin başlangıcıdır. Orhan Gazi döneminde ilk düzenli ordu (Yaya ve Müsellem), ilk para (akçe), ilk medrese ve ilk donanma kuruldu.",
+    "legacy": "İlk başkent Bursa'yı kurdu, Rumeli'ye geçerek imparatorluğun Avrupa'da kalıcı olmasını sağladı.",
+    "achievements": [
+      "Bursa'yı fethetti (1326)",
+      "Rumeli'ye geçiş (1354)",
+      "İlk donanmayı kurdu",
+      "İlk düzenli orduyu kurdu",
+      "İlk medreseyi açtı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1326",
+        "title": "Bursa Fethi",
+        "description": "İlk Osmanlı başkenti kuruldu."
+      },
+      {
+        "year": "M.S. 1354",
+        "title": "Rumeli'ye Geçiş",
+        "description": "Çanakkale Boğazı geçilerek Avrupa'ya ayak basıldı."
+      }
+    ],
+    "predecessor": "Osman Gazi",
+    "successor": "I. Murat (Hüdavendigar) (oğlu)",
+    "quote": {
+      "text": "Halka hizmet, Hakka hizmettir.",
+      "source": "Orhan Gazi"
+    },
+    "battles": [
+      {
+        "name": "Bursa Fethi",
+        "year": "M.S. 1326",
+        "result": "victory",
+        "description": "İlk Osmanlı başkenti fethedildi."
+      },
+      {
+        "name": "İznik Fethi",
+        "year": "M.S. 1329",
+        "result": "victory",
+        "description": "İznik şehri alındı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Osman Gazi",
+        "role": "Babası",
+        "description": "Osmanlı Beyliği'nin kurucusu."
+      },
+      {
+        "name": "Süleyman Paşa",
+        "role": "Oğlu",
+        "description": "Rumeli'ye geçişi komuta eden şehzade."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-1-murat",
+    "order": 3,
+    "name": "I. Murat (Hüdavendigar)",
+    "title": "3. Padişah",
+    "period": "M.S. 1362 - 1389",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-1-murat.jpg",
+    "description": "Rumeli'ye kalıcı geçişi sağlayan, Yeniçeri Ocağı'nın temelini atan, Kosova'da şehit düşen padişah.",
+    "fullBio": "I. Murat (1326-1389), Osmanlı'nın üçüncü padişahıdır. 1362'de Filibe'yi (Plovdiv) fethederek Osmanlıların ilk büyük Balkan şehrini ele geçirdi. 1364'te Sırpsındığı Muharebesi'nde Sırp, Macar ve Bizans ittifak ordusunu büyük bir yenilgiye uğrattı. Bulgaristan tamamen Osmanlı topraklarına katıldı. 1365'te Edirne başkent yapıldı. 1385'te Sofya, 1386'da Niş fethedildi. Yeniçeri Ocağı'nın temelleri atıldı. 1389'da I. Kosova Muharebesi'nde Sırp ordusunu yenilgiye uğrattı ancak muharebe sonrası Sırplı bir suikastçı tarafından şehit edildi.",
+    "legacy": "Rumeli'ye kalıcı geçişi sağladı, Yeniçeri Ocağı'nın temelini attı.",
+    "achievements": [
+      "Edirne'yi fethetti ve başkent yaptı",
+      "Rumeli'de kalıcı oldu",
+      "Yeniçeri Ocağı'nın temelini attı",
+      "I. Kosova Zaferi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1364",
+        "title": "Sırpsındığı Zaferi",
+        "description": "Haçlı ittifakı yenilgiye uğratıldı."
+      },
+      {
+        "year": "M.S. 1389",
+        "title": "I. Kosova ve Şehadet",
+        "description": "Sırp ordusu yenildi ancak Murat şehit düştü."
+      }
+    ],
+    "predecessor": "Orhan Gazi",
+    "successor": "Yıldırım Bayezid (oğlu)",
+    "quote": {
+      "text": "Gazalar bizim için olmazsa olmazdır. Gazasız taht olmaz.",
+      "source": "I. Murat"
+    },
+    "battles": [
+      {
+        "name": "Sırpsındığı Muharebesi",
+        "year": "M.S. 1364",
+        "result": "victory",
+        "description": "Haçlı ittifakı ezici yenilgiye uğratıldı."
+      },
+      {
+        "name": "I. Kosova Muharebesi",
+        "year": "M.S. 1389",
+        "result": "victory",
+        "description": "Sırp ordusu yenildi, Murat şehit düştü."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Orhan Gazi",
+        "role": "Babası",
+        "description": "Osmanlı'nın ikinci padişahı."
+      },
+      {
+        "name": "Lazar Hrebeljanović",
+        "role": "Sırp Despotu",
+        "description": "Kosova'da I. Murat'a karşı savaşan Sırp lideri."
+      },
+      {
+        "name": "Yıldırım Bayezid",
+        "role": "Oğlu, Halef",
+        "description": "I. Kosova'da komutayı devralan halef."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-yildirim-bayezid",
+    "order": 4,
+    "name": "Yıldırım Bayezid",
+    "title": "4. Padişah",
+    "period": "M.S. 1389 - 1402",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-yildirim.jpg",
+    "description": "Niğbolu'da Haçlı ordusunu yenen, Ankara Savaşı'nda Timur'a yenilen 'Yıldırım' lakaplı padişah.",
+    "fullBio": "Yıldırım Bayezid (1360-1403), Osmanlı'nın dördüncü padişahıdır. 1396 Niğbolu Muharebesi'nde Macar Kralı I. Sigismund komutasındaki Haçlı ordusunu ezici bir yenilgiye uğrattı. Bu zafer, Avrupa'da büyük yankı uyandırdı ve 'Yıldırım' lakabını kazandırdı. Anadolu'da Aydınoğulları, Menteşe ve Saruhan beyliklerini ilhak etti. 1399-1402 arasında Konstantinopolis'i kuşattı. 1402'de Timur ile Ankara Ovası'nda Çubuk Muharebesi'nde yenilerek esir düştü. Sekiz ay sonra Akşehir'de vefat etti.",
+    "legacy": "Niğbolu zaferiyle Haçlı ittifakını dağıttı ancak Ankara yenilgisiyle Fetret Devri'ni başlattı.",
+    "achievements": [
+      "Niğbolu Zaferi (1396)",
+      "Anadolu beyliklerini ilhak etti",
+      "Konstantinopolis kuşatması"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1396",
+        "title": "Niğbolu Zaferi",
+        "description": "Haçlı ordusu ezici yenilgiye uğratıldı."
+      },
+      {
+        "year": "M.S. 1402",
+        "title": "Ankara Savaşı",
+        "description": "Timur'a yenilerek esir alındı."
+      }
+    ],
+    "predecessor": "I. Murat",
+    "successor": "I. Mehmet (Çelebi) (oğlu)",
+    "quote": {
+      "text": "Bu kadar orduyu, bu kadar kısa sürede yenebileceğimi bilmiyordum.",
+      "source": "Yıldırım Bayezid, Niğbolu sonrası"
+    },
+    "battles": [
+      {
+        "name": "Niğbolu Muharebesi",
+        "year": "M.S. 1396",
+        "result": "victory",
+        "description": "Haçlı ordusu tamamen imha edildi."
+      },
+      {
+        "name": "Çubuk Muharebesi",
+        "year": "M.S. 1402",
+        "result": "defeat",
+        "description": "Timur'a yenilerek esir alındı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Timur",
+        "role": "Timur İmparatoru",
+        "description": "Ankara Savaşı'nda Bayezid'i yenen Türk-Moğol hükümdarı."
+      },
+      {
+        "name": "I. Sigismund",
+        "role": "Macar Kralı",
+        "description": "Niğbolu'da yenilen Haçlı koalisyon lideri."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-1-mehmet",
+    "order": 5,
+    "name": "I. Mehmet (Çelebi)",
+    "title": "5. Padişah / Fetret Devri'ni Sonlandıran",
+    "period": "M.S. 1413 - 1421",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-1-mehmet.jpg",
+    "description": "Yıldırım Bayezid'in Ankara yenilgisi sonrası 11 yıl süren Fetret Devri'ni sona erdirdi. Kardeşleriyle mücadele ederek devleti birleştirdi.",
+    "fullBio": "I. Mehmet Çelebi (1389-1421), 1413-1421 arasında hüküm sürmüş, Fetret Devri'ni sona erdirerek Osmanlı Devleti'ni yeniden birleştiren padişahtır. Babası Yıldırım Bayezid'in 1402'de Timur'a yenilmesiyle başlayan 11 yıllık taht kavgası döneminde kardeşleri İsa Çelebi, Süleyman Çelebi ve Musa Çelebi ile mücadele etti. 1413'te Musa'yı yenerek tek hükümdar oldu. Döneminde Anadolu'da kaybedilen topraklar geri alındı, Yıldırım dönemindeki sınırlara dönüldü. 1416'da Börklüce Mustafa ve Şeyh Bedreddin isyanlarını bastırdı. Aydın, Menteşe, Germiyan ve Hamid illeri yeniden Osmanlı topraklarına katıldı. Sınır boylarında Bizans'a karşı fetihler devam etti.",
+    "legacy": "Fetret Devri'ni sona erdirerek Osmanlı Devleti'ni çöküşten kurtardı. 'Çelebi' lakabı kibar ve bilgili anlamındadır.",
+    "achievements": [
+      "Fetret Devri'ni sonlandırdı (1413)",
+      "Osmanlı topraklarını birleştirdi",
+      "Anadolu'da kayıp toprakları geri aldı",
+      "İsyanları bastırdı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1402",
+        "title": "Ankara Sonrası Fetret Devri",
+        "description": "Babası Bayezid'in Timur'a yenilmesiyle başlayan iç savaş dönemi."
+      },
+      {
+        "year": "M.S. 1413",
+        "title": "Devletin Yeniden Birleşmesi",
+        "description": "Kardeşi Musa'yı yenerek tek hükümdar oldu."
+      },
+      {
+        "year": "M.S. 1416",
+        "title": "İsyanların Bastırılması",
+        "description": "Börklüce Mustafa ve Şeyh Bedreddin isyanları bastırıldı."
+      }
+    ],
+    "predecessor": "Yıldırım Bayezid (babası)",
+    "successor": "II. Murat (oğlu)",
+    "quote": {
+      "text": "Devletin temeli adalettir. Adaletin olmadığı yerde devlet olmaz.",
+      "source": "I. Mehmet Çelebi"
+    },
+    "battles": [
+      {
+        "name": "Çamurlu Muharebesi",
+        "year": "M.S. 1413",
+        "result": "victory",
+        "description": "Kardeşi Musa Çelebi'yi yenerek tahtı tek başına ele geçirdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Yıldırım Bayezid",
+        "role": "Babası",
+        "description": "Ankara'da Timur'a yenilerek Fetret Devri'ni başlatan padişah."
+      },
+      {
+        "name": "Şeyh Bedreddin",
+        "role": "İsyancı",
+        "description": "1416'da çıkardığı isyanla I. Mehmet'e karşı ayaklandı."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-2-murat",
+    "order": 6,
+    "name": "II. Murat",
+    "title": "6. Padişah / Hükümdar",
+    "period": "M.S. 1421 - 1451",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-2-murat.jpg",
+    "description": "Varna ve II. Kosova zaferleriyle Balkanlar'da Osmanlı üstünlüğünü sağlayan. Fatih'in babası. Tahttan iki kez çekildi.",
+    "fullBio": "II. Murat (1404-1451), 1421-1451 arasında iki kez tahttan çekilip geri dönen, Balkanlar'da Osmanlı üstünlüğünü kesinleştiren padişahtır. 1421'de 17 yaşında tahta çıktı. 1444 Varna Muharebesi'nde Haçlı ordusunu yendi, Macar kralı Vladislaus öldürüldü. 1448'de II. Kosova Muharebesi'nde Hunyadi Janos komutasındaki Haçlı ordusunu yenilgiye uğrattı. Bu iki zaferle Balkanlar'da Osmanlı üstünlüğü kesinleşti. 1444'te kısa süreliğin tahttan çekilerek oğlu II. Mehmet'i (Çelebi) tahta çıkardı ancak Varna Savaşı sonrası geri döndü. Anadolu'da Karaman ve Germiyan toprakları genişletildi. Bursa'da Yeşil Cami ve Yeşil Türbe yaptırdı. 1451'de vefat etti.",
+    "legacy": "Varna ve II. Kosova zaferleriyle Balkanlar'da Osmanlı üstünlüğünü kesinleştirdi. Fatih Sultan Mehmet'in babasıdır.",
+    "achievements": [
+      "Varna Zaferi (1444)",
+      "II. Kosova Zaferi (1448)",
+      "Balkan üstünlüğünü sağladı",
+      "Anadolu'da sınırları genişletti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1421",
+        "title": "Tahta Çıkış",
+        "description": "17 yaşında sultan oldu."
+      },
+      {
+        "year": "M.S. 1444",
+        "title": "Varna Zaferi",
+        "description": "Haçlı ordusu yenildi, Macar kralı öldürüldü."
+      },
+      {
+        "year": "M.S. 1448",
+        "title": "II. Kosova Zaferi",
+        "description": "Hunyadi Janos yenilgiye uğratıldı."
+      },
+      {
+        "year": "M.S. 1451",
+        "title": "Vefat",
+        "description": "Bursa'da vefat etti, oğlu Fatih tahta çıktı."
+      }
+    ],
+    "predecessor": "I. Mehmet Çelebi (babası)",
+    "successor": "Fatih Sultan Mehmet (oğlu)",
+    "quote": {
+      "text": "Benim için taht, milletimin selametinden önce gelmez.",
+      "source": "II. Murat"
+    },
+    "battles": [
+      {
+        "name": "Varna Muharebesi",
+        "year": "M.S. 1444",
+        "result": "victory",
+        "description": "Haçlı ordusu yenildi."
+      },
+      {
+        "name": "II. Kosova Muharebesi",
+        "year": "M.S. 1448",
+        "result": "victory",
+        "description": "Hunyadi Janos yenildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Fatih Sultan Mehmet",
+        "role": "Oğlu",
+        "description": "İstanbul fatihçisi, II. Murat'ın oğlu."
+      },
+      {
+        "name": "Hunyadi Janos",
+        "role": "Macar Komutan",
+        "description": "II. Kosova'da yenilen ünlü Macar komutan."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-fatih-sultan-mehmet",
+    "order": 7,
+    "name": "Fatih Sultan Mehmet",
+    "title": "7. Padişah / İstanbul Fatihi",
+    "period": "M.S. 1451 - 1481",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-fatih.jpg",
+    "description": "İstanbul'u fetheden, 'çağ kapatan çağ açan' efsanevi padişah. 21 yaşında dünya tarihini değiştirdi.",
+    "fullBio": "Fatih Sultan Mehmet (1432-1481), 1451-1481 arasında 31 yıl hüküm sürmüş, İstanbul'u fethederek Orta Çağı sona erdiren, Osmanlı'yı dünya imparatorluğuna dönüştüren büyük hükümdardır. 6 şehir (İstanbul, Trabzon, Amasra, Sinop, Karaman, Ceneviz kolonileri) ve 2 ada (Eğriboz ve Limni) fethederek toprakları 2.214.000 km²'ye ulaştırdı. 29 Mayıs 1453'te İstanbul'u fethetti. Fetihten sonra şehri yeniden imar etti, farklı din ve mezhepten insanları davet ederek çok kültürlü bir merkez haline getirdi. İki resim (portre) yaptırdığı bilinen tek İslam hükümdarıdır. Fatih Külliyesi, Topkapı Sarayı ve Rumeli Hisarı'nı yaptırdı. Mimar Sinan'ın ilk eserlerinden Bazda Camii onun döneminde inşa edildi. 1481'de Gebze yakınlarında vefat etti.",
+    "legacy": "İstanbul'u fethederek dünya tarihinin seyrini değiştirdi. Çok kültürlü hoşgörülü imparatorluğun kurucusu.",
+    "achievements": [
+      "İstanbul'un Fethi (29 Mayıs 1453)",
+      "Topkapı Sarayı'nı yaptırdı",
+      "Rumeli Hisarı'nı yaptırdı",
+      "Çok kültürlü imparatorluk modeli"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1453",
+        "title": "İstanbul'un Fethi",
+        "description": "29 Mayıs. 53 günlük kuşatma sonunda İstanbul fethedildi."
+      },
+      {
+        "year": "M.S. 1461",
+        "title": "Trabzon Rum İmparatorluğu'nun Yıkılması",
+        "description": "Son Trabzon imparatoru Davut Komnenos teslim oldu."
+      },
+      {
+        "year": "M.S. 1475",
+        "title": "Kırım Hanlığı'na Hakimiyet",
+        "description": "Kırım Hanlığı Osmanlı himayesine girdi."
+      }
+    ],
+    "predecessor": "II. Murat",
+    "successor": "II. Bayezid (Veli) (oğlu)",
+    "quote": {
+      "text": "Ya İstanbul beni alır, ya ben İstanbul'u.",
+      "source": "Fatih Sultan Mehmet"
+    },
+    "battles": [
+      {
+        "name": "İstanbul'un Fethi",
+        "year": "M.S. 1453",
+        "result": "victory",
+        "description": "29 Mayıs 1453. Dünya tarihinin dönüm noktası."
+      },
+      {
+        "name": "Otlukbeli Muharebesi",
+        "year": "M.S. 1473",
+        "result": "victory",
+        "description": "Akkoyunlu Uzun Hasan yenilgiye uğratıldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "II. Murat",
+        "role": "Babası",
+        "description": "Fatih'e 880.000 km²'lik imparatorluk bıraktı."
+      },
+      {
+        "name": "Akşemseddin",
+        "role": "Manevi Danışman",
+        "description": "Fatih'in manevi hocası, İstanbul fethinin manevi destekçisi."
+      },
+      {
+        "name": "Giovanni Giustiniani",
+        "role": "Ceneviz Komutanı",
+        "description": "İstanbul savunmasının komutanı, kuşatma sırasında yaralandı."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-2-bayezid",
+    "order": 8,
+    "name": "II. Bayezid (Veli)",
+    "title": "8. Padişah / Veli",
+    "period": "M.S. 1481 - 1512",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-2-bayezid.jpg",
+    "description": "Mimar Sinan'ı himaye eden, Cem Sultan olayıyla uğraşan, barışçıl dönemiyle 'Veli' lakabını alan padişah.",
+    "fullBio": "II. Bayezid (1447-1512), 1481-1512 arasında hüküm sürmüş, Mimar Sinan'ı himaye eden, Cem Sultan kardeşinin isyanıyla uğraşan padişahtır. Babası Fatih'in vefatından sonra tahta çıktı. Kardeşi Cem Sultan isyan ederek 1481-1495 arasında Mısır, Rodos ve Avrupa'da gezdi, Papa ve Şarlman'ın desteğini aldı. Bu durum Osmanlı'yı uluslararası alanda zor durumda bıraktı. 1499'da Venedik'e karşı savaş açarak Navarino, Modon ve Koron'u aldı. Mimar Sinan'ı himaye ederek İstanbul'da ilk büyük eserlerini yaptırdı. Dönemi genel olarak barışçıl geçti, bu yüzden 'Veli' (aziz/veli) lakabını aldı. 1512'de oğlu Yavuz tarafından tahttan indirilerek Tekirdağ'da vefat etti.",
+    "legacy": "Mimar Sinan'ın ilk büyük eserlerini himaye etti. Cem Sultan meselesiyle 14 yıl uğraştı.",
+    "achievements": [
+      "Mimar Sinan'ı himaye etti",
+      "Venedik'e karşı zaferler",
+      "Beyliklerin ilhakını tamamladı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1481",
+        "title": "Cem Sultan İsyanı",
+        "description": "Kardeşi Cem Sultan isyan etti, 14 yıl sürecek mesele başladı."
+      },
+      {
+        "year": "M.S. 1499",
+        "title": "Venedik Savaşı",
+        "description": "Navarino, Modon ve Koron fethedildi."
+      },
+      {
+        "year": "M.S. 1512",
+        "title": "Tahttan İndirilme",
+        "description": "Oğlu Yavuz tarafından tahttan indirildi."
+      }
+    ],
+    "predecessor": "Fatih Sultan Mehmet (babası)",
+    "successor": "Yavuz Sultan Selim (oğlu)",
+    "quote": {
+      "text": "Tahtta oturan, tahtın sırtına binmiş gibidir. Sırtı kamburlaşır, beli bükülür.",
+      "source": "II. Bayezid"
+    },
+    "battles": [
+      {
+        "name": "Zonchio Deniz Muharebesi",
+        "year": "M.S. 1499",
+        "result": "victory",
+        "description": "Venedik donanması yenildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Mimar Sinan",
+        "role": "Başmimar",
+        "description": "II. Bayezid döneminde ilk büyük eserlerini inşa etti."
+      },
+      {
+        "name": "Cem Sultan",
+        "role": "Kardeşi / Rakip",
+        "description": "14 yıl süren isyanıyla II. Bayezid'i zor durumda bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-yavuz-sultan-selim",
+    "order": 9,
+    "name": "Yavuz Sultan Selim",
+    "title": "9. Padişah / İki Denizin Hükümdarı",
+    "period": "M.S. 1512 - 1520",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-yavuz.jpg",
+    "description": "Çaldıran'da Safevileri yenen, Memlukları yıkarak Halifeliği İstanbul'a taşıyan, 8 yılda imparatorluğu ikiye katlayan padişah.",
+    "fullBio": "Yavuz Sultan Selim (1470-1520), 1512-1520 arasında 8 yıl hüküm sürmüş, imparatorluğu ikiye katlayan (4.6 milyon km² → 8.5 milyon km²), Halifeliği İstanbul'a getiren büyük hükümdardır. 1514 Çaldıran'da Safevi Şah İsmail'i yendi, Doğu Anadolu ve Kuzey Irak'ı aldı. 1516-1517 Mercidabık ve Ridaniye'de Memlukları yıkarak Suriye, Filistin, Hicaz ve Mısır'ı fethetti. Son Abbasi Halifesi Mütevekkil III'ten halifelik unvanını alarak Osmanlı padişahlarını İslam dünyasının lideri yaptı. Bu 8 yılda 4 ülke (Memluk Devleti, Dulkadiroğulları, Karaman, Zigetvar) fethederek tarihin en verimli fetih dönemlerinden birini gerçekleştirdi.",
+    "legacy": "8 yılda imparatorluğu ikiye katlayan, Halifeliği İstanbul'a getirerek Osmanlı padişahlarını İslam dünyasının lideri yapan en etkili padişahtır.",
+    "achievements": [
+      "Çaldıran Zaferi (1514)",
+      "Memlukları yenme (1516-1517)",
+      "Mısır'ı fethetme",
+      "Halifeliği İstanbul'a taşıma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1514",
+        "title": "Çaldıran Savaşı",
+        "description": "Şah İsmail'i ağır yenilgiye uğrattı."
+      },
+      {
+        "year": "M.S. 1517",
+        "title": "Halifeliğin Alınması",
+        "description": "Mısır fethedildi, Halifeliği İstanbul'a taşıdı."
+      }
+    ],
+    "predecessor": "II. Bayezid (Veli)",
+    "successor": "Kanuni Sultan Süleyman (oğlu)",
+    "quote": {
+      "text": "Bir padişah için en büyük zafer, kılıç kınına girmeden kazanılan zaferdir.",
+      "source": "Yavuz Sultan Selim"
+    },
+    "battles": [
+      {
+        "name": "Çaldıran Muharebesi",
+        "year": "M.S. 1514",
+        "result": "victory",
+        "description": "Safevi Şah İsmail ezici yenilgiye uğratıldı."
+      },
+      {
+        "name": "Mercidabık Muharebesi",
+        "year": "M.S. 1516",
+        "result": "victory",
+        "description": "Memluk ordusu tamamen imha edildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Şah İsmail",
+        "role": "Safevi Şahı",
+        "description": "Çaldıran'da Yavuz'a yenilen Safevi hükümdarı."
+      },
+      {
+        "name": "II. Bayezid",
+        "role": "Babası",
+        "description": "Yavuz'un tahttan indirdiği babası."
+      },
+      {
+        "name": "Kanuni Sultan Süleyman",
+        "role": "Oğlu, Halef",
+        "description": "Osmanlı'nın en büyük padişahı."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-kanuni-sultan-suleyman",
+    "order": 10,
+    "name": "Kanuni Sultan Süleyman",
+    "title": "10. Padişah / Muhteşem Süleyman / Kanuni",
+    "period": "M.S. 1520 - 1566",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-kanuni.jpg",
+    "description": "Osmanlı İmparatorluğu'nun en büyük padişahı. Belgrad, Rodos, Mohaç, Viyana fetihleri. 46 yıllık hükümdarlık.",
+    "fullBio": "Kanuni Sultan Süleyman (1494-1566), 1520-1566 arasında 46 yıl hüküm sürmüş, Osmanlı'nın en büyük padişahıdır. 10 şehir (Belgrad 1521, Rodos 1522, Mohaç 1526, Budin 1541, Bağdat 1534, Revan 1548, Zigetvar 1566 vb.) fethederek toprakları 14.893.000 km²'ye (zirve) ulaştırdı. Belgrad (1521), Rodos (1522), Mohaç (1526), Preveze Deniz Zaferi (1538), Irakeyn Seferi (1534-1536), Viyana Kuşatması (1529) onun döneminde gerçekleşti. Kanunnamesiyle devlet yönetimini hukuki bir zemine oturttu. Mimar Sinan'ı himaye ederek 300'den fazla eser yaptırdı. Hürrem Sultan ile romantik evliliği, Pargalı İbrahim Paşa ile dostluğu tarihe geçti. 'Muhibbi' mahlasıyla şiirler yazdı. 6-7 Eylül 1566'da Zigetvar'da vefat etti.",
+    "legacy": "Osmanlı İmparatorluğu'nun zirve dönemini yaşatan, dünya tarihinin en büyük hükümdarlarından biridir.",
+    "achievements": [
+      "Belgrad Fethi (1521)",
+      "Rodos Fethi (1522)",
+      "Mohaç Zaferi (1526)",
+      "Preveze Deniz Zaferi (1538)",
+      "Kanunnamesi",
+      "Mimar Sinan'ı himaye etti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1521",
+        "title": "Belgrad Fethi",
+        "description": "Macaristan kapısı açıldı."
+      },
+      {
+        "year": "M.S. 1522",
+        "title": "Rodos Fethi",
+        "description": "Akdeniz'de Osmanlı üstünlüğü kesinleşti."
+      },
+      {
+        "year": "M.S. 1526",
+        "title": "Mohaç Savaşı",
+        "description": "Macar ordusu tamamen imha edildi."
+      },
+      {
+        "year": "M.S. 1538",
+        "title": "Preveze Deniz Savaşı",
+        "description": "Haçlı donanması ağır yenilgiye uğradı."
+      },
+      {
+        "year": "M.S. 1566",
+        "title": "Zigetvar'da Şehadet",
+        "description": "46 yıllık hükümdarlık sona erdi."
+      }
+    ],
+    "predecessor": "Yavuz Sultan Selim",
+    "successor": "II. Selim (Sarı) (oğlu)",
+    "quote": {
+      "text": "Bu dünya fani, bu dünyadaki her şey fanidir. Sadece adalet ve iyilik kalıcıdır.",
+      "source": "Kanuni Sultan Süleyman"
+    },
+    "battles": [
+      {
+        "name": "Mohaç Muharebesi",
+        "year": "M.S. 1526",
+        "result": "victory",
+        "description": "Macar ordusu tamamen imha edildi."
+      },
+      {
+        "name": "Preveze Deniz Muharebesi",
+        "year": "M.S. 1538",
+        "result": "victory",
+        "description": "Haçlı donanması ağır yenilgiye uğradı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Yavuz Sultan Selim",
+        "role": "Babası",
+        "description": "Fatih'ten sonra gelen büyük padişah."
+      },
+      {
+        "name": "Mimar Sinan",
+        "role": "Başmimar",
+        "description": "Kanuni'nin himayesinde 300'den fazla eser inşa etti."
+      },
+      {
+        "name": "Hürrem Sultan",
+        "role": "Eşi",
+        "description": "Kanuni'nin eşi, Süleymaniye ve Haseki Külliyesi'nin banisi."
+      },
+      {
+        "name": "Pargalı İbrahim Paşa",
+        "role": "Sadrazam",
+        "description": "Kanuni'nin sadrazamı ve en yakın dostu."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-2-selim",
+    "order": 11,
+    "name": "II. Selim (Sarı Selim)",
+    "title": "11. Padişah",
+    "period": "M.S. 1566 - 1574",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-2-selim.jpg",
+    "description": "Kanuni'nin oğlu. Kıbrıs'ı fethetti. Mimar Sinan'ın son büyük eserlerini yaptırdı. 'Sarı' lakabı sarışınlığından.",
+    "fullBio": "II. Selim (1524-1574), 1566-1574 arasında hüküm sürmüş, Kıbrıs'ı fethettiği için 'Fatih' unvanı alan, sarışınlığından 'Sarı Selim' diye anılan padişahtır. Kanuni'nin oğlu olarak 1566'da tahta çıktı. 1570-1571'de Kıbrıs'ı fethederek Akdeniz'de Osmanlı üstünlüğünü pekiştirdi. Ancak İnebahtı Deniz Muharebesi'nde (1571) donanma ağır kayıp verdi. Bu yenilgiye rağmen Kıbrıs elde tutuldu. Mimar Sinan'ın son büyük eserlerinden Selimiye Camii (Edirne) onun döneminde yapıldı. Sokollu Mehmet Paşa sadrazamlığında devlet yönetimi istikrarlıydı. Kuzey Afrika'da Osmanlı nüfuzu arttı. 1574'te İstanbul'da vefat etti.",
+    "legacy": "Kıbrıs'ı fethetti. Selimiye Camii onun döneminde yapıldı.",
+    "achievements": [
+      "Kıbrıs Fethi (1570-1571)",
+      "Selimiye Camii'nin yapımı",
+      "Kuzey Afrika'da nüfuz artışı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1570",
+        "title": "Kıbrıs Fethi",
+        "description": "Kıbrıs adası fethedildi."
+      },
+      {
+        "year": "M.S. 1571",
+        "title": "İnebahtı Deniz Muharebesi",
+        "description": "Haçlı ittifakına karşı ağır kayıp verildi."
+      },
+      {
+        "year": "M.S. 1574",
+        "title": "Vefat",
+        "description": "İstanbul'da vefat etti."
+      }
+    ],
+    "predecessor": "Kanuni Sultan Süleyman (babası)",
+    "successor": "III. Murat (oğlu)",
+    "quote": {
+      "text": "Kıbrıs, Anadolu'nun kılıcıdır. Kılıçsız el, savunmasız kalır.",
+      "source": "II. Selim"
+    },
+    "battles": [
+      {
+        "name": "Kıbrıs Fethi",
+        "year": "M.S. 1571",
+        "result": "victory",
+        "description": "Kıbrıs adası tamamen fethedildi."
+      },
+      {
+        "name": "İnebahtı Deniz Muharebesi",
+        "year": "M.S. 1571",
+        "result": "defeat",
+        "description": "Haçlı donanmasına karşı ağır kayıp."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Mimar Sinan",
+        "role": "Başmimar",
+        "description": "Selimiye Camii'ni II. Selim döneminde inşa etti."
+      },
+      {
+        "name": "Sokollu Mehmet Paşa",
+        "role": "Sadrazam",
+        "description": "II. Selim ve III. Murat döneminin güçlü sadrazamı."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-3-murat",
+    "order": 12,
+    "name": "III. Murat",
+    "title": "12. Padişah",
+    "period": "M.S. 1574 - 1595",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-3-murat.jpg",
+    "description": "Haçova (Mezökeresztes) zaferiyle Avusturya'yı durduran. 21 yıl hüküm sürdü. Safiye Sultan'ın eşi.",
+    "fullBio": "III. Murat (1546-1595), 1574-1595 arasında 21 yıl hüküm sürmüş, Haçova (Mezökeresztes) zaferiyle Avusturya ilerleyişini durduran padişahtır. 1596'da Haçova Muharebesi'nde Avusturya-Macar ordusunu yenilgiye uğrattı ancak savaş meydanında 19 şehit verildi. Bu zafer Tuna sınırını güvence altına aldı. Fas'a sefer düzenleyerek Fas'ı himayesine aldı. Osmanlı-Yunanistan sınırları modern sınırlara yaklaştı. Safiye Sultan'ın etkisiyle saray entrikaları arttı. 1595'te vefat etti.",
+    "legacy": "Haçova zaferiyle Avusturya'yı durdurdu. 21 yıllık hükümdarlığı istikrarlıydı.",
+    "achievements": [
+      "Haçova (Mezökeresztes) Zaferi (1596)",
+      "Fas seferi",
+      "Tuna sınırlarını güvence altına alma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1596",
+        "title": "Haçova Zaferi",
+        "description": "Avusturya-Macar ordusu yenildi."
+      },
+      {
+        "year": "M.S. 1578",
+        "title": "Fas Seferi",
+        "description": "Fas'ı himayeye aldı."
+      }
+    ],
+    "predecessor": "II. Selim (babası)",
+    "successor": "III. Mehmet (oğlu)",
+    "quote": {
+      "text": "Haçova'da şehit verdiğimiz her yiğit, Tuna'nın bir taşıdır.",
+      "source": "III. Murat"
+    },
+    "battles": [
+      {
+        "name": "Haçova Muharebesi",
+        "year": "M.S. 1596",
+        "result": "victory",
+        "description": "Avusturya-Macar ordusu yenildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Sokollu Mehmet Paşa",
+        "role": "Sadrazam",
+        "description": "III. Murat'ın ilk yıllarında sadrazamlık yaptı."
+      },
+      {
+        "name": "Safiye Sultan",
+        "role": "Eşi",
+        "description": "III. Murat'ın eşi, saray entrikalarının önemli figürü."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-3-mehmet",
+    "order": 13,
+    "name": "III. Mehmet",
+    "title": "13. Padişah",
+    "period": "M.S. 1595 - 1603",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-3-mehmet.jpg",
+    "description": "Eğri fethini gerçekleştiren, 19 kardeşini idam ettiren, Kasımpaşa katliamına izin veren padişah.",
+    "fullBio": "III. Mehmet (1566-1603), 1595-1603 arasında hüküm sürmüş, Eğri (Erlau) kalesini fetheden ancak tahta çıkışında 19 kardeşini idam ettiren padişahtır. 1596'da Eğri Fethi, Osmanlı tarihinin önemli zaferlerindendir. Ancak tahta çıkışında 19 erkek kardeşini boğdurması, 'kafes sistemi'ni başlattı. 1600'de Kasımpaşa katliamında 50.000'den fazla işsiz sefil öldürüldü. Celali isyanları bu dönemde başladı. Uzun yıllar süren Avusturya savaşları sonuçsuz kaldı. 1603'te vefat etti.",
+    "legacy": "Eğri fethiyle önemli bir zafer kazandı ancak kardeş katli ve Kasımpaşa olayıyla eleştirilir.",
+    "achievements": [
+      "Eğri Fethi (1596)",
+      "Avusturya savaşlarında direniş"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1595",
+        "title": "Tahta Çıkış ve Kardeş Katli",
+        "description": "19 kardeşi idam edildi."
+      },
+      {
+        "year": "M.S. 1596",
+        "title": "Eğri Fethi",
+        "description": "Eğri kalesi fethedildi."
+      },
+      {
+        "year": "M.S. 1600",
+        "title": "Kasımpaşa Katliamı",
+        "description": "50.000'den fazla işsiz sefil öldürüldü."
+      }
+    ],
+    "predecessor": "III. Murat (babası)",
+    "successor": "I. Ahmed (oğlu)",
+    "quote": {
+      "text": "Taht, kanla sulanan bir bahçedir. Gül yetişsin istersek, dikenlere tahammül etmeliyiz.",
+      "source": "III. Mehmet"
+    },
+    "battles": [
+      {
+        "name": "Eğri Fethi",
+        "year": "M.S. 1596",
+        "result": "victory",
+        "description": "Eğri kalesi fethedildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "III. Murat",
+        "role": "Babası",
+        "description": "19 kardeşin babası, III. Mehmet onları idam ettirdi."
+      },
+      {
+        "name": "Safi Sultan",
+        "role": "Eşi",
+        "description": "III. Mehmet'in eşi, I. Ahmed'in annesi."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-1-ahmed",
+    "order": 14,
+    "name": "I. Ahmed",
+    "title": "14. Padişah",
+    "period": "M.S. 1603 - 1617",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-1-ahmed.jpg",
+    "description": "Sultanahmet Camii (Mavi Cami) yaptıran, Zitvatorok Antlaşması'yla Avusturya ile barış imzalayan padişah.",
+    "fullBio": "I. Ahmed (1590-1617), 1603-1617 arasında hüküm sürmüş, Sultanahmet Camii'nin (Mavi Camii) banisi olan padişahtır. 14 yaşında tahta çıktı. 1606 Zitvatorok Antlaşması ile Avusturya (Habsburg İmparatorluğu) ile ilk kez eşit statüde barış imzalandı; bu Osmanlı'nın askeri üstünlüğünün kırıldığının işaretidir. 1612'de İran (Safeviler) ile Nasuh Paşa Antlaşması imzalandı. 1609-1616 arasında Sultanahmet Camii yaptırıldı. 6 minaresiyle dikkat çeken cami, Mimar Sedefkar Mehmet Ağa'nın eseridir. I. Ahmed, son padişah olarak kardeş katli uygulamadı; kardeşi I. Mustafa'ya dokunulmaması için ferman çıkardı. Bu uygulama sonraki dönemlerde devam etti.",
+    "legacy": "Sultanahmet Camii (Mavi Camii) onun en önemli mirasıdır. Kardeş katlini sonlandıran fermanı çıkardı.",
+    "achievements": [
+      "Sultanahmet Camii (Mavi Camii)",
+      "Zitvatorok Antlaşması",
+      "Kardeş katlini sonlandıran ferman"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1606",
+        "title": "Zitvatorok Antlaşması",
+        "description": "Avusturya ile eşit statüde ilk barış."
+      },
+      {
+        "year": "M.S. 1609-1616",
+        "title": "Sultanahmet Camii",
+        "description": "6 minareli Mavi Cami inşa edildi."
+      }
+    ],
+    "predecessor": "III. Mehmet (babası)",
+    "successor": "I. Mustafa (kardeşi)",
+    "quote": {
+      "text": "Bu cami, Allah'ın evi olsun. Mavi kubbeleri, göğün yansıması olsun.",
+      "source": "I. Ahmed, Sultanahmet Camii için"
+    },
+    "battles": [
+      {
+        "name": "Macar İsyanı'na Müdahale",
+        "year": "M.S. 1604-1606",
+        "result": "victory",
+        "description": "Avusturya-Macaristan'daki Protestan isyanlarına destek vererek Habsburg baskısını azalttı."
+      },
+      {
+        "name": "Revân Seferi (Revan Fethi)",
+        "year": "M.S. 1604-1605",
+        "result": "victory",
+        "description": "Safevi Devleti'ne karşı sefer düzenlendi, Gürcistan ve Azerbaycan'da topraklar genişletildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Mimar Sedefkar Mehmet Ağa",
+        "role": "Mimar",
+        "description": "Sultanahmet Camii'nin mimarı."
+      },
+      {
+        "name": "I. Mustafa",
+        "role": "Kardeşi, Halef",
+        "description": "I. Ahmed'in kardeş katli fermanıyla hayatta kaldı."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-1-mustafa",
+    "order": 15,
+    "name": "I. Mustafa",
+    "title": "15. Padişah / Deli Mustafa",
+    "period": "M.S. 1617 - 1618, 1622 - 1623",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-1-mustafa.jpg",
+    "description": "Akli dengesi yerinde olmayan, iki kez tahta çıkarılıp indirilen padişah. 'Kafes' hayatının kurbanı.",
+    "fullBio": "I. Mustafa (1591-1639), 1617-1618 ve 1622-1623 olmak üzere iki kez kısa süreli tahta çıkarılan, akli dengesi yerinde olmayan padişahtır. Babası III. Mehmet'in 19 kardeşini idam ettirmesinden tek kurtulan I. Mustafa, kardeşi I. Ahmed'in fermanıyla hayatta kaldı. Yıllarca 'kafes'te (sarayda hapis hayatı) yaşadı, bu durum akli sağlığını bozdu. 1617'de I. Ahmed'in ölümüyle tahta çıkarıldı ancak akli dengesizliği nedeniyle 3 ay sonra indirildi. 1622'de II. Osman'ın öldürülmesiyle tekrar tahta çıkarıldı, bir yıl sonra tekrar indirildi. 1639'da öldü. 'Kafes sistemi'nin kurbanı olarak tarihe geçti.",
+    "legacy": "Kafes sisteminin kurbanı olarak tarihe geçti. Akli dengesizliği, sarayda hapis hayatının sonucuydu.",
+    "achievements": [
+      "1603-1617 arasında hükümdarlık yaptı",
+      "Sadrazam Kuyucu Murad Paşa döneminde tahttaydı",
+      "Acem (İran) ile mücadele etti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1617",
+        "title": "İlk Tahta Çıkış",
+        "description": "I. Ahmed'in ölümüyle tahta çıkarıldı."
+      },
+      {
+        "year": "M.S. 1618",
+        "title": "İlk İndirilme",
+        "description": "Akli dengesizlik nedeniyle indirildi."
+      },
+      {
+        "year": "M.S. 1622",
+        "title": "İkinci Tahta Çıkış",
+        "description": "II. Osman'ın ölümüyle tekrar tahta çıkarıldı."
+      },
+      {
+        "year": "M.S. 1623",
+        "title": "İkinci İndirilme",
+        "description": "Sonsuza dek tahttan indirildi."
+      }
+    ],
+    "predecessor": "I. Ahmed (1617), II. Osman (1622)",
+    "successor": "II. Osman (1618), IV. Murat (1623)",
+    "quote": {
+      "text": "Taht beni buldu, ben tahtı değil. Kafesten çıkan kuş, nereye konacağını bilemez.",
+      "source": "I. Mustafa"
+    },
+    "battles": [
+      {
+        "name": "Hotin Muharebesi",
+        "year": "M.S. 1621",
+        "result": "inconclusive",
+        "description": "Lehistan-Litvanya Birliği'ne karşı yapılan muharebe sonuçsuz kaldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "III. Mehmet",
+        "role": "Babası",
+        "description": "19 kardeşi idam ettiren padişah, I. Mustafa tek kurtulan."
+      },
+      {
+        "name": "II. Osman",
+        "role": "Yeğeni",
+        "description": "I. Mustafa'yı ikinci kez tahttan indiren Genç Osman."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-2-osman",
+    "order": 16,
+    "name": "II. Osman (Genç Osman)",
+    "title": "16. Padişah",
+    "period": "M.S. 1618 - 1622",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-2-osman.jpg",
+    "description": "14 yaşında tahta çıkan, Yeniçeriler tarafından boğazlanarak öldürülen ilk padişah. Reform girişimleriyle tanınır.",
+    "fullBio": "II. Osman (1604-1622), 1618-1622 arasında hüküm sürmüş, 14 yaşında tahta çıkan, Yeniçeri Ocağı tarafından boğazlanarak öldürülen ilk padişahtır. Genç yaşta modernleşme girişimlerinde bulundu. Yeniçeri Ocağı'nın gücünü kırmak için 'Enderun' (Acemi Oğlanlar Ocağı) kurarak yeni bir ordu oluşturmaya çalıştı. Hotin seferi (1621) sırasında Yeniçerilerin isyanı üzerine tahttan indirildi. 20 Mayıs 1622'de Yedikule zindanlarında boğazlanarak öldürüldü. Ölümü, Yeniçeri Ocağı'nın en büyük suçlarından biri olarak tarihe geçti.",
+    "legacy": "Yeniçeriler tarafından öldürülen ilk padişah. Reform girişimleriyle tanınır.",
+    "achievements": [
+      "Enderun (Acemi Oğlanlar Ocağı) kurma girişimi",
+      "Reform çabaları"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1618",
+        "title": "Tahta Çıkış",
+        "description": "14 yaşında sultan oldu."
+      },
+      {
+        "year": "M.S. 1621",
+        "title": "Hotin Seferi ve İsyan",
+        "description": "Yeniçeriler isyan etti."
+      },
+      {
+        "year": "M.S. 1622",
+        "title": "Şehadet",
+        "description": "Yeniçeriler tarafından boğazlanarak öldürüldü."
+      }
+    ],
+    "predecessor": "I. Mustafa (amcası)",
+    "successor": "I. Mustafa (amcası)",
+    "quote": {
+      "text": "Devleti kurtarmak için Yeniçeri ocağını kurtarmalıyız. Ama bu ocağın közü sönmüş.",
+      "source": "II. Osman"
+    },
+    "battles": [
+      {
+        "name": "Hotin Seferi",
+        "year": "M.S. 1621",
+        "result": "victory",
+        "description": "Lehistan üzerine sefer düzenlendi, Osmanlı üstünlüğü sağlandı."
+      },
+      {
+        "name": "Dicle Seferi",
+        "year": "M.S. 1621-1622",
+        "result": "victory",
+        "description": "Safevi Devleti'ne karşı Irak seferi başarılı oldu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Dilaver Paşa",
+        "role": "Yeniçeri Ağası",
+        "description": "II. Osman'ın öldürülmesinde rol oynayan Yeniçeri ağası."
+      },
+      {
+        "name": "I. Mustafa",
+        "role": "Amcası, Halef",
+        "description": "II. Osman'ın ölümüyle tekrar tahta çıkan amcası."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-4-murat",
+    "order": 17,
+    "name": "IV. Murat (Büyük Murat)",
+    "title": "17. Padişah",
+    "period": "M.S. 1623 - 1640",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-4-murat.jpg",
+    "description": "11 yaşında tahta çıkan, Revan ve Bağdat fetihlerini gerçekleştiren, Yeniçerilere disiplin getiren büyük padişah.",
+    "fullBio": "IV. Murat (1612-1640), 1623-1640 arasında hüküm sürmüş, 11 yaşında tahta çıkan, Revan (Erivan) ve Bağdat fetihleriyle Anadolu'da sınırları genişleten, Yeniçeri disiplinini sağlayan padişahtır. 1635'te Revan'ı (Erivan), 1638'te Bağdat'ı fethetti. Bu fetihler Safevi tehdidini ortadan kaldırdı. Yeniçeri Ocağı'na disiplin getirerek II. Osman'ın öldürülmesinin hesabını sordu. Toprak sistemini düzenledi. Celali isyanlarını bastırdı. 1640'ta şehirlik (verem) hastalığından vefat etti.",
+    "legacy": "Revan ve Bağdat fetihleriyle Safevi tehdidini ortadan kaldırdı. Yeniçeri disiplinini sağladı.",
+    "achievements": [
+      "Revan Fethi (1635)",
+      "Bağdat Fethi (1638)",
+      "Yeniçeri disiplini",
+      "Celali isyanlarını bastırma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1635",
+        "title": "Revan Fethi",
+        "description": "Erivan fethedildi."
+      },
+      {
+        "year": "M.S. 1638",
+        "title": "Bağdat Fethi",
+        "description": "Bağdat fethedildi, Safevi tehdidi ortadan kalktı."
+      }
+    ],
+    "predecessor": "I. Mustafa (amcası)",
+    "successor": "İbrahim (Deli) (kardeşi)",
+    "quote": {
+      "text": "Revan ve Bağdat, İslam'ın iki gözüdür. Bu gözleri kör etmemek için fethetmeliyiz.",
+      "source": "IV. Murat"
+    },
+    "battles": [
+      {
+        "name": "Revan Fethi",
+        "year": "M.S. 1635",
+        "result": "victory",
+        "description": "Erivan fethedildi."
+      },
+      {
+        "name": "Bağdat Fethi",
+        "year": "M.S. 1638",
+        "result": "victory",
+        "description": "Bağdat fethedildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Kemankeş Kara Mustafa Paşa",
+        "role": "Sadrazam",
+        "description": "IV. Murat döneminin güçlü sadrazamı."
+      },
+      {
+        "name": "Sultan İbrahim",
+        "role": "Kardeşi, Halef",
+        "description": "IV. Murat'ın ardıllı, 'Deli İbrahim' lakaplı padişah."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-ibrahim",
+    "order": 18,
+    "name": "İbrahim (Deli İbrahim)",
+    "title": "18. Padişah",
+    "period": "M.S. 1640 - 1648",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-ibrahim.jpg",
+    "description": "'Deli' lakaplı, saray entrikalarıyla dolu, tahttan indirilerek boğazlanan padişah. Kösem Sultan dönemi.",
+    "fullBio": "İbrahim (1615-1648), 1640-1648 arasında hüküm sürmüş, akli dengesinin bozukluğu nedeniyle 'Deli' lakabıyla anılan, tahttan indirilerek boğazlanan padişahtır. IV. Murat'ın ölümüyle tahta çıktı. Dönemi saray entrikalarıyla geçti; annesi Kösem Sultan ve eşi Turhan Sultan'ın etkisi altında kaldı. 1645'te Girit seferi başlatıldı. 1647'de Venedik donanması Dardanelles'i geçerek İstanbul'u tehdit etti. Ulema ve Yeniçerilerin baskısıyla 8 Ağustos 1648'de tahttan indirilerek Topkapı Sarayı'nda boğazlandı. Oğlu IV. Mehmet (Avcı) tahta çıktı.",
+    "legacy": "Kösem Sultan ve Turhan Sultan döneminin padişahı olarak tarihe geçti.",
+    "achievements": [
+      "Girit seferi (1645)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1640",
+        "title": "Tahta Çıkış",
+        "description": "IV. Murat'ın ölümüyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 1645",
+        "title": "Girit Seferi",
+        "description": "Girit adası fetih harekâtı başladı."
+      },
+      {
+        "year": "M.S. 1648",
+        "title": "Tahttan İndirilme ve Ölüm",
+        "description": "Tahttan indirilerek boğazlandı."
+      }
+    ],
+    "predecessor": "IV. Murat (Büyük) (kardeşi)",
+    "successor": "IV. Mehmet (Avcı) (oğlu)",
+    "quote": {
+      "text": "Saray, bir satranç tahtasıdır. Padişah vezir, vezir padişah olabilir.",
+      "source": "İbrahim"
+    },
+    "battles": [
+      {
+        "name": "Girit Seferi",
+        "year": "M.S. 1645",
+        "result": "victory",
+        "description": "Girit adası fetih harekâtı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Kösem Sultan",
+        "role": "Annesi / Valide Sultan",
+        "description": "İbrahim'in annesi, saray entrikalarının merkezi figürü."
+      },
+      {
+        "name": "Turhan Sultan",
+        "role": "Eşi / Valide Sultan",
+        "description": "İbrahim'in eşi, IV. Mehmet'in annesi."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-4-mehmet",
+    "order": 19,
+    "name": "IV. Mehmet (Avcı)",
+    "title": "19. Padişah",
+    "period": "M.S. 1648 - 1687",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-4-mehmet.jpg",
+    "description": "6 yaşında tahta çıkan, Viyana kuşatmasını (1683) yapan, Köprülüler döneminin padişahı. 39 yıl hüküm sürdü.",
+    "fullBio": "IV. Mehmet (Avcı) (1642-1693), 1648-1687 arasında 39 yıl hüküm sürmüş, 6 yaşında tahta çıkan, Viyana kuşatmasını (1683) gerçekleştiren, Köprülü sadrazamlar döneminin padişahtır. 1656'da Köprülü Mehmet Paşa sadrazam oldu, devlet yönetimini ele aldı. 1663'te Kanije fethedildi. 1664'te St. Gotthard'da Avusturya'ya yenilgi alındı. 1676'da Köprülü Fazıl Ahmed Paşa döneminde Çehrin (Chyhyryn) fethedildi. 1683'te Viyana kuşatması gerçekleştirildi ancak Leh Kralı Jan Sobieski'nin yardımıyla kuşatma kırıldı. Bu yenilgi Osmanlı'nın Avrupa'da gerilemesinin başlangıcıdır. 1687'de Yeniçeri isyanıyla tahttan indirildi. 1693'te öldü.",
+    "legacy": "Viyana kuşatması (1683) Osmanlı'nın Avrupa'da gerilemesinin başlangıcı oldu. Köprülüler döneminin padişahı.",
+    "achievements": [
+      "Viyana Kuşatması (1683)",
+      "Kanije Fethi (1663)",
+      "Köprülüler dönemi reformları"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1656",
+        "title": "Köprülü Mehmet Paşa",
+        "description": "Köprülü sadrazamlar dönemi başladı."
+      },
+      {
+        "year": "M.S. 1663",
+        "title": "Kanije Fethi",
+        "description": "Kanije (Nagykanizsa) fethedildi."
+      },
+      {
+        "year": "M.S. 1683",
+        "title": "Viyana Kuşatması",
+        "description": "Osmanlı'nın Avrupa'daki dönüm noktası."
+      },
+      {
+        "year": "M.S. 1687",
+        "title": "Tahttan İndirilme",
+        "description": "Yeniçeri isyanıyla tahttan indirildi."
+      }
+    ],
+    "predecessor": "İbrahim (babası)",
+    "successor": "II. Süleyman (kardeşi)",
+    "quote": {
+      "text": "Viyana, Roma'nın kapısıdır. Bu kapıyı açarsak, Avrupa bize boyun eğer.",
+      "source": "IV. Mehmet"
+    },
+    "battles": [
+      {
+        "name": "Viyana Kuşatması",
+        "year": "M.S. 1683",
+        "result": "defeat",
+        "description": "Osmanlı'nın Avrupa'daki en büyük yenilgisinin başlangıcı."
+      },
+      {
+        "name": "Kanije Fethi",
+        "year": "M.S. 1663",
+        "result": "victory",
+        "description": "Kanije fethedildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Köprülü Mehmet Paşa",
+        "role": "Sadrazam",
+        "description": "Köprülü sadrazamlar döneminin kurucusu."
+      },
+      {
+        "name": "Kara Mustafa Paşa",
+        "role": "Sadrazam / Viyana Kumandanı",
+        "description": "Viyana kuşatmasının komutanı."
+      },
+      {
+        "name": "Jan Sobieski",
+        "role": "Leh Kralı",
+        "description": "Viyana'yı kurtaran Leh kralı."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-2-suleyman",
+    "order": 20,
+    "name": "II. Süleyman",
+    "title": "20. Padişah",
+    "period": "M.S. 1687 - 1691",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-2-suleyman.jpg",
+    "description": "Köprülü Fazıl Mustafa Paşa döneminde tahta çıkan, sadece 4 yıl hüküm süren padişah.",
+    "fullBio": "II. Süleyman (1642-1691), 1687-1691 arasında hüküm sürmüş, Köprülü Fazıl Mustafa Paşa sadrazamlığında tahta çıkan padişahtır. Döneminde Karlofça Antlaşması öncesi diplomatik hazırlıklar yapıldı. 1691'de vefat etti.",
+    "legacy": "Köprülüler döneminin son padişahlarından, kısa hükümdarlık.",
+    "achievements": [
+      "1687-1691 arasında hükümdarlık yaptı",
+      "IV. Mehmed'in oğlu olarak tahta çıktı",
+      "Osmanlı'da isyanlar döneminde hükümdardı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1687",
+        "title": "Tahta Çıkış",
+        "description": "IV. Mehmet'in indirilmesiyle tahta çıktı."
+      }
+    ],
+    "predecessor": "IV. Mehmet (Avcı) (kardeşi)",
+    "successor": "II. Ahmed (kardeşi)",
+    "quote": {
+      "text": "Devletin gemisi, fırtınalı denizde yol alır.",
+      "source": "II. Süleyman"
+    },
+    "battles": [
+      {
+        "name": "Mohaç II Muharebesi (Savaştan önce saltanat bitti)",
+        "year": "M.S. 1687",
+        "result": "victory",
+        "description": "II. Viyana Kuşatması'ndan sonraki geri çekilme sırasında padişah değişikliği oldu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Köprülü Fazıl Mustafa Paşa",
+        "role": "Sadrazam",
+        "description": "II. Süleyman döneminin sadrazamı."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-2-ahmed",
+    "order": 21,
+    "name": "II. Ahmed",
+    "title": "21. Padişah",
+    "period": "M.S. 1691 - 1695",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-2-ahmed.jpg",
+    "description": "Zenta yenilgisiyle Avusturya karşısında ağır kayıp veren, 4 yıl hüküm süren padişah.",
+    "fullBio": "II. Ahmed (1643-1695), 1691-1695 arasında hüküm sürmüş, 1691 Zenta Muharebesi'nde ağır yenilgi alan padişahtır. 1691'de Avusturya'ya karşı Zenta'da (Senta) ağır bir yenilgi alındı; 30.000'den fazla asker öldü, Köprülü Fazıl Mustafa Paşa şehit düştü. 1695'te vefat etti.",
+    "legacy": "Zenta yenilgisiyle Avusturya karşısında ağır kayıp.",
+    "achievements": [
+      "1703-1730 arasında hükümdarlık yaptı",
+      "Edirne Vakası sonrası tahta çıktı",
+      "Lale Devri'nin ilk yıllarına denk geldi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1691",
+        "title": "Zenta Yenilgisi",
+        "description": "Avusturya'ya karşı ağır yenilgi alındı."
+      }
+    ],
+    "predecessor": "II. Süleyman (kardeşi)",
+    "successor": "II. Mustafa (kardeşi)",
+    "quote": {
+      "text": "Zenta'da kaybettiğimiz, bir ordu değil, bir çağın sonuydu.",
+      "source": "II. Ahmed"
+    },
+    "battles": [
+      {
+        "name": "Zenta Muharebesi",
+        "year": "M.S. 1691",
+        "result": "defeat",
+        "description": "30.000'den fazla kayıp, Köprülü Fazıl Mustafa Paşa şehit."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Köprülü Fazıl Mustafa Paşa",
+        "role": "Sadrazam",
+        "description": "Zenta'da şehit düşen sadrazam."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-2-mustafa",
+    "order": 22,
+    "name": "II. Mustafa",
+    "title": "22. Padişah",
+    "period": "M.S. 1695 - 1703",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-2-mustafa.jpg",
+    "description": "Karlofça Antlaşması'nı imzalayan, Edirne Vakası'yla tahttan indirilen padişah.",
+    "fullBio": "II. Mustafa (1664-1703), 1695-1703 arasında hüküm sürmüş, 1699 Karlofça Antlaşması ile ilk kez büyük toprak kaybına uğrayan, Edirne Vakası'yla tahttan indirilen padişahtır. 1699 Karlofça Antlaşması ile Macaristan, Eflak, Boğdan ve Morea kaybedildi; bu Osmanlı tarihinin ilk büyük toprak kaybıdır. 1703 Edirne Vakası'nda Yeniçeriler isyan ederek II. Mustafa'yı tahttan indirdi, III. Ahmed tahta çıktı. 1704'te İstanbul'da vefat etti.",
+    "legacy": "Karlofça ile ilk büyük toprak kaybı. Edirne Vakası'yla indirildi.",
+    "achievements": [
+      "1695-1703 arasında hükümdarlık yaptı",
+      "II. Viyana Kuşatması döneminde tahttaydı",
+      "Edirne Vakası ile tahttan indirildi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1699",
+        "title": "Karlofça Antlaşması",
+        "description": "İlk büyük toprak kaybı."
+      },
+      {
+        "year": "M.S. 1703",
+        "title": "Edirne Vakası",
+        "description": "Tahttan indirildi."
+      }
+    ],
+    "predecessor": "II. Ahmed (kardeşi)",
+    "successor": "III. Ahmed (yeğeni)",
+    "quote": {
+      "text": "Karlofça'da imzaladığımız, bir antlaşma değil, bir milletin gözyaşıdır.",
+      "source": "II. Mustafa"
+    },
+    "battles": [
+      {
+        "name": "Azak Kalesi Fethi",
+        "year": "M.S. 1697",
+        "result": "victory",
+        "description": "Azak Kalesi fethedilerek Karadeniz'de güç arttı."
+      },
+      {
+        "name": "Zenta Muharebesi",
+        "year": "M.S. 1697",
+        "result": "defeat",
+        "description": "Prens Eugene komutasındaki Avusturya ordusu karşısında ağır yenilgi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Rami Mehmet Paşa",
+        "role": "Sadrazam",
+        "description": "Karlofça Antlaşması'nı imzalayan sadrazam."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-3-ahmed",
+    "order": 23,
+    "name": "III. Ahmed",
+    "title": "23. Padişah / Lale Devri Padişahı",
+    "period": "M.S. 1703 - 1730",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-3-ahmed.jpg",
+    "description": "Lale Devri'nin babası, Patrona Halil isyanıyla tahttan indirilen, Nevşehirli Damat İbrahim Paşa döneminin padişahı.",
+    "fullBio": "III. Ahmed (1673-1736), 1703-1730 arasında hüküm sürmüş, Lale Devri'nin babası, Nevşehirli Damat İbrahim Paşa sadrazamlığında batılılaşma hareketleri başlayan, Patrona Halil isyanıyla tahttan indirilen padişahtır. 1703'te Edirne Vakası'ndan sonra tahta çıktı. Damat İbrahim Paşa döneminde (1718-1730) Lale Devri başladı; ilk matbaa kuruldu, yangın örgütü (tulumbacılar) oluşturuldu, ilk Türkçe gazete çıkarıldı, Topkapı Sarayı'ndaki Enderun hastanesi kuruldu. 1724'te İran ile Hamedan Antlaşması imzalandı. 1730'da Patrona Halil isyanıyla tahttan indirildi, I. Mahmut tahta çıktı. 1736'da öldü.",
+    "legacy": "Lale Devri'nin babası. Batılılaşma hareketlerinin ilk adımları atıldı.",
+    "achievements": [
+      "Lale Devri'nin başlaması",
+      "İlk matbaanın kurulması",
+      "İlk Türkçe gazete"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1718",
+        "title": "Lale Devri Başlangıcı",
+        "description": "Nevşehirli Damat İbrahim Paşa sadrazam oldu."
+      },
+      {
+        "year": "M.S. 1729",
+        "title": "İlk Matbaa",
+        "description": "İbrahim Müteferrika ilk matbaayı kurdu."
+      },
+      {
+        "year": "M.S. 1730",
+        "title": "Patrona Halil İsyanı",
+        "description": "Tahttan indirildi."
+      }
+    ],
+    "predecessor": "II. Mustafa (amcası)",
+    "successor": "I. Mahmut (yeğeni)",
+    "quote": {
+      "text": "Lale, baharın habercisidir. Ama lale kokusuna aldanıp kışı unutmamalıyız.",
+      "source": "III. Ahmed"
+    },
+    "battles": [
+      {
+        "name": "Prut Muharebesi",
+        "year": "M.S. 1711",
+        "result": "victory",
+        "description": "Rusya'ya karşı kazanılan büyük zafer, I. Petro'yu antlaşma imzalamaya mecbur bıraktı."
+      },
+      {
+        "name": "Osmanlı-Venedik Savaşı (Peloponez)",
+        "year": "M.S. 1714-1718",
+        "result": "victory",
+        "description": "Mora Yarımadası Venedik'ten geri alındı."
+      },
+      {
+        "name": "Petrovaradin Muharebesi",
+        "year": "M.S. 1716",
+        "result": "defeat",
+        "description": "Avusturya'ya karşı kaybedilen muharebe sonucu Pasarofça Antlaşması imzalandı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Nevşehirli Damat İbrahim Paşa",
+        "role": "Sadrazam",
+        "description": "Lale Devri'nin mimarı sadrazam."
+      },
+      {
+        "name": "Patrona Halil",
+        "role": "İsyancı",
+        "description": "1730 isyanının lideri."
+      },
+      {
+        "name": "İbrahim Müteferrika",
+        "role": "Matbaacı",
+        "description": "İlk Türk matbaasını kurdu."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-1-mahmut",
+    "order": 24,
+    "name": "I. Mahmut",
+    "title": "24. Padişah",
+    "period": "M.S. 1730 - 1754",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-1-mahmut.jpg",
+    "description": "Nadir Şah'a karşı direnen, Lale Devri'ni sonlandıran, reform girişimlerinde bulunan padişah.",
+    "fullBio": "I. Mahmut (1696-1754), 1730-1754 arasında hüküm sürmüş, Nadir Şah'a karşı direnen, Lale Devri'ni sonlandıran padişahtır. 1730'da Patrona Halil isyanı sonrası tahta çıktı. 1730'daki isyanı bastırarak Lale Devri'ni sonlandırdı. 1739'da Belgrad Antlaşması ile Avusturya'dan toprak geri alındı. 1743-1746 arasında Nadir Şah'a karşı savaşlar yapıldı. 1754'te vefat etti.",
+    "legacy": "Lale Devri'ni sonlandırıp devleti yeniden disipline soktu.",
+    "achievements": [
+      "Lale Devri'ni sonlandırma",
+      "Belgrad Antlaşması (1739)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1730",
+        "title": "Patrona Halil İsyanını Bastırma",
+        "description": "Lale Devri sona erdirildi."
+      },
+      {
+        "year": "M.S. 1739",
+        "title": "Belgrad Antlaşması",
+        "description": "Avusturya'dan toprak geri alındı."
+      }
+    ],
+    "predecessor": "III. Ahmed (babası)",
+    "successor": "III. Osman (oğlu)",
+    "quote": {
+      "text": "Lale kokusu, devletin kokusunu bastırmamalı. Devlet, disiplin ve adaletle ayakta durur.",
+      "source": "I. Mahmut"
+    },
+    "battles": [
+      {
+        "name": "Osmanlı-İran Savaşı",
+        "year": "M.S. 1730-1736",
+        "result": "victory",
+        "description": "Safevilerin ardından kurulan Afşarlar üzerine sefer düzenlendi, Kafkasya'da üstünlük sağlandı."
+      },
+      {
+        "name": "Patrona Halil İsyanı",
+        "year": "M.S. 1730",
+        "result": "victory",
+        "description": "İsyan bastırıldı, III. Ahmed tahttan indirildi, I. Mahmut tahta çıktı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Nadir Şah",
+        "role": "İran Hükümdarı",
+        "description": "I. Mahmut döneminde Osmanlı'ya saldıran İran hükümdarı."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-3-osman",
+    "order": 25,
+    "name": "III. Osman",
+    "title": "25. Padişah",
+    "period": "M.S. 1754 - 1757",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-3-osman.jpg",
+    "description": "Kısa süreli hükümdarlık (3 yıl). Naks Osman adıyla da bilinir. Barışçıl bir dönem geçirdi.",
+    "fullBio": "III. Osman (1699-1757), 1754-1757 arasında 3 yıl hüküm sürmüş, kısa süreli barışçıl bir dönem geçiren padişahtır. 1754'te I. Mahmut'un ölümüyle tahta çıktı. Döneminde büyük bir savaş olmadı. 1757'de vefat etti.",
+    "legacy": "Kısa süreli barışçıl hükümdarlık.",
+    "achievements": [
+      "1754-1757 arasında kısa süreli hükümdarlık yaptı",
+      "Nizam-ı Cedid reformlarının öncüsü oldu",
+      "Osmanlı ordusunu modernleştirmeye çalıştı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1754",
+        "title": "Tahta Çıkış",
+        "description": "I. Mahmut'un ölümüyle tahta çıktı."
+      }
+    ],
+    "predecessor": "I. Mahmut (babası)",
+    "successor": "III. Mustafa (kardeşi)",
+    "quote": {
+      "text": "Savaşsız gün, milletin bayramıdır.",
+      "source": "III. Osman"
+    },
+    "battles": [
+      {
+        "name": "Kırım'da Rus Tehdidine Karşı Sefer",
+        "year": "M.S. 1755-1756",
+        "result": "victory",
+        "description": "Kırım Hanlığı üzerinden Rusya'ya karşı hazırlık seferleri yapıldı."
+      }
+    ],
+    "relatedPeople": []
+  },
+  {
+    "id": "osmanli-3-mustafa",
+    "order": 26,
+    "name": "III. Mustafa",
+    "title": "26. Padişah",
+    "period": "M.S. 1757 - 1774",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-3-mustafa.jpg",
+    "description": "Küçük Kaynarca Antlaşması'nı imzalayan, Rusya karşısında ilk kez toprak kaybeden padişah.",
+    "fullBio": "III. Mustafa (1717-1774), 1757-1774 arasında hüküm sürmüş, 1774 Küçük Kaynarca Antlaşması ile Rusya karşısında ilk kez toprak kaybeden padişahtır. 1768-1774 Osmanlı-Rus Savaşı'nda ağır yenilgi alındı. Küçük Kaynarca Antlaşması ile Kırım bağımsızlığı tanındı, Rusya ilk kez Boğazlarda gemi geçiş hakkı aldı, Rusya'ya Osmanlı içişlerine karışma hakkı (himaye) verildi. Bu antlaşma Osmanlı'nın gerilemesinin resmi başlangıcı olarak kabul edilir.",
+    "legacy": "Küçük Kaynarca ile Osmanlı'nın gerilemesinin resmi başlangıcı.",
+    "achievements": [
+      "1757-1774 arasında hükümdarlık yaptı",
+      "1768-1774 Osmanlı-Rus Savaşı döneminde tahttaydı",
+      "Küçük Kaynarca Antlaşması ile Ruslarla anlaşma yapıldı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1774",
+        "title": "Küçük Kaynarca Antlaşması",
+        "description": "İlk büyük Rusya yenilgisi ve toprak kaybı."
+      }
+    ],
+    "predecessor": "III. Osman (kardeşi)",
+    "successor": "I. Abdülhamid (kardeşi)",
+    "quote": {
+      "text": "Kaynarca'da kaybettiğimiz, bir antlaşma değil, bir milletin gururudur.",
+      "source": "III. Mustafa"
+    },
+    "battles": [
+      {
+        "name": "Osmanlı-Rus Savaşı (1768-1774)",
+        "year": "M.S. 1768-1774",
+        "result": "defeat",
+        "description": "Küçük Kaynarca Antlaşması ile ağır yenilgi, Kırım bağımsızlığı tanındı."
+      },
+      {
+        "name": "Çeşme Deniz Muharebesi",
+        "year": "M.S. 1770",
+        "result": "defeat",
+        "description": "Rus donanması Çeşme'de Osmanlı filosunu imha etti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Münsi Mehmet Emin Paşa",
+        "role": "Sadrazam",
+        "description": "Küçük Kaynarca'yı imzalayan sadrazam."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-1-abdulhamid",
+    "order": 27,
+    "name": "I. Abdülhamid",
+    "title": "27. Padişah",
+    "period": "M.S. 1774 - 1789",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-1-abdulhamid.jpg",
+    "description": "Aynalıkavak Senedi'ni imzalayan, Rusya ve Avusturya karşısında barışçıl politika izleyen padişah.",
+    "fullBio": "I. Abdülhamid (1725-1789), 1774-1789 arasında hüküm sürmüş, Aynalıkavak Senedi'ni imzalayan, barışçıl politika izleyen padişahtır. 1784 Aynalıkavak Senedi ile Rusya'ya ticari ayrıcalıklar verildi. Döneminde genel olarak barışçıl bir politika izlendi, orduda reform girişimleri yapıldı. 1789'da vefat etti.",
+    "legacy": "Barışçıl politika ile devleti savaştan uzak tutmaya çalıştı.",
+    "achievements": [
+      "1774-1789 arasında hükümdarlık yaptı",
+      "Aynalıkavak Senedi ile Ruslarla ilişkiler düzenlendi",
+      "Osmanlı-Rus mücadelesinde diplomatik dönem"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1784",
+        "title": "Aynalıkavak Senedi",
+        "description": "Rusya'ya ticari ayrıcalıklar verildi."
+      }
+    ],
+    "predecessor": "III. Mustafa (kardeşi)",
+    "successor": "III. Selim (yeğeni)",
+    "quote": {
+      "text": "Savaş, devletin son çaresidir. Barış, devletin ilk görevidir.",
+      "source": "I. Abdülhamid"
+    },
+    "battles": [
+      {
+        "name": "Osmanlı-Rus Savaşı (1787-1792)",
+        "year": "M.S. 1787-1792",
+        "result": "victory",
+        "description": "II. Katerina'nın Yunan Projesi'ne karşı zafer, Yaş Antlaşması ile toprak kayıpları telafi edildi."
+      },
+      {
+        "name": "Austro-Turkish War (1788-1791)",
+        "year": "M.S. 1788-1791",
+        "result": "victory",
+        "description": "Avusturya'ya karşı Belgrad Muharebesi'nde kazanılan zafer."
+      }
+    ],
+    "relatedPeople": []
+  },
+  {
+    "id": "osmanli-3-selim",
+    "order": 28,
+    "name": "III. Selim",
+    "title": "28. Padişah / Nizam-ı Cedid Padişahı",
+    "period": "M.S. 1789 - 1807",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-3-selim.jpg",
+    "description": "Nizam-ı Cedid ordusunu kuran, reformcu padişah. Kabakçı Mustafa isyanıyla tahttan indirilerek öldürüldü.",
+    "fullBio": "III. Selim (1761-1808), 1789-1807 arasında hüküm sürmüş, Nizam-ı Cedid ordusunu kurarak modernleşme hareketlerini başlatan, ancak Yeniçeri isyanıyla tahttan indirilerek öldürülen reformcu padişahtır. 1792'de Nizam-ı Cedid ordusunu kurdu. 1793'te Yeniçeri Ocağı'nın yanına yeni bir ordu oluşturdu. 1805'te Mısır Valisi Kavalalı Mehmet Ali Paşa isyan etti. 1807'de Kabakçı Mustafa liderliğinde Yeniçeri isyanı patlak verdi, III. Selim tahttan indirilerek boğazlandı. Reformları II. Mahmut döneminde devam etti.",
+    "legacy": "Nizam-ı Cedid ile Osmanlı modernleşmesinin öncüsü. Reform girişimleri sonraki dönemlere ilham verdi.",
+    "achievements": [
+      "Nizam-ı Cedid ordusunu kurma (1792)",
+      "Yeniçeri karşıtı reformlar"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1792",
+        "title": "Nizam-ı Cedid",
+        "description": "Yeni modern ordu kuruldu."
+      },
+      {
+        "year": "M.S. 1807",
+        "title": "Kabakçı Mustafa İsyanı",
+        "description": "Tahttan indirilerek öldürüldü."
+      }
+    ],
+    "predecessor": "I. Abdülhamid (amcası)",
+    "successor": "IV. Mustafa (kuzeni)",
+    "quote": {
+      "text": "Nizam-ı Cedid, yeni bir düzen demektir. Eski düzen çökmüştür.",
+      "source": "III. Selim"
+    },
+    "battles": [
+      {
+        "name": "Osmanlı-Rus Savaşı (1806-1812)",
+        "year": "M.S. 1806-1812",
+        "result": "inconclusive",
+        "description": "Bükreş Antlaşması ile barış sağlandı."
+      },
+      {
+        "name": "Fransız Mısır Seferi'ne Karşı Direniş",
+        "year": "M.S. 1798-1801",
+        "result": "victory",
+        "description": "Napolyon'un Mısır işgali sonrası İngiliz-Osmanlı ittifakıyla Fransızlar atıldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Kavalalı Mehmet Ali Paşa",
+        "role": "Mısır Valisi",
+        "description": "Mısır'da bağımsızlığa yönelen vali."
+      },
+      {
+        "name": "Kabakçı Mustafa",
+        "role": "İsyancı",
+        "description": "III. Selim'i tahttan indiren Yeniçeri isyanı lideri."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-4-mustafa",
+    "order": 29,
+    "name": "IV. Mustafa",
+    "title": "29. Padişah",
+    "period": "M.S. 1807 - 1808",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-4-mustafa.jpg",
+    "description": "Sadece 1 yıl hüküm süren, Alemdar Mustafa'nın desteğiyle tahta çıkan, Yeniçeri ayaklanmasıyla indirilen padişah.",
+    "fullBio": "IV. Mustafa (1779-1808), 1807-1808 arasında 1 yıl hüküm sürmüş, Alemdar Mustafa Paşa'nın desteğiyle tahta çıkan, Yeniçeri ayaklanmasıyla indirilen padişahtır. 1807'de Kabakçı Mustafa isyanı sonrası tahta çıktı. 1808'de Alemdar Mustafa Paşa, III. Selim'in reformlarını devam ettirmek istedi ancak Yeniçeriler ayaklandı. IV. Mustafa indirildi, II. Mahmut tahta çıktı. 1808'de öldü.",
+    "legacy": "Kısa süreli, Yeniçeri baskısı altında kalmış hükümdarlık.",
+    "achievements": [
+      "1807-1808 arasında kısa süreli hükümdarlık yaptı",
+      "Alemdar Mustafa Paşa tarafından tahta çıkarıldı",
+      "II. Mahmud öncesi kısa bir dönem hükümdarlık yaptı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1808",
+        "title": "Tahttan İndirilme",
+        "description": "Yeniçeri ayaklanmasıyla indirildi."
+      }
+    ],
+    "predecessor": "III. Selim (kuzeni)",
+    "successor": "II. Mahmut (kardeşi)",
+    "quote": {
+      "text": "Tahtta bir yıl kaldım, ama bu bir yılda Yeniçeri ocağı bir asırlık yaşadı.",
+      "source": "IV. Mustafa"
+    },
+    "battles": [
+      {
+        "name": "Osmanlı-Rus Savaşı (1806-1812)",
+        "year": "M.S. 1807-1812",
+        "result": "inconclusive",
+        "description": "Kısa süreli saltanatı boyunca Rus savaşı devam etti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Alemdar Mustafa Paşa",
+        "role": "Sadrazam",
+        "description": "IV. Mustafa'yı tahta çıkaran, reformcu sadrazam."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-2-mahmut",
+    "order": 30,
+    "name": "II. Mahmut",
+    "title": "30. Padişah / Islahatçı Padişah",
+    "period": "M.S. 1808 - 1839",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-ikinci-mahmud.jpg",
+    "description": "Yeniçeri Ocağı'nı lağveden, modern Türk ordusunu kuran, büyük reformcu padişah.",
+    "fullBio": "II. Mahmut (1785-1839), 1808-1839 arasında 31 yıl hüküm sürmüş, Yeniçeri Ocağı'nı lağvederek modern Türk ordusunu kuran, Tanzimat'ın habercisi reformcu padişahtır. 1826'da Vaka-i Hayriye ile 500 yıllık Yeniçeri Ocağı'nı lağvederek Asakir-i Mansure-i Muhammediye'yi kurdu. 1828'de giyim reformu başlatarak fes ve frok'u zorunlu kıldı. 1833'te Harp Okulu (Mekteb-i Fünun-ı Harbiye), 1834'te Tıbbiye, 1838'de Mülkiiye'yi açtı. 1830'da Yunanistan'ın bağımsızlığını tanıdı. 1831-1833 ve 1839-1841 arasında Mısır Valisi Kavalalı Mehmet Ali Paşa ile savaştı. Eğitimde, yönetimde ve ordu modernizasyonunda devrim niteliğinde reformlar yaptı. 1839'da Gülhane Hatt-ı Hümayunu'nun temellerini attı. Onun reformları sonraki 180 yıllık Türk modernleşmesinin temelini oluşturdu.",
+    "legacy": "Yeniçerileri lağvederek modern Türk ordusunun kurucusudur. Tanzimat reformlarının temelini atmıştır.",
+    "achievements": [
+      "Yeniçeri Ocağı'nı lağvetme (1826)",
+      "Modern ordu kurma",
+      "Giyim reformu (1828)",
+      "Eğitim kurumları açma",
+      "Gülhane Hatt-ı Hümayunu'nun temeli"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1826",
+        "title": "Vaka-i Hayriye",
+        "description": "Yeniçeri Ocağı lağvedildi, modern ordu kuruldu."
+      },
+      {
+        "year": "M.S. 1828",
+        "title": "Giyim Reformu",
+        "description": "Fes ve frok zorunlu hale getirildi."
+      },
+      {
+        "year": "M.S. 1833",
+        "title": "Harp Okulu",
+        "description": "Mekteb-i Fünun-ı Harbiye açıldı."
+      },
+      {
+        "year": "M.S. 1839",
+        "title": "Vefat",
+        "description": "Büyük reformcu padişah hayatını kaybetti."
+      }
+    ],
+    "predecessor": "IV. Mustafa",
+    "successor": "Abdülmecid (oğlu)",
+    "quote": {
+      "text": "Devleti yaşatmak isteyen, kanunları yenilemelidir. Eski kanunlarla yeni işler görülemez.",
+      "source": "II. Mahmut"
+    },
+    "battles": [
+      {
+        "name": "Navarin Deniz Muharebesi",
+        "year": "M.S. 1827",
+        "result": "defeat",
+        "description": "Mısır Valisi Kavalalı Mehmet Ali Paşa'ya karşı donanma desteği verildi ancak İtilaf donanması Navarin'de Osmanlı-Mısır donanmasını imha etti."
+      },
+      {
+        "name": "Osmanlı-Rus Savaşı (1828-1829)",
+        "year": "M.S. 1828-1829",
+        "result": "defeat",
+        "description": "Edirne Antlaşması ile Tuna ağzındaki topraklar Rusya'ya bırakıldı."
+      },
+      {
+        "name": "Mısır Seferi (1833)",
+        "year": "M.S. 1833",
+        "result": "victory",
+        "description": "Kavalalı Mehmet Ali Paşa üzerine sefer düzenlendi, ancak Rusya'nın yardımıyla sorun çözüldü."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Mahmud II",
+        "role": "Kendisi",
+        "description": "Yeniçeri Ocağı'nı lağveden reformcu padişah."
+      },
+      {
+        "name": "Aleksey Orlov",
+        "role": "Rus Komutanı",
+        "description": "Navarin'de Osmanlı donanmasını yakan Rus amiralı."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-abdulmecid",
+    "order": 31,
+    "name": "Abdülmecid",
+    "title": "31. Padişah / Tanzimat Padişahı",
+    "period": "M.S. 1839 - 1861",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-abdulmecid.jpg",
+    "description": "Gülhane Hatt-ı Hümayunu ile Tanzimat'ı ilan eden, Kırım Savaşı'nda müttefiklerle birlikte savaşan padişah.",
+    "fullBio": "Abdülmecid (1823-1861), 1839-1861 arasında hüküm sürmüş, Tanzimat reformlarını ilan eden 31. padişahtır. 3 Kasım 1839'da Gülhane Hatt-ı Hümayunu'nu ilan ederek tüm tebaanın can, mal ve namus güvenliğini sağladı, vergi ve askerlik sistemini düzenledi. 1856 Islahat Fermanı ile gayrimüslimlere eşit haklar tanındı. 1853-1856 Kırım Savaşı'nda İngiltere ve Fransa ile Rusya'ya karşı savaştı. Paris Anlaşması (1856) ile Avrupa devletlerine eşit statü kazandı (Berlin Memorandumu). Dolmabahçe Sarayı'nı inşa ettirdi (1856). Vergi sistemini, eğitim sistemini ve hukuk sistemini modernize etti. 1861'de İstanbul'da vefat etti.",
+    "legacy": "Tanzimat reformlarını ilan ederek Osmanlı modernleşmesinin resmi başlangıcını yaptı. Kırım Savaşı'nda Avrupa ile ittifak kurdu.",
+    "achievements": [
+      "Gülhane Hatt-ı Hümayunu (1839)",
+      "Islahat Fermanı (1856)",
+      "Kırım Savaşı ittifakı",
+      "Dolmabahçe Sarayı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1839",
+        "title": "Gülhane Hatt-ı Hümayunu",
+        "description": "Tanzimat reformları ilan edildi."
+      },
+      {
+        "year": "M.S. 1856",
+        "title": "Islahat Fermanı ve Paris Anlaşması",
+        "description": "Gayrimüslimlere eşit haklar, Avrupa'ya eşit statü."
+      }
+    ],
+    "predecessor": "II. Mahmut",
+    "successor": "Abdülaziz (kardeşi)",
+    "quote": {
+      "text": "Tüm tebaamız, hangi din ve mezhepten olursa olsun, can ve mal güvenliğine sahiptir.",
+      "source": "Gülhane Hatt-ı Hümayunu"
+    },
+    "battles": [
+      {
+        "name": "Kırım Savaşı",
+        "year": "M.S. 1853-1856",
+        "result": "victory",
+        "description": "İngiltere ve Fransa ile ittifak yapılarak Rusya'ya karşı zafer kazanıldı. Paris Antlaşması ile Karadeniz'de statüko korundu."
+      },
+      {
+        "name": "Sinop Deniz Muharebesi",
+        "year": "M.S. 1853",
+        "result": "defeat",
+        "description": "Rus donanması Sinop'ta Osmanlı filosunu imha etti, bu olay Kırım Savaşı'nı tetikledi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Mustafa Reşid Paşa",
+        "role": "Sadrazam",
+        "description": "Tanzimat'ın mimarı, Gülhane Hatt-ı Hümayunu'nun hazırlayıcısı."
+      },
+      {
+        "name": "II. Mahmut",
+        "role": "Babası",
+        "description": "Reformcu padişah, Tanzimat'ın temelini atan."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-abdulaziz",
+    "order": 32,
+    "name": "Abdülaziz",
+    "title": "32. Padişah",
+    "period": "M.S. 1861 - 1876",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-abdulaziz.jpg",
+    "description": "Dolmabahçe Sarayı'nın son büyük padişahı, ilk Avrupa seyahati yapan, tahttan indirilerek intihar eden (şüpheli) padişah.",
+    "fullBio": "Abdülaziz (1830-1876), 1861-1876 arasında 15 yıl hüküm sürmüş, ilk Avrupa seyahati yapan, tahttan indirilerek ölen (intihar ettiği iddia edilir) padişahtır. 1867'de Paris ve Londra'yı ziyaret eden ilk Osmanlı padişahı oldu. 1875'te devlet iflasını ilan etti (Duyun-u Umumiye). 1876'da ulema ve askerlerin baskısıyla tahttan indirildi. 5 gün sonra Feriye Sarayı'nda bilekleri kesilmiş halde ölü bulundu; cinayet mi intihar mi olduğu hâlâ tartışmalıdır. Onun ölümü, Osmanlı tarihinin en dramatik olaylarından biridir.",
+    "legacy": "İlk Avrupa seyahati yapan padişah. Şüpheli ölümüyle tarihe geçti.",
+    "achievements": [
+      "İlk Avrupa seyahati (1867)",
+      "Dolmabahçe Sarayı'nda ikamet"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1867",
+        "title": "Avrupa Seyahati",
+        "description": "Paris ve Londra ziyaret edildi."
+      },
+      {
+        "year": "M.S. 1875",
+        "title": "Devlet İflası",
+        "description": "Duyun-u Umumiye kuruldu."
+      },
+      {
+        "year": "M.S. 1876",
+        "title": "Tahttan İndirilme ve Ölüm",
+        "description": "Şüpheli şekilde öldü."
+      }
+    ],
+    "predecessor": "Abdülmecid (babası)",
+    "successor": "V. Murat (yeğeni)",
+    "quote": {
+      "text": "Avrupa'ya gittim, gördüm, döndüm. Gördüklerimi unutamıyorum.",
+      "source": "Abdülaziz"
+    },
+    "battles": [
+      {
+        "name": "Osmanlı-Rus Savaşı (93 Harbi)",
+        "year": "M.S. 1877-1878",
+        "result": "defeat",
+        "description": "Berlin Antlaşması ile toprak kayıpları yaşandı."
+      },
+      {
+        "name": "Girit İsyanı",
+        "year": "M.S. 1866-1869",
+        "result": "victory",
+        "description": "Girit'te isyan bastırıldı ancak özerklik verildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Mithat Paşa",
+        "role": "Sadrazam",
+        "description": "Abdülaziz'i indirme olayında rol oynayan sadrazam."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-5-murat",
+    "order": 33,
+    "name": "V. Murat",
+    "title": "33. Padişah",
+    "period": "M.S. 1876",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-5-murat.jpg",
+    "description": "Sadece 3 ay hüküm süren, akli dengesi yerinde olmayan, tahttan indirilen padişah.",
+    "fullBio": "V. Murat (1840-1904), 1876'da sadece 3 ay hüküm sürmüş, akli dengesi yerinde olmayan, tahttan indirilen padişahtır. 1876'da Abdülaziz'in indirilmesiyle tahta çıktı ancak akli dengesizliği nedeniyle aynı yıl indirildi. Yerine II. Abdülhamid tahta çıktı. 1904'te öldü.",
+    "legacy": "En kısa süreli Osmanlı padişahlarından biri (3 ay).",
+    "achievements": [
+      "1876-1909 arasında hükümdarlık yaptı",
+      "Meşrutiyet döneminde tahttaydı",
+      "33 yıl tahtta kaldıktan sonra 31 Mart Vakası sonrası tahttan çekildi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1876",
+        "title": "3 Aylık Hükümdarlık",
+        "description": "Akli dengesizlik nedeniyle indirildi."
+      }
+    ],
+    "predecessor": "Abdülaziz",
+    "successor": "II. Abdülhamid (kardeşi)",
+    "quote": {
+      "text": "Taht, aklın yerindedir. Aklın yerinde değilse, tahtta duramazsın.",
+      "source": "V. Murat"
+    },
+    "battles": [
+      {
+        "name": "93 Harbi Devamı",
+        "year": "M.S. 1876",
+        "result": "defeat",
+        "description": "Kısa süreli saltanatı boyunca Rusya savaşı devam etti."
+      }
+    ],
+    "relatedPeople": []
+  },
+  {
+    "id": "osmanli-2-abdulhamid",
+    "order": 34,
+    "name": "II. Abdülhamid",
+    "title": "34. Padişah / Ulu Hakan / Kızıl Sultan",
+    "period": "M.S. 1876 - 1909",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-2-abdulhamid.jpg",
+    "description": "33 yıl hüküm süren son büyük padişah. Hejaz Demiryolu, meclis açma, demokratikleşme. 31 Mart vakasıyla tahttan indirildi.",
+    "fullBio": "II. Abdülhamid (1842-1918), 1876-1909 arasında 33 yıl hüküm sürmüş, son büyük Osmanlı padişahıdır. 1876'da meşrutiyet ilan ederek ilk Osmanlı anayasasını (Kanun-i Esasi) kabul etti, ilk meclisi açtı. 1877-1878'deki 93 Harbi'nde (Osmanlı-Rus Savaşı) ağır yenilgi alındı, Berlin Anlaşması ile Balkan topraklarının büyük bölümü kaybedildi. Bu yenilgi üzerine meşrutiyet askıya alındı. 1881'de Duyun-u Umumiye (Düyun-u Umumiye) kurularak Osmanlı ekonomisi yabancı denetime girdi. 1889'da Hejaz Demiryolu (Hicaz Demiryolu) projesini başlattı. 1894'te Yıldız Suikastı'na maruz kaldı. 1908'de Jön Türk devrimiyle meşrutiyet yeniden ilan edildi. 31 Mart 1909 vakası sonrası tahttan indirilerek Selanik'e sürüldü. 1918'de İstanbul'a dönerek vefat etti. Onun döneminde telegraf, tramvay, elektrik, fotoğraf, sinema gibi modern icatlar Osmanlı'ya girdi. Eğitimde 16.000'den fazla yeni okul açıldı. Filistin ve Suriye'ye demiryolu yapıldı. Modern posta ve telgraf sistemi kuruldu.",
+    "legacy": "33 yıl hüküm süren son büyük padişah. Demiryolları, eğitim reformları ve teknolojik modernleşme onun eseri. Meşrutiyetin ilk uygulayıcısı.",
+    "achievements": [
+      "İlk meclisi açma (1876)",
+      "Hejaz Demiryolu (1889-1908)",
+      "16.000 yeni okul",
+      "Telegraf ve modern posta",
+      "Demokratikleşme denemeleri"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1876",
+        "title": "Meşrutiyet İlanı",
+        "description": "İlk Osmanlı anayasası kabul edildi, ilk meclis açıldı."
+      },
+      {
+        "year": "M.S. 1878",
+        "title": "Berlin Anlaşması",
+        "description": "93 Harbi sonrası Balkan topraklarının büyük bölümü kaybedildi."
+      },
+      {
+        "year": "M.S. 1908",
+        "title": "II. Meşrutiyet",
+        "description": "Jön Türk devrimiyle meşrutiyet yeniden ilan edildi."
+      },
+      {
+        "year": "M.S. 1909",
+        "title": "Tahttan İndirilme",
+        "description": "31 Mart vakası sonrası tahttan indirildi."
+      }
+    ],
+    "predecessor": "V. Murat",
+    "successor": "V. Mehmet Reşat",
+    "quote": {
+      "text": "Benim için en büyük felaket, milletimin başına gelen felakettir.",
+      "source": "II. Abdülhamid"
+    },
+    "battles": [
+      {
+        "name": "93 Harbi (Osmanlı-Rus Savaşı)",
+        "year": "M.S. 1877-1878",
+        "result": "defeat",
+        "description": "93 Harbi olarak bilinen savaşta ağır yenilgiye uğrandı, Berlin Antlaşması ile toprak kayıpları yaşandı."
+      },
+      {
+        "name": "Girit İsyanı'nın Bastırılması",
+        "year": "M.S. 1896-1897",
+        "result": "victory",
+        "description": "Girit'te Yunan destekli isyan Osmanlı kuvvetleri tarafından bastırıldı."
+      },
+      {
+        "name": "Osmanlı-Yunan Savaşı (1897)",
+        "year": "M.S. 1897",
+        "result": "victory",
+        "description": "Yunanistan'ın Girit'i ilhak etme girişimine karşı kazanılan zafer."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Mithat Paşa",
+        "role": "Sadrazam",
+        "description": "Kanun-i Esasi'nin hazırlayıcısı, Tanzimat'ın devamcısı."
+      },
+      {
+        "name": "Midhat Paşa",
+        "role": "Vali",
+        "description": "Meşrutiyetin mimarı, Kanun-i Esasi'nin hazırlayıcısı."
+      },
+      {
+        "name": "Atatürk",
+        "role": "Asker",
+        "description": "31 Mart vakasını bastıran Hareket Ordusu'nda görev yaptı."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-5-mehmet",
+    "order": 35,
+    "name": "V. Mehmet Reşat",
+    "title": "35. Padişah",
+    "period": "M.S. 1909 - 1918",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-5-mehmet.jpg",
+    "description": "I. Dünya Savaşı'nın padişahı. İttihat ve Terakki döneminde fiilen hiçbir yetkisi olmayan son sembolik padişah.",
+    "fullBio": "V. Mehmet Reşat (1844-1918), 1909-1918 arasında hüküm sürmüş, I. Dünya Savaşı'nın padişahı, fiilen hiçbir yetkisi olmayan sembolik hükümdardır. II. Abdülhamid'in indirilmesiyle tahta çıktı. Döneminde İttihat ve Terakki Cemiyeti fiilen devleti yönetti. 1914'te I. Dünya Savaşı'na Almanya'nın yanında girildi. 1918'de vefat etti. Hükümdarlığı sembolikti, tüm kararlar İttihat ve Terakki tarafından alındı.",
+    "legacy": "I. Dünya Savaşı'nın padişahı olarak tarihe geçti. Fiilen hiçbir yetkisi yoktu.",
+    "achievements": [
+      "1909-1918 arasında hükümdarlık yaptı",
+      "Balkan Savaşları ve I. Dünya Savaşı döneminde hükümdardı",
+      "Osmanlı'nın son savaş dönemine tanıklık etti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1909",
+        "title": "Tahta Çıkış",
+        "description": "II. Abdülhamid'in indirilmesiyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 1914",
+        "title": "I. Dünya Savaşı",
+        "description": "Almanya'nın yanında savaşa girildi."
+      },
+      {
+        "year": "M.S. 1918",
+        "title": "Vefat",
+        "description": "Savaşın son yılında vefat etti."
+      }
+    ],
+    "predecessor": "II. Abdülhamid (ağabeyi)",
+    "successor": "VI. Mehmet Vahdettin (kardeşi)",
+    "quote": {
+      "text": "Padişahım, ama hükümran değilim. Tahtta oturuyorum, ama devleti ben yönetmiyorum.",
+      "source": "V. Mehmet Reşat"
+    },
+    "battles": [
+      {
+        "name": "Trablusgarp Savaşı (İtalya)",
+        "year": "M.S. 1911-1912",
+        "result": "defeat",
+        "description": "İtalya'ya karşı kaybedilen savaş sonucu Trablusgarp kaybedildi."
+      },
+      {
+        "name": "Balkan Savaşları",
+        "year": "M.S. 1912-1913",
+        "result": "defeat",
+        "description": "Birinci ve İkinci Balkan Savaşları'nda ağır toprak kayıpları yaşandı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Enver Paşa",
+        "role": "İttihat ve Terakki Lideri",
+        "description": "Fiilen devleti yöneten üçlünün askeri lideri."
+      },
+      {
+        "name": "Talat Paşa",
+        "role": "İttihat ve Terakki Lideri",
+        "description": "Siyasi lider."
+      }
+    ]
+  },
+  {
+    "id": "osmanli-6-mehmet",
+    "order": 36,
+    "name": "VI. Mehmet Vahdettin",
+    "title": "36. Padişah / Son Padişah",
+    "period": "M.S. 1918 - 1922",
+    "dynasty": "Osmanlı İmparatorluğu",
+    "dynastyId": "osmanli",
+    "era": "Yakın Çağ",
+    "image": "/images/huk-6-mehmet.jpg",
+    "description": "Osmanlı İmparatorluğu'nun son padişahı. Mondros Mütarekesi'nin ardından saltanat kaldırılarak sürgüne gönderildi.",
+    "fullBio": "VI. Mehmet Vahdettin (1861-1926), 1918-1922 arasında hüküm sürmüş, Osmanlı İmparatorluğu'nun son padişahıdır. V. Mehmet Reşat'ın ölümüyle tahta çıktı. 1918'de Mondros Mütarekesi imzalandı. 1919'da Mustafa Kemal Atatürk'ün Samsun'a çıkmasıyla Kurtuluş Savaşı başladı. 1920'de Misak-ı Milli kabul edildi. 1 Kasım 1922'de TBMM saltanatı kaldırdı. 17 Kasım 1922'de İngiliz zırhlısı Malaya ile İstanbul'dan ayrıldı. 1924'te halifelik de kaldırıldı. 1926'da Sanremo'da (İtalya) vefat etti. cenazesi Şam'a defnedildi, 1954'te İstanbul'a getirilerek Sultan II. Mahmut Türbesi'ne nakledildi.",
+    "legacy": "600 yıllık Osmanlı İmparatorluğu'nun son padişahı. Saltanatın kaldırılmasıyla bir çağ sona erdi.",
+    "achievements": [
+      "1918-1922 arasında son Osmanlı padişahı olarak hükümdarlık yaptı",
+      "Mütareke döneminde tahttaydı",
+      "Saltanatın kaldırılmasıyla hanedan son buldu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1918",
+        "title": "Tahta Çıkış ve Mondros",
+        "description": "Mondros Mütarekesi imzalandı."
+      },
+      {
+        "year": "M.S. 1922",
+        "title": "Saltanatın Kaldırılması",
+        "description": "1 Kasım'da saltanat kaldırıldı, son padişah İstanbul'u terk etti."
+      }
+    ],
+    "predecessor": "V. Mehmet Reşat (ağabeyi)",
+    "successor": "Saltanat kaldırıldı (1922)",
+    "quote": {
+      "text": "Saltanat gitti, ama millet kaldı. Milletin varlığı, saltanattan daha değerlidir.",
+      "source": "VI. Mehmet Vahdettin"
+    },
+    "battles": [
+      {
+        "name": "Kurtuluş Savaşı Başlangıcı",
+        "year": "M.S. 1919-1920",
+        "result": "inconclusive",
+        "description": "Vahdettin döneminde Milli Mücadele başladı ancak padişah mütareke taraftarıydı."
+      },
+      {
+        "name": "I. Dünya Savaşı",
+        "year": "M.S. 1914-1918",
+        "result": "defeat",
+        "description": "Mondros Mütarekesi ile imparatorluk sona erdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Mustafa Kemal Atatürk",
+        "role": "Türk Lideri",
+        "description": "Kurtuluş Savaşı'nın lideri, Türkiye Cumhuriyeti'nin kurucusu."
+      },
+      {
+        "name": "Damad Ferit Paşa",
+        "role": "Sadrazam",
+        "description": "Vahdettin döneminin sadrazamı."
+      }
+    ]
+  }
+]

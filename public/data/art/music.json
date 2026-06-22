@@ -1,0 +1,1335 @@
+{
+  "category": "Müzik & Ezgiler & Marşlar",
+  "title": "Türk Müzik, Ezgi ve Marş Tarihi",
+  "subtitle": "İlk Çağ'dan Günümüze 2600 Yıllık Sesli Miras",
+  "description": "Türk müziği, M.Ö. 600 yıllarında kopuzun telleri arasından doğan bozkır ezgileriyle başlar, Mevlevi ayinlerinin manevi derinliği, Mehterin gümbürdeyen davulları ve İstiklal Marşı'nın yürek titreten notalarıyla devam eder.",
+  "relatedPages": [
+    {
+      "page": "Destanlar",
+      "url": "/destanlar",
+      "note": "Kopuz eşliğinde söylenen Dede Korkut, Oğuzname ve Manas gibi destanlar hakkında detaylı bilgi için Destanlar sayfasına bakınız."
+    }
+  ],
+  "periods": [
+    {
+      "id": "bozkir-muzigi",
+      "era": "İlk Çağ",
+      "period": "M.Ö. 600 - M.S. 552",
+      "title": "Bozkır Müziği: Kopuzun Doğuşu",
+      "description": "Türk müziğinin kökenleri, konargöçer bozkır hayatında şekillenmiştir. Kopuz, Türklerin milli çalgısı olarak destanların, aşk türkülerinin ve şaman ayinlerinin vazgeçilmez aracıdır.",
+      "sections": [
+        {
+          "heading": "Kopuz: Türklerin Milli Çalgısı",
+          "content": "Bilinen en eski Türk telli çalgısı kopuzdur. Kökeni ilkçağ Hunlarına dayanır. Hunlarda destanlar, kahramanlık menkıbeleri, aşk türküleri saz şairleri (Baksi-Ozanlar) tarafından kopuz eşliğinde söylenirdi. Kutsal bir çalgı gözüyle bakılan kopuzun yere konması günah sayılırdı, alın öpülerek çalınırdı. Türkler arasında Dede Korkut'un kopuzu ilk yapan şaman olduğu inancı yaygındır. Çin kaynakları 28 çeşitli Hun halk türküsünden söz etmektedir. Hun hükümdarları müziğe çok önem vermiş, saraylarında müzik toplulukları bulundurmuşlardır. Pazırık kurganında bulunan telli saz parçalarının kopuz parçaları olduğu tahmin edilmektedir.",
+          "characteristics": [
+            "Kopuzun kutsal bir çalgı olarak görülmesi",
+            "Baksi-Ozan'ların destanları kopuz eşliğinde söylemesi",
+            "Şaman ayinlerinde kopuz ve davul kullanımı",
+            "Av, savaş ve düğün gibi olaylarda müzik icrası"
+          ],
+          "keyWorks": [
+            {
+              "name": "Kopuz (Nuhen Had Mağarası)",
+              "year": "M.S. 5-6. yüzyıl",
+              "location": "Altay Dağları, Moğolistan",
+              "description": "2008'de bulunan kopuz, sapında runik Türk yazısı ile 'Hoş bir ezginin sesleri insanı mest eder' yazmaktadır. Günümüze ulaşan en eski Türk çalgısıdır."
+            }
+          ]
+        },
+        {
+          "heading": "Tuğ Takımı: Askeri Müziğin Başlangıcı",
+          "content": "M.Ö. IV. yüzyıllarda Hunlarda milli marş vardı. Hunlar zamanındaki tuğ takımı, Mehterin temelidir. Hunlar savaş tekniği olarak müziği kullanmıştır. Vurmalı sazlar ve nefesli sazlardan oluşan bir orkestraydı tuğ takımı. Kaşgarlı Mahmud, Divan-ü Lügat'it Türk'te hakanların huzurunda müzik yapıldığını anlatmıştır. Küvrük (kös), tomruk (davul), çenk (zil) ve nay-i Türki adındaki sazlardan oluşan 'Tuğ'lar, savaşlarda ve özel günlerde müzik yapılmıştır.",
+          "instruments": [
+            {
+              "name": "Kopuz",
+              "origin": "Hun dönemi",
+              "description": "Türklerin bilinen en eski telli çalgısı. Üç teli, dut veya huş ağacından yapılmıştır. Destan söyleme geleneğinin vazgeçilmez çalgısıdır.",
+              "materials": "Dut, huş ağacı; koyun bağırsaklarından tel"
+            },
+            {
+              "name": "Kös (Kubruk)",
+              "origin": "Hun dönemi",
+              "description": "Büyük çanak davul. Askeri müzikte kullanılan temel vurmalı çalgıdır. Törenlerde ve savaş meydanında icra edilirdi.",
+              "materials": "Çam kasnak, dana veya koyun derisi"
+            },
+            {
+              "name": "Tomruk (Davul)",
+              "origin": "Hun dönemi",
+              "description": "Silindir şeklinde vurmalı çalgı. Hun ordusunun yürüyüş ve savaş ritmini belirleyen enstrümandır.",
+              "materials": "Ahşap kasnak, deri; ahşap tokmak"
+            },
+            {
+              "name": "Çenk (Zil)",
+              "origin": "Hun dönemi",
+              "description": "Metalik vurmalı çalgı. Ritmik vurgular yapmak için kullanılırdı. Avrupa'ya Türkler aracılığıyla yayılmıştır.",
+              "materials": "Pirinç veya bronz"
+            },
+            {
+              "name": "Nay-ı Türkî",
+              "origin": "Hun dönemi",
+              "description": "Türk neyi. Kamıştan yapılan uçtan üflemeli çalgı. Savaş ve törenlerde kullanılırdı.",
+              "materials": "Kızıl bambu kamışı"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Orta Asya'da Türk-Çin Kültürel Etkileşim Sürecinde Çalgılar ve Pipa",
+          "author": "Funda Esin, Sakarya Üniversitesi",
+          "url": "https://belleten.gov.tr/tam-metin/3783/tur"
+        },
+        {
+          "title": "Türk Halklarının Folklorunda Müzik Aletleri",
+          "author": "Yesevi Üniversitesi Bilig Dergisi",
+          "url": "https://bilig.yesevi.edu.tr/yonetim/icerik/makaleler/1173-published.pdf"
+        }
+      ]
+    },
+    {
+      "id": "gokturk-uygur-muzigi",
+      "era": "Orta Çağ",
+      "period": "M.S. 552 - 999",
+      "title": "Göktürk, Uygur ve Karahanlı Müziği",
+      "description": "Göktürklerden Karahanlılara uzanan dönem, Türk müziğinin İslamiyet öncesi ve sonrası dönüşümünü kapsar. Kopuzun destanları söyleyen çalgı olmaktan çıkıp, yeni dini ve kültürel formlarla zenginleştiği bir süreçtir.",
+      "sections": [
+        {
+          "heading": "Göktürklerde Kopuz ve Savaş Müziği",
+          "content": "Göktürklerde müzik anlayışı, Hun müzik kültürünün devamı niteliğindedir. Kopuz, bu dönemde 'Kahramanlık-Destan Müziği' çalgısı olma özelliğini sürdürmüştür. Ozanlar, yaylı (iklik) ya da telli kopuz kullanarak 'kök' adı verilen besteler yapmışlardır. Kubuz (kopuz) çalma fiili Kaşgarlı Mahmud'un Divanü Lugati't-Türk'ünde (1073) kayıtlıdır: 'Kubuz çalmak: kopuz çalmak.' Göktürk yazıtlarında müzikle ilgili imgeler yer alır. Tonyukuk Yazıtı'nda zaferlerin kutlandığı törenlerde müzik icra edildiği belirtilir. Bilge Kağan Yazıtı'nda 'kutlu günlerde eğlenir, şarkılar söyleriz' ifadesi, müziğin devlet merasimlerindeki yerini gösterir."
+        },
+        {
+          "heading": "Uygur Kağanlığı'nda Saray ve Dini Müzik",
+          "content": "Uygur Türklerine ait metinlerde kopuz hakkında ilk bilgiler bulunur. Uygur hükümdarlarından Bökü Kağan'ın (759-780) gayet güzel kopuz çaldığından bahsedilir. Uygurların kadın ve erkeklerin bir araya toplanarak musıkî aletleri çalıp şarkı söyledikleri Çin kaynaklarında belirtilir. Uygurların Budist ve Maniheist metinleri resimlendirdiği Koço (Turfan) fresklerinde geyik figürlü sahneler ve müzik aleti çalan figürler görülür. Uygur müziği, Karahanlı döneminde İslami formlarla sentezlenerek yeni bir evreye girmiştir. Uygurların Maniheist ayinlerinde kullandıkları ilahi formları, sonraki tekke musikisinin gelişimine zemin hazırlamıştır."
+        },
+        {
+          "heading": "Karahanlılar: İslamiyet Sonrası Türk Müziği (840-1212)",
+          "content": "Karahanlılar dönemi, Türk müzik tarihinde bir dönüm noktasıdır. İslamiyet'in kabulüyle birlikte Arap ve İran musıki gelenekleriyle temas başlamıştır. Kaşgarlı Mahmud'un Divanü Lugati't-Türk'ü (1073), bu dönemin müzik terimlerini içeren en önemli kaynaktır. 'Kubuz', 'saz', 'tögerek' (töre), 'yigäch' (yaylı çalgı), 'boru' (trompet) gibi çok sayıda müzik terimi bu eserde tanımlanmıştır. Yusuf Has Hacib'in Kutadgu Bilig'i (1069) ise müzik ve ahlak arasındaki ilişkiyi ele alır. 'Sazıyla sözüyle bilge kişi' ideali, Türk müzik geleneğinin temel felsefesini oluşturur. Karahanlı saraylarında Arap ve İran müzisyenlerinin yanı sıra Türk saz şairleri de görev almıştır. Bu dönemde makam (perde) sistemine ilk adımlar atılmış, Arap 'ekberî' ve 'evsatî' perde sistemleri Türk müzisyenler tarafından benimsenmiştir.",
+          "keyArtists": [
+            {
+              "name": "Kaşgarlı Mahmud",
+              "period": "11. yüzyıl",
+              "note": "Divanü Lugati't-Türk'ün yazarı, kopuz ve diğer müzik terimlerini tanımlamıştır"
+            },
+            {
+              "name": "Yusuf Has Hacib",
+              "period": "11. yüzyıl",
+              "note": "Kutadgu Bilig'in yazarı, müzik ve ahlak ilişkisini işlemiştir"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Orta Asya'da Türk-Çin Kültürel Etkileşim: Çalgılar ve Pipa",
+          "author": "Funda Esin, Sakarya Üniversitesi",
+          "url": "https://belleten.gov.tr/tam-metin/3783/tur"
+        },
+        {
+          "title": "Türk Halklarının Folklorunda Müzik Aletleri",
+          "author": "Yesevi Üniversitesi Bilig Dergisi",
+          "url": "https://bilig.yesevi.edu.tr/yonetim/icerik/makaleler/1173-published.pdf"
+        }
+      ]
+    },
+    {
+      "id": "selcuklu-muzigi",
+      "era": "Orta Çağ",
+      "period": "M.S. 1037 - 1300",
+      "title": "Büyük Selçuklu ve Anadolu Selçuklu Müziği",
+      "description": "Selçuklu dönemi, Türk müzik tarihinin en verimli dönemlerinden biridir. Medreselerdeki musiki eğitimi, Mevlevi tekke musikisinin doğuşu ve halk müziğinin saray etrafında gelişmesi bu dönemin özellikleridir.",
+      "sections": [
+        {
+          "heading": "Büyük Selçuklular'da Medrese Müziği",
+          "content": "Büyük Selçuklu İmparatorluğu döneminde (1037-1157), müzik medreselerde bir bilim dalı olarak öğretilmiştir. Özellikle İslam dünyasının en önemli bilim merkezlerinden Bağdat ve Buhara'da musiki nazariyatı (edvar) yazılmıştır. Ebû'l-Fârâc Zerkeşî, İbn Sînâ, Safiyüddin Urmevi gibi bilginler bu dönemde yetişmiştir. Safiyüddin Urmevi (1216-1294), 'Kitâbü'l-Edvâr' adlı eseriyle Türk müziğinin ses sistemini bilimsel temele oturtan ilk kişidir. Makam sisteminin perde aralıklarını matematiksel olarak hesaplamış, 'Ebced Notası'nı geliştirmiştir. Urmevi aynı zamanda santur, kanun ve lâvta gibi çalgıları icat ettiği söylenir. Eserleri Doğu ve Batı müzikologlarınca derinlemesine incelenmiş, Türk Mûsikîsi'nin başlıca kaynağı olmuştur."
+        },
+        {
+          "heading": "Anadolu Selçukluları'nda Musiki",
+          "content": "Anadolu Selçukluları döneminde (1077-1308) müzik, hem sarayda hem de halk arasında yaygın bir sanat haline gelmiştir. Ahmed Eflaki'nin verdiği bilgilere göre, bu dönemde müzik sadece devlet adamlarının saraylarda düzenlediği bezmlerde değil, halkın içinde de revâç bulmuştu. Mevlevi ayinlerinde vazgeçilmez bir unsur olan kavvallar, cenaze önünde mersiyeler söylerken, hamamlarda yapılan eğlencelerde de şarkılar söyleyerek halkı eğlendirirlerdi. Bu durum, musikinin Selçuklu dönemi Anadolu'sunda ne kadar etkili olduğunu gösterir. Ancak dönemin bazı fakihleri musikiyi engelleme çabası içinde olmuşlardır. Safiyüddin Hindi, medresede ders verdiği sırada çalan bir rebap sesine tepki göstererek öğrencilerine 'Bu rebap gittikçe çoğaldı. Bu bid'at, sünneti de geçti. Bunu yasaklamak için bir çare bulmak lazımdır' demiştir. Musikinin yasaklanmasının önündeki en önemli engellerden biri ise Hz. Mevlâna Celâleddin-i Rûmî olmuştur."
+        },
+        {
+          "heading": "Hz. Mevlâna ve Mevlevi Müziğinin Doğuşu (1207-1273)",
+          "content": "Hz. Mevlâna Celâleddin-i Rûmî (1207-1273), Anadolu Selçuklu müzik geleneğinin en önemli ismidir. Ona göre musiki, sema içinde düşünülmelidir. Musiki, öncelikli olarak melodik bir eseri söylemeyi, dinlemeyi veya icrasını akla getirse de; sema kavramı, kâinattaki tüm melodik ve ritmik sesleri dinlemek ve ondan lezzet alıp neşveye gelme anlamında daha kapsamlı bir kullanım alanına sahiptir. Hz. Mevlâna'nın oğlu Sultan Veled, babasının düşüncelerine dayanan bir tarikat konumuna getirmiş ve sema ayinini sistemleştirmiştir. Mevlevi müziği, büyük ölçüde tek seslilik esasına dayanır. Na't, taksim, ayin, peşrev, yürüksemai ve niyaz ilahisi kısımlarından oluşur. En fazla devr-i revan, devr-i kebir, evfer, aksak semai ve düyek usulleri tercih edilir. Hz. Mevlâna'nın sesi olan ney, kudüm, kemençe, kanun, ud, tanbur, def, rebap, halile ve bendir gibi çalgılar kullanılır. Bu çalgıları icra eden sazendeler ile eserleri seslendiren hanendelerden oluşan musiki topluluğuna 'mutrib heyeti' denir."
+        },
+        {
+          "heading": "Selçuklu Müzik Eğitimi ve Çalgıları",
+          "content": "Anadolu Selçuklu kültürünü ve musikisini yüzyıllar sonrasına taşıyan Mevlevihaneler, Selçuklu çalgılarını da muhafaza etmişlerdir. Neyden kudüme, tanburdan rebaba uzanan çalgılar, Selçuklu Mevlevi müziğini tüm Mevlevihanelere taşımıştır. Musiki ile ilgili meslekler (guyende, kavval, muganni) bu dönemde kaynaklarda yer alır. Erdoğan Merçil'in çalışmalarına göre, bu sanatçılar halk nazarında aranan bir eğlence unsuru olmuşlardır. II. Murad'ın (1421-1451) sarayında saz şairleri bulunduğu, Ali Ufkî'nin notaya aldığı repertuarda Anadolu halk müziğinin temel makamı olan Hüseyni makamının en büyük ağırlığı meydana getirmesi, Selçuklu müzik geleneğinin Osmanlı'ya nasıl aktarıldığını gösterir.",
+          "characteristics": [
+            "Medreselerde musiki nazariyatı (edvar) öğretimi",
+            "Saray bezmlerinde ve halk arasında musiki icrası",
+            "Mevlevi ayinlerinin sistemleştirilmesi",
+            "Saz şairleri (âşık) geleneğinin devamı",
+            "Tekke ve saray müziği arasında etkileşim"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Selçuklu Türkiye'sinde Eğlence Türü Olarak Bezm ve Musiki",
+          "url": "http://www.ajindex.com/dosyalar/makale/acarindex-1423872926.pdf"
+        },
+        {
+          "title": "Urmevî ve Merâgî - Mutriban.com",
+          "url": "https://www.mutriban.com/urmevi-ve-meragi/"
+        },
+        {
+          "title": "Maraş Mevlevîhanesi ve Mevlevî Müziği",
+          "author": "Doç. Dr. Feyzan Göher Vural",
+          "url": "https://mevlanaturbesi.semazen.net/maras-mevlevihanesi-ve-mevlevi-muzigi/"
+        }
+      ]
+    },
+    {
+      "id": "ilhanli-timur-osmanli-erken",
+      "era": "Orta Çağ - Yeni Çağ",
+      "period": "M.S. 1250 - 1500",
+      "title": "İlhanlı, Timur ve Erken Osmanlı Müziği",
+      "description": "İlhanlı ve Timur dönemleri, Türk müzik nazariyatının zirveye ulaştığı bir dönemdir. Abdülkâdir Merâgî ve çağdaşları, klasik Türk musikisinin temellerini atan isimlerdir. Osmanlı Beyliği ise bu zengin mirası devralarak kendi müzik geleneğini oluşturmuştur.",
+      "sections": [
+        {
+          "heading": "İlhanlılar ve Safiyüddin Urmevi (1256-1335)",
+          "content": "İlhanlı hükümdarı Olcaytu (1304-1316) döneminde, Bağdat'taki müzik okulları en parlak dönemini yaşamıştır. Safiyüddin Urmevi'nin talebesi ve ardılları bu dönemde önemli nazariyat eserleri vermişlerdir. İlhanlı saraylarında Türk, Arap, Fars ve Moğol müzisyenler bir arada çalışmıştır. Bu kültürel mozaik, Türk musikisinin zenginleşmesine zemin hazırlamıştır. İlhanlı döneminde yazılan edvar (müzik nazariyatı kitapları), Osmanlı döneminde de temel kaynak olarak kullanılmıştır."
+        },
+        {
+          "heading": "Abdülkâdir Merâgî: Klasik Dönemin Başlangıcı (1360-1435)",
+          "content": "Abdülkâdir Merâgî, hem besteci hem nazariyatçı hem de çok yönlü bir sanatçıdır. Güney Azerbaycan'ın Meraga şehrinde doğdu. Babası Gıyâseddîn Gaybî, çağının bilginlerindendi. Bestekârlığının yanı sıra şair, ressam, hattat, sazende, hanende ve nazariyatçıdır. Müsiki sanatını fizik açısından inceleyerek bugün de önemini koruyan bazı nazari bilgileri açığa çıkarmıştır. 1386'da Timur tarafından esir alınıp Semerkant'a götürülmüş, ancak sanatıyla Timur'un takdirini kazanmıştır. 1401'de Bağdat'a dönmüş, II. Murad'a (Osmanlı Padişahı) eserlerini sunmuş ve büyük takdir görmüştür. Merâgî'nin oğlu Abdülaziz ve torunu Mahmud Marağı, Osmanlı sarayında 'cemaat-i mutriban' (saray musiki heyeti) üyesi olarak görev almışlardır. Bu durum, İlhanlı-Timur müzik geleneğinin doğrudan Osmanlı'ya aktarıldığını gösterir."
+        },
+        {
+          "heading": "Erken Osmanlı Müzik Gelenekleri (1299-1500)",
+          "content": "Osmanlı Beyliği'nin kuruluş döneminde (1299-1500) üç temel müzik geleneği bir arada yaşamıştır: Mehterhane (askeri müzik), Mevlevihane (tekke musikisi) ve Enderun (saray musikisi). Mehterhane, Hunlardan beri süren askeri müzik geleneğinin Osmanlı'daki devamıdır. I. Murad'ın 1363'te kurduğu Enderun Mektebi, II. Murad (1421-1451) ve Fatih Sultan Mehmed dönemlerinde gelişmiş, müzik eğitiminin kurumsallaştığı bir merkez haline gelmiştir. İ.Hakkı Uzunçarşılı'ya göre, saraydaki müzik ve çalgı dersleri II. Murad zamanında başlamıştır. Bursa ve Edirne saraylarında önemli müzisyenler bulunmuş ve talebe yetiştirmişlerdir. Abdülkâdir Merâgî'nin torunlarının Osmanlı sarayında görev alması, İlhanlı-Timur müzik geleneğinin Osmanlı klasik musikisine nasıl aktarıldığının somut kanıtıdır. Bu dönemde Hüseyni makamı, Anadolu halk müziğinin temel makamı olarak klasik repertuara girmiştir."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Urmevî ve Merâgî - Mutriban.com",
+          "url": "https://www.mutriban.com/urmevi-ve-meragi/"
+        },
+        {
+          "title": "Osmanlı Saraylarında Uygulanan Müzik Eğitimi",
+          "url": "https://dergipark.org.tr/en/download/article-file/397076"
+        },
+        {
+          "title": "Osmanlı Müzik Kültürü - Kültür Portalı",
+          "url": "https://www.kulturportali.gov.tr/Common/DownloadFile.aspx?f=7.osmanlimuzikkulturu_20160125052101842.pdf"
+        }
+      ]
+    },
+    {
+      "id": "mehter-marslar",
+      "era": "Orta Çağ",
+      "period": "M.S. 1037 - 1923",
+      "title": "Mehter ve Askeri Marşlar",
+      "description": "Tuğ takımından Mehterhane'ye uzanan gelenek, Türk askeri müziğinin bin yıllık serüvenidir. Mehterân-ı Hümâyûn, Osmanlı'nın en görkemli musıki topluluğuydu.",
+      "sections": [
+        {
+          "heading": "Mehter Bestekârları (16-18. yüzyıl)",
+          "content": "Mehter musikisinin en verimli döneminde yetişmiş önemli bestekârlar şunlardır: Hasan Can Çelebi (1490-1567) en eski bilinen mehter bestekârıdır. Şahkulu, Nefîrî Behram Ağa, Emîr-i Hâc, II. Gazi Giray Han (1554-1607, Kırım Hanı), Zurnazen Edirneli Dâğî Ahmed Çelebi, Solakzâde Ahmed Çelebi, Hammâlî, Mehterbaşı Kemânî Hızır Ağa, Şah Murad (IV. Murad, 1612-1640, bestekâr padişah), Müstakim Ağa ve Ali Ufkî Bey (1610-1675, Polonya asıllı, Mecmûa-i Sâz ü Söz'ü oluşturdu, 544 eser notaya aldı).",
+          "keyArtists": [
+            {
+              "name": "Hasan Can Çelebi",
+              "period": "1490-1567",
+              "note": "En eski bilinen mehter bestekârı"
+            },
+            {
+              "name": "II. Gazi Giray Han",
+              "period": "1554-1607",
+              "note": "Kırım Hanı ve bestekâr"
+            },
+            {
+              "name": "IV. Murad (Şah Murad)",
+              "period": "1612-1640",
+              "note": "Bestekâr padişah"
+            },
+            {
+              "name": "Ali Ufkî Bey (Albert Bobowski)",
+              "period": "1610-1675",
+              "note": "544 eser notaya aldı, Mecmua-i Saz ü Söz'ü oluşturdu"
+            },
+            {
+              "name": "Neyzen Yusuf Paşa",
+              "period": "17-18. yüzyıl",
+              "note": "Ney virtüözü ve bestekâr"
+            },
+            {
+              "name": "İsmail Hakkı Bey",
+              "period": "20. yüzyıl",
+              "note": "Cumhuriyet dönemi mehter bestekârı (Ceddin Deden, Mehterhane-i Hakani)"
+            },
+            {
+              "name": "Cemal Cümbüş",
+              "period": "20. yüzyıl",
+              "note": "Cumhuriyet dönemi bestekârı (Tarihi Çevir)"
+            }
+          ]
+        },
+        {
+          "heading": "Mehter Usulleri (Ritim Kalıpları)",
+          "content": "Evliya Çelebi Seyahatnamesi'ne göre mehter takımı 'yirmi dört usûl, kırk sekiz terkîb-i musıkî faslı' icra ederdi. Ahlatî, Berevşan, Büyük Hafif, Ceng-i Harbi, Çenber, Darbeyn, Darb-ı Fetih, Def, Değişme, Devr-i Hindî, Devr-i Kebîr, Düm Sakîl, Düm Devir, Düyek, Fahte, Fahte-i Kebîr, Fer', Hafif, Nim-Hafif, Peşrev, Revânî, Saf, Sakîl, Semâî, Semâî-i Harbî, Semâî-i Raks gibi usuller kullanılırdı."
+        },
+        {
+          "heading": "Tuğ Takımından Mehterhane'ye",
+          "content": "Hun tuğ takımı, Orta Asya'dan Anadolu'ya Türklerle birlikte gelmiştir. Selçuklular döneminde 'tabl-ı alem' adı verilen davullar kullanılırdı. Osmanlı döneminde ise Mehterân-ı Hümâyûn (Osmanlı Saray Mehteri) kurumsallaştı. Fatih Sultan Mehmet döneminde 9 nefisle başlayan mehter takımı, Kanuni döneminde 60 nefise ulaştı. II. Mahmut döneminde yeniden yapılandırıldı ve 1826'da Yeniçeri Ocağı'nın kaldırılmasıyla birlikte dağıtıldı. 1911'de İstanbul'da tekrar kurulan mehter, 1953'ten itibaren İstanbul Askeri Müzesi'nde görev yapmaya başladı.",
+          "instruments": [
+            "Kös (büyük çanak davul)",
+            "Nakkare (küçük davul)",
+            "Zil",
+            "Zurna (turna zurna)",
+            "Boru (trompet)",
+            "Mehter dümbeleği"
+          ]
+        },
+        {
+          "heading": "Mehter Marşları",
+          "content": "Mehter marşları, genellikle hücum (savaş) marşları, terennüm (yürüyüş) marşları ve nağme (dönüş) marşları olmak üzere üç türdü. En bilinen mehter marşlarından bazıları: Ceddin Deden, Nevmekân, Hücum Marşı, Eski Ordu Marşı (Ey Şanlı Ordu Ey Şanlı Asker). Ceddin Deden marşı, günümüzde Türk Silahlı Kuvvetleri tarafından resmi törenlerde çalınmaya devam etmektedir. Mehter marşlarının birçoğu anonimdir, bestekârları bilinmemektedir.",
+          "keyWorks": [
+            {
+              "name": "Ceddin Deden",
+              "note": "En bilinen mehter marşı, günümüzde TSK tarafından çalınır",
+              "lyrics": "Ceddin, deden, neslin, baban (2) / Hep kahraman Türk milleti. / Ordumun, bugün, yüreği / Orduların hep Türk milleti. / Yürü, yürü, askerim yürü / Yürü, yürü, Türk askeri."
+            },
+            {
+              "name": "Nevmekân",
+              "note": "Geleneksel mehter nağmesi",
+              "lyrics": "Nevmekân-ı şâhâna geldik / Mukaddem eyleyüp cümle âfâtı / Eyledik nigâh-ı şehâna geldik."
+            },
+            {
+              "name": "Eski Ordu Marşı (Ey Şanlı Ordu)",
+              "note": "Osmanlı askeri marşlarından biri",
+              "lyrics": "Ey şanlı ordu, ey şanlı asker / Haydi görünüz bu gün işler / Varınızı almış din ü millet / Gayret eyleyün görünüz bu işler."
+            },
+            {
+              "name": "Hücum Marşı",
+              "note": "Savaş marşları arasında en bilinenlerden",
+              "lyrics": "Bu gün ayın-ı harbdir zafer günüdür / Ordumuzun bu gün bayram günüdür / Kılıç kınından çekildi hücum günüdür / Mehmetçik bugün zafer günüdür."
+            },
+            {
+              "name": "Türk Marşı (Dağ Başını Duman Almış)",
+              "note": "Anonim halk ezgisi, marş olarak da kullanılmıştır",
+              "lyrics": "Dağ başını duman almış / Gümüş dere durmaz akar. / Gidip gelip şehir eylemiş / Ova düzlük durmaz bakar. / Gidip gelip şehir eylemiş."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "klasik-turk-musikisi",
+      "era": "Orta Çağ - Yeni Çağ",
+      "period": "M.S. 1299 - 1923",
+      "title": "Klasik Türk Musikisi (Divan Musikisi)",
+      "description": "Türklerin İslamiyet'i kabulünden sonra dini mesajları da bünyesine katarak yeni bir anlayış içine giren müzik, 10. yüzyıldan itibaren sistemli bir yapıya kavuştu. Yaklaşık beş asır süren bu dönem büyük ustaların yetişmesine zemin hazırladı.",
+      "sections": [
+        {
+          "heading": "Klasik Dönem (10-19. yüzyıl)",
+          "content": "Divan şiirinin şarkılara güfte olmaya başlamasıyla klasik formda eserler bestelenmeye başlandı. Itri, Dede Efendi, Tamburi Cemil Bey gibi ustalar bu dönemin zirvesini oluşturur. Makam sistemi, usul ve formlar bu dönemde gelişti. Özellikle Mevlevi ayini, tekke musikisi formlarının en gelişmişi olarak öne çıktı. Her bir ayin, 'selâm' adı verilen dört bölümden oluşur. Ayin peşrevleri, sadece ayine özgü 'Muza'af Devrikebir' usulüyle bestelenirdi.",
+          "keyArtists": [
+            {
+              "name": "Itri (Buhûrîzade Mustafa Efendi)",
+              "period": "1640-1712",
+              "note": "'Segâh Tekke Semaisi' ve Mevlevi ayinleriyle tanınır, Klasik Türk Musikisi'nin en büyük isimlerinden"
+            },
+            {
+              "name": "Hacı Arif Bey",
+              "period": "1869-1923",
+              "note": "Klasik dönemin son büyük bestekârı, neo-klasik dönemin başlangıcı sayılır"
+            },
+            {
+              "name": "Dede Efendi (İsmail Dede Efendi)",
+              "period": "1778-1846",
+              "note": "400'den fazla bestesi vardır, Mevlevi ayinleri ve şarkılarıyla ünlü"
+            },
+            {
+              "name": "Tamburi Cemil Bey",
+              "period": "1873-1916",
+              "note": "Tanbur virtüözü ve bestekâr, taksim sanatını zirveye taşımıştır"
+            },
+            {
+              "name": "Sultan III. Selim",
+              "period": "1761-1808",
+              "note": "Bestekâr padişah, 60'tan fazla eseri vardır"
+            },
+            {
+              "name": "IV. Murat",
+              "period": "1612-1640",
+              "note": "Bestekâr padişah, 'Uzzal Pesrevi' ve 'Buselik Şarkısı' gibi eserleri bestelemiştir"
+            }
+          ]
+        },
+        {
+          "heading": "Neo-Klasik Dönem (19. yüzyıl sonrası)",
+          "content": "Mûsıkî tarihimizde Hacı Arif Bey'e kadar klasik dönemin devam ettiğini ve daha sonra neo-klasik dönemin başladığını ifade eder. Artık bu dönemdeki eserler daha romantik ve fantastik türdendir. Şarkı formunun ağır bastığı bu anlayış günümüze kadar uzanır. Münir Nurettin Selçuk, Safiye Ayla, Zeki Müren gibi sanatçılar bu geleneğin devamıdır.",
+          "keyArtists": [
+            {
+              "name": "Münir Nurettin Selçuk",
+              "period": "1899-1981",
+              "note": "Klasik Türk Musikisi'nin en önemli yorumcularından"
+            },
+            {
+              "name": "Safiye Ayla",
+              "period": "1907-1998",
+              "note": "Atatürk'ün sevdiği ses sanatçısı, Cumhuriyet dönemi Klasik Türk Musikisi'nin öncü kadın sesi"
+            },
+            {
+              "name": "Zeki Müren",
+              "period": "1931-1996",
+              "note": "Sanat Müziği'nin efsanevi ismi, 'Sanat Güneşi'"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Klâsikten Neoklâsiğe Mûsıkî Medeniyetimiz",
+          "author": "Erdoğan Ateş, Süleyman Demirel Üniversitesi",
+          "url": "https://isamveri.org/pdfdrg/D01535/2014_32/2014_32_ATESE.pdf"
+        },
+        {
+          "title": "Mevlevilerin Müziği",
+          "url": "https://www.konyapedia.com/makale/3086/mevlevi-muzigi"
+        }
+      ]
+    },
+    {
+      "id": "halk-muzigi",
+      "era": "Tüm Dönemler",
+      "period": "M.Ö. 600 - Günümüz",
+      "title": "Türk Halk Müziği",
+      "description": "Türk halk müziği, binlerce yıllık bir geleneğin ürünüdür. Kopuz eşliğinde söylenen destanlardan, bağlama ile söylenen türkülere uzanan kesintisiz bir zincirdir.",
+      "sections": [
+        {
+          "heading": "Türkü ve Türkü Türleri",
+          "content": "Türkü, Türk halkının sözlü gelenek müziğinin en yaygın formudur. Divanü Lugati't-Türk'te 'türkü' sözcüğü 'Türkçe söz, Türkçe şarkı' anlamında kullanılmıştır. Türküler; aşk, doğa, göç, savaş, işçilik, yoksulluk gibi konuları işler. Uzun hava, oyun havası, bozlak, halay, bar, horon gibi bölgesel formlar vardır. Aşık Veysel, Neşet Ertaş, Mahzuni Şerif gibi isimler bu geleneğin son büyük temsilcilerindendir.",
+          "forms": [
+            "Uzun Hava - Serbest ritimli, duygusal ifadeler",
+            "Oyun Havası - Ritmik, dans eşlikli",
+            "Bozlak - Orta Anadolu, hüzünlü ton",
+            "Halay - Güneydoğu Anadolu, toplu oyun",
+            "Horon - Karadeniz, hızlı ritimli",
+            "Bar - Doğu Anadolu, erkek oyunları"
+          ],
+          "keyArtists": [
+            {
+              "name": "Aşık Veysel Şatıroğlu",
+              "period": "1894-1973",
+              "note": "20. yüzyılın en büyük halk ozanı, 'Uzun İnce Bir Yoldayım'"
+            },
+            {
+              "name": "Neşet Ertaş",
+              "period": "1943-2012",
+              "note": "Bozkırın Tezenesi, bağlama virtüözü ve ozan"
+            },
+            {
+              "name": "Mahzuni Şerif",
+              "period": "1940-2002",
+              "note": "Aşık geleneğinin modern temsilcisi"
+            },
+            {
+              "name": "Muhlis Akarsu",
+              "period": "1948-1993",
+              "note": "Dengbej geleneğinden gelen önemli bir halk müziği sanatçısı"
+            }
+          ]
+        },
+        {
+          "heading": "Aşık Geleneği",
+          "content": "Aşık geleneği, İslamiyet öncesi Baksi-Ozan geleneğinin devamıdır. Aşıklar, bağlama çalarak deyişler, koşmalar söylerler. Meddahlık, atışma ve hikaye anlatıcılığı da aşık geleneğinin bir parçasıdır. Dede Korkut geleneğinden Karacaoğlan'a, Köroğlu'dan Aşık Veysel'e kadar uzanan bir silsiledir.",
+          "keyFigures": [
+            {
+              "name": "Karacaoğlan",
+              "period": "17. yüzyıl",
+              "note": "Anonim halk şairi, aşk şiirlerinin en güzel örneklerini vermiştir"
+            },
+            {
+              "name": "Köroğlu",
+              "period": "16. yüzyıl",
+              "note": "Efsanevi halk kahramanı ve ozan, Kopuzu çalarak destanlar söyler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "istiklal-marsi",
+      "era": "Modern Çağ",
+      "period": "1921 - Günümüz",
+      "title": "İstiklal Marşı ve Milli Marşlar",
+      "description": "İstiklal Marşı, Türkiye Cumhuriyeti'nin ve Kuzey Kıbrıs Türk Cumhuriyeti'nin milli marşıdır. Kurtuluş Savaşı'nın en çetin döneminde, bir milletin bağımsızlık tutkusunun en yüce ifadesidir.",
+      "sections": [
+        {
+          "heading": "İstiklal Marşı'nın Doğuşu",
+          "content": "Milli Eğitim Bakanlığı, 1921'de bir milli marş güftesi yarışması düzenledi. Yarışmaya 724 şiir gönderildi. Kazanan güfteye 500 lira ödül konduğu için başta katılmak istemeyen Mehmet Akif Ersoy, Milli Eğitim Bakanı Hamdullah Suphi Bey'in ısrarı üzerine katıldı. 5-7 Şubat 1921 tarihlerinde iki günde yazılan İstiklal Marşı, 12 Mart 1921'de TBMM'de Milli Marş olarak kabul edildi. Mehmet Akif, ödül olarak verilen 500 lirayı Darülaceze'ye bağışladı. Şiir, 9 dörtlük ve 1 beşlikten oluşur. İlk iki dörtlük İstiklal Marşı'nın güftesi olarak söylenir. Aruz ölçüsüyle yazılmıştır.",
+          "timeline": [
+            {
+              "date": "5-7 Şubat 1921",
+              "event": "Mehmet Akif Ersoy tarafından yazıldı"
+            },
+            {
+              "date": "17 Şubat 1921",
+              "event": "Sırat-ı Müstakim ve Hâkimiyet-i Milliye'de yayımlandı"
+            },
+            {
+              "date": "12 Mart 1921",
+              "event": "TBMM tarafından Milli Marş olarak kabul edildi"
+            },
+            {
+              "date": "1924",
+              "event": "Ali Rifat Çağatay'ın bestesi kabul edildi"
+            },
+            {
+              "date": "1930",
+              "event": "Osman Zeki Üngör'ün bestesi yürürlüğe girdi"
+            }
+          ]
+        },
+        {
+          "heading": "İstiklal Marşı Tam Metni",
+          "content": "Mehmet Akif Ersoy tarafından yazılan İstiklal Marşı, toplam 10 kıtadan (9 dörtlük + 1 beşlik) oluşur. İlk iki kıta resmi marş olarak okunur. Aruz ölçüsüyle yazılmıştır.",
+          "lyrics": [
+            {
+              "stanza": "I. Kıta (Resmi Marş - 1. Kıta)",
+              "text": "Korkma, sönmez bu şafaklarda yüzen al sancak; / Sönmeden yurdumun üstünde tüten en son ocak. / O benim milletimin yıldızıdır, parlayacak; / O benimdir, o benim milletimindir ancak."
+            },
+            {
+              "stanza": "II. Kıta (Resmi Marş - 2. Kıta)",
+              "text": "Çatma, kurban olayım çehreni ey nazlı hilâl! / Kahraman ırkıma bir gül! Ne bu şiddet bu celâl? / Sana olmaz dökülen kanlarımız sonra helâl, / Hakkıdır, Hakk'a tapan, milletimin istiklâl."
+            },
+            {
+              "stanza": "III. Kıta",
+              "text": "Ben ezelden beridir hür yaşadım, hür yaşarım. / Hangi çılgın bana zincir vuracakmış? Şaşarım! / Kükremiş sel gibiyim; bendimi çiğner, aşarım; / Yırtarım dağları, enginlere sığmam, taşarım."
+            },
+            {
+              "stanza": "IV. Kıta",
+              "text": "Garbın âfâkını sarmışsa çelik zırhlı duvar; / Benim iman dolu göğsüm gibi serhaddim var. / Ulusun, korkma! Nasıl böyle bir îmânı boğar, / 'Medeniyet!' dediğin tek dişi kalmış canavar?"
+            },
+            {
+              "stanza": "V. Kıta",
+              "text": "Arkadaş! Yurduma alçakları uğratma sakın; / Siper et gövdeni, dursun bu hayâsızca akın. / Doğacaktır sana va'dettiği günler Hakk'ın... / Kim bilir, belki yarın, belki yarından da yakın."
+            },
+            {
+              "stanza": "VI. Kıta",
+              "text": "Bastığın yerleri 'toprak!' diyerek geçme, tanı! / Düşün altındaki binlerce kefensiz yatanı. / Sen şehîd oğlusun, incitme, yazıktır atanı; / Verme, dünyâları alsan da, bu cennet vatanı."
+            },
+            {
+              "stanza": "VII. Kıta",
+              "text": "Kim bu cennet vatanın uğruna olmaz ki fedâ? / Şühedâ fışkıracak, toprağı sıksan şühedâ! / Cânı, cânânı, bütün varımı alsın da Hudâ, / Etmesin tek vatanımdan beni dünyâda cüdâ."
+            },
+            {
+              "stanza": "VIII. Kıta",
+              "text": "Ruhumun senden, İlâhî, şudur ancak emeli: / Değmesin ma'bedimin göğsüne na-mahrem eli! / Bu ezanlar-ki şehâdetleri dînin temeli / Ebedî, yurdumun üstünde benim inlemeli."
+            },
+            {
+              "stanza": "IX. Kıta",
+              "text": "O zaman vecd ile bin secde eder -varsa- taşım; / Her cerîhamdan, İlâhî, boşanıp kanlı yaşım, / Fışkırır rûh-i mücerred gibi yerden na'şım! / O zaman yükselerek Arş'a değer, belki başım."
+            },
+            {
+              "stanza": "X. Kıta (Beşlik)",
+              "text": "Dalgalan sen de şafaklar gibi ey şanlı hilâl! / Olsun artık dökülen kanlarımın hepsi helâl / Ebediyyen sana yok, ırkıma yok izmihlâl: / Hakkıdır, hür yaşamış bayrağımın hürriyet; / Hakkıdır, Hakk'a tapan milletimin istiklâl!"
+            }
+          ],
+          "note": "İlk iki kıta (I ve II) resmi törenlerde okunur. Marş, Aruz ölçüsünün Mef'ûlü mefâ îlü fâ'ilâtün kalıbıyla yazılmıştır."
+        },
+        {
+          "heading": "Osman Zeki Üngör ve Beste",
+          "content": "Osman Zeki Üngör (1880-1958), İstiklal Marşı'nı 1922'de besteledi. Dedesi Santuri Hilmi Bey, Mızıka-yı Hümayun bünyesinde 'Fasl-ı Cedid'i tertip eden sanatkârdı. 7 yaşında kemana başladı, 11 yaşında Mızıka-yı Hümayun'da senfonik orkestra üyeliğine seçildi. Vondra Bey'den keman, D'Aronda Paşa'dan müzik nazariyatı dersleri aldı. İlk Türk konser kemancısı oldu. İstiklal Marşı'nı İzmir'in kurtuluşundan iki-üç gün sonra, evinde piyano başında besteledi. Marşın armonilemesini Edgar Manas, bando düzenlemesini İhsan Servet Künçer yaptı. Cenaze töreninde özel izinle İstiklal Marşı çalındı (bu izin sadece Mehmet Akif Ersoy için daha önce verilmişti).",
+          "otherWorks": [
+            "İlim Marşı",
+            "Azmü Ümit Marşı",
+            "Töre Marşı",
+            "Türk Çocukları",
+            "Cumhuriyet Marşı"
+          ]
+        },
+        {
+          "heading": "Mehmet Akif Ersoy (1873-1936)",
+          "content": "Bursa Fatih ilçesi Sarıgüzel mahallesinde dünyaya geldi. Babası Fatih Camii medrese hocalarından Mehmet Tahir Efendi'dir. Mülkiye İdadisi'ne kaydolduktan sonra Ziraat ve Baytar Mektebi'ni birincilikle bitirdi (1893). Şiire olan ilgisi okulun son yıllarında arttı. Servet-i Fünun dergisinde şiirleri yayımlandı. Sırat-ı Müstakim dergisinin başyazarı oldu. Balkan Savaşı, Çanakkale ve Kurtuluş Savaşı dönemlerinde çeşitli görevlerde bulundu. İstiklal Marşı dışında en önemli eseri Safahat'tır (7 cilt). 27 Aralık 1936'da İstanbul'da vefat etti, Edirnekapı Şehitliği'nde yatmaktadır.",
+          "sources": [
+            {
+              "title": "İstiklal Marşı - MEB",
+              "url": "https://www.meb.gov.tr/istiklalmarsi"
+            },
+            {
+              "title": "İstiklal Marşı'nın Bestecisi: Osman Zeki Üngör",
+              "author": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/kultur/istiklal-marsinin-bestecisi-osman-zeki-ungor/3149111"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cumhuriyet-muzigi",
+      "era": "Modern Çağ",
+      "period": "1923 - Günümüz",
+      "title": "Cumhuriyet Dönemi Müzik Devrimi",
+      "description": "Atatürk'ün vizyonuyla başlayan müzik devrimi, Türk Beşleri'nin eserleriyle Anadolu'nun kadim tınılarını Batı'nın evrensel formlarıyla buluşturdu.",
+      "sections": [
+        {
+          "heading": "Türk Beşleri (1920-1940)",
+          "content": "Atatürk'ün kültür politikalarının bir sonucu olarak, 1920-30'lu yıllarda beş genç yetenek Avrupa'nın önde gelen müzik merkezlerine devlet bursuyla gönderildi: Ahmet Adnan Saygun (Paris), Ulvi Cemal Erkin (Paris), Necil Kâzım Akses (Prag), Hasan Ferit Alnar (Viyana), Cemal Reşit Rey (Paris). Yurda döndüklerinde Batı müziğini taklit etmek yerine, bu evrensel dili kendi kültürel içerikleriyle doldurdular. 1 Eylül 1924'te Musiki Muallim Mektebi açıldı, 1926'da Anadolu'ya derleme gezileri düzenlendi.",
+          "keyArtists": [
+            {
+              "name": "Ahmet Adnan Saygun",
+              "period": "1907-1991",
+              "note": "'Yunus Emre Oratoryosu' (1942), Anadolu temalarını senfonik formda işledi"
+            },
+            {
+              "name": "Ulvi Cemal Erkin",
+              "period": "1906-1972",
+              "note": "'Köçekçe' (1943), Türk halk oyunlarını orkestral renklerle buluşturdu"
+            },
+            {
+              "name": "Necil Kâzım Akses",
+              "period": "1908-1999",
+              "note": "'Metinler Kitabı' adlı eseriyle Türk müzik tarihine önemli katkı"
+            },
+            {
+              "name": "Hasan Ferit Alnar",
+              "period": "1906-1978",
+              "note": "'Kanun Konçertosu' (1951), geleneksel çalgıyı senfonik forma taşıdı"
+            },
+            {
+              "name": "Cemal Reşit Rey",
+              "period": "1904-1985",
+              "note": "'Lüküs Hayat Opereti' (1933), 'Fatih Senfonisi', İstanbul Filarmoni'nin kurucusu"
+            }
+          ]
+        },
+        {
+          "heading": "Çağdaş Türk Müziği (1960-2000)",
+          "content": "1960'lardan sonra Türk müziği daha da çeşitlendi. Halk müziği, sanat müziği ve Batı müziği arasındaki duvarlar yavaş yavaar yıkıldı. Barış Manço, Cem Karaca, Fikret Kızılok gibi isimler Türkçe rock'ı Anadolu müzik gelenekleriyle sentezlediler. Ruhi Su, Zülfü Livaneli gibi isimler ise halk müziğini çağdaş yorumlarla yeniden icra ettiler. Müzeyyen Senar, Zeki Müren gibi isimler sanat müziğini geniş kitlelere ulaştırdı.",
+          "keyArtists": [
+            {
+              "name": "Barış Manço",
+              "period": "1943-1999",
+              "note": "Anadolu Rock'un kurucusu, 'Dönme Dolap', 'Sarı Çizmeli Mehmet Ağa'"
+            },
+            {
+              "name": "Cem Karaca",
+              "period": "1945-2004",
+              "note": "Anadolu Rock'un öncülerinden, protest müzik"
+            },
+            {
+              "name": "Ruhi Su",
+              "period": "1912-1985",
+              "note": "Halk müziği derlemecisi ve çağdaş yorumcu, Dersim türküleri"
+            },
+            {
+              "name": "Müzeyyen Senar",
+              "period": "1918-2015",
+              "note": "'Diva', Klasik Türk Musikisi'nin en önemli kadın seslerinden"
+            }
+          ]
+        },
+        {
+          "heading": "Günümüz Türk Müziği",
+          "content": "Günümüzde Türk müziği, geleneksel ve modern formların bir arada yaşadığı zengin bir yapıya sahiptir. İstanbul Bienali, CRR Konserleri, IKSV Festivali gibi etkinlikler Türkiye'yi müzik dünyasının merkezlerinden biri haline getirmiştir. Sezen Aksu, Tarkan, Sebnem Ferah gibi isimler Türk pop müziğini uluslararası arenada temsil etmektedir. Geleneksel Türk müzik formları ise konservatuvarlarda ve özel eğitim merkezlerinde yaşatılmaya devam etmektedir.",
+          "keyEvents": [
+            {
+              "name": "Ankara Devlet Konservatuvarı",
+              "since": "1936",
+              "note": "Türkiye'nin ilk devlet konservatuvarı"
+            },
+            {
+              "name": "İstanbul Devlet Konservatuvarı",
+              "since": "1917 ( yeniden 1976)",
+              "note": "Türkiye'nin en eski müzik okulu kökeni"
+            },
+            {
+              "name": "Cumhurbaşkanlığı Senfoni Orkestrası",
+              "since": "1924",
+              "note": "Türkiye'nin ilk profesyonel senfoni orkestrası"
+            },
+            {
+              "name": "İKSV İstanbul Müzik Festivali",
+              "since": "1973",
+              "note": "Türkiye'nin en önemli klasik müzik festivali"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cumhuriyetin Ses Mimarları: Türk Beşleri",
+          "author": "Do-Re Müzik",
+          "url": "https://blog.do-re.com.tr/cumhuriyetin-ses-mimarlari-turk-besleri-ve-modern-muzigimizin-kurulusu/"
+        },
+        {
+          "title": "Çok Sesli Batı Müziğinin Türk Modernleşmesindeki Önemi",
+          "author": "AYK - Ankara Yankı Kültür Derneği",
+          "url": "https://ayk.gov.tr/wp-content/uploads/2015/01/KILI%C3%87-Fahri-%C3%87OK-SESL%C4%B0-BATI-M%C3%9CZ%C4%B0%C4%9E%C4%B0N%C4%B0N-T%C3%9CRK-MODERNLE%C5%9EMES%C4%B0NDEK%C4%B0-%C3%96NEM%C4%B0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "turk-muzik-aletleri",
+      "era": "Tüm Dönemler",
+      "period": "M.Ö. 600 - Günümüz",
+      "title": "Türk Müzik Enstrümanları",
+      "description": "Türk müzik kültürü, kökenleri binlerce yıl öncesine dayanan zengin bir enstrüman geleneğine sahiptir. Bozkırdan saraya, tekkeiden meydana her ortamda farklı çalgılar icat edilmiş ve geliştirilmiştir.",
+      "sections": [
+        {
+          "heading": "Telli Çalgılar",
+          "content": "Türk müziğinde telli çalgılar en eski ve en zengin gruptur. Kopuzdan bağlamaya, uddan tanbura kadar uzanan bir gelenek, hem halk hem de klasik müzikte vazgeçilmez çalgılar üretmiştir.",
+          "instruments": [
+            {
+              "name": "Kopuz",
+              "origin": "Hun dönemi (M.Ö. 3. yüzyıl)",
+              "description": "Türklerin bilinen en eski telli çalgısı. Üç teli, dut veya huş ağacından yapılmış küçük gövdesi vardır. Divanü Lugati't-Türk'te 'kubuz' olarak geçer. Destan söyleme geleneğinin vazgeçilmez çalgısıdır. Bağlamanın atasıdır.",
+              "materials": "Dut, huş ağacı; koyun bağırsaklarından tel"
+            },
+            {
+              "name": "Bağlama / Saz",
+              "origin": "Orta Asya (10. yüzyıl)",
+              "description": "Kopuzun uzun saplı, derin gövdeli evrimidir. Uzun saplı bağlama, kısa saplı bağlama, cura, divan sazı, tambura gibi çeşitleri vardır. Yedi teli ( üç grup halinde düzenlenmiş) vardır. Türk halk müziğinin temel çalgısıdır.",
+              "materials": "Dut ağacı gövde, ardıç sap; pirinç teller"
+            },
+            {
+              "name": "Ud",
+              "origin": "Mezopotamya (Arap etkisiyle)",
+              "description": "İslamiyet sonrası Türk müziğine giren kısa saplı, geniş gövdeli telli çalgı. Klasik Türk Musikisi'nin temel çalgısıdır. Beş çift teli (on tel) ve tek bas teli olmak üzere toplam 11 teli vardır. Pena ile çalınır.",
+              "materials": "Maun, ceviz veya gül ağacı; naylon veya bağırsak tel"
+            },
+            {
+              "name": "Tanbur",
+              "origin": "Orta Asya",
+              "description": "Uzun saplı, birleşik gölde (kafesli gövde) telli çalgı. Klasik Türk Musikisi'nde kopuzun yerini alarak en önemli çalgı haline gelmiştir. Yedi teli vardır. Tamburi Cemil Bey gibi virtüözlerle zirveye ulaşmıştır.",
+              "materials": "Maun gövde, ardıç sap; bağırsak tel"
+            },
+            {
+              "name": "Kanun",
+              "origin": "Mezopotamya (MÖ 3000)",
+              "description": "Dikdörtgen trap table (ses masası) üzerinde parmaklarla çalınan telli çalgı. 78-81 teli vardır. Mandallarla (arp putları) perde değiştirilir. Klasik Türk Musikisi'nde önemli yer edinmiştir. Hasan Ferit Alnar'ın 'Kanun Konçertosu' bu çalgı için bestelenmiştir.",
+              "materials": "Ceviz ağacı, naylon tel, mandal (kemik veya plastik)"
+            },
+            {
+              "name": "Kemençe (Karadeniz)",
+              "origin": "Karadeniz (12. yüzyıl)",
+              "description": "Yaylı telli çalgı. Küçük, armut şeklinde gövdesi, üç teli ve kısa sapı vardır. Karadeniz halk müziğinin simgesidir. Horon ve bar oyun havalarında vazgeçilmezdir. Yalnızca Karadeniz değil, Laz, Hemşin ve Gürcü kültüründe de yaygındır.",
+              "materials": "Ceviz ağacı gövde, at kılından yay; metal tel"
+            },
+            {
+              "name": "Kemençe (Fasıl / Klasik)",
+              "origin": "İstanbul (17. yüzyıl)",
+              "description": "Karadeniz kemençesinden farklıdır. Klasik Türk Musikisi fasıllarının yaylı çalgısıdır. Gövdesi daha küçük, sesi daha incedir. Tamburi Cemil Bey döneminde popülerlik kazanmıştır.",
+              "materials": "Abanoz veya maun gövde, at kılı yay; bağırsak tel"
+            },
+            {
+              "name": "Cümbüş",
+              "origin": "İstanbul (1930)",
+              "description": "Zeynel Abidin Cümbüş tarafından icat edilmiş modern telli çalgı. Metal gövdesi, deri yüzeyi ve bağlama sapı benzeri bir yapısı vardır. Hem halk hem klasik müzikte kullanılır. Müzikhollerin vazgeçilmez çalgısı olmuştur.",
+              "materials": "Aluminyum gövde, deri yüzey; metal tel"
+            }
+          ]
+        },
+        {
+          "heading": "Nefesli Çalgılar",
+          "content": "Nefesli çalgılar Türk müziğinde hem dini (tekke) hem de halk müziğinde önemli yer tutar. Neyin manevi derinliğinden zurnanın coşkusuna kadar geniş bir yelpazeye sahiptir.",
+          "instruments": [
+            {
+              "name": "Ney",
+              "origin": "Orta Asya / İslam dünyası",
+              "description": "Bambu kamıştan yapılan uçtan üflemeli çalgı. Ucundaki başparmağın altına yerleştirilen 'başpare' (sedef, kemik veya horn) sayesinde ses üretilir. Üç oktavlık ses aralığı vardır. Mevlevi ayinlerinin simgesi ve vazgeçilmez çalgısıdır. Neyzenlerin yetiştirilmesi yıllar alır.",
+              "materials": "Kızıl bambu kamışı, sedef/horn başpare"
+            },
+            {
+              "name": "Zurna",
+              "origin": "Orta Asya",
+              "description": "Çifte kamlı (duble-reed) nefesli çalgı. Güçlü ve keskin sesiyle bilinir. Halk müziğinin en önemli nefesli çalgısıdır. Düğünlerde, bayramlarda, asker uğurlamalarında çalınır. 'Zurna-zurnacı' deyimi Türkçede gürültülü ortamı tanımlar. Sipsi, kavalın dilsiz versiyonu olarak da bilinir.",
+              "materials": "Dut, erik ağacı gövde; kamış dil"
+            },
+            {
+              "name": "Kaval",
+              "origin": "Anadolu (antik çağ)",
+              "description": "Dilsiz (fipple-flute) nefesli çalgı. Ağaçtan yapılır, üfleme deliği ve parmak delikleri vardır. Çobanlar tarafından çalınan geleneksel çalgıdır. Dört-beş sesliği vardır. Hem halk müziğinde hem de Mevlevi müziğinde (neyin yerini alarak) kullanılır.",
+              "materials": "Dut, erik, kiraz ağacı; boynuzu süslemeli"
+            },
+            {
+              "name": "Düdük",
+              "origin": "Anadolu",
+              "description": "Kavalın daha küçük boyutlu versiyonudur. Tek parmak deliği olan basit nefesli çalgı. Çobanlar tarafından sürü yönetimi için kullanılır. Halk müziğinde de yaygındır.",
+              "materials": "Kemik, ahşap"
+            },
+            {
+              "name": "Sipsi",
+              "origin": "Ege / Akdeniz",
+              "description": "Dilsiz, kamıştan yapılan küçük nefesli çalgı. Ege ve Akdeniz bölgesinde yaygındır. Zurnaya benzer sesi vardır ama daha yumuşaktır.",
+              "materials": "Kamış"
+            }
+          ]
+        },
+        {
+          "heading": "Vurmalı Çalgılar",
+          "content": "Vurmalı çalgılar Türk müzik tarihinin en eski çalgılarıdır. Şaman ayinlerinden mehter marşlarına, tekke ritüellerinden halk oyunlarına kadar her alanda kullanılmıştır.",
+          "instruments": [
+            {
+              "name": "Davul / Kös",
+              "origin": "Hun dönemi (M.Ö.)",
+              "description": "Türk müziğinin en eski çalgısı. Hunlardan beri süren geleneksel büyük davul. Mehterde 'kös' adı verilen büyük çanak davul kullanılır. Ağaç kasnak üzerine tek taraflı deri gerilmiştir. Kumru (çatal) denen özel sopalarla çalınır. Savaşta hücum işareti, düğünlerde coşku kaynağıdır.",
+              "materials": "Çam kasnak, dana veya koyun derisi; ahşap tokmak"
+            },
+            {
+              "name": "Nakkare",
+              "origin": "Orta Asya",
+              "description": "Küçük çift davul. Metal veya ahşap kasnak üzerine iki taraflı deri gerilmiştir. Klasik Türk Musikisi'nde usul vurmak için kullanılır. Tekke musikisinde de yaygındır.",
+              "materials": "Bakır kasnak, deri; el sopaları"
+            },
+            {
+              "name": "Tef",
+              "origin": "Orta Asya",
+              "description": "Yuvarlak, çerçeveli, tek taraflı derili vurmalı çalgı. Zilleri (çingırakları) vardır. Tekke musikisinde ( özellikle zikir ayinlerinde) ve halk müziğinde yaygın kullanılır. Kadın eli tef (kadınların çaldığı) ayrı bir türüdür.",
+              "materials": "Ahşap çerçeve, deri, metal ziller"
+            },
+            {
+              "name": "Bendir",
+              "origin": "Orta Asya / Ortadoğu",
+              "description": "Geniş çaplı, derin kasnaklı davul. Deri yüzeyi geniştir. Tekke musikisinde ve halk müziğinde kullanılır. Mevlevi ayinlerinde kudümle birlikte çalınır.",
+              "materials": "Ahşap kasnak, deri"
+            },
+            {
+              "name": "Kudüm",
+              "origin": "Orta Doğu (İslam dönemi)",
+              "description": "Çift davul (iki adet küçük davul). Klasik Türk Musikisi ve Mevlevi ayinlerinin vurmalı çalgısıdır. Neyzenbaşı ile kudümzen arasındaki diyalog, Mevlevi ayininin önemli bir unsurudur.",
+              "materials": "Topak ağacı kasnak, deri; el parmaklarıyla çalınır"
+            },
+            {
+              "name": "Halile (Çatal)",
+              "origin": "Anadolu",
+              "description": "İki adet metal çubuk. Elde birbirine vurularak ses çıkarılır. Mevlevi ayinlerinde ritim tutmak için kullanılır.",
+              "materials": "Pirinç veya bakır"
+            }
+          ]
+        },
+        {
+          "heading": "Osmanlı Saray Çalgıları (Cemaat-i Mutriban)",
+          "content": "Osmanlı saray musikisi, belirli bir çalgı topluluğu (cemaat-i mutriban) etrafında şekillenmiştir. Bu çalgılar hem klasik fasıllarda hem de Mevlevi ayinlerinde kullanılmıştır.",
+          "instruments": [
+            {
+              "name": "Rebab",
+              "origin": "Orta Asya",
+              "description": "Yaylı telli çalgı. Kemane veya kemança adıyla da bilinir. Erken Osmanlı döneminde yaygındı, zamanla kemençe ve klasik kemençe yerini aldı. Mevlevi ayinlerinde halen kullanılır.",
+              "materials": "Ahşap gövde, at kılı yay; iki tel"
+            },
+            {
+              "name": "Lavta",
+              "origin": "Bizans / İstanbul",
+              "description": "Ud benzeri ancak sapında perde olan telli çalgı. Osmanlı saray musikisinde kullanılmıştır. Günümüzde nadir çalınır.",
+              "materials": "Gül ağacı; bağırsak tel"
+            },
+            {
+              "name": "Santur",
+              "origin": "Mezopotamya",
+              "description": "Çekiçlerle (mızrap) çalınan telli çalgı. Yatay konumda duran trapezoid gövdesi üzerine çok sayıda tel gerilmiştir. Safiyüddin Urmevi tarafından icat edildiği söylenir. Klasik Türk Musikisi'nde yaygın değildir ancak İran ve Irak musikisinde önemlidir.",
+              "materials": "Ceviz ağacı; metal tel"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1069",
+      "event": "Yusuf Has Hacib Kutadgu Bilig'i yazdı, müzik ve ahlak ilişkisini işledi"
+    },
+    {
+      "year": "11. yy",
+      "event": "Kaşgarlı Mahmud'un Divanü Lugati't-Türk'te kopuz tanımı"
+    },
+    {
+      "year": "11. yy",
+      "event": "Kaşgarlı Mahmud Divanü Lugati't-Türk'ü yazdı, kopuz ve müzik terimlerini tanımladı"
+    },
+    {
+      "year": "12 Mart 1921",
+      "event": "İstiklal Marşı'nın kabulü"
+    },
+    {
+      "year": "1216-1294",
+      "event": "Safiyüddin Urmevi - Kitâbü'l-Edvâr, Türk müziğinin ses sistemini bilimsel temele oturttu"
+    },
+    {
+      "year": "1250",
+      "event": "Hz. Mevlâna'nın vefatı, Mevlevi müzik geleneğinin Sultan Veled tarafından sistemleştirilmesi"
+    },
+    {
+      "year": "13. yy",
+      "event": "Selçuklu ve Anadolu Beylikleri'nde mehter geleneği"
+    },
+    {
+      "year": "1360-1435",
+      "event": "Abdülkâdir Merâgî - Klasik Türk musikisinin kurucusu nazariyatçı ve besteci"
+    },
+    {
+      "year": "1363",
+      "event": "I. Murad'ın Enderun Mektebi'ni kurması, saray müzik eğitiminin başlangıcı"
+    },
+    {
+      "year": "1453",
+      "event": "Fatih döneminde Mehterân-ı Hümâyûn kurulması"
+    },
+    {
+      "year": "1640-1712",
+      "event": "Itri dönemi - Klasik Türk Musikisi'nin altın çağı"
+    },
+    {
+      "year": "1778-1846",
+      "event": "Dede Efendi dönemi"
+    },
+    {
+      "year": "1826",
+      "event": "Yeniçeri Ocağı'nın kaldırılması, Mehterhane dağıtılması"
+    },
+    {
+      "year": "1873-1916",
+      "event": "Tamburi Cemil Bey dönemi"
+    },
+    {
+      "year": "1911",
+      "event": "Mehter takımının İstanbul'da yeniden kurulması"
+    },
+    {
+      "year": "1922",
+      "event": "Osman Zeki Üngör'ün İstiklal Marşı'nı bestelemesi"
+    },
+    {
+      "year": "1924",
+      "event": "Musiki Muallim Mektebi'nin açılması"
+    },
+    {
+      "year": "1925",
+      "event": "Anadolu'ya ilk halk müziği derleme gezileri"
+    },
+    {
+      "year": "1936",
+      "event": "Ankara Devlet Konservatuvarı'nın kuruluşu"
+    },
+    {
+      "year": "1942",
+      "event": "Ahmet Adnan Saygun'un 'Yunus Emre Oratoryosu'"
+    },
+    {
+      "year": "744",
+      "event": "Uygur Kağanlığı'nda saray müzikleri"
+    },
+    {
+      "year": "M.S. 5-6. yy",
+      "event": "Nuhen Had mağarasında kopuz bulunması"
+    },
+    {
+      "year": "M.S. 552",
+      "event": "Göktürklerde 'Kahramanlık-Destan Müziği' geleneği"
+    },
+    {
+      "year": "M.Ö. 400",
+      "event": "Pazırık kurganında telli saz parçaları"
+    },
+    {
+      "year": "M.Ö. 600",
+      "event": "Hunlarda kopuz çalgısının kullanımı"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Orta Asya'da Türk-Çin Kültürel Etkileşim: Çalgılar ve Pipa",
+      "author": "Funda Esin, Sakarya Üniversitesi Devlet Konservatuvarı",
+      "url": "https://belleten.gov.tr/tam-metin/3783/tur",
+      "type": "Akademik"
+    },
+    {
+      "title": "Türk Halklarının Folklorunda Müzik Aletleri",
+      "author": "Yesevi Üniversitesi Bilig Dergisi",
+      "url": "https://bilig.yesevi.edu.tr/yonetim/icerik/makaleler/1173-published.pdf",
+      "type": "Akademik"
+    },
+    {
+      "title": "Kopuz ve Türk Müzik Kültürü",
+      "author": "Funda Esin, Sakarya Üniversitesi",
+      "url": "https://www.sosyalarastirmalar.com/articles/the-adventure-of-the-break-in-the-historical-process.pdf",
+      "type": "Akademik"
+    },
+    {
+      "title": "Marşlarla Tarihe Yolculuk",
+      "author": "Arzu Demirel, TRT Nota Arşivi",
+      "url": "https://nota.trt.net.tr/Documents/Article/6/8c5f5b72-a34d-4552-9cbd-f96d719bee08-74bir-dunya-muzikagustos-eylul-marslar.pdf",
+      "type": "TRT Arşiv"
+    },
+    {
+      "title": "Klâsikten Neoklâsiğe Mûsıkî Medeniyetimiz",
+      "author": "Erdoğan Ateş, Süleyman Demirel Üniversitesi",
+      "url": "https://isamveri.org/pdfdrg/D01535/2014_32/2014_32_ATESE.pdf",
+      "type": "Akademik"
+    },
+    {
+      "title": "Mevlevilerin Müziği",
+      "url": "https://www.konyapedia.com/makale/3086/mevlevi-muzigi",
+      "type": "Web"
+    },
+    {
+      "title": "İstiklal Marşı - MEB",
+      "url": "https://www.meb.gov.tr/istiklalmarsi",
+      "type": "Resmi"
+    },
+    {
+      "title": "İstiklal Marşı'nın Bestecisi: Osman Zeki Üngör",
+      "author": "Anadolu Ajansı",
+      "url": "https://www.aa.com.tr/tr/kultur/istiklal-marsinin-bestecisi-osman-zeki-ungor/3149111",
+      "type": "Haber"
+    },
+    {
+      "title": "Cumhuriyetin Ses Mimarları: Türk Beşleri",
+      "author": "Do-Re Müzik",
+      "url": "https://blog.do-re.com.tr/cumhuriyetin-ses-mimarlari-turk-besleri-ve-modern-muzigimizin-kurulusu/",
+      "type": "Web"
+    },
+    {
+      "title": "Eski Türk Çalgıları",
+      "url": "https://www.yonkamuzikmarket.com/eski-turk-calgilari",
+      "type": "Web"
+    }
+  ],
+  "works": [
+    {
+      "id": "tug-takimi-(askeri-muzik)",
+      "title": "Tuğ Takımı (Askeri Müzik)",
+      "category": "Askeri Müzik / Tören Müziği",
+      "composer": "Anonim",
+      "lyricist": "Sözsüz eser",
+      "period": "İlk Çağ (MÖ 600 - MS 552)",
+      "era": "MÖ 4. yüzyıl - MS 6. yüzyıl",
+      "form": "Askeri Müzik / Tören Müziği",
+      "description": "Hun ordusunun savaş meydanına girerken çaldığı müzik. Davul, boru ve kopuzdan oluşan ilk Türk askeri müziğidir. Kaşgarlı Mahmud'un Divanü Lugati't-Türk'ünde 'Tuğ takımı' olarak geçer. SÖZSÜZ enstrümantal müziktir, notaları günümüze ulaşmamıştır.",
+      "lyrics": [],
+      "status": "SÖZSÜZ",
+      "source": "Ögel, Türk Kültür Tarihine Giriş; Kaşgarlı Mahmud, Divanü Lugati't-Türk",
+      "audio": null
+    },
+    {
+      "id": "kogurme-(saman-ayin-muzigi)",
+      "title": "Köğürme (Şaman Ayin Müziği)",
+      "category": "Dini / Şaman Ayini",
+      "composer": "Anonim",
+      "lyricist": "Sözsüz eser",
+      "period": "İlk Çağ (MÖ 600 - MS 552)",
+      "era": "İlk Çağ",
+      "form": "Dini / Şaman Ayini",
+      "description": "Şamanların hastaları iyileştirmek, ruhlarla iletişim kurmak için çaldığı müzik. Davul (tömbek) ve kopuz eşliğinde yapılırdı. UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alır.",
+      "lyrics": [],
+      "status": "SÖZSÜZ",
+      "source": "UNESCO Kültürel Miras Listesi",
+      "audio": null
+    },
+    {
+      "id": "orhun-yazitlari-muzik-i̇mgeler",
+      "title": "Orhun Yazıtları Müzik İmgeleri",
+      "category": "Tören Müziği",
+      "composer": "Anonim",
+      "lyricist": "Sözsüz eser",
+      "period": "Göktürk-Uygur-Karahanlı (MS 552 - 1299)",
+      "era": "MS 8. yüzyıl (732)",
+      "form": "Tören Müziği",
+      "description": "Tonyukuk, Bilge Kağan ve Kül Tigin yazıtlarında müzikle ilgili imgeler vardır. 'Kutlu günlerde eğlenir, şarkılar söyleriz' ifadesi müziğin devlet merasimlerindeki yerini gösterir. SÖZSÜZ tören müziğidir.",
+      "lyrics": [],
+      "status": "SÖZSÜZ",
+      "source": "Timur Vural, Türk Askeri Müzik Geleneği",
+      "audio": null
+    },
+    {
+      "id": "divanu-lugati't-turk-muzik-ter",
+      "title": "Divanü Lugati't-Türk Müzik Terimleri",
+      "category": "Müzik Sözlüğü",
+      "composer": "Kaşgarlı Mahmud (yazar)",
+      "lyricist": "Sözsüz eser",
+      "period": "Göktürk-Uygur-Karahanlı (MS 552 - 1299)",
+      "era": "1073",
+      "form": "Müzik Sözlüğü",
+      "description": "Türk müzik terimlerinin kaydedildiği ilk eserdir. Kubuz, saz, tögerek, yigäch, boru gibi çok sayıda müzik terimi tanımlanmıştır. Müzik eseri değil, müzik ansiklopedisi niteliğindedir.",
+      "lyrics": [],
+      "status": "SÖZSÜZ",
+      "source": "Kaşgarlı Mahmud, Divanü Lugati't-Türk",
+      "audio": null
+    },
+    {
+      "id": "kutadgu-bilig-muzik-bolumleri",
+      "title": "Kutadgu Bilig Müzik Bölümleri",
+      "category": "Edebî / Felsefi",
+      "composer": "Yusuf Has Hacib (yazar)",
+      "lyricist": "Sözsüz eser",
+      "period": "Göktürk-Uygur-Karahanlı (MS 552 - 1299)",
+      "era": "1069",
+      "form": "Edebî / Felsefi",
+      "description": "Müzik ve ahlak arasındaki ilişkiyi ele alır. 'Sazıyla sözüyle bilge kişi' ideali Türk müzik geleneğinin temel felsefesidir.",
+      "lyrics": [],
+      "status": "SÖZSÜZ",
+      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "audio": null
+    },
+    {
+      "id": "ceng-i-harbi",
+      "title": "Ceng-i Harbi",
+      "category": "Mehter Müziği",
+      "composer": "Anonim (Ali Ufkî notasyonu, 17. yüzyıl)",
+      "lyricist": "Sözsüz eser",
+      "period": "Selçuklu ve Erken Osmanlı (1299 - 1600)",
+      "era": "15-17. yüzyıl",
+      "form": "Mehter Müziği",
+      "description": "Mehter müziğinin en eski ve en karakteristik formudur. II. Mehmed (Fatih) döneminde İstanbul'un fethinde icra edilmiştir. Savaşın başladığını haber veren bir işaret niteliğindedir. 'Yektir Allah, innallah' diyerek biter. HATALI OLARAK 'Hücum Marşı' adıyla ve 'Evliya Çelebi Külliyatı'ndan alınmış denilmiştir - BU DOĞRU DEĞİLDİR. Asıl kaynağı Ali Ufkî'nin Mecmûa-i Sâz ü Söz'üdür. Evliya Çelebi yalnızca adından bahseder.",
+      "lyrics": [],
+      "status": "SÖZSÜZ",
+      "source": "Musiki Dergisi (2026); Ali Ufkî, Mecmûa-i Sâz ü Söz; Evliya Çelebi, Seyahatname s.336",
+      "audio": null,
+      "makam": "Nevâ",
+      "usul": "Ceng-i Harbi (özel usul)"
+    },
+    {
+      "id": "huseynî-pesrev-(hasan-can-cele",
+      "title": "Hüseynî Peşrev (Hasan Can Çelebi)",
+      "category": "Mehter Peşrevi",
+      "composer": "Hasan Can Çelebi (1490-1567)",
+      "lyricist": "Sözsüz eser",
+      "period": "Selçuklu ve Erken Osmanlı (1299 - 1600)",
+      "era": "16. yüzyıl",
+      "form": "Mehter Peşrevi",
+      "description": "Günümüze ulaşan mehter melodilerinin en eskilerinden biridir. Ali Ufkî tarafından notaya alınmıştır. Üç haneli olup mülâzime bölümü vardır. Temsil müziği özelliği taşır.",
+      "lyrics": [],
+      "status": "SÖZSÜZ",
+      "source": "TDV İslam Ansiklopedisi - Mehter; Ali Ufkî, Mecmûa-i Sâz ü Söz",
+      "audio": null,
+      "makam": "Hüseynî",
+      "usul": "Düyek (8/8)"
+    },
+    {
+      "id": "ey-gaziler-yol-gorundu",
+      "title": "Ey Gaziler Yol Göründü",
+      "category": "Mehter Karakterli Şarkı",
+      "composer": "Anonim",
+      "lyricist": "Anonim",
+      "period": "Selçuklu ve Erken Osmanlı (1299 - 1600)",
+      "era": "16-17. yüzyıl",
+      "form": "Mehter Karakterli Şarkı",
+      "description": "II. Mahmud'un 1826'da mehter takımını kaldırmasından sonra günümüze kalan nadir orijinal mehter eserlerindendir. Şarkı formunda kaydedilmiştir ancak mehter karakteri taşır.",
+      "lyrics": [
+        "Ey gaziler yol göründü",
+        "Menzile de az kaldı",
+        "Kafirler ne yapsa boş",
+        "İmanlıya kız kaldı"
+      ],
+      "status": "SÖZLÜ",
+      "source": "Haydar Sanal, Mehter Musikisi; Musiki Dergisi",
+      "audio": null,
+      "makam": "Isfahan",
+      "usul": "Nim Sofyan"
+    },
+    {
+      "id": "rast-benefsezar-pesrevi",
+      "title": "Rast Benefşezar Peşrevi",
+      "category": "Mehter Peşrevi",
+      "composer": "Anonim (Ali Ufkî notasyonu)",
+      "lyricist": "Sözsüz eser",
+      "period": "Selçuklu ve Erken Osmanlı (1299 - 1600)",
+      "era": "17. yüzyıl",
+      "form": "Mehter Peşrevi",
+      "description": "Ali Ufkî'nin Mecmûa-i Sâz ü Söz'ünde notaya alınmış anonim mehter peşrevidir. 'Benefşezar' (çiçek bahçesi) adıyla bilinir. HATALI OLARAK CD'lerde sadece 'Anonim' denmiş, Ali Ufkî'nin adı anılmamıştır.",
+      "lyrics": [],
+      "status": "SÖZSÜZ",
+      "source": "TDV İslam Ansiklopedisi - Mehter; Ali Ufkî, Mecmûa-i Sâz ü Söz",
+      "audio": null,
+      "makam": "Rast",
+      "usul": "Devr-i Kebir"
+    },
+    {
+      "id": "segâh-pesrev-(neyzen-yusuf-pas",
+      "title": "Segâh Peşrev (Neyzen Yusuf Paşa)",
+      "category": "Mehter Peşrevi",
+      "composer": "Neyzen Yusuf Paşa",
+      "lyricist": "Sözsüz eser",
+      "period": "Selçuklu ve Erken Osmanlı (1299 - 1600)",
+      "era": "17-18. yüzyıl",
+      "form": "Mehter Peşrevi",
+      "description": "Neyzen Yusuf Paşa'nın Segâh makamında bestelediği mehter peşrevidir. Mehterhane-i Hümâyûn'un gösteri repertuvarının önemli parçalarındandır.",
+      "lyrics": [],
+      "status": "SÖZSÜZ",
+      "source": "Haydar Sanal, Mehter Musikisi",
+      "audio": null,
+      "makam": "Segâh",
+      "usul": "Devr-i Kebir"
+    },
+    {
+      "id": "mehterhâne-i-humâyûn-fasillari",
+      "title": "Mehterhâne-i Hümâyûn Fasılları",
+      "category": "Mehter Fasılı",
+      "composer": "Çeşitli (anonim + bestekârlar)",
+      "lyricist": "Sözsüz eser",
+      "period": "Osmanlı Klasik Dönem (1600 - 1826)",
+      "era": "15-19. yüzyıl",
+      "form": "Mehter Fasılı",
+      "description": "Evliya Çelebi Seyahatnamesi'ne göre mehter takımı her gece üç fasıl ve bir ceng-i harbî çalardı. 'On iki makam, yirmi dört şube, yirmi dört usûl, kırk sekiz terkîb-i musıkî faslı' icra edilirdi. Bu fasıllar günümüze Ali Ufkî'nin Mecmûa-i Sâz ü Söz'ü (544 eser) ve Kantemiroğlu'nun Edvâr'ı sayesinde ulaşmıştır.",
+      "lyrics": [],
+      "status": "SÖZSÜZ",
+      "source": "Evliya Çelebi, Seyahatname; Ali Ufkî, Mecmûa-i Sâz ü Söz",
+      "audio": null
+    },
+    {
+      "id": "genc-osman",
+      "title": "Genç Osman",
+      "category": "Mehter Peşrevi / Marş",
+      "composer": "Anonim",
+      "lyricist": "Anonim",
+      "period": "Osmanlı Klasik Dönem (1600 - 1826)",
+      "era": "16-17. yüzyıl",
+      "form": "Mehter Peşrevi / Marş",
+      "description": "IV. Murad (Genç Osman) dönemine ait olduğu söylenen anonim mehter peşrevidir. TRT notasında güftesi bulunur.",
+      "lyrics": [
+        "Genç Osman dediğin bir küçük uşak",
+        "Gider kılıncı kınından çekmiş",
+        "Düşman ordusunu dağıtmış başak",
+        "Gelir zaferle dönmüş neşe ile"
+      ],
+      "status": "SÖZLÜ",
+      "source": "TRT Nota Arşivi",
+      "audio": null,
+      "makam": "Rast",
+      "usul": "Düyek"
+    },
+    {
+      "id": "ceddin-deden",
+      "title": "Ceddin Deden",
+      "category": "Mehter Marşı",
+      "composer": "İsmail Hakkı Bey (beste, 1917)",
+      "lyricist": "Anonim (Türkçü marş güfteleri)",
+      "period": "Cumhuriyet Dönemi (1914 - Günümüz)",
+      "era": "1917",
+      "form": "Mehter Marşı",
+      "description": "Günümüzde en çok bilinen mehter marşıdır. Ancak 1917'de İsmail Hakkı Bey tarafından bestelenmiştir, yani Osmanlı dönemi eseri DEĞİLDİR. Enver Paşa'nın 1914'te mehter takımını yeniden kurması sonrası bestelenen 'Türkçü marşlar' kuşağından biridir.",
+      "lyrics": [
+        "Ceddin, deden, neslin, baban",
+        "Hep kahraman Türk milleti",
+        "Ordumun, bugün, yüreği",
+        "Orduların hep Türk milleti",
+        "",
+        "Yürü, yürü, askerim yürü",
+        "Yürü, yürü, Türk askeri"
+      ],
+      "status": "SÖZLÜ",
+      "source": "Musiki Dergisi; TRT Nota Arşivi; Haydar Sanal, Mehter Musikisi",
+      "audio": null,
+      "makam": "Rast",
+      "usul": "Düyek (8/8)"
+    },
+    {
+      "id": "tarihi-cevir",
+      "title": "Tarihi Çevir",
+      "category": "Mehter Marşı",
+      "composer": "Cemal Cümbüş (beste)",
+      "lyricist": "M. Faruk Gürtunca",
+      "period": "Cumhuriyet Dönemi (1914 - Günümüz)",
+      "era": "1914 sonrası (Enver Paşa dönemi)",
+      "form": "Mehter Marşı",
+      "description": "Enver Paşa döneminde bestelenen Türkçü mehter marşlarından biridir. 'Tarihi çevir nal sesi kısrak sesi bunlar' sözleriyle başlar. Bestekârı Cemal Cümbüş'tür.",
+      "lyrics": [
+        "Tarihi çevir nal sesi kısrak sesi bunlar",
+        "Delmiş Romanın kalbini mızrak gibi hunlar",
+        "Göktürkler, Uygurlar, Oğuzlar, Peçenekler",
+        "Türkün yüce tarihine binbir zafer ekler",
+        "",
+        "Dünya atının nalları altında ezildi",
+        "Kaç Haçlı sefer göğsüne çarpınca kesildi",
+        "Bir gün gemiler dağlara tırmandı denizden",
+        "Kudret ve zafer bizlere miras dedemizden"
+      ],
+      "status": "SÖZLÜ",
+      "source": "TRT Nota Arşivi; Musiki Dergisi",
+      "audio": null,
+      "makam": "Segâh",
+      "usul": "Düyek"
+    },
+    {
+      "id": "mehterhane-i-hakanî",
+      "title": "Mehterhane-i Hakanî",
+      "category": "Mehter Marşı",
+      "composer": "İsmail Hakkı Bey",
+      "lyricist": "Ahmet Muhtar Paşa",
+      "period": "Cumhuriyet Dönemi (1914 - Günümüz)",
+      "era": "1914 sonrası",
+      "form": "Mehter Marşı",
+      "description": "İsmail Hakkı Bey'in bestelediği, Ahmet Muhtar Paşa'nın güftesiyle meşhur olan mehter marşıdır. Mehterhane-i Hakanî, Osmanlı padişahının saray mehteridir.",
+      "lyrics": [
+        "Gafil ne bilir neşve-i pür-şevk-i vegayı",
+        "Mehterhane-i Hakanî'nin heybetini",
+        "Köslerin gürültüsü zurnaların nağmesi",
+        "Askeri coşturur zafer ateşini"
+      ],
+      "status": "SÖZLÜ",
+      "source": "Musiki Dergisi; TRT Nota Arşivi",
+      "audio": null,
+      "makam": "Mahur",
+      "usul": "Düyek"
+    },
+    {
+      "id": "i̇stiklal-marsi",
+      "title": "İstiklal Marşı",
+      "category": "Milli Marş",
+      "composer": "Osman Zeki Üngör (beste, 1922)",
+      "lyricist": "Mehmet Akif Ersoy (1921)",
+      "period": "Cumhuriyet Dönemi (1914 - Günümüz)",
+      "era": "1921-1922",
+      "form": "Milli Marş",
+      "description": "Türkiye Cumhuriyeti ve Kuzey Kıbrıs Türk Cumhuriyeti'nin milli marşıdır. Mehmet Akif Ersoy tarafından 5-7 Şubat 1921'de yazılmış, 12 Mart 1921'de TBMM'de kabul edilmiştir. Bestesi Osman Zeki Üngör'e aittir (1922). Aruz ölçüsüyle yazılmıştır.",
+      "lyrics": [
+        "Korkma, sönmez bu şafaklarda yüzen al sancak;",
+        "Sönmeden yurdumun üstünde tüten en son ocak.",
+        "O benim milletimin yıldızıdır, parlayacak;",
+        "O benimdir, o benim milletimindir ancak.",
+        "",
+        "Çatma, kurban olayım çehreni ey nazlı hilâl!",
+        "Kahraman ırkıma bir gül! Ne bu şiddet bu celâl?",
+        "Sana olmaz dökülen kanlarımız sonra helâl,",
+        "Hakkıdır, Hakk'a tapan, milletimin istiklâl."
+      ],
+      "status": "SÖZLÜ",
+      "source": "MEB; Anadolu Ajansı; TBMM arşivi",
+      "audio": null,
+      "makam": "Nihavent",
+      "usul": "Müezzin Ağa (Andante Maestoso)",
+      "fullLyrics": [
+        {
+          "stanza": "I. Kıta (Resmi Marş - 1. Kıta)",
+          "text": "Korkma, sönmez bu şafaklarda yüzen al sancak;\nSönmeden yurdumun üstünde tüten en son ocak.\nO benim milletimin yıldızıdır, parlayacak;\nO benimdir, o benim milletimindir ancak."
+        },
+        {
+          "stanza": "II. Kıta (Resmi Marş - 2. Kıta)",
+          "text": "Çatma, kurban olayım çehreni ey nazlı hilâl!\nKahraman ırkıma bir gül! Ne bu şiddet bu celâl?\nSana olmaz dökülen kanlarımız sonra helâl,\nHakkıdır, Hakk'a tapan, milletimin istiklâl."
+        },
+        {
+          "stanza": "III. Kıta",
+          "text": "Ben ezelden beridir hür yaşadım, hür yaşarım.\nHangi çılgın bana zincir vuracakmış? Şaşarım!\nKükremiş sel gibiyim; bendimi çiğner, aşarım;\nYırtarım dağları, enginlere sığmam, taşarım."
+        },
+        {
+          "stanza": "IV. Kıta",
+          "text": "Garbın âfâkını sarmışsa çelik zırhlı duvar;\nBenim iman dolu göğsüm gibi serhaddim var.\nUlusun, korkma! Nasıl böyle bir îmânı boğar,\n'Medeniyet!' dediğin tek dişi kalmış canavar?"
+        },
+        {
+          "stanza": "V. Kıta",
+          "text": "Arkadaş! Yurduma alçakları uğratma sakın;\nSiper et gövdeni, dursun bu hayâsızca akın.\nDoğacaktır sana va'dettiği günler Hakk'ın...\nKim bilir, belki yarın, belki yarından da yakın."
+        },
+        {
+          "stanza": "VI. Kıta",
+          "text": "Bastığın yerleri 'toprak!' diyerek geçme, tanı!\nDüşün altındaki binlerce kefensiz yatanı.\nSen şehîd oğlusun, incitme, yazıktır atanı;\nVerme, dünyâları alsan da, bu cennet vatanı."
+        },
+        {
+          "stanza": "VII. Kıta",
+          "text": "Kim bu cennet vatanın uğruna olmaz ki fedâ?\nŞühedâ fışkıracak, toprağı sıksan şühedâ!\nCânı, cânânı, bütün varımı alsın da Hudâ,\nEtmesin tek vatanımdan beni dünyâda cüdâ."
+        },
+        {
+          "stanza": "VIII. Kıta",
+          "text": "Ruhumun senden, İlâhî, şudur ancak emeli:\nDeğmesin ma'bedimin göğsüne na-mahrem eli!\nBu ezanlar-ki şehâdetleri dînin temeli\nEbedî, yurdumun üstünde benim inlemeli."
+        },
+        {
+          "stanza": "IX. Kıta",
+          "text": "O zaman vecd ile bin secde eder -varsa- taşım;\nHer cerîhamdan, İlâhî, boşanıp kanlı yaşım,\nFışkırır rûh-i mücerred gibi yerden na'şım!\nO zaman yükselerek Arş'a değer, belki başım."
+        },
+        {
+          "stanza": "X. Kıta (Beşlik)",
+          "text": "Dalgalan sen de şafaklar gibi ey şanlı hilâl!\nOlsun artık dökülen kanlarımın hepsi helâl\nEbediyyen sana yok, ırkıma yok izmihlâl:\nHakkıdır, hür yaşamış bayrağımın hürriyet;\nHakkıdır, Hakk'a tapan milletimin istiklâl!"
+        }
+      ]
+    }
+  ]
+}

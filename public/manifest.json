@@ -1,0 +1,36 @@
+{
+  "name": "Türk Tarihi - 2500 Yıllık Medeniyetin Dijital Ansiklopedisi",
+  "short_name": "Türk Tarihi",
+  "description": "M.Ö. 520'den günümüze Türk tarihi. 272 hükümdar, 21 devlet, destanlar, Orhun Yazıtları, Türk coğrafyası ve kültürü.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0a09",
+  "theme_color": "#d97706",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "books", "history"],
+  "screenshots": [
+    {
+      "src": "/screenshot-1.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Türk Tarihi Ana Sayfa"
+    }
+  ]
+}

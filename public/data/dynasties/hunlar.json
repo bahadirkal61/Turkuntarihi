@@ -1,0 +1,502 @@
+[
+  {
+    "id": "hun-teoman",
+    "order": 1,
+    "name": "Teoman (Tumen)",
+    "title": "Şanyu (Kağan)",
+    "period": "M.Ö. 234 - M.Ö. 209",
+    "dynasty": "Hun İmparatorluğu",
+    "dynastyId": "hunlar",
+    "era": "İlk Çağ",
+    "image": "/images/huk-teoman.jpg",
+    "description": "Hun İmparatorluğu'nun kurucusu, Mete Han'ın babası.",
+    "fullBio": "Teoman (Tumen), M.Ö. 234 ile M.Ö. 209 yılları arasında hüküm sürmüş, Hun İmparatorluğu'nun kuruluş döneminde öncü liderlik yapmış, Türk tarihinin en önemli dönüm noktalarından birinin mimarıdır. M.Ö. 3. yüzyılda Orta Asya'nın geniş ve sınırsız steplerinde yaşayan çeşitli Hun boylarını ilk kez tek bir çatı altında birleştirme çabasını başlatan tarihi bir liderdir. Çin Han Hanedanı'nın kuzey sınırlarına düzenli ve etkili baskınlar düzenleyerek, Çin'in korkuyla büyük bir savunma projesi olan Çin Seddi'nin inşasına zemin hazırlamıştır. Teoman döneminde Hunlar, Moğolistan'ın geniş bozkırlarında, Baykal Gölü çevresinde ve güney Sibirya'da örgütlenmeye başlamış, ilk merkezi otorite yapısını oluşturmaya çalışmışlardır. Atlı okçu taktiklerini sistematik hale getirmiş, seferberlik sisteminin, onlu askeri teşkilatın temellerini atmıştır. Oğulları arasında taht kavgaları yaşanmış, en küçük oğlu olan ve en yetenekli askeri lider olarak görülen Mete Han, babasının başlattığı birliği tamamlayarak M.Ö. 209'da resmen Hun İmparatorluğu'nu kurmuştur. Teoman'ın askeri örgütlenme modeli, vergi toplama sistemi ve merkezi otorite anlayışı, sonraki yüzyıllar boyunca Avrupa ve Asya tarihini derinden değiştirecek Hun gücünün ilk temellerini oluşturmuştur. Onun liderliği, Türk devlet geleneğinin doğuşunu, Türk askeri organizasyonunun ilk şekillenişini temsil eden tarihi bir dönüm noktasıdır. Teoman'ın başlattığı birlik hareketi, Mete Han tarafından tamamlanarak dünyanın en geniş imparatorluklarından birinin doğuşunu sağlamıştır.",
+    "legacy": "Hun İmparatorluğu'nun temellerini atan hükümdardır. Oğlu Mete Han tarafından devrilmesi, Hun devlet yapısının yeniden şekillenmesine yol açmıştır.",
+    "achievements": [
+      "Hun birliğini başlatma",
+      "Çin'e karşı direniş önderliği",
+      "Onlu askeri teşkilatın temellerini atma",
+      "Çin Seddi'nin inşasına zemin hazırlama"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.Ö. 234",
+        "title": "Hun Birliğinin Kuruluşu",
+        "description": "Teoman, Orta Asya bozkırlarındaki çeşitli Hun boylarını ilk kez tek bir çatı altında birleştirme çabasını başlattı."
+      },
+      {
+        "year": "M.Ö. 215",
+        "title": "Çin Sınırlarına Baskınlar",
+        "description": "Hun orduları Çin'in kuzey sınırlarına düzenli baskınlar düzenleyerek, Şi Huangdi'yi Çin Seddi'ni inşa etmeye zorladı."
+      },
+      {
+        "year": "M.Ö. 209",
+        "title": "Mete Han'ın Tahta Çıkışı",
+        "description": "Teoman'ın oğlu Mete Han, babasını devirerek Hun İmparatorluğu'nu resmen kurdu."
+      }
+    ],
+    "predecessor": "Devletin kurucusu",
+    "successor": "Mete Han",
+    "quote": {
+      "text": "Gökyüzünde tek güneş, yeryüzünde tek kağan olmalıdır.",
+      "source": "Teoman"
+    },
+    "battles": [
+      {
+        "name": "Ordos Seferleri",
+        "year": "M.Ö. 215",
+        "result": "victory",
+        "description": "Hun orduları, Çin'in kuzey eyaletlerine akınlar düzenleyerek Ordos bölgesini kontrol altına aldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Şi Huangdi (Qin Shi Huang)",
+        "role": "Çin İmparatoru",
+        "description": "Çin'in ilk imparatoru (M.Ö. 221-210). Hun tehdidine karşı Çin Seddi'nin inşasını emretti."
+      },
+      {
+        "name": "Meng Tian",
+        "role": "Çin Generali",
+        "description": "Şi Huangdi'nin ünlü komutanı. Çin Seddi'nin inşasını yönetmiş, Hunlara karşı seferler düzenlemiştir."
+      },
+      {
+        "name": "Mete Han",
+        "role": "Hun Kağanı",
+        "description": "Teoman'ın oğlu ve halefi. M.Ö. 209'da babasını devirerek Hun İmparatorluğu'nu kurdu."
+      }
+    ]
+  },
+  {
+    "id": "hun-mete-han",
+    "order": 2,
+    "name": "Mete Han (Modu Şanyu)",
+    "title": "Hun Kurucu Kağanı",
+    "period": "M.Ö. 209 - M.Ö. 174",
+    "dynasty": "Hun İmparatorluğu",
+    "dynastyId": "hunlar",
+    "era": "İlk Çağ",
+    "image": "/images/huk-mete-han.jpg",
+    "description": "Hun İmparatorluğu'nun gerçek kurucusu. Babası Teoman'ı devirerek tahta çıktı. Çin'i vergiye bağlayan, Göktürklerden önce dünyanın en büyük bozkır imparatorluğunu kuran deha.",
+    "fullBio": "Mete Han (Modu Şanyu), M.Ö. 209 ile M.Ö. 174 yılları arasında 35 yıl hüküm sürmüş, Hun İmparatorluğu'nun kurucusu ve Türk dünyasının en büyük askeri dehalarından ve devlet adamlarından biridir. Babası Teoman'ın hükümdarlığı döneminde Çin'e rehin olarak gönderilmiş, burada yıllar boyunca Çin askeri taktiklerini, diplomatikasını ve devlet yönetimini yakından inceleme fırsatı bulmuştur. M.Ö. 209'da babasını devirerek tek hükümdar olduğunda, Hun İmparatorluğu'nun sağlam temellerini atmış, derhal Çin'e karşı saldırıya geçerek imparatorluğun gücünü tüm dünyaya kanıtlamıştır. Mete Han'ın en büyük askeri başarısı, M.Ö. 200 yılındaki Ping Cheng Muharebesi'nde Çin Han İmparatoru Gaozu (Liu Bang)'u ağır bir yenilgiye uğratması ve imparatoru tamamen kuşatma altına almasıdır. Bu destansı zafer sonrası Çin, yıllık olarak Hunlara ağır bir vergi ödemek, büyük miktarlarda ipek, şarap ve tahıl göndermek zorunda kalmıştır. Mete Han ayrıca Çin prensesleriyle evlenerek diplomatik üstünlük sağlamış ve Çin sarayında kendisine bağlı casuslar bulundurmuştur. Mete Han, On-Toğrı (On İki Kabile) sistemiyle devlet yapısını kurmuş, sol kanat şanyusu batıda, sağ kanat şanyusu doğuda olmak üzere imparatorluğu iki kanada ayırmıştır. Onlu düzen (on, yüz, bin, on bin) askeri teşkilatını kurarak ok-yay imparatorluğunun temelini atmıştır. Gök Türklerden Osmanlılara kadar tüm Türk devletlerinin yapısını etkileyecek bu sistem, Mete Han'ın en kalıcı ve en önemli mirasıdır. Kuzeyde Sibirya'ya, güneyde Çin Seddi'ne, batıda Kazakistan'a kadar uzanan imparatorluk, döneminin dünyadaki en güçlü devleti olmuştur.",
+    "legacy": "Türk tarihinin en büyük kurucu hükümdarlarından biridir. Kurduğu merkezi otorite modeli, onluk askeri sistem ve bozkır imparatorluğu yapısı, sonraki tüm Türk devletleri için şablon olmuştur. 'Birlikte bükülen oklar' hikayesi Türk devlet felsefesinin temel sembollerindendir.",
+    "achievements": [
+      "Hun İmparatorluğu'nu kurma",
+      "Ping Cheng Zaferi (M.Ö. 200)",
+      "Çin'i vergiye bağlama",
+      "Onluk askeri sistemi kurma",
+      "Bozkır imparatorluk modelini oluşturma",
+      "Donghu ve Yuezhi'yi yenme"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.Ö. 209",
+        "title": "Tahta Çıkış",
+        "description": "Babasını devirerek Hun Kağanı oldu ve imparatorluğun temellerini attı."
+      },
+      {
+        "year": "M.Ö. 209",
+        "title": "Donghu Zaferi",
+        "description": "Doğudaki Donghu kabilelerini yenerek doğal sınırları genişletti."
+      },
+      {
+        "year": "M.Ö. 200",
+        "title": "Ping Cheng Zaferi",
+        "description": "Çin İmparatoru Liu Bang'ı ağır bir yenilgiye uğrattı, imparatoru kuşatma altına aldı."
+      },
+      {
+        "year": "M.Ö. 198",
+        "title": "Çin-Hun Antlaşması",
+        "description": "Çin, Hunlara yıllık vergi (heqin) ödemeyi kabul etti."
+      },
+      {
+        "year": "M.Ö. 176",
+        "title": "Yuezhi Seferi",
+        "description": "Batıdaki Yuezhi kabilelerini yenerek Orta Asya'ya hakim oldu."
+      },
+      {
+        "year": "M.Ö. 174",
+        "title": "Mete Han'ın Ölümü",
+        "description": "Hun İmparatorluğu'nun zirvesinde öldü."
+      }
+    ],
+    "predecessor": "Teoman",
+    "successor": "Laoshang (Gunchen)",
+    "quote": {
+      "text": "Tek okla vuramazsınız ama birlikte bükülen okları kimse kıramaz.",
+      "source": "Mete Han'ın ordusunu birleştirme hikayesi"
+    },
+    "relatedPeople": [
+      {
+        "name": "Liu Bang (Han Gaozu)",
+        "role": "Han Hanedanı İmparatoru",
+        "description": "Çin Han Hanedanı'nın kurucusu (M.Ö. 202-195). Mete Han ile Ping Cheng Muharebesi'nde (M.Ö. 200) ağır yenilgiye uğradı."
+      },
+      {
+        "name": "Lü Zhi (Lü Hou)",
+        "role": "Çin İmparatoriçesi",
+        "description": "Liu Bang'ın eşi. Mete Han döneminde Çin-Hun ilişkilerinde etkili olmuş, Mete Han'a mektup yazarak diplomatik ilişkileri sürdürmüştür."
+      },
+      {
+        "name": "Chen Ping",
+        "role": "Çin Devlet Adamı",
+        "description": "Liu Bang'ın danışmanı. Ping Cheng kuşatmasında imparatorun kaçışını organize etti."
+      }
+    ],
+    "battles": [
+      {
+        "name": "Ping Cheng Muharebesi",
+        "year": "M.Ö. 200",
+        "result": "victory",
+        "description": "Mete Han, 300.000 atlıdan oluşan Hun ordusuyla Çin İmparatoru Liu Bang'ı Ping Cheng'te ağır bir yenilgiye uğrattı."
+      },
+      {
+        "name": "Donghu Seferi",
+        "year": "M.Ö. 209",
+        "result": "victory",
+        "description": "Doğudaki Donghu kabilelerini yenerek Hun topraklarını genişletti."
+      },
+      {
+        "name": "Yuezhi Seferi",
+        "year": "M.Ö. 176",
+        "result": "victory",
+        "description": "Batıdaki Yuezhi kabilelerini yenerek Orta Asya'ya hakim oldu ve onları batıya göçe zorladı."
+      }
+    ]
+  },
+  {
+    "id": "hun-laoshang",
+    "order": 3,
+    "name": "Laoshang (Gunchen)",
+    "title": "Hun Kağanı",
+    "period": "M.Ö. 174 - M.Ö. 161",
+    "dynasty": "Hun İmparatorluğu",
+    "dynastyId": "hunlar",
+    "era": "İlk Çağ",
+    "image": "/images/huk-hun-laoshang.jpg",
+    "description": "Mete Han'ın oğlu, Hunların Çin'e karşı en güçlü dönemini sürdürdü.",
+    "fullBio": "Laoshang (Gunchen), M.Ö. 174 ile M.Ö. 161 yılları arasında hüküm sürmüş, Hun İmparatorluğu'nun zirve dönemini sürdüren önemli bir kağandır. Babası Mete Han'dan devraldığı muazzam imparatorluğu başarıyla yönetmiş, Çin'e karşı Hun üstünlüğünü kararlı bir şekilde sürdürmüştür. Döneminde Hun İmparatorluğu, Moğolistan'dan Kazakistan'a, Güney Sibirya'dan Çin Seddi'ne kadar uzanan devasa bir coğrafyada hüküm sürüyordu. Laoshang, Çin Han Hanedanı'na karşı aktif ve agresif bir politika izlemiş, heqin (barış evliliği) sistemini kendi lehlerine kullanarak Çin'den büyük miktarda ipek, altın ve tahıl tazminatı almıştır. M.Ö. 166'da büyük bir Hun ordusuyla Çin'in içlerine ilerlemiş, bu sefer Çin sarayında büyük paniğe yol açmıştır. Laoshang ayrıca batıya doğru genişleme politikası izlemiş, Orta Asya'daki Yuezhi ve Saka kabileleri üzerinde Hun nüfuzunu pekiştirmiştir. Döneminde Çinli elçi Zhang Qian'ın batıya seyahati, Hunların Orta Asya üzerindeki kontrolünü doğrulamıştır. Laoshang'ın hükümdarlığı, Hun İmparatorluğu'nun askeri, diplomatik ve ekonomik zirvesini temsil eder. Oğulları arasında taht kavgaları başlamış, bu iç çekişmeler Hun İmparatorluğu'nun yavaş yavaş zayıflamasına yol açmıştır.",
+    "legacy": "Hunların zirve dönemini sürdüren kağandır. Çin üzerindeki Hun üstünlüğünü en üst seviyede tutmuş, ancak sonrasında başlayan iç çekişmeler imparatorluğun zayıflamasına yol açmıştır.",
+    "achievements": [
+      "Hunların Çin üzerindeki üstünlüğünü sürdürme",
+      "Çin'den büyük tazminatlar alma",
+      "Orta Asya'daki Hun nüfuzunu pekiştirme",
+      "Hun imparatorluğunu zirvede tutma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.Ö. 174",
+        "title": "Tahta Çıkış",
+        "description": "Babası Mete Han'ın ölümünden sonra Hun Kağanı oldu."
+      },
+      {
+        "year": "M.Ö. 166",
+        "title": "Çin Seferi",
+        "description": "Büyük bir Hun ordusuyla Çin'in içlerine ilerleyerek Han başkenti Chang'an'a yaklaştı."
+      },
+      {
+        "year": "M.Ö. 162",
+        "title": "Orta Asya Seferleri",
+        "description": "Fergana ve Kaşgar bölgesindeki Yuezhi ve Saka kabileleri üzerindeki Hun hakimiyetini güçlendirdi."
+      },
+      {
+        "year": "M.Ö. 161",
+        "title": "Laoshang'ın Ölümü",
+        "description": "Hun İmparatorluğu'nun zirvesinde öldü, ardından oğulları arasında taht kavgaları başladı."
+      }
+    ],
+    "predecessor": "Mete Han",
+    "successor": "Huhanye",
+    "quote": {
+      "text": "Çin Seddi bizim için değil, onları korumak için yapıldı.",
+      "source": "Laoshang Kağan"
+    },
+    "battles": [
+      {
+        "name": "Chang'an Baskını",
+        "year": "M.Ö. 166",
+        "result": "victory",
+        "description": "Hun orduları Çin başkentinin yakınlarına kadar ilerleyerek Han Hanedanı'nı ağır bir tazminat ödemeye zorladı."
+      },
+      {
+        "name": "Fergana Seferi",
+        "year": "M.Ö. 162",
+        "result": "victory",
+        "description": "Orta Asya'nın zengin Fergana vadisini kontrol altına alarak İpek Yolu üzerindeki Hun egemenliğini pekiştirdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Han Wendi",
+        "role": "Han Hanedanı İmparatoru",
+        "description": "Çin imparatoru (M.Ö. 180-157). Laoshang döneminde heqin (barış evliliği) politikasıyla Hunlara yıllık vergi ödemiştir."
+      },
+      {
+        "name": "Zhang Qian",
+        "role": "Çin Kaşifi",
+        "description": "İpek Yolu'nun açılmasını sağlayan ünlü Çin elçisi. Laoshang döneminde batıya seyahat etmiş, Hunların Orta Asya'daki gücünü rapor etmiştir."
+      },
+      {
+        "name": "Modu (Mete Han)",
+        "role": "Önceki Hun Kağanı",
+        "description": "Laoshang'ın babası. M.Ö. 209-174 arasında hüküm sürmüş, imparatorluğun en güçlü dönemini yaratan kurucu kağandır."
+      }
+    ]
+  },
+  {
+    "id": "hun-huhanye",
+    "order": 4,
+    "name": "Huhanye",
+    "title": "Güney Hun Kağanı",
+    "period": "M.Ö. 58 - M.Ö. 31",
+    "dynasty": "Hun İmparatorluğu (Güney Hunlar)",
+    "dynastyId": "hunlar",
+    "era": "İlk Çağ",
+    "image": "/images/huk-hun-huhanye.jpg",
+    "description": "Hun İmparatorluğu'nun ikiye bölünmesinden sonra Güney Hunların ilk büyük kağanı. Çin'e boyun eğen ilk Hun hükümdarı.",
+    "fullBio": "Huhanye (Huhanye Şanyu), M.Ö. 58 ile M.Ö. 31 yılları arasında hüküm sürmüş, Güney Hunların en önemli kağanıdır. Laoshang'ın ölümünden sonra Hun İmparatorluğu'nda başlayan iç çekişmeler, M.Ö. 60'larda tam bir iç savaşa dönüşmüş ve imparatorluk Güney Hunlar (Çin'e bağlı) ve Kuzey Hunlar (bağımsız) olmak üzere ikiye bölünmüştür. Huhanye, Güney Hunların lideri olarak M.Ö. 53 yılında Çin Han Hanedanı'na boyun eğmiş, imparatorun kızıyla evlenerek Çin-Hun ilişkilerinde yeni bir dönem başlatmıştır. Bu karar, Hunların Çin'e karşı asırlardır sürdürdükleri bağımsızlık politikasının sonu olmuştur. Ancak Huhanye, Çin desteğiyle Kuzey Hunlara karşı üstünlük sağlamış ve Güney Hunların varlığını korumuştur. Döneminde, Güney Hunlar Çin'in kuzey sınırında bir tampon devlet olarak görev yapmış, Çin ordusuyla birlikte Kuzey Hunlara karşı savaşmışlardır. Huhanye'nin Çin'e boyun eğmesi, Hun toplumunda büyük tartışmalara yol açmış, birçok Hun soylusunun Kuzey Hunların lideri Zhizhi'nin safına geçmesine neden olmuştur. Yine de Huhanye'nin politikası, Güney Hunların varlığını birkaç yüzyıl daha sürdürmesini sağlamış, sonraki dönemlerde Hun-Çin karışımı bir kültürün doğmasına zemin hazırlamıştır.",
+    "legacy": "Hun İmparatorluğu'nun ikiye bölünmesinden sonra Güney Hunların lideri olmuş, Çin'e boyun eğerek Hun bağımsızlığını sonlandırmış ancak Güney Hun varlığını korumuştur.",
+    "achievements": [
+      "Güney Hun Kağanlığı'nı kurma",
+      "Çin-Hun barışını sağlama",
+      "Güney Hunların varlığını koruma"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.Ö. 58",
+        "title": "Güney Hun Kağanı Olma",
+        "description": "Hun iç savaşında Güney Hunların lideri oldu."
+      },
+      {
+        "year": "M.Ö. 53",
+        "title": "Çin'e Boyun Eğme",
+        "description": "Çin Han Hanedanı'na bağlılığını ilan ederek barış istedi."
+      },
+      {
+        "year": "M.Ö. 33",
+        "title": "Wang Zhaojun ile Evlenme",
+        "description": "Çin İmparatoru Yuan'ın hizmetkârı Wang Zhaojun ile evlenerek diplomatik birliktelik kurdu."
+      },
+      {
+        "year": "M.Ö. 31",
+        "title": "Huhanye'nin Ölümü",
+        "description": "Güney Hunlar'ın lideri olarak öldü, oğulları taht mücadelesine girdi."
+      }
+    ],
+    "predecessor": "Zhizhi (Kuzey Hun Kağanı, rakip)",
+    "successor": "Fuzhulei Ruodi",
+    "quote": {
+      "text": "Gökyüzü altında barış, bozkırda huzur istiyorum.",
+      "source": "Huhanye'nin Çin İmparatoru Yuan'a mektubu"
+    },
+    "battles": [
+      {
+        "name": "Zhizhi'ye Karşı Savaş",
+        "year": "M.Ö. 44",
+        "result": "victory",
+        "description": "Çin ordusuyla işbirliği yaparak rakibi Kuzey Hun Kağanı Zhizhi'yi yenerek Güney Hunların üstünlüğünü sağladı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Zhizhi",
+        "role": "Kuzey Hun Kağanı",
+        "description": "Huhanye'nin rakibi ve Kuzey Hunların lideri. M.Ö. 36'da Çin ordusu tarafından yenilerek öldürüldü."
+      },
+      {
+        "name": "Wang Zhaojun",
+        "role": "Çin Prensesi",
+        "description": "Çin İmparatoru Yuan'ın saray hizmetkârı. Huhanye ile evlenerek Çin-Hun dostluğunun sembolü oldu."
+      },
+      {
+        "name": "Han Xuandi",
+        "role": "Han Hanedanı İmparatoru",
+        "description": "Çin imparatoru (M.Ö. 74-49). Huhanye'nin Çin'e boyun eğmesini kabul ederek Hun-Çin ilişkilerinde yeni bir dönem başlattı."
+      }
+    ]
+  },
+  {
+    "id": "hun-bilge",
+    "order": 5,
+    "name": "Bilge Hun Kağan",
+    "title": "Son Büyük Hun Kağanı",
+    "period": "M.Ö. 48 - M.S. 55",
+    "dynasty": "Hun İmparatorluğu (Güney Hunlar)",
+    "dynastyId": "hunlar",
+    "era": "İlk Çağ",
+    "image": "/images/huk-hun-bilge.jpg",
+    "description": "Hun İmparatorluğu'nun son büyük kağanı. İmparatorluğun ikiye bölünmesine tanık oldu, Güney Hunların varlığını uzun yıllar sürdürdü.",
+    "fullBio": "Bilge Hun Kağan, M.Ö. 48 ile M.S. 55 yılları arasında hüküm sürmüş, Hun İmparatorluğu'nun son büyük kağanlarından biridir. Doğu Asya Hun tarihinin en karmaşık dönemlerinde hüküm sürmüş, imparatorluğun parçalanması ve Güney Hunların Çin etkisine girmesi sürecine tanıklık etmiştir. Döneminde Hun İmparatorluğu resmen iki kampa ayrılmıştı: Güney Hunlar (Çin'e bağlı) ve Kuzey Hunlar (bağımsız ancak zayıflamış). Bilge Kağan, Güney Hunların lideri olarak Çin'in kuzey sınırında bir tampon devlet olarak varlığını sürdürmeye çalışmıştır. M.S. 48 civarında, Çin Han Hanedanı'nın artan baskıları ve iç karışıklıklar sonucu Güney Hunlarda büyük bir isyan patlak vermiş, bu isyan Çin ordusu tarafından kanla bastırılmıştır. Bilge Kağan bu dönemde Hunların bağımsızlığını tamamen kaybettiği, Çin kültürünün ve yönetim sisteminin Hun toplumuna derinden nüfuz ettiği bir döneme tanıklık etmiştir. Güney Hunlar giderek Çinleşmeye başlamış, Hun soyluları Çin sarayında görev almaya başlamıştır. Bilge'nin ölümünden sonra Güney Hunlar giderek zayıflamış ve M.S. 216 yılında resmen ortadan kalkmıştır. Ancak Kuzey Hunların batıya doğru göçü, Avrupa Hunlarının ve sonradan Attila'nın imparatorluğunun temelini oluşturmuştur.",
+    "legacy": "Hun İmparatorluğu'nun ikiye bölünmesine ve Güney Hunların Çinleşmesine tanık olan son büyük kağandır. Onun dönemi, Asya Hunlarının sonunu ve Avrupa Hunlarının doğuşunu birbirine bağlayan bir geçiş dönemidir.",
+    "achievements": [
+      "Güney Hunların varlığını sürdürme",
+      "Hun-Çin karışımı kültürün gelişmesine zemin hazırlama"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.Ö. 48",
+        "title": "Büyük İsyan",
+        "description": "Güney Hunlarda Çin karşıtı büyük bir isyan patlak verdi, Çin ordusu tarafından bastırıldı."
+      },
+      {
+        "year": "M.S. 50",
+        "title": "Çinleşme Başlangıcı",
+        "description": "Güney Hun soyluları Çin sarayında görev almaya başladı, Hun toplumunda Çin kültürü hızla yayıldı."
+      },
+      {
+        "year": "M.S. 55",
+        "title": "Bilge Kağan'ın Ölümü",
+        "description": "Son büyük Güney Hun Kağanı öldü, Güney Hunlar hızla zayıflamaya başladı."
+      }
+    ],
+    "predecessor": "Huhanye",
+    "successor": "Güney Hun Kağanlığı zayıfladı / Avrupa Hunları (Attila)",
+    "quote": {
+      "text": "Bozkırın rüzgarı eskisi gibi esmiyor, oklarımız Çin ipeğiyle sarılıyor.",
+      "source": "Bilge Hun Kağan"
+    },
+    "battles": [
+      {
+        "name": "Güney Hun İsyanı",
+        "year": "M.Ö. 48",
+        "result": "defeat",
+        "description": "Güney Hunlarda patlak veren Çin karşıtı isyan, Çin ordusu tarafından kanla bastırıldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Guangwu Di",
+        "role": "Han Hanedanı İmparatoru",
+        "description": "Doğu Han Hanedanı'nın kurucusu (M.S. 25-57). Güney Hunlar üzerindeki Çin kontrolünü pekiştirdi."
+      },
+      {
+        "name": "Ban Chao",
+        "role": "Çin Generali",
+        "description": "Doğu Han döneminin ünlü generali. Orta Asya'daki Hun etkisini kırmak için batıya seferler düzenledi."
+      }
+    ]
+  },
+  {
+    "id": "hun-attila",
+    "order": 6,
+    "name": "Attila",
+    "title": "Tanrının Kırbacı (Flagellum Dei)",
+    "period": "M.S. 434 - 453",
+    "dynasty": "Hun İmparatorluğu (Avrupa)",
+    "dynastyId": "hunlar",
+    "era": "Geç Antik Çağ",
+    "image": "/images/huk-attila.jpg",
+    "description": "Avrupa Hun İmparatorluğu'nun en büyük hükümdarı. Roma tarafından 'Tanrının Kırbacı' olarak adlandırıldı. Kavimler Göçü'nü tetikledi.",
+    "fullBio": "Attila (M.S. 434-453), Avrupa Hun İmparatorluğu'nun en büyük hükümdarı ve dünya tarihinin en etkili askeri liderlerinden, en korkulan hükümdarlarından biridir. Amcası Rua'nın yanında yetişmiş, devlet yönetimini, askeri stratejiyi ve Hun siyasetini ustalıkla öğrenmiştir. 445 yılında kardeşi Bleda'nın ölümüyle tek hükümdar olduğunda, imparatorluğun sınırları batıda Ren Nehri'nden doğuda Hazar Denizi'ne, kuzeyde Baltık Denizi'nden güneyde Karadeniz'e kadar muazzam bir coğrafyayı kapsıyordu. Attila döneminde Balkanlar'a iki büyük sefer (441-442 ve 447) düzenledi. İkinci Balkan seferinde, bugünkü Sofya, Filibe ve Lüleburgaz'ı ele geçirerek Konstantinopolis kapılarına dayandı, Bizans İmparatoru II. Theodosius'u ağır bir barış antlaşması imzalamaya zorladı. M.S. 451 yılında Galya'ya sefer düzenleyerek Ren Nehri'ni geçti, Orleans'a kadar ilerledi. Katalon Ovası'nda (Châlons-sur-Marne) Roma Generali Flavius Aetius komutasındaki Roma-Germen ittifakıyla şiddetli bir çarpışmaya girdi ve savaşı stratejik bir çekilme ile sonlandırdı. M.S. 452'de yüzbinlerce kişilik ordusuyla Alpleri aşarak İtalya'yı işgal etti, Milano'yu yağmaladı, Papa I. Leo ile Mantua yakınlarında tarihi bir görüşme yaparak Roma'yı yağmadan geri çekildi. Avrupalılar tarafından Tanrı'nın Kırbacı (Flagellum Dei) olarak anılan Attila, mütevazı yaşamayı seven, güçlü iradeli, adaletli ve disiplinli bir yönetici idi. Eşi Kreka ile birlikte üç oğlu vardı: İlek, Dengizik ve Ernak. 453 yılında, yeni evlendiği İldico ile ilk gecesinde ansızın öldü. Ölümünden sonra oğulları arasındaki taht kavgaları ve M.S. 454'teki Nedao Muharebesi'ndeki yenilgi, muazzam imparatorluğun hızla çökmesine yol açtı.",
+    "legacy": "Attila, Avrupa tarihini değiştiren en etkili figürlerden biridir. Roma İmparatorluğu'nun çöküşünü hızlandıran Kavimler Göçü'nü tetiklemiş, Avrupa'nın etnik ve siyasi haritasını yeniden şekillendirmiştir. Günümüz Macaristan'ın ilk hükümdarı sayılır.",
+    "achievements": [
+      "Avrupa Hun İmparatorluğu'nu zirveye taşıma",
+      "Doğu Roma'dan yıllık 2100 pound altın vergi alma",
+      "Balkanları fethetme",
+      "Galya ve İtalya seferleri",
+      "Kavimler Göçü'nü tetikleme",
+      "Avrupa siyasi haritasını yeniden şekillendirme"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 434",
+        "title": "Tahta Çıkış",
+        "description": "Kardeşi Bleda ile birlikte, amcası Rua'nın ölümünden sonra hükümdar oldu."
+      },
+      {
+        "year": "M.S. 441-442",
+        "title": "İlk Balkan Seferi",
+        "description": "Singidunum (Belgrad), Serdica (Sofya) ve Filibe'yi ele geçirerek Konstantinopolis'e yaklaştı."
+      },
+      {
+        "year": "M.S. 445",
+        "title": "Tek Hükümdar",
+        "description": "Kardeşi Bleda'yı ortadan kaldırarak tek başına hüküm sürmeye başladı."
+      },
+      {
+        "year": "M.S. 447",
+        "title": "İkinci Balkan Seferi",
+        "description": "Lüleburgaz'dan (Arcadiopolis) geçerek Konstantinopolis surlarına dayandı, Bizans'ı ağır bir barışa zorladı."
+      },
+      {
+        "year": "M.S. 451",
+        "title": "Galya Seferi ve Katalon Ovası",
+        "description": "Ren Nehri'ni geçerek Galya'ya girdi, Orleans'a kadar ilerledi, Châlons'da Aetius ile çarpıştı."
+      },
+      {
+        "year": "M.S. 452",
+        "title": "İtalya Seferi",
+        "description": "Alpleri aşarak Milano'yu yağmaladı, Papa I. Leo ile görüşerek Roma'dan çekildi."
+      },
+      {
+        "year": "M.S. 453",
+        "title": "Attila'nın Ölümü",
+        "description": "Yeni evlendiği İldico ile düğün gecesinde burun kanamasından öldü."
+      }
+    ],
+    "predecessor": "Bleda (ortak hükümdarlık) / Rua (amca)",
+    "successor": "Ellak (Dengizik, Ernak ile paylaştı)",
+    "quote": {
+      "text": "Ormanlardaki ağaçların hepsini kesecek güçte olsam, Roma'yı bir yaprak bile kalmayacak şekilde yok ederdim.",
+      "source": "Attila'nın Roma elçilerine sözü"
+    },
+    "battles": [
+      {
+        "name": "Katalon Ovası Muharebesi (Châlons)",
+        "year": "M.S. 451",
+        "result": "draw",
+        "description": "Galya'da Roma Generali Flavius Aetius'un komutasındaki ittifak ordusuyla çarpıştı. Stratejik bir çekilme ile sonuçlandı, her iki taraf da ağır kayıp verdi."
+      },
+      {
+        "name": "İtalya Seferi",
+        "year": "M.S. 452",
+        "result": "victory",
+        "description": "Kuzey İtalya'yı yakıp yıktı, Milano'yu yağmaladı, Papa Leo ile görüşerek Roma'yı kurtardı."
+      },
+      {
+        "name": "Balkan Seferi (447)",
+        "year": "M.S. 447",
+        "result": "victory",
+        "description": "Sofya, Filibe ve Lüleburgaz'ı ele geçirerek Konstantinopolis'e yaklaştı, Bizans'ı ağır bir tazminat ödemeye zorladı."
+      },
+      {
+        "name": "Virthurgia Muharebesi",
+        "year": "M.S. 441",
+        "result": "victory",
+        "description": "Balkan seferindeki ilk büyük zafer, Bizans savunma hattını yarıp geçti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Flavius Aetius",
+        "role": "Roma Generali",
+        "description": "Batı Roma İmparatorluğu'nun son büyük komutanı. M.S. 451'de Katalon Ovası'nda Attila'ya karşı savaşmıştır. Onu 'dünyanın son Romalısı' olarak nitelendirirler."
+      },
+      {
+        "name": "I. Leo (Aziz Leo)",
+        "role": "Roma Papası",
+        "description": "Roma Papası (440-461). M.S. 452'de Attila'nın İtalya işgali sırasında onunla Mantua yakınlarında görüşmüş, Roma'nın yağmalanmasını engellemiştir."
+      },
+      {
+        "name": "Bleda",
+        "role": "Hun Hükümdarı",
+        "description": "Attila'nın ağabeyi. 434-445 arasında Hun İmparatorluğu'na ortak hükmetmişlerdir."
+      },
+      {
+        "name": "Honoria",
+        "role": "Roma Prensesi",
+        "description": "Batı Roma İmparatoru Valentinianus III'ün kız kardeşi. Attila'ya nişan yüzüğü göndererek ondan yardım istemiş, bu Attila'nın Galya seferine bahane olmuştur."
+      },
+      {
+        "name": "II. Theodosius",
+        "role": "Bizans İmparatoru",
+        "description": "Doğu Roma İmparatoru (408-450). Attila'nın Balkan baskınları sonucu ağır bir barış antlaşması imzalamak zorunda kaldı."
+      },
+      {
+        "name": "Rua",
+        "role": "Önceki Hun Kağanı",
+        "description": "Attila ve Bleda'nın amcası. 420-434 arasında hüküm sürmüş, Attila'nın yetişmesinde etkili olmuştur."
+      }
+    ]
+  }
+]

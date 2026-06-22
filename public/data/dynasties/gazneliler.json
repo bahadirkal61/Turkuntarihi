@@ -1,0 +1,405 @@
+[
+  {
+    "id": "gazneli-alptigin",
+    "order": 1,
+    "name": "Alp Tigin",
+    "title": "Gazneli Beyliği Kurucusu",
+    "period": "M.S. 962 - 963",
+    "dynasty": "Gazneliler",
+    "dynastyId": "gazneliler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gazneli-alptigin.jpg",
+    "description": "Samanîler'den ayrılarak Gazne'de bağımsız beylik kuran Kıpçak Türkü komutan. Köle kökenli olup en yüksek makama yükselmiştir.",
+    "fullBio": "Alp Tigin (ö. 963), Gazneli Beyliği'nin kurucusu ve Samanî Devleti'nin en üst düzey Türk komutanıdır. Kıpçak Türkü kökenli olup, genç yaşta Samanî ordusuna köle (ğulam) olarak girmiştir. Yetenekleri sayesinde hızla yükselerek Samanî ordusunun başkomutanlığına (Hâcib) kadar gelmiştir. 962 yılında, Semerkant'taki Sarı Türkler isyanı sırasında Samanî ordusuyla Gurgan'a (Gazne) gönderildi. Ancak saray entrikaları nedeniyle Semerkant'a dönemedi ve Gazne'de bağımsız bir beylik kurdu. Alp Tigin, Samanîler'e bağlılığını ilan etti ancak fiilen bağımsız hareket ediyordu. Gazne'yi küçük bir sınır kalesinden önemli bir askeri üs haline getirdi. Hindistan sınırındaki bu stratejik konum, sonraki fetihler için mükemmel bir başlangıç noktası oldu. 963'te öldüğünde, damadı ve eski kölesi Sebük Tigin yerine geçti. Alp Tigin'in kurduğu beylik, oğlu Mahmut tarafından dünya imparatorluğuna dönüştürülecekti. Onun hikâyesi, kölelikten hükümdarlığa yükselen bir Türk dehasının destanıdır.",
+    "legacy": "Gazneli Devleti'nin temelini atan kurucudur. Köle kökenli olup en üst makama yükselmesi, Türk meritokrasisinin en güzel örneğidir.",
+    "achievements": [
+      "Gazne'de bağımsız beylik kurdu (962)",
+      "Samanî ordusunun başkomutanlığına yükseldi",
+      "Gazne'yi stratejik askeri üs haline getirdi",
+      "Hindistan fetihleri için zemin hazırladı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 962",
+        "title": "Gazne Beyliği'nin Kuruluşu",
+        "description": "Samanîler'den fiilen ayrılarak Gazne'de bağımsız beylik kurdu."
+      },
+      {
+        "year": "M.S. 963",
+        "title": "Alp Tigin'in Ölümü",
+        "description": "1 yıllık kısa hükümdarlığın ardından öldü, damadı Sebük Tigin yerine geçti."
+      }
+    ],
+    "predecessor": "Samanî Devleti hâkimiyeti",
+    "successor": "Sebük Tigin (damadı)",
+    "quote": {
+      "text": "Gazne, Hint hazinelerinin kapısıdır. Bu kapıyı açan, İslam'ın en büyük hizmetkarı olur.",
+      "source": "Alp Tigin"
+    },
+    "battles": [
+      {
+        "name": "Gazne'nin Güvenliğinin Sağlanması",
+        "year": "M.S. 962",
+        "result": "victory",
+        "description": "Gazne çevresindeki isyancı kabileleri bastırarak bölgede düzeni sağladı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Sebük Tigin",
+        "role": "Damadı ve Halef",
+        "description": "Alp Tigin'in damadı. 977'de tahta çıkarak Gazneli Devleti'ni kurdu."
+      },
+      {
+        "name": "Nuh bin Nasr (Samanî Emiri)",
+        "role": "Samanî Hükümdarı",
+        "description": "Alp Tigin'in Samanî hükümdarı. Gazne'deki bağımsızlığı fiilen kabul etti."
+      }
+    ]
+  },
+  {
+    "id": "gazneli-sebuk-tigin",
+    "order": 2,
+    "name": "Sebük Tigin",
+    "title": "Gazneli Devleti'nin Asıl Kurucusu",
+    "period": "M.S. 977 - 997",
+    "dynasty": "Gazneliler",
+    "dynastyId": "gazneliler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-sebuk-tigin.jpg",
+    "description": "Köle kökenli devlet kurucusu. 20 yılda Gazne'yi dünya imparatorluğunun merkezi yaptı. Adaletli yönetimiyle tanındı.",
+    "fullBio": "Sebük Tigin (ö. 997), 977-997 yılları arasında 20 yıl hüküm sürmüş, Gazneli Devleti'nin asıl kurucusu ve ilk büyük hükümdarıdır. İtgâc (ırgat) kökenli olup, Alp Tigin tarafından satın alınmış ve yetiştirilmiştir. Alp Tigin'in kızıyla evlenerek beyliğin başına geçti. Sebük Tigin, Gazne'yi küçük bir sınır beylikten önemli bir imparatorluğa dönüştürdü. Onun döneminde Gazneli ordusu, disiplini ve teçhizatıyla dünyanın en güçlü ordularından biri haline geldi. Hindistan'a düzenlediği 17 büyük seferle Hint altkıtasını zayıflattı, Pencap ve Sind bölgelerini Gazneli topraklarına kattı. 986 yılında Peşaver seferinde büyük zafer kazandı. Aynı zamanda üstün bir devlet adamıydı; adaletli bir yönetim kurdu, vergi sistemini düzenledi, fakir ve muhtaçlara yardım etti. Oğlu Gazneli Mahmut'a büyük bir imparatorluk miras bıraktı. Onun köle kökenli olup Türk-İslam dünyasının en güçlü hükümdarlarından biri olması, dönemin sosyal mobilitesinin ve meritokratik sisteminin en güzel örneğidir.",
+    "legacy": "Gazneli Devleti'ni güçlendirerek oğlu Mahmut'a dünya çapında bir imparatorluk bıraktı. Adil yönetimiyle halkın sevgisini kazandı.",
+    "achievements": [
+      "Gazneli Devleti'ni fiilen kurdu (977)",
+      "Hindistan'a 17 büyük sefer düzenledi",
+      "Pencap ve Sind'i fethetti",
+      "Dünyanın en güçlü ordusunu kurdu",
+      "Adaletli vergi sistemi kurdu",
+      "Köle kökenli olup büyük hükümdar olmayı başardı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 963",
+        "title": "Alp Tigin'in Ölümü Sonrası",
+        "description": "Kayınbabası Alp Tigin'in ölümünden sonra damadı olarak beyliğin başına geçti."
+      },
+      {
+        "year": "M.S. 977",
+        "title": "Resmen Tahta Çıkış",
+        "description": "Gazne beyliğinin tam hükümdarı olarak tahta çıktı."
+      },
+      {
+        "year": "M.S. 986",
+        "title": "Peşaver Seferi",
+        "description": "Hindistan'a ilk büyük sefer düzenleyerek Peşaver'i fethetti."
+      },
+      {
+        "year": "M.S. 994",
+        "title": "Horasan'ın Fethi",
+        "description": "Samanîler'e yardım ederek Horasan bölgesini Gazneli nüfuzu altına aldı."
+      },
+      {
+        "year": "M.S. 997",
+        "title": "Sebük Tigin'in Ölümü",
+        "description": "20 yıllık başarılı hükümdarlığın ardından öldü, oğulları taht mücadelesine girdi."
+      }
+    ],
+    "predecessor": "Alp Tigin (kayınbabası)",
+    "successor": "I. İsmail (oğlu) → Gazneli Mahmut (oğlu)",
+    "quote": {
+      "text": "Sultanın kılıcı adalettir. Adalet olmayan yerde, hükümdarlık olmaz.",
+      "source": "Sebük Tigin"
+    },
+    "battles": [
+      {
+        "name": "Peşaver Seferi",
+        "year": "M.S. 986",
+        "result": "victory",
+        "description": "Hindistan'a ilk büyük sefer, Pencap kapıları açıldı."
+      },
+      {
+        "name": "Lahor Seferi",
+        "year": "M.S. 992",
+        "result": "victory",
+        "description": "Lahor şehri fethedilerek Hindistan'da kalıcı üs kuruldu."
+      },
+      {
+        "name": "Horasan Muharebesi",
+        "year": "M.S. 994",
+        "result": "victory",
+        "description": "Samanîler'e yardım ederek Horasan'ı Gazneli nüfuzu altına aldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Gazneli Mahmut",
+        "role": "Oğlu, Halef",
+        "description": "Sebük Tigin'in en büyük oğlu. 998'de tahta çıkarak Gazneliler'i zirveye taşıdı."
+      },
+      {
+        "name": "I. İsmail",
+        "role": "Oğlu, Kısa Süreli Hükümdar",
+        "description": "Sebük Tigin'in oğlu. 997-998 arasında tahtta kaldı, kardeşi Mahmut tarafından devirildi."
+      },
+      {
+        "name": "Alp Tigin",
+        "role": "Kayınbabası, Önceki Hükümdar",
+        "description": "Gazne Beyliği'nin kurucusu. Sebük Tigin'i yetiştirdi ve damadı olarak beyliğe miras bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "gazneli-mahmut",
+    "order": 3,
+    "name": "Gazneli Mahmut",
+    "title": "Sultanü'l-Azam (En Büyük Sultan)",
+    "period": "M.S. 998 - 1030",
+    "dynasty": "Gazneliler",
+    "dynastyId": "gazneliler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gazneli-mahmut.jpg",
+    "description": "Gazneli Devleti'nin en büyük hükümdarı. 17 kez Hindistan seferi düzenledi. Biruni ve Firdevsi'yi himaye etti.",
+    "fullBio": "Gazneli Mahmut (2 Kasım 971 - 30 Nisan 1030), 998-1030 yılları arasında 32 yıl hüküm sürmüş, Gazneli Devleti'nin en büyük hükümdarı, Türk-İslam tarihinin en başarılı fetihçilerinden ve en cömert sanat hamilerinden biridir. Babası Sebük Tigin'den devraldığı devleti, Hint altkıtasının en büyük imparatorluğuna dönüştürdü. Mahmut döneminde Gazneli toprakları, İran'dan Hint Nehri'ne, Amu Derya'dan Hint Okyanusu'na kadar uzandı. 1001 yılında ilk büyük Hindistan seferine çıkan Mahmut, hayatı boyunca tam 17 büyük sefer düzenledi. 1008'de Hinduların büyük ittifak ordusunu yenilgiye uğrattı. 1025'te Somanat tapınağının fethi, İslam dünyasında büyük yankı uyandırdı. 999'da Samanîler'i yenerek Horasan'ı tamamen ele geçirdi. Mahmut, zenginleşen hazinesini sanat ve bilime yönlendirdi. Ünlü bilgin Biruni'yi sarayına davet ederek 'El-Kanunü'l-Masudi' ve 'Kitabü'l-Hind' eserlerinin yazılmasını sağladı. Firdevsi'ye Şehname'yi yazdırdı ve altınlarla ödüllendirdi. Her cuma günü seferlerden birini anmak için resmi törenler düzenlerdi. Lakabı olan 'Sultanü'l-Azam' (En Büyük Sultan), onun gücünün ve itibarının göstergesidir.",
+    "legacy": "İslam dünyasının en büyük Türk hükümdarıdır. 17 Hindistan seferiyle İslam'ı Hint altkıtasına yaymış, bilim ve sanatı himaye ederek Türk-İslam medeniyetine eşsiz katkılarda bulunmuştur.",
+    "achievements": [
+      "17 büyük Hindistan seferi düzenledi",
+      "Somanat tapınağını fethetti (1025)",
+      "Samanîleri yenerek Horasan'ı ele geçirdi (999)",
+      "Biruni'yi himaye ederek bilimi destekledi",
+      "Firdevsi'ye Şehname'yi yazdırdı",
+      "İslam dünyasının en güçlü Türk hükümdarı oldu",
+      "Sultanü'l-Azam unvanını aldı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 998",
+        "title": "Tahta Çıkış",
+        "description": "Kardeşi İsmail'i devirerek Gazneli tahtına çıktı."
+      },
+      {
+        "year": "M.S. 999",
+        "title": "Samanîler'in Yıkılması",
+        "description": "Samanî Devleti'ni yenerek Horasan ve İran topraklarını ele geçirdi."
+      },
+      {
+        "year": "M.S. 1001",
+        "title": "İlk Büyük Hindistan Seferi",
+        "description": "İlk büyük Hindistan seferine çıkarak zengin topraklar fethetti."
+      },
+      {
+        "year": "M.S. 1008",
+        "title": "Hint İttifak Ordusunun Yenilgisi",
+        "description": "Hinduların büyük ittifak ordusunu ezici bir yenilgiye uğrattı."
+      },
+      {
+        "year": "M.S. 1017",
+        "title": "Biruni'yi Saraya Davet",
+        "description": "Ünlü bilgin Biruni'yi Gazne sarayına davet ederek bilimsel çalışmaları destekledi."
+      },
+      {
+        "year": "M.S. 1025",
+        "title": "Somanat'ın Fethi",
+        "description": "Ünlü Somanat tapınağını fethetti, İslam dünyasında büyük yankı uyandırdı."
+      },
+      {
+        "year": "M.S. 1030",
+        "title": "Gazneli Mahmut'un Ölümü",
+        "description": "32 yıllık görkemli hükümdarlığın ardından öldü, imparatorluk oğulları arasında paylaşıldı."
+      }
+    ],
+    "predecessor": "Sebük Tigin (babası)",
+    "successor": "I. Mesud (oğlu)",
+    "quote": {
+      "text": "Sultan, kılıcını adalet için kınından çıkarır. Fetihlerimiz, İslam'ın nurunu yaymak içindir.",
+      "source": "Gazneli Mahmut"
+    },
+    "battles": [
+      {
+        "name": "Somanat Fethi",
+        "year": "M.S. 1025",
+        "result": "victory",
+        "description": "Ünlü Somanat tapınağını fethetti, İslam dünyasının en büyük zaferlerinden biri."
+      },
+      {
+        "name": "Hint İttifak Muharebesi",
+        "year": "M.S. 1008",
+        "result": "victory",
+        "description": "Hinduların büyük ittifak ordusunu ezici yenilgiye uğrattı."
+      },
+      {
+        "name": "Samanîleri Yenme",
+        "year": "M.S. 999",
+        "result": "victory",
+        "description": "Samanî Devleti'ni yenerek Horasan ve İran topraklarını ele geçirdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Biruni",
+        "role": "Bilgin / Astronom",
+        "description": "Ünlü Müslüman bilgini. Mahmut tarafından saraya davet edildi, 'El-Kanunü'l-Masudi' ve 'Kitabü'l-Hind'i yazdı."
+      },
+      {
+        "name": "Firdevsi",
+        "role": "Şair / Şehname Yazarı",
+        "description": "İranlı ünlü şair. Mahmut tarafından himaye edildi, Şehname'yi yazdı."
+      },
+      {
+        "name": "I. Mesud",
+        "role": "Oğlu, Halef",
+        "description": "Gazneli Mahmut'un oğlu. 1030'dan sonra tahta çıktı, Dandanakan'da Selçuklulara yenildi."
+      },
+      {
+        "name": "Sebük Tigin",
+        "role": "Babası",
+        "description": "Gazneli Devleti'nin asıl kurucusu. Mahmut'a büyük bir imparatorluk miras bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "gazneli-mesud1",
+    "order": 4,
+    "name": "I. Mesud",
+    "title": "Gazneli Sultanı - Dandanakan Mağlubu",
+    "period": "M.S. 1030 - 1040",
+    "dynasty": "Gazneliler",
+    "dynastyId": "gazneliler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gazneli-mesud1.jpg",
+    "description": "Gazneli Mahmut'un oğlu. 1040'ta Dandanakan'da Selçuklulara yenilerek Horasan'ı kaybetti. Gaznelilerin gerilemesinin başlangıcı.",
+    "fullBio": "I. Mesud (ö. 1040), 1030-1040 yılları arasında hüküm sürmüş Gazneli sultanı ve Mahmut Gazneli'nin oğludur. Babasının ölümünden sonra tahta çıktı ancak kardeşi Muhammed'le taht mücadelesine girdi. Gazneli imparatorluğu oğullar arasında bölündü. 1030'ların sonlarında Selçuklu tehdidi büyüdü. Çağrı Bey ve Tuğrul Bey komutasındaki Selçuklu orduları, Gazneli topraklarına akınlar düzenlemeye başladı. 23 Mayıs 1040'ta Dandanakan Muharebesi'nde I. Mesud, Selçuklulara ağır bir yenilgiye uğradı. Bu yenilgi, Gaznelilerin İran ve Horasan topraklarını kaybetmesine neden oldu. Gazneli Devleti sadece Gazne, Pencap ve Sind bölgesine çekildi. Dandanakan, Türk tarihinin en önemli dönüm noktalarından biridir; Selçuklu yükselişinin başlangıcı ve Gazneli çöküşünün habercisidir. I. Mesud, yenilgiden sonra kaçarken öldürüldü. Bu yenilgi sonrası Gazneliler hiçbir zaman eski gücüne kavuşamadı.",
+    "legacy": "Dandanakan yenilgisiyle Gaznelilerin İran ve Horasan topraklarını kaybetmesine neden oldu. Bu yenilgi Selçuklu yükselişini tetikledi.",
+    "achievements": [
+      "Babasının imparatorluğunu korumaya çalıştı",
+      "Dandanakan'da direniş gösterdi (yenilgi)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1030",
+        "title": "Tahta Çıkış",
+        "description": "Babası Gazneli Mahmut'un ölümünden sonra tahta çıktı, kardeşiyle mücadele etti."
+      },
+      {
+        "year": "M.S. 1035",
+        "title": "Selçuklu Tehdidi",
+        "description": "Çağrı Bey ve Tuğrul Bey komutasındaki Selçuklular Gazneli topraklarına akınlar düzenledi."
+      },
+      {
+        "year": "M.S. 1040 (23 Mayıs)",
+        "title": "Dandanakan Yenilgisi",
+        "description": "Selçuklulara ağır yenilgiye uğrayarak Horasan ve İran topraklarını kaybetti."
+      },
+      {
+        "year": "M.S. 1040 (sonrası)",
+        "title": "Gaznelilerin Geri Çekilmesi",
+        "description": "Gazne, Pencap ve Sind bölgesine çekildi, eski güçleri kalmadı."
+      }
+    ],
+    "predecessor": "Gazneli Mahmut (babası)",
+    "successor": "III. Mesud (torunu)",
+    "quote": {
+      "text": "Dandanakan'da kaybettiğimiz, bir muharebe değil, bir çağın sonuydu.",
+      "source": "I. Mesud"
+    },
+    "battles": [
+      {
+        "name": "Dandanakan Muharebesi",
+        "year": "M.S. 1040",
+        "result": "defeat",
+        "description": "Çağrı Bey ve Tuğrul Bey komutasındaki Selçuklulara ağır yenilgiye uğradı, Horasan kaybedildi."
+      },
+      {
+        "name": "Serdar Muharebesi",
+        "year": "M.S. 1038",
+        "result": "defeat",
+        "description": "Selçuklu akınlarına karşı sınır savunmasında yenilgi aldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Çağrı Bey",
+        "role": "Selçuklu Lideri",
+        "description": "Büyük Selçuklu Devleti'nin kurucularından. Dandanakan'da I. Mesud'u yenilgiye uğrattı."
+      },
+      {
+        "name": "Tuğrul Bey",
+        "role": "Selçuklu Lideri",
+        "description": "Büyük Selçuklu Devleti'nin ilk sultanı. Dandanakan zaferinde Çağrı Bey'le birlikte komuta etti."
+      },
+      {
+        "name": "Gazneli Mahmut",
+        "role": "Babası",
+        "description": "Gazneli Devleti'nin en büyük hükümdarı. I. Mesud onun ardıllıdır."
+      }
+    ]
+  },
+  {
+    "id": "gazneli-mesud3",
+    "order": 5,
+    "name": "III. Mesud",
+    "title": "Gazneli Sultanı - Son Büyük Sultan",
+    "period": "M.S. 1099 - 1115",
+    "dynasty": "Gazneliler",
+    "dynastyId": "gazneliler",
+    "era": "Orta Çağ",
+    "image": "/images/huk-gazneli-mesud3.jpg",
+    "description": "Gazneli Devleti'nin son büyük sultanı. Lahor'u merkez yaparak devleti kısa süreliğine diriltti. 1115'te öldü.",
+    "fullBio": "III. Mesud (ö. 1115), 1099-1115 yılları arasında hüküm sürmüş, Gazneli Devleti'nin son büyük sultanıdır. Döneminde Gazneli toprakları büyük ölçüde daralmış, sadece Pencap ve Sind bölgesinde hakimiyet sürmüştü. 1099'da tahta çıkan III. Mesud, Lahor'u (Lahore) merkez yaparak devleti kısa süreliğine canlandırmaya çalıştı. Hindistan'da bazı fetihler yaptı, Gurlular'a karşı mücadele etti. Ancak Gazneliler artık eski güçlerinden çok uzaktaydı. 1115'te öldüğünde devletin çöküşü hızlandı. 1186'da Gurlular tarafından tamamen yıkıldılar. III. Mesud, 200 yıllık Gazneli hanedanının son anlamlı hükümdarı olarak tarihe geçti. Onun dönemi, bir zamanlar dünyanın en büyük imparatorluğunun son nefesini temsil eder.",
+    "legacy": "Gazneli Devleti'nin son büyük sultanıdır. Lahor'u merkez yaparak devleti kısa süreliğine diriltmeye çalıştı ancak çöküşü durduramadı.",
+    "achievements": [
+      "Lahor'u merkez yaparak devleti canlandırmaya çalıştı",
+      "Hindistan'da bazı fetihler yaptı",
+      "Gurlulara karşı mücadele etti",
+      "200 yıllık hanedanın son anlamlı hükümdarı oldu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1099",
+        "title": "Tahta Çıkış",
+        "description": "Gazneli tahtına çıktı, devlet sadece Pencap ve Sind bölgesindeydi."
+      },
+      {
+        "year": "M.S. 1100",
+        "title": "Lahor Merkez",
+        "description": "Lahor'u başkent yaparak devleti yeniden örgütlemeye çalıştı."
+      },
+      {
+        "year": "M.S. 1110",
+        "title": "Hindistan Seferleri",
+        "description": "Hindistan'da bazı küçük fetihler yaparak sınırları genişletti."
+      },
+      {
+        "year": "M.S. 1115",
+        "title": "III. Mesud'un Ölümü",
+        "description": "Son büyük sultan öldü, Gazneli çöküşü hızlandı."
+      }
+    ],
+    "predecessor": "I. Mesud (dedesi)",
+    "successor": "Hanedan sona erdi (1186)",
+    "quote": {
+      "text": "Babamın ve dedemin imparatorluğu şimdi bir vilayet kadar. Ama ruhumuz hâlâ sultan.",
+      "source": "III. Mesud"
+    },
+    "battles": [
+      {
+        "name": "Lahor Savunması",
+        "year": "M.S. 1110",
+        "result": "victory",
+        "description": "Lahor'u rakiplerden koruyarak son kalesini savundu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Alâeddin Guri",
+        "role": "Gur Hükümdarı / Rakip",
+        "description": "Gurlular'ın hükümdarı. Gazneliler'in sonunu getiren güç."
+      },
+      {
+        "name": "I. Mesud",
+        "role": "Dedesi",
+        "description": "Dandanakan'da Selçuklulara yenilen sultan. III. Mesud onun soyundan geldi."
+      }
+    ]
+  }
+]

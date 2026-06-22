@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "altinordu-batu",
+    "order": 1,
+    "name": "Batu Han",
+    "title": "Altınordu Hanı / Cengiz Han'ın Torunu",
+    "period": "1227 - 1255",
+    "dynasty": "Altınordu Hanlığı",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-batu-han.jpg",
+    "description": "Altınordu Hanlığı'nın kurucusu. Cengiz Han'ın torunu. Avrupa'ya en derin nüfuz eden Moğol komutanı.",
+    "fullBio": "Batu Han, 1227-1255 yılları arasında 28 yıl hüküm sürmüş, Altınordu Devleti'nin kurucusu ve Cengiz Han'ın torunlarından en etkililerinden biridir. Cengiz Han'ın en büyük oğlu Cuci'nin oğlu olan Batu Han, Moğol İmparatorluğu'nun batı kanadının başına geçirilmiştir. 1236-1242 yılları arasında Avrupa'ya büyük seferler düzenlemiş, bu seferler sırasında bugünkü Rusya, Ukrayna, Beyaz Rusya ve Polonya topraklarını fethetmiştir. 1240 yılındaki Liegnitz Muharebesi'nde Polonya-Haçlı ordularını, 1241'deki Mohi Muharebesi'nde Macar ordusunu ezici yenilgilere uğratmıştır. Bu zaferler, Avrupa'yı tamamen fethetmeye yetecek güçteydi ve Avrupalılar büyük bir korku yaşamışlardır. Ancak Ögedey Han'ın ölüm haberi üzerine sefere son vererek Avrupa'dan çekilmiştir. Batu Han, 1242 yılında Saray-Batu şehrini kurarak Altınordu Devleti'nin temelini atmıştır. Volga Nehri kıyısındaki bu şehir, yüzyıllar boyunca Avrasya ticaretinin en önemli merkezi olmuştur. Batu Han'ın kurduğu Altınordu, Türkleşme süreci yaşayarak sonradan Kırım Hanlığı ve Kazak Hanlığı gibi önemli Türk devletlerinin temelini oluşturmuştur.",
+    "legacy": "Altınordu Hanlığı'nı kurarak Rusya ve Kafkasya'da 200 yıllık Türk-Moğol hâkimiyetinin temelini attı.",
+    "achievements": [
+      "Altınordu Hanlığı'nı kurma",
+      "Avrupa seferleri",
+      "Rus şehirlerini fethetme"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1236",
+        "title": "Avrupa Seferi",
+        "description": "Moskova, Vladimir, Kiev'in fethi."
+      },
+      {
+        "year": "M.S. 1241",
+        "title": "Mohi Muharebesi",
+        "description": "Macaristan'da büyük zafer."
+      },
+      {
+        "year": "M.S. 1255",
+        "title": "Batu Han'ın Ölümü",
+        "description": "Altınordu'nun kurucusu hayatını kaybetti."
+      }
+    ],
+    "predecessor": "Şeyh Ahmad Han",
+    "successor": "Özbek Han",
+    "battles": [
+      {
+        "name": "Avrupa Seferi",
+        "year": "M.S. 1236",
+        "result": "victory",
+        "description": "Moskova, Vladimir, Kiev'in fethi."
+      },
+      {
+        "name": "Mohi Muharebesi",
+        "year": "M.S. 1241",
+        "result": "victory",
+        "description": "Macaristan'da büyük zafer."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Cengiz Han'ın torunu olarak Volga'nın kıyısında bir imparatorluk kurdum. Avrupa'ya kadar uzanan bu topraklar, Türk-Moğol gücünün ta kendisidir.",
+      "source": "Batu Han"
+    }
+  },
+  {
+    "id": "altinordu-sartak",
+    "order": 2,
+    "name": "Sartak Han",
+    "title": "Altınordu Hanı",
+    "period": "1255 - 1256",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-sartak.jpg",
+    "description": "Batu Han'ın ölümünden sonra Altınordu tahtına geçti.",
+    "fullBio": "Sartak Han, M.S. 1255-1256 yılları arasında kısa bir süre hüküm sürmüş, Altınordu Devleti'nin ikinci hükümdarı ve kurucusu Batu Han'ın büyük oğludur. Hristiyan inancını benimsemiş olmasıyla bilinen Sartak, Altınordu'nun Avrupa ile ilişkilerinde önemli bir köprü rolü oynamıştır. Rus prenslikleri üzerindeki egemenliği sürdürmüş, Vladimir-Suzdal Prensliği başta olmak üzere Rus topraklarındaki vergi toplama sistemini düzenli hale getirmiştir. Babası Batu Han'ın ölümünden sonra tahta çıkmış, ancak hükümdarlığı sadece bir yıl sürmüştür. Döneminde Altınordu'nun sınırları Ural Dağları'ndan Tuna Nehri'ne, Kafkasya'dan Baltık Denizi'ne kadar uzanmaktaydı. Sartak, Avrupa krallıklarıyla diplomatik ilişkiler kurmaya çalışmış, özellikle Bizans İmparatorluğu ve Latin İmparatorluğu ile temaslarda bulunmuştur. Hristiyan inancını benimsemesi, Avrupa'da 'Altınordu Hristiyan Hanı' olarak anılmasına yol açmış, bu durum Papa III. İncil'in dikkatini çekmiş ve Hristiyan dünyası ile Altınordu arasında olası bir ittifakın sinyallerini vermiştir. Ancak Sartak'ın ani ölümü, bu diplomatik girişimlerin sonuçsuz kalmasına neden olmuştur. Ölümü hakkında çeşitli rivayetler bulunmakla birlikte, en kabul gören görüşe göre saray içindeki entrikalar sonucu zehirlenerek öldürülmüştür. Sartak'ın kısa hükümdarlığı, Altınordu'nun kurumsallaşma sürecinde önemli bir deneyim olmuş, ardından gelen hükümdarlara örnek teşkil etmiştir.",
+    "legacy": "Hristonar inancını benimseyen ilk Altınordu hükümdarı olarak Avrupa-Altınordu ilişkilerinde öncü rol oynamıştır.",
+    "achievements": [
+      "Altınordu'nun kurumsal yapısını güçlendirme",
+      "Rus prenslikleri üzerinde otoriteyi pekiştirme",
+      "Avrupa ile diplomatik ilişkiler kurma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1255",
+        "title": "Tahta Çıkış",
+        "description": "Batu Han'ın ölümünden sonra Altınordu tahtına geçti."
+      },
+      {
+        "year": "1256",
+        "title": "Sartak'ın Ölümü",
+        "description": "Kısa süren hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Batu Han",
+    "successor": "Ulaghchi",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Babam Batu'nun at izlerinden gittim. Hristiyanlığı seçsem de Rus prenslerinin boyun eğdiği bu hanlığın bekçisiydim.",
+      "source": "Sartak Han"
+    }
+  },
+  {
+    "id": "altinordu-ulaghchi",
+    "order": 3,
+    "name": "Ulaghchi Han",
+    "title": "Altınordu Hanı",
+    "period": "1256 - 1257",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-ulaghchi.jpg",
+    "description": "Sartak Han'ın ölümünden sonra han oldu.",
+    "fullBio": "Ulaghchi Han, M.S. 1256-1257 yılları arasında hüküm sürmüş, Altınordu Devleti'nin üçüncü hükümdarıdır. Ağabeyi Sartak Han'ın ölümünden sonra tahta çıkmış, ancak hükümdarlığı sadece bir yıl kadar sürmüştür. Ulaghchi döneminde Altınordu'nun Rus prenslikleri üzerindeki kontrolü devam etmiş, Vladimir-Suzdal topraklarından düzenli vergi akışı sağlanmıştır. Döneminin en önemli özelliği, Altınordu'daki Hristiyan etkisinin artmaya devam etmesidir; Ulaghchi'nin de ağabeyi gibi Hristoran inancına yakınlık duyduğu rivayet edilmektedir. Ancak bu durum, geleneksel Moğol-Türk aristokrasisi arasında rahatsızlık yaratmıştır. Ulaghchi'nin ani ölümü, saray entrikalarının bir sonucu olarak değerlendirilmektedir. Bazı kaynaklara göre amcası Berke Han tarafından ortadan kaldırılmış olabileceği belirtilmektedir. Ulaghchi'nin ölümünden sonra Altınordu tahtına geçen Berke Han, devletin yönetiminde daha geleneksel bir çizgiye dönmüştür. Ulaghchi'nin kısa hükümdarlığı, Altınordu'nun erken dönemindeki taht mücadelelerinin ve saray entrikalarının bir örneği olarak tarihe geçmiştir.",
+    "legacy": "Altınordu'nun erken dönemindeki kısa hükümdarlıkların bir örneği olarak tarihe geçmiştir.",
+    "achievements": [
+      "Altınordu vergi sistemini sürdürme",
+      "Rus prenslikleri ile ilişkileri yönetme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1256",
+        "title": "Tahta Çıkış",
+        "description": "Sartak Han'ın ölümünden sonra han oldu."
+      },
+      {
+        "year": "1257",
+        "title": "Ulaghchi'nin Ölümü",
+        "description": "Kısa süren hükümdarlığı sona erdi."
+      }
+    ],
+    "predecessor": "Sartak Han",
+    "successor": "Berke Han",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Bir yıllık saltanat, uzun bir ömre bedeldir. Ulaghchi, hanlığın en kısa ama en yoğun dönemlerinden birini yaşattı.",
+      "source": "Ulaghchi Han"
+    }
+  },
+  {
+    "id": "altinordu-berke",
+    "order": 4,
+    "name": "Berke Han",
+    "title": "Altınordu Hanı - İslam'ı Kabul Eden",
+    "period": "1257 - 1267",
+    "dynasty": "Altınordu Hanlığı",
+    "dynastyId": "altinordu",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-altinordu-berke.jpg",
+    "description": "Altınordu'nun en önemli hanlarından biri. Moğol İmparatorluğu'nda Müslüman olan ilk han. Hülâgü ile savaştı.",
+    "fullBio": "Berke Han (ö. 1267), Altınordu Hanlığı'nın önemli hükümdarlarından biridir. Cengiz Han'ın torunu, Batu Han'ın kardeşidir. 1257-1267 yılları arasında hüküm sürmüştür. Moğol hanedanından Müslüman olan ilk hükümdardır. Bu dönüşüm, Altınordu'da İslam'ın yayılmasında önemli bir rol oynamıştır. İlhanlı Hükümdarı Hülâgü ile Şii Müslümanların Bağdat'ta katledilmesi yüzünden anlaşmazlığa düşmüş, 1262'de İlhanlılarla savaşmıştır. Bu savaş, Moğol İmparatorluğu'nun parçalanmasını hızlandırmıştır. 1267'de ölmüştür.",
+    "legacy": "Moğol hanedanından Müslüman olan ilk han, Altınordu'nun İslamlaşmasının öncüsü.",
+    "achievements": [
+      "Müslüman olan ilk Moğol hanı",
+      "İlhanlılarla savaş",
+      "İslam'ın Altınordu'da yayılması"
+    ],
+    "keyEvents": [
+      {
+        "year": "1257",
+        "title": "Hanlık",
+        "description": "Altınordu Hanı oldu."
+      },
+      {
+        "year": "1262",
+        "title": "İlhanlı Savaşı",
+        "description": "Hülâgü ile savaştı."
+      }
+    ],
+    "predecessor": "Özbek Han",
+    "successor": "Özbeg Han",
+    "battles": [
+      {
+        "name": "İlhanlı Savaşı",
+        "year": "1262",
+        "result": "victory",
+        "description": "Hülâgü ile savaştı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Hulagu'ya karşı Memluklarla ittifak kurdum. İslam'ı kabul eden ilk Altınordu hanı benim, bu bir dönüm noktasıdır.",
+      "source": "Berke Han"
+    }
+  },
+  {
+    "id": "altinordu-mengu-temur",
+    "order": 5,
+    "name": "Mengu Temür Han",
+    "title": "Altınordu Hanı",
+    "period": "1267 - 1280",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-mengu-temur.jpg",
+    "description": "Berke Han'ın ölümünden sonra Altınordu tahtına geçti.",
+    "fullBio": "Mengu Temür Han, M.S. 1267-1280 yılları arasında on üç yıl hüküm sürmüş, Altınordu Devleti'nin beşinci hükümdarıdır. Berke Han'ın ölümünden sonra tahta çıkmış, devletin istikrar dönemini sürdürmüştür. Hükümdarlığının ilk yıllarında, Ilhanlılar ile devam eden çatışmaları yönetmek zorunda kalmıştır. Mengu Temür döneminde Altınordu'nun Rus prenslikleri üzerindeki egemenliği güçlenmiş, özelikle Vladimir-Suzdal Prensi Aleksandr Nevski'nin oğlu Dmitri ile işbirliği içinde çalışılmıştır. Mengu Temür, Anadolu'ya düzenlenen seferlerde önemli rol oynamış, 1277 yılında Anadolu'ya bir sefer düzenleyerek İznik Rum İmparatorluğu'na destek vermiştir. Bu sefer, Moğol ordularının Anadolu'daki varlığının bir göstergesi olmuştur. Mengu Temür ayrıca, Altınordu'nun iç idaresinde reformlar yaparak vergi sistemini daha da geliştirmiş, ticaret yollarının güvenliğini sağlamıştır. Hükümdarlığı döneminde, Altınordu'nun başkenti Saray (bugünkü Selitrennoye yakınları) önemli bir ticaret merkezi haline gelmiştir. İpek Yolu'nun kuzey hattı üzerinde yer alan Saray, Avrupa, Asya ve Ortadoğu arasındaki ticaretin önemli bir düğüm noktası olmuştur. Mengu Temür, 1280 yılında ölmüş, ardından kardeşi Tuda Mengu tahta çıkmıştır.",
+    "legacy": "Altınordu'nun istikrar dönemini sürdüren, Saray'ı geliştiren ve Anadolu'ya sefer düzenleyen önemli bir han.",
+    "achievements": [
+      "Altınordu'nun istikrar dönemini sürdürme",
+      "Anadolu seferi (1277)",
+      "Saray'ı ticaret merkezi haline getirme",
+      "İpek Yolu ticaretini güvence altına alma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1267",
+        "title": "Tahta Çıkış",
+        "description": "Berke Han'ın ölümünden sonra Altınordu tahtına geçti."
+      },
+      {
+        "year": "1277",
+        "title": "Anadolu Seferi",
+        "description": "Anadolu'ya sefer düzenleyerek bölgedeki Moğol varlığını güçlendirdi."
+      },
+      {
+        "year": "1280",
+        "title": "Mengu Temür'ün Ölümü",
+        "description": "On üç yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Berke Han",
+    "successor": "Tuda Mengu",
+    "battles": [
+      {
+        "name": "Anadolu Seferi",
+        "year": "1277",
+        "result": "victory",
+        "description": "Anadolu'ya sefer düzenleyerek bölgedeki Moğol varlığını güçlendirdi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Büyük İlhanlı-Akkoyunlu savaşları döneminde hanlığın direncini korumaya çalıştım. Kafkasya, her zaman bizim çıkar alanımızdır.",
+      "source": "Mengu Temür Han"
+    }
+  },
+  {
+    "id": "altinordu-tuda-mengu",
+    "order": 6,
+    "name": "Tuda Mengu Han",
+    "title": "Altınordu Hanı",
+    "period": "1280 - 1287",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-tuda-mengu.jpg",
+    "description": "Mengu Temür'ün ölümünden sonra han oldu.",
+    "fullBio": "Tuda Mengu Han, M.S. 1280-1287 yılları arasında yedi yıl hüküm sürmüş, Altınordu Devleti'nin altıncı hükümdarıdır. Ağabeyi Mengu Temür'ün ölümünden sonra tahta çıkmıştır. Tuda Mengu'nun hükümdarlığı, Altınordu'nun iç karışıklıklarla yüz yüze kaldığı bir döneme denk gelmiştir. Döneminin en önemli olayı, 1281 yılında Çin'de Yuan Hanedanı'na karşı isyan eden Kaidu'nun, Altınordu'nun doğudaki topraklarına yönelik tehdididir. Tuda Mengu, bu tehdidi yönetmek zorunda kalmış, ancak askeri başarılar elde edememiştir. Hükümdarlığının ilerleyen yıllarında sağlık sorunları yaşamaya başlamış, 1287 yılında tahtı oğlu Tula Buqa'ya bırakmak zorunda kalmıştır. Tuda Mengu döneminde Altınordu'nun ekonomisi İpek Yolu ticaretine bağlı olarak gelişmeye devam etmiş, Saray başkentinde önemli inşaat faaliyetleri yürütülmüştür. Ancak hükümdarın zayıflaması, yerel beylerin ve komutanların güçlenmesine yol açmış, bu durum devletin merkezi otoritesinin zayıflamasının ilk işaretleri olarak görülmüştür. Tuda Mengu, Altınordu'nun güçlenme döneminden zayıflama dönemine geçiş sürecinde önemli bir figür olarak tarihe geçmiştir.",
+    "legacy": "Altınordu'nun zayıflama dönemine geçiş sürecinde hüküm süren han.",
+    "achievements": [
+      "İpek Yolu ticaretini sürdürme",
+      "Saray'da inşaat faaliyetleri"
+    ],
+    "keyEvents": [
+      {
+        "year": "1280",
+        "title": "Tahta Çıkış",
+        "description": "Mengu Temür'ün ölümünden sonra han oldu."
+      },
+      {
+        "year": "1281",
+        "title": "Kaidu Tehdidi",
+        "description": "Doğudan gelen tehditlerle mücadele etti."
+      },
+      {
+        "year": "1287",
+        "title": "Tahttan Çekilme",
+        "description": "Sağlık sorunları nedeniyle tahtı oğluna bıraktı."
+      }
+    ],
+    "predecessor": "Mengu Temür",
+    "successor": "Tula Buqa",
+    "battles": [
+      {
+        "name": "Kaidu Tehdidi",
+        "year": "1281",
+        "result": "victory",
+        "description": "Doğudan gelen tehditlerle mücadele etti."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Rus prenslerinin bağlılığı, hanlığın gücünün göstergesidir. Vergi sistemi, bu büyük imparatorluğun belkemiğidir.",
+      "source": "Tuda Mengu Han"
+    }
+  },
+  {
+    "id": "altinordu-tula-buqa",
+    "order": 7,
+    "name": "Tula Buqa Han",
+    "title": "Altınordu Hanı",
+    "period": "1287 - 1291",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-tula-buqa.jpg",
+    "description": "Tuda Mengu'nun yerine han oldu.",
+    "fullBio": "Tula Buqa Han, M.S. 1287-1291 yılları arasında dört yıl hüküm sürmüş, Altınordu Devleti'nin yedinci hükümdarıdır. Babası Tuda Mengu'nun sağlık sorunları nedeniyle tahttan çekilmesiyle hükümdar olmuştur. Tula Buqa'nın hükümdarlığı, Altınordu'nun iç istikrarsızlığın arttığı bir döneme denk gelmiştir. Hükümdarlığının ilk yıllarında, devletin doğusundaki Kaidu tehdidiyle mücadele etmek zorunda kalmış, ancak bu mücadelede yeterli başarıyı sağlayamamıştır. Tula Buqa'nın otoritesi, özellikle Altınordu'nun batı kesimlerinde zayıflamıştır. Rus prenslikleri, han'ın zayıflığından faydalanarak otonomist eğilimler göstermeye başlamıştır. 1291 yılında saray darbesiyle tahttan indirilmiş ve öldürülmüştür. Tula Buqa'nın düşüşü, Altınordu'da askeri aristokratların han seçimindeki etkisinin arttığının bir göstergesidir. Yerel komutanlar ve beyler, zayıf görünen hanları değiştirme gücünü elde etmeye başlamışlardır. Tula Buqa'nın ölümünden sonra tahta geçen Toghta Han, devletin yeniden güçlenme çabalarını temsil etmiştir.",
+    "legacy": "Altınordu'da askeri aristokrasi güçlenirken tahttan indirilen ilk hanlardan biri.",
+    "achievements": [
+      "Kaidu tehdidine karşı mücadele"
+    ],
+    "keyEvents": [
+      {
+        "year": "1287",
+        "title": "Tahta Çıkış",
+        "description": "Tuda Mengu'nun yerine han oldu."
+      },
+      {
+        "year": "1291",
+        "title": "Tahttan İndirilme",
+        "description": "Saray darbesiyle tahttan indirilerek öldürüldü."
+      }
+    ],
+    "predecessor": "Tuda Mengu",
+    "successor": "Toghta Han",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Kısa süren hükümdarlığımda hanlığın iç istikrarını korumaya çalıştım. Moğol gelenekleri, Türk pratiğiyle birleşiyordu.",
+      "source": "Tula Buqa Han"
+    }
+  },
+  {
+    "id": "altinordu-toghta",
+    "order": 8,
+    "name": "Toghta Han (Toqta)",
+    "title": "Altınordu Hanı",
+    "period": "1291 - 1312",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-toghta.jpg",
+    "description": "Askeri aristokrasi tarafından tahta çıkarıldı.",
+    "fullBio": "Toghta Han (Toqta), M.S. 1291-1312 yılları arasında yirmi bir yıl hüküm sürmüş, Altınordu Devleti'nin en güçlü hükümdarlarından biridir. Askeri aristokrasi tarafından Tula Buqa'nın yerine tahta çıkarılmış, ancak kısa sürede kendi otoritesini kurarak devleti yeniden merkezileştirmiştir. Toghta'nın hükümdarlığı, Altınordu'nun yeniden güçlenme dönemidir. İlk yıllarında, tahta çıkışını destekleyen askeri komutanlara karşı mücadele ederek han otoritesini yeniden tesis etmiştir. 1293 yılında, devletin batı kesimlerinde isyan eden Rus prensliklerini bastırmış, özellikle Tver ve Ryazan prensliklerine karşı seferler düzenleyerek Altınordu'nun Rus topraklarındaki egemenliğini pekiştirmiştir. 1300 yılında Bizans İmparatoru II. Andronikos'a elçiler göndererek Konstantinopolis'teki Hristoran ticaret kolonilerinin korunmasını talep etmiştir. Toghta döneminde, Altınordu'nun İpek Yolu ticaretinden elde ettiği gelir zirve yapmıştır. Saray başkenti, Toghta'nın desteğiyle önemli bir kültür ve ticaret merkezi haline gelmiş, burada Moğol, Türk, Rus, Bizans, İtalyan ve Ortadoğulu tüccarlar bir araya gelmiştir. Toghta, 1307 yılında Anadolu'daki Moğol valisi olmaya aday kimseleri desteklemiş, bölgedeki güç mücadelelerine müdahil olmuştur. Yirmi bir yıllık hükümdarlığının ardından 1312 yılında ölmüş, ardından damadı Özbeg Han tahta çıkmıştır.",
+    "legacy": "Altınordu'nun en güçlü hükümdarlarından biri, devleti yeniden merkezileştiren ve ekonomik zirveye taşıyan han.",
+    "achievements": [
+      "Altınordu'yu yeniden merkezileştirme",
+      "Rus prensliklerini bastırma",
+      "İpek Yolu ticaretini zirveye taşıma",
+      "Saray'ı kültür merkezi haline getirme"
+    ],
+    "keyEvents": [
+      {
+        "year": "1291",
+        "title": "Tahta Çıkış",
+        "description": "Askeri aristokrasi tarafından tahta çıkarıldı."
+      },
+      {
+        "year": "1293",
+        "title": "Rus Prenslikleri Seferi",
+        "description": "Tver ve Ryazan prensliklerini bastırarak egemenliği pekiştirdi."
+      },
+      {
+        "year": "1307",
+        "title": "Anadolu Müdahalesi",
+        "description": "Anadolu'daki Moğol yönetimine müdahale etti."
+      },
+      {
+        "year": "1312",
+        "title": "Toghta'nın Ölümü",
+        "description": "Yirmi bir yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Tula Buqa",
+    "successor": "Özbeg Han",
+    "battles": [
+      {
+        "name": "Rus Prenslikleri Seferi",
+        "year": "1293",
+        "result": "victory",
+        "description": "Tver ve Ryazan prensliklerini bastırarak egemenliği pekiştirdi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Rus prensliklerini disiplin altına aldım. Aleksandr Nevski'nin torunlarının bile baş eğdiği bir dönem yaşattım.",
+      "source": "Toghta Han"
+    }
+  },
+  {
+    "id": "altinordu-ozbek",
+    "order": 9,
+    "name": "Özbek Han",
+    "title": "Altınordu Hanı / Müslümanlığı Kabul Eden",
+    "period": "1313 - 1341",
+    "dynasty": "Altınordu Hanlığı",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-ozbek-han.jpg",
+    "description": "Altınordu'nun en parlak dönemini yaşatan, İslam'ı resmi din olarak kabul ettiren hükümdar.",
+    "fullBio": "Özbek Han, 1313-1341 yılları arasında 28 yıl hüküm sürmüş, Altınordu Devleti'nin en parlak dönemini yaşatan hükümdardır. Döneminde Altınordu, Karadeniz'den Kazakistan'a, Kafkasya'dan Rusya'nın kuzeyine kadar uzanan geniş topraklarda hüküm sürmüştür. Özbek Han'ın en önemli kararı, 1313 yılında İslamiyet'i resmi devlet dini olarak kabul etmesidir. Bu karar, Altınordu toplumunda derin bir dönüşüme yol açmış, Moğol-Türk karışımı toplumun Türkleşme sürecini hızlandırmıştır. Özbek Han döneminde Altınordu, İpek Yolu ticaretinin en önemli merkezi haline gelmiş, İtalyan tüccarlar, Arap gezginler ve Avrupalı elçiler sarayında ağırlanmıştır. Ünlü Arap gezgini İbn Battuta, Özbek Han'ın sarayını ziyaret etmiş ve onun zenginliği ve adaleti hakkında övgüyle bahsetmiştir. Özbek Han, Altınordu ekonomisini geliştirmiş, vergi sistemini düzenlemiş, ticareti teşvik etmiştir. Onun döneminde Saray şehri, dünyanın en büyük ve en zengin şehirlerinden biri haline gelmiştir. Özbek Han'ın mirası, Altınordu toplumunun Türkleşmesinde ve İslamlaşmasında belirleyici bir rol oynamıştır.",
+    "legacy": "Altınordu'nun Türkleşme sürecinin öncüsü olarak Türk-İslam medeniyetinin Kafkasya ve Rusya'da yayılmasını sağladı.",
+    "achievements": [
+      "İslam'ı resmi din olarak kabul etme",
+      "Altınordu'nun zirve dönemi",
+      "İbn Battuta'nın ziyareti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1313",
+        "title": "Tahta Çıkış",
+        "description": "Altınordu'nun en parlak dönemi başladı."
+      },
+      {
+        "year": "M.S. 1314",
+        "title": "İslam'ın Kabulü",
+        "description": "Altınordu'da İslam resmi din ilan edildi."
+      }
+    ],
+    "predecessor": "Batu Han",
+    "successor": "Berke Han",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "İslam'ı resmi din ilan ettiğimde Altınordu bir medeniyet devleti oldu. 28 yıllık hükümdarlığım, hanlığın altın çağıdır.",
+      "source": "Özbek Han"
+    }
+  },
+  {
+    "id": "altinordu-tinni-beg",
+    "order": 11,
+    "name": "Tinni Beg",
+    "title": "Altınordu Hanı",
+    "period": "1341 - 1342",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-tinni-beg.jpg",
+    "description": "Özbeg Han'ın ölümünden sonra han oldu.",
+    "fullBio": "Tinni Beg, M.S. 1341-1342 yılları arasında hüküm sürmüş, Altınordu Devleti'nin onuncu hükümdarıdır. Babası Özbeg Han'ın ölümünden sonra tahta çıkmış, ancak hükümdarlığı sadece bir yıldan az sürmüştür. Tinni Beg döneminde Altınordu, Özbeg Han'ın uzun ve istikrarlı yönetiminin ardından bir dönüşüm geçirmiştir. Hükümdarlığının kısa sürmesinin nedeni, kardeşleri arasındaki taht mücadeleleridir. Tinni Beg, tahta çıktığında devletin batı kesimlerindeki Rus prensliklerinin otonomist eğilimlerini bastırmaya çalışmış, ancak bu çabaları yetersiz kalmıştır. Kardeşi Cani Beg (Jani Beg), Tinni Beg'e karşı isyan ederek destek toplamış ve kısa sürede onu devirmiştir. Tinni Beg'in düşüşü, Altınordu'da hanlık makamının zayıflamaya başladığının işaretlerindendir. Askeri aristokrasi ve yerel beyler, han seçiminde daha fazla söz sahibi olmaya başlamışlardır. Tinni Beg'in ölümü, Altınordu'da kardeşler arası taht kavgalarının başlangıcı olarak görülmektedir.",
+    "legacy": "Altınordu'da hanlık makamının zayıflamasının ilk işaretlerinin görüldüğü kısa hükümdarlık.",
+    "achievements": [
+      "Özbeg Han'ın mirasını korumaya çalışma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1341",
+        "title": "Tahta Çıkış",
+        "description": "Özbeg Han'ın ölümünden sonra han oldu."
+      },
+      {
+        "year": "1342",
+        "title": "Tahttan Düşüş",
+        "description": "Kardeşi Cani Beg tarafından devirildi."
+      }
+    ],
+    "predecessor": "Özbeg Han",
+    "successor": "Cani Beg",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Özbek Han'ın izinden gittim ama onun kadar uzun süremedi. İslamlaşma süreci, hanlığın derinlerine işlemeye devam etti.",
+      "source": "Tinni Beg"
+    }
+  },
+  {
+    "id": "altinordu-cani-beg",
+    "order": 12,
+    "name": "Cani Beg (Jani Beg)",
+    "title": "Altınordu Hanı",
+    "period": "1342 - 1357",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-cani-beg.jpg",
+    "description": "Kardeşi Tinni Beg'i devirerek han oldu.",
+    "fullBio": "Cani Beg (Jani Beg), M.S. 1342-1357 yılları arasında on beş yıl hüküm sürmüş, Altınordu Devleti'nin on birinci hükümdarıdır. Kardeşi Tinni Beg'i devirerek tahta çıkmıştır. Cani Beg döneminde Altınordu, kara vebadan (Kara Ölüm) büyük ölçüde etkilenmiştir. 1346 yılında vebanın Altınordu topraklarına ulaşması, devletin nüfusunun ve ekonomik gücünün büyük ölçüde zayıflamasına yol açmıştır. Cani Beg, veba salgınına rağmen devletin sınırlarını korumaya çalışmış, 1340'lı yılların ortalarında Rus prensliklerine karşı bir dizi sefer düzenleyerek onların bağımsızlık çabalarını baskılamıştır. 1347 yılında Caffa (bugünkü Feodosiya) kentini ele geçirerek Kırım'daki önemli bir ticaret merkezini kontrolü altına almıştır. Caffa'nın fethi, Altınordu'nun Karadeniz ticaretindeki konumunu güçlendirmiştir. Ancak aynı yıllarda vebanın Caffa üzerinden Avrupa'ya yayılması, tarihteki en büyük salgınlardan birinin başlamasına neden olmuştur. Cani Beg döneminde Altınordu'nun iç yapısı giderek zayıflamış, han'ın otoritesi yerel beylere kalmıştır. 1357 yılında öldürülmüş, ardından oğlu Berdi Beg tahta çıkmıştır.",
+    "legacy": "Kara Veba döneminde hüküm süren, Caffa'yı fetheden ancak devletin zayıflamasına engel olamayan han.",
+    "achievements": [
+      "Caffa'nın fethi (1347)",
+      "Rus prensliklerine karşı seferler",
+      "Karadeniz ticaretini kontrol altına alma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1342",
+        "title": "Tahta Çıkış",
+        "description": "Kardeşi Tinni Beg'i devirerek han oldu."
+      },
+      {
+        "year": "1346",
+        "title": "Kara Veba",
+        "description": "Veba salgını Altınordu topraklarına ulaştı."
+      },
+      {
+        "year": "1347",
+        "title": "Caffa Fethi",
+        "description": "Caffa kentini ele geçirerek Karadeniz ticaretini güçlendirdi."
+      },
+      {
+        "year": "1357",
+        "title": "Cani Beg'in Ölümü",
+        "description": "Öldürülerek hükümdarlığı sona erdi."
+      }
+    ],
+    "predecessor": "Tinni Beg",
+    "successor": "Berdi Beg",
+    "battles": [
+      {
+        "name": "Caffa Fethi",
+        "year": "1347",
+        "result": "victory",
+        "description": "Caffa kentini ele geçirerek Karadeniz ticaretini güçlendirdi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Kara Ölüm'ün Avrupa'yı sardığı dönemde hüküm sürdüm. Kazan'ı fethettim. Hanlığın son büyük fetihlerinden birini gerçekleştirdim.",
+      "source": "Cani Beg"
+    }
+  },
+  {
+    "id": "altinordu-berdi-beg",
+    "order": 13,
+    "name": "Berdi Beg",
+    "title": "Altınordu Hanı",
+    "period": "1357",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-berdi-beg.jpg",
+    "description": "Babası Cani Beg'den sonra tahta çıktı ancak aynı yıl öldürüldü.",
+    "fullBio": "Berdi Beg, M.S. 1357 yılında bir yıldan az bir süre hüküm sürmüş, Altınordu Devleti'nin on ikinci hükümdarıdır. Babası Cani Beg'in ölümünden sonra tahta çıkmıştır. Berdi Beg'in hükümdarlığı, Altınordu'da taht kavgalarının ve iç savaşların doruğa ulaştığı bir döneme denk gelmiştir. Tahta çıktığında, diğer kardeşleri ve amcaları tarafından desteklenen rakip adaylarla mücadele etmek zorunda kalmıştır. Hükümdarlığının ilk aylarında, devletin batı kesimlerindeki Rus prensliklerinin tamamen bağımsız hareket etmeye başlamasıyla mücadele etmiştir. Ancak iç karışıklıklar, devletin dış tehditlere karşı koyma kapasitesini büyük ölçüde zayıflatmıştır. Berdi Beg, aynı yıl içinde saray içindeki bir entrika sonucu öldürülmüştür. Ölümü, Altınordu'da hanlık makamının fiilen anlamını yitirmeye başladığının göstergesidir. Ardından tahta çıkanlar, artık gerçek güç sahibi olmaktan çok, askeri aristokrasinin kuklaları haline gelmişlerdir.",
+    "legacy": "Altınordu'nun çöküş döneminde kısa süre hüküm süren, iç karışıklıklarla mücadele edemeyen han.",
+    "achievements": [
+      "Altınordu Hanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1357",
+        "title": "Tahta Çıkış ve Ölüm",
+        "description": "Babası Cani Beg'den sonra tahta çıktı ancak aynı yıl öldürüldü."
+      }
+    ],
+    "predecessor": "Cani Beg",
+    "successor": "Qulpa",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Cani Beg'in kardeşi olarak tahta çıktım ama bu tahtta çok oturamadım. Hanlığın çöküşü, benim dönemimde hızlandı.",
+      "source": "Berdi Beg"
+    }
+  },
+  {
+    "id": "altinordu-qulpa",
+    "order": 14,
+    "name": "Qulpa Han",
+    "title": "Altınordu Hanı",
+    "period": "1357 - 1359",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-qulpa.jpg",
+    "description": "Berdi Beg'in ölümünden sonra han oldu.",
+    "fullBio": "Qulpa Han, M.S. 1357-1359 yılları arasında iki yıl hüküm sürmüş, Altınordu Devleti'nin on üçüncü hükümdarıdır. Berdi Beg'in ölümünden sonra tahta çıkmıştır. Qulpa döneminde Altınordu'da fiili güç, askeri komutanların ve yerel beylerin eline geçmiştir. Qulpa'nın kendisi, bu güç gruplarının desteğiyle tahta çıkmış, ancak onların çıkarları doğrultusunda hareket etmek zorunda kalmıştır. Hükümdarlığı döneminde devletin toprak bütünlüğü hızla bozulmaya başlamıştır. 1359 yılında, diğer bir rakip tarafından öldürülerek tahttan indirilmiştir. Qulpa'nın hükümdarlığı, Altınordu'nun klasik döneminin sona erdiği, dağılma sürecinin başladığı dönemin bir parçasıdır. Bu dönemden itibaren Altınordu, fiilen birçok küçük beyliklere bölünmeye başlamıştır.",
+    "legacy": "Altınordu'nun dağılma sürecinde hüküm süren, fiilen gücü olmayan han.",
+    "achievements": [
+      "Altınordu Hanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1357",
+        "title": "Tahta Çıkış",
+        "description": "Berdi Beg'in ölümünden sonra han oldu."
+      },
+      {
+        "year": "1359",
+        "title": "Ölüm",
+        "description": "Rakipleri tarafından öldürüldü."
+      }
+    ],
+    "predecessor": "Berdi Beg",
+    "successor": "Nawruz Beg",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Taht, hanedan içi çekişmelerin ateşiyle ısınıyordu. Qulpa, bu ateşte eriyen kısa ömürlü bir hükümdardı.",
+      "source": "Qulpa Han"
+    }
+  },
+  {
+    "id": "altinordu-nawruz",
+    "order": 15,
+    "name": "Nawruz Beg",
+    "title": "Altınordu Hanı",
+    "period": "1359 - 1360",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-nawruz.jpg",
+    "description": "Qulpa'nın ardından han oldu.",
+    "fullBio": "Nawruz Beg, M.S. 1359-1360 yılları arasında hüküm sürmüş, Altınordu Devleti'nin on dördüncü hükümdarıdır. Qulpa'nın ölümünden sonra tahta çıkmış, ancak hükümdarlığı bir yıldan az sürmüştür. Nawruz Beg döneminde Altınordu'nun parçalanması hız kazanmıştır. Hükümdarlığı sırasında, Litvanya Büyük Dükalığı'nın batı sınırlarına yönelik tehditleri yönetmeye çalışmış, ancak iç karışıklıklar bu tehditlere karşı koymayı imkansız hale getirmiştir. Nawruz Beg, 1360 yılında rakibi Khidr tarafından devirilmiştir. Bu dönemde Altınordu tahtına birden fazla kişi aynı anda sahip çıkmakta, bu durum tam bir iç savaş ortamı yaratmaktadır. Nawruz Beg'in kısa hükümdarlığı, Altınordu'nun klasik yapısının tamamen çöktüğü, hanlık makamının itibarını yitirdiği dönemin bir parçasıdır.",
+    "legacy": "Altınordu'nun parçalanma döneminde hüküm süren kısa ömürlü han.",
+    "achievements": [
+      "Altınordu Hanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1359",
+        "title": "Tahta Çıkış",
+        "description": "Qulpa'nın ardından han oldu."
+      },
+      {
+        "year": "1360",
+        "title": "Tahttan Düşüş",
+        "description": "Khidr tarafından devirildi."
+      }
+    ],
+    "predecessor": "Qulpa",
+    "successor": "Khidr",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Nawruz, hanlığın parçalanma döneminin başlangıcında kısa bir nefes oldu. Artık hanedan içi çekişmeler dinmiyordu.",
+      "source": "Nawruz Beg"
+    }
+  },
+  {
+    "id": "altinordu-khidr",
+    "order": 16,
+    "name": "Khidr Han",
+    "title": "Altınordu Hanı",
+    "period": "1359 - 1361",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-khidr.jpg",
+    "description": "Nawruz Beg'i devirerek han oldu.",
+    "fullBio": "Khidr Han, M.S. 1359-1361 yılları arasında iki yıl hüküm sürmüş, Altınordu Devleti'nin on beşinci hükümdarıdır. Nawruz Beg'i devirerek tahta çıkmıştır. Khidr döneminde Altınordu'da fiili güç tamamen askeri komutanların eline geçmiştir. Mamai ve Tokhtamyş gibi komutanlar, devletin kaderini belirleyen asıl güçler haline gelmiştir. Khidr, bu komutanların desteğiyle tahtta kalmış, ancak onların çıkarları çatıştığında tahttan indirilmiştir. 1361 yılında Timur Khwaja tarafından devirilmiştir. Khidr'in hükümdarlığı, Altınordu'nun artık tek bir hükümdar tarafından yönetilemediğinin, devletin fiilen beyliklere bölündüğünün göstergesidir. Bu dönemden sonra Altınordu, Büyük Altınordu (Batı) ve Ak Ordu (Doğu) olarak fiilen ikiye ayrılmıştır.",
+    "legacy": "Altınordu'nun fiilen bölündüğü dönemde hüküm süren han.",
+    "achievements": [
+      "Altınordu Hanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1359",
+        "title": "Tahta Çıkış",
+        "description": "Nawruz Beg'i devirerek han oldu."
+      },
+      {
+        "year": "1361",
+        "title": "Tahttan İndirilme",
+        "description": "Timur Khwaja tarafından devirildi."
+      }
+    ],
+    "predecessor": "Nawruz Beg",
+    "successor": "Timur Khwaja",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Khidr döneminde hanlık toparlanmaya çalıştı ama iç çekişmeler ve dış tehditler durmuyordu. Volga'da son direnişi temsil ettim.",
+      "source": "Khidr Han"
+    }
+  },
+  {
+    "id": "altinordu-timur-khwaja",
+    "order": 17,
+    "name": "Timur Khwaja",
+    "title": "Altınordu Hanı",
+    "period": "1361",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-timur-khwaja.jpg",
+    "description": "Birkaç ay süren hükümdarlığının ardından devirildi.",
+    "fullBio": "Timur Khwaja, M.S. 1361 yılında sadece birkaç ay hüküm sürmüş, Altınordu Devleti'nin on altıncı hükümdarıdır. Khidr'i devirerek tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Timur Khwaja'nın tahta çıkışı, Altınordu'daki iç savaşların en şiddetli dönemine denk gelmektedir. Aynı yıl içinde, rakibi Urus Khan tarafından devirilmiştir. Timur Khwaja dönemi, Altınordu'nun artık hanlık makamının bilek gücüyle ele geçirildiği, merkezi otoritenin tamamen çöktüğü dönemin zirvesidir. Bu dönemde Altınordu topraklarında birden fazla hükümdar kendini han ilan etmekte, bu durum tam bir kaos ortamı yaratmaktadır.",
+    "legacy": "Altınordu'nun en kısa hükümdarlıklarından birine sahip, iç savaş döneminin bir parçası.",
+    "achievements": [
+      "Altınordu Hanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1361",
+        "title": "Kısa Hükümdarlık",
+        "description": "Birkaç ay süren hükümdarlığının ardından devirildi."
+      }
+    ],
+    "predecessor": "Khidr",
+    "successor": "Urus Khan",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Timur Khwaja, hanlığın son nefeslerinden birini temsil eder. Rus prenslikleri bağımsızlık emareleri göstermeye başladı.",
+      "source": "Timur Khwaja"
+    }
+  },
+  {
+    "id": "altinordu-urus",
+    "order": 18,
+    "name": "Urus Khan",
+    "title": "Altınordu Hanı",
+    "period": "1361 - 1373",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-urus.jpg",
+    "description": "İç savaşlar döneminde tahta çıktı.",
+    "fullBio": "Urus Khan, M.S. 1361-1373 yılları arasında on iki yıl hüküm sürmüş, Altınordu Devleti'nin on yedinci hükümdarıdır. Timur Khwaja'yı devirerek tahta çıkmış, iç savaşlar döneminde nispeten uzun bir hükümdarlık gerçekleştirmiştir. Urus Khan döneminde Altınordu'nun doğu kesimleri (Ak Ordu) batıya göre daha istikrarlı bir yönetim altına girmiştir. Urus Khan, Timur (Tamerlane) ile mücadele etmek zorunda kalmış, 1372 yılında Timur'un ordularına karşı savaşmış ancak yenilgiye uğramıştır. Bu yenilgi, Altınordu'nun doğu kesimlerinde Timur'un nüfuzunu artırmıştır. Urus Khan, iç savaşlar döneminde hanlık makamını yeniden itibar kazandırmaya çalışmış, ancak devletin parçalanmış yapısını birleştirmeyi başaramamıştır. 1373 yılında ölmüş, ardından oğulları arasında taht kavgası başlamıştır. Urus Khan'in hükümdarlığı, Altınordu'nun doğu kesimlerinde son ciddi hanlık denemesi olarak görülmektedir.",
+    "legacy": "İç savaşlar döneminde nispeten uzun süre hüküm süren, doğu Altınordu'da son ciddi hanlık denemesi.",
+    "achievements": [
+      "Altınordu doğu kesimlerinde istikrar sağlama",
+      "Timur ile mücadele"
+    ],
+    "keyEvents": [
+      {
+        "year": "1361",
+        "title": "Tahta Çıkış",
+        "description": "İç savaşlar döneminde tahta çıktı."
+      },
+      {
+        "year": "1372",
+        "title": "Timur Savaşı",
+        "description": "Timur'a karşı yenilgiye uğradı."
+      },
+      {
+        "year": "1373",
+        "title": "Urus Khan'ın Ölümü",
+        "description": "On iki yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Timur Khwaja",
+    "successor": "Toqtaqiya",
+    "battles": [
+      {
+        "name": "Tahta Çıkış",
+        "year": "1361",
+        "result": "victory",
+        "description": "İç savaşlar döneminde tahta çıktı."
+      },
+      {
+        "name": "Timur Savaşı",
+        "year": "1372",
+        "result": "victory",
+        "description": "Timur'a karşı yenilgiye uğradı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Urus, hanlığın son direnişçilerinden oldu. Tokhtamysh'ın dedesi olarak, hanlığın yeniden toparlanma umuduydu.",
+      "source": "Urus Han"
+    }
+  },
+  {
+    "id": "altinordu-toqtaqiya",
+    "order": 19,
+    "name": "Toqtaqiya",
+    "title": "Altınordu Hanı",
+    "period": "1373",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-toqtaqiya.jpg",
+    "description": "Birkaç ay süren hükümdarlığının ardından devirildi.",
+    "fullBio": "Toqtaqiya, M.S. 1373 yılında sadece birkaç ay hüküm sürmüş, Altınordu Devleti'nin on sekizinci hükümdarıdır. Babası Urus Khan'ın ölümünden sonra tahta çıkmış, ancak kardeşleri arasındaki taht mücadeleleri nedeniyle hükümdarlığı çok kısa sürmüştür. Aynı yıl içinde kardeşi Timur Malik tarafından devirilmiştir. Toqtaqiya'nın hükümdarlığı, Altınordu'nun tamamen parçalandığı, hanlık makamının bilek gücüyle el değiştirdiği dönemin bir parçasıdır. Bu dönemde Timur, Altınordu topraklarında etkin bir şekilde müdahale etmekte, kendi desteklediği adayları tahta çıkarmaktadır.",
+    "legacy": "Altınordu'nun parçalanma döneminde çok kısa süre hüküm süren han.",
+    "achievements": [
+      "Altınordu Hanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1373",
+        "title": "Kısa Hükümdarlık",
+        "description": "Birkaç ay süren hükümdarlığının ardından devirildi."
+      }
+    ],
+    "predecessor": "Urus Khan",
+    "successor": "Timur Malik",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Toqtaqiya, taht mücadelelerinin bir figürü. Kısa süren hükümdarlığı, hanlığın iç çürümenin hızlandığını gösterir.",
+      "source": "Toqtaqiya"
+    }
+  },
+  {
+    "id": "altinordu-timur-malik",
+    "order": 20,
+    "name": "Timur Malik",
+    "title": "Altınordu Hanı",
+    "period": "1373",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-timur-malik.jpg",
+    "description": "Birkaç ay sonra Tokhtamysh tarafından devirildi.",
+    "fullBio": "Timur Malik, M.S. 1373 yılında sadece birkaç ay hüküm sürmüş, Altınordu Devleti'nin on dokuzuncu hükümdarıdır. Kardeşi Toqtaqiya'yı devirerek tahta çıkmış, ancak hükümdarlığı çok kısa sürmüştür. Timur Malik, Altınordu'nun doğu kesimlerinde hüküm sürmeye çalışmış, ancak Timur'un bölgedeki nüfuzu karşısında varlık gösterememiştir. Aynı yıl içinde, Timur'un desteklediği Tokhtamysh tarafından devirilmiştir. Timur Malik'in düşüşü, Altınordu'nun artık bağımsız bir devlet olmaktan çıkıp, Timur'un nüfuzu altına girdiğinin göstergesidir.",
+    "legacy": "Timur'un Altınordu üzerindeki nüfuzunun arttığını gösteren son kısa hükümdarlardan biri.",
+    "achievements": [
+      "Altınordu Hanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1373",
+        "title": "Kısa Hükümdarlık",
+        "description": "Birkaç ay sonra Tokhtamysh tarafından devirildi."
+      }
+    ],
+    "predecessor": "Toqtaqiya",
+    "successor": "Tokhtamysh",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Timur Malik, hanlığın parçalanma sürecindeki son çırpınışlarından birini temsil eder. Artık hanlık, eski gücünden çok uzaktı.",
+      "source": "Timur Malik"
+    }
+  },
+  {
+    "id": "altinordu-tokhtamysh",
+    "order": 21,
+    "name": "Tokhtamysh Han",
+    "title": "Altınordu Hanı",
+    "period": "1378 - 1395",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-tokhtamysh.jpg",
+    "description": "Timur'un desteğiyle han oldu.",
+    "fullBio": "Tokhtamysh Han, M.S. 1378-1395 yılları arasında on yedi yıl hüküm sürmüş, Altınordu Devleti'nin yirminci ve son önemli hükümdarıdır. Timur'un desteğiyle tahta çıkmış, başlangıçta Timur'a bağlı bir vasal konumunda hüküm sürmüştür. Tokhtamysh, 1380 yılında Büyük Altınordu ve Ak Ordu'yu yeniden birleştirerek Altınordu'yu tek çatı altında toplamayı başarmıştır. 1382 yılında Moskova'yı yakarak Rus prenslikleri üzerindeki egemenliğini yeniden tesis etmiştir. Ancak 1380'li yılların ortalarında Timur'dan bağımsızlığını ilan etmiş, bu durum Timur ile açık çatışmaya yol açmıştır. 1391 yılında Kunduzça Muharebesi'nde Timur'a yenilmiş, ancak yeniden toparlanmıştır. 1395 yılında ise Terek Nehri Muharebesi'nde ağır bir yenilgiye uğramış, Altınordu ordusu tamamen dağılmıştır. Bu yenilgi, Altınordu'nun fiilen sonu olmuştur. Tokhtamysh, yenilgiden sonra kaçmış, 1405 yılına kadar çeşitli yerlerde sürgün hayatı yaşamış, sonunda Litvanya'da öldürülmüştür. Tokhtamysh'in düşüşü, Altınordu'nun tarihten silinmesinin başlangıcıdır.",
+    "legacy": "Altınordu'nun son önemli hükümdarı, devleti yeniden birleştiren ancak Timur karşısında yenilerek çöküşü hızlandıran han.",
+    "achievements": [
+      "Altınordu'yu yeniden birleştirme (1380)",
+      "Moskova'yı yakma (1382)",
+      "Timur ile mücadele"
+    ],
+    "keyEvents": [
+      {
+        "year": "1378",
+        "title": "Tahta Çıkış",
+        "description": "Timur'un desteğiyle han oldu."
+      },
+      {
+        "year": "1380",
+        "title": "Altınordu'nun Birleştirilmesi",
+        "description": "Büyük Altınordu ve Ak Ordu'yu birleştirdi."
+      },
+      {
+        "year": "1382",
+        "title": "Moskova'nın Yakılması",
+        "description": "Moskova'yı yakarak Rus prenslikleri üzerindeki egemenliği yeniden tesis etti."
+      },
+      {
+        "year": "1391",
+        "title": "Kunduzça Yenilgisi",
+        "description": "Timur'a ilk büyük yenilgisini aldı."
+      },
+      {
+        "year": "1395",
+        "title": "Terek Nehri Yenilgisi",
+        "description": "Altınordu ordusu tamamen dağıldı, devlet fiilen sona erdi."
+      }
+    ],
+    "predecessor": "Timur Malik",
+    "successor": "Edigu",
+    "battles": [
+      {
+        "name": "Kunduzça Yenilgisi",
+        "year": "1391",
+        "result": "defeat",
+        "description": "Timur'a ilk büyük yenilgisini aldı."
+      },
+      {
+        "name": "Terek Nehri Yenilgisi",
+        "year": "1395",
+        "result": "victory",
+        "description": "Altınordu ordusu tamamen dağıldı, devlet fiilen sona erdi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Timur'a karşı direndim, yenildim, geri geldim. Moskova'yı yaktım. Tokhtamysh, hanlığın son büyük lideridir.",
+      "source": "Tokhtamysh Han"
+    }
+  },
+  {
+    "id": "altinordu-edigu",
+    "order": 22,
+    "name": "Edigu (Edigey)",
+    "title": "Altınordu Emiri / Nogay Hanı",
+    "period": "1395 - 1419",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-edigu.jpg",
+    "description": "Tokhtamysh'in düşüşünden sonra Altınordu'nun fiili yöneticisi oldu.",
+    "fullBio": "Edigu (Edigey), M.S. 1395-1419 yılları arasında yirmi dört yıl boyunca Altınordu'nun fiili yöneticisi olarak hüküm sürmüş, devletin çöküşünden sonra Nogay Ordusu'nun kurucusu olan tarihi bir figürdür. Köken olarak Mangıt boyundan gelen Edigu, Tokhtamysh döneminde önemli askeri görevler üstlenmiş, ancak sonradan ona karşı çıkmıştır. Tokhtamysh'in Timur karşısındaki yenilgisinden sonra, Altınordu'nun kalıntıları üzerinde otorite kurmayı başarmıştır. Edigu, hanlık makamına kendi adamlarını oturtarak fiili gücü elinde tutmuş, Shadi Beg ve Pulad Khan gibi isimleri tahta çıkarmıştır. 1406 yılında Timur'un ölümünden sonra, eski Altınordu topraklarında yeniden düzen kurmaya çalışmıştır. Ancak 1410'lu yıllarda, Tokhtamysh'in oğullarının ve diğer rakiplerin direnişiyle karşılaşmıştır. 1419 yılında öldürülmüştür. Edigu'nun ölümünden sonra Nogay Ordusu, bağımsız bir hanlık olarak varlığını sürdürmüş, bu hanlık 16. yüzyıla kadar varlığını korumuştur. Edigu, Altınordu'nun son dönemindeki en güçlü askeri lider olarak tarihe geçmiş, Nogay Türklerinin kurucu atası sayılmıştır.",
+    "legacy": "Altınordu'nun son dönemindeki en güçlü askeri lider, Nogay Türklerinin kurucu atası.",
+    "achievements": [
+      "Altınordu kalıntılarında otorite kurma",
+      "Nogay Ordusu'nun kurucusu",
+      "Timur sonrası düzeni yeniden kurma çabası"
+    ],
+    "keyEvents": [
+      {
+        "year": "1395",
+        "title": "Fiili Güç",
+        "description": "Tokhtamysh'in düşüşünden sonra Altınordu'nun fiili yöneticisi oldu."
+      },
+      {
+        "year": "1406",
+        "title": "Timur'un Ölümü Sonrası",
+        "description": "Timur'un ölümünden sonra eski topraklarda düzen kurmaya çalıştı."
+      },
+      {
+        "year": "1419",
+        "title": "Edigu'nun Ölümü",
+        "description": "Rakipleri tarafından öldürüldü."
+      }
+    ],
+    "predecessor": "Tokhtamysh",
+    "successor": "Nogay Hanları",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Edigu, Altınordu'nun son büyük devlet adamı. Hanlığın fiilen sona erdiği dönemde Nogay Ordusu'nu kurdum.",
+      "source": "Edigu"
+    }
+  },
+  {
+    "id": "altinordu-jalal-ad-din",
+    "order": 23,
+    "name": "Celaleddin (Jalal ad-Din)",
+    "title": "Altınordu Hanı",
+    "period": "1419 - 1423",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-jalal.jpg",
+    "description": "Edigu'nun ölümünden sonra han oldu.",
+    "fullBio": "Celaleddin (Jalal ad-Din), M.S. 1419-1423 yılları arasında dört yıl hüküm sürmüş, Edigu'nun ölümünden sonra Altınordu kalıntılarında hüküm sürmeye çalışan hükümdarlardan biridir. Edigu'nun ölümüyle boşalan fiili güç mücadelesinde, kendini han ilan etmiştir. Celaleddin döneminde Altınordu toprakları, Nogay Ordusu, Kazan Hanlığı, Kırım Hanlığı ve Astrahan Hanlığı olarak fiilen bölünmüştür. Celaleddin'in kontrolü sadece eski başkent Saray çevresiyle sınırlı kalmıştır. 1423 yılında Karim Berdi tarafından devirilmiştir. Celaleddin'in hükümdarlığı, Altınordu'nun artık tek bir devlet olma özelliğini tamamen yitirdiği dönemin bir parçasıdır.",
+    "legacy": "Altınordu'nun fiilen bölündüğü dönemde Saray çevresinde hüküm süren son hanlardan biri.",
+    "achievements": [
+      "Altınordu Hanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1419",
+        "title": "Tahta Çıkış",
+        "description": "Edigu'nun ölümünden sonra han oldu."
+      },
+      {
+        "year": "1423",
+        "title": "Tahttan Düşüş",
+        "description": "Karim Berdi tarafından devirildi."
+      }
+    ],
+    "predecessor": "Edigu",
+    "successor": "Karim Berdi",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Rus prenslerinin vergi verdiği tek devletiz.",
+      "source": "Celaleddin (Jalal ad-Din)"
+    }
+  },
+  {
+    "id": "altinordu-karim-berdi",
+    "order": 24,
+    "name": "Karim Berdi",
+    "title": "Altınordu Hanı",
+    "period": "1423 - 1424",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-karim-berdi.jpg",
+    "description": "Celaleddin'i devirerek son ciddi birleştirme çabasını yaptı.",
+    "fullBio": "Karim Berdi, M.S. 1423-1424 yılları arasında hüküm sürmüş, Altınordu'nun çöküş dönemindeki hükümdarlarından biridir. Celaleddin'i devirerek tahta çıkmış, ancak hükümdarlığı bir yıldan az sürmüştür. Karim Berdi döneminde, Kırım Hanlığı ve Kazan Hanlığı tamamen bağımsız hareket etmeye başlamıştır. Karim Berdi, eski Altınordu topraklarında yeniden birliği sağlamaya çalışmış, ancak bu çabaları sonuçsuz kalmıştır. 1424 yılında tahttan indirilmiştir. Karim Berdi'nin düşüşüyle birlikte, eski Altınordu'nun merkezi otoritesi tamamen ortadan kalkmıştır. Bundan sonra eski Altınordu topraklarında Kazan, Kırım, Astrahan, Sibir ve Kaşpak (Nogay) hanlıkları bağımsız varlıklarını sürdürmüştür.",
+    "legacy": "Altınordu merkezi hanlığının son temsilcilerinden biri.",
+    "achievements": [
+      "Altınordu Hanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1423",
+        "title": "Tahta Çıkış",
+        "description": "Celaleddin'i devirerek son ciddi birleştirme çabasını yaptı."
+      },
+      {
+        "year": "1424",
+        "title": "Tahttan Düşüş",
+        "description": "Altınordu merkezi otoritesi tamamen çöktü."
+      }
+    ],
+    "predecessor": "Celaleddin",
+    "successor": "Küçük Muhammed",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Karim Berdi, hanlığın son dönemindeki hanedan içi çekişmelerin bir parçası. Artık hanlık, kendi gölgesine bile ulaşamıyordu.",
+      "source": "Karim Berdi"
+    }
+  },
+  {
+    "id": "altinordu-kucuk-muhammed",
+    "order": 25,
+    "name": "Küçük Muhammed Han",
+    "title": "Altınordu / Kırım Hanı Adayı",
+    "period": "1432 - 1459",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-kucuk-muhammed.jpg",
+    "description": "Eski Altınordu topraklarında hanlık iddiasında bulundu.",
+    "fullBio": "Küçük Muhammed Han, M.S. 1432-1459 yılları arasında yirmi yedi yıl hüküm sürmüş, eski Altınordu topraklarında son hanlık iddiasında bulunan hükümdardır. Karim Berdi'nin ardından kendini eski Altınordu'nun mirasçısı ilan etmiş, Saray çevresinde otorite kurmaya çalışmıştır. Küçük Muhammed döneminde, eski Altınordu topraklarında Kazan Hanlığı, Kırım Hanlığı, Astrahan Hanlığı ve Nogay Ordusu tamamen bağımsız hareket etmektedir. Küçük Muhammed, bu hanlıklar üzerindeki egemenlik iddiasından vazgeçmeyerek onlarla sürekli mücadele içinde olmuştur. Özellikle Kırım Hanlığı ile olan çatışmalar, dönemin en önemli olayları arasındadır. Küçük Muhammed'in oğlu ve varisi Ahmet, 1460'lı yıllarda Astrahan Hanlığı'nı kurarak eski Altınordu mirasının bir kısmını yaşatmaya çalışmıştır. Küçük Muhammed'in hükümdarlığı, Altınordu'nun resmen sona erdiği ancak mirasının küçük hanlıklarda devam ettiği dönemi temsil eder.",
+    "legacy": "Eski Altınordu'nun son hanlık iddiasında bulunan hükümdar, Astrahan Hanlığı'nın kuruluşuna zemin hazırladı.",
+    "achievements": [
+      "Eski Altınordu mirasını son temsilcisi olma",
+      "Astrahan Hanlığı'nın kuruluşuna zemin hazırlama"
+    ],
+    "keyEvents": [
+      {
+        "year": "1432",
+        "title": "Tahta Çıkış",
+        "description": "Eski Altınordu topraklarında hanlık iddiasında bulundu."
+      },
+      {
+        "year": "1441",
+        "title": "Kırım Hanlığı'nın Bağımsızlığı",
+        "description": "Kırım Hanlığı fiilen bağımsız oldu."
+      },
+      {
+        "year": "1459",
+        "title": "Ölüm",
+        "description": "Yirmi yedi yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Karim Berdi",
+    "successor": "Ahmad",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Küçük Muhammed, hanlığın adını taşıyan son hükümdarlardan biri. Nogaylar ve Kırım'ın yükselişi, hanlığın sonunu getirdi.",
+      "source": "Küçük Muhammed Han"
+    }
+  },
+  {
+    "id": "altinordu-ahmad",
+    "order": 26,
+    "name": "Ahmad Han",
+    "title": "Büyük Altınordu Hanı (son)",
+    "period": "1465 - 1481",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-ahmad.jpg",
+    "description": "Eski Altınordu'nun batı kesimlerinde son hanlık iddiasında bulundu.",
+    "fullBio": "Ahmad Han, M.S. 1465-1481 yılları arasında on altı yıl hüküm sürmüş, eski Büyük Altınordu'nun son hükümdarıdır. Babası Küçük Muhammed'in ölümünden sonra tahta çıkmış, eski Altınordu'nun batı kesimlerindeki son otoriteyi temsil etmiştir. Ahmad döneminde, Moskova Büyük Dükalığı giderek güçlenerek Altınordu'nun son kalan egemenliğine meydan okumaya başlamıştır. 1480 yılında, Moskova Dükü III. İvan, Altınordu'ya vergi ödemeyi reddetmiş, bu durum Altınordu'nun Rus topraklarındaki iki yüzyıllık egemenliğinin fiilen sona erdiğinin ilanı olmuştur. Ahmad, İvan'a karşı sefer düzenlemeye çalışmış, ancak askeri gücü yetersiz kalmıştır. 1481 yılında, Sibir Hanlığı'nın desteklediği Nogay birlikleri tarafından yenilgiye uğratılmış ve öldürülmüştür. Ahmad'ın ölümü, eski Altınordu'nun son hanlık iddiasının da sona erdiği anlamına gelmektedir. 1502 yılında, son Astrahan Hanı da Safeviler tarafından yıkılınca, Altınordu'nun mirası tamamen son bulmuştur.",
+    "legacy": "Büyük Altınordu'nun son hükümdarı, Moskova'nın bağımsızlığıyla Altınordu egemenliğinin sona erdiğini gören son han.",
+    "achievements": [
+      "Eski Büyük Altınordu'nun son hükümdarı olma",
+      "Moskova'ya karşı son mücadele"
+    ],
+    "keyEvents": [
+      {
+        "year": "1465",
+        "title": "Tahta Çıkış",
+        "description": "Eski Altınordu'nun batı kesimlerinde son hanlık iddiasında bulundu."
+      },
+      {
+        "year": "1480",
+        "title": "Moskova'nın Bağımsızlığı",
+        "description": "III. İvan vergi ödemeyi reddetti, Altınordu egemenliği fiilen sona erdi."
+      },
+      {
+        "year": "1481",
+        "title": "Ahmad'ın Ölümü",
+        "description": "Nogay birlikleri tarafından öldürüldü, son hanlık iddiası sona erdi."
+      }
+    ],
+    "predecessor": "Küçük Muhammed",
+    "successor": "Şeyh Ahmad",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Ahmad, hanlığın resmen sona erdiği dönemin hükümdarı. 1502'de hanlık fiilen çöktü, ben son nefesimi verdim.",
+      "source": "Ahmad Han"
+    }
+  },
+  {
+    "id": "altinordu-seyh-ahmad",
+    "order": 27,
+    "name": "Şeyh Ahmad Han",
+    "title": "Son Altınordu Hanı",
+    "period": "1481 - 1502",
+    "dynasty": "Altınordu Devleti",
+    "dynastyId": "altinordu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-altinordu-seyh-ahmad.jpg",
+    "description": "Son resmi Altınordu hükümdarı oldu.",
+    "fullBio": "Şeyh Ahmad Han, M.S. 1481-1502 yılları arasında yirmi bir yıl hüküm sürmüş, Altınordu Devleti'nin son resmi hükümdarıdır. Babası Ahmad Han'ın ölümünden sonra tahta çıkmış, ancak kontrolü sadece Saray çevresiyle sınırlı kalmıştır. Şeyh Ahmad döneminde, eski Altınordu topraklarında Kazan, Kırım, Astrahan ve Sibir hanlıkları tamamen bağımsız hareket etmektedir. Şeyh Ahmad, bu hanlıklar üzerindeki egemenlik iddiasını sürdürmüş, ancak hiçbir zaman gerçek bir otorite kuramamıştır. 1487 yılında, Kazan Hanlığı'nın kendisine karşı açık isyanıyla karşılaşmış, bu isyanı bastıramamıştır. 1490'lı yıllarda, Kırım Hanlığı ile sürekli çatışma halinde olmuş, ancak askeri gücü yetersiz kalmıştır. 1502 yılında, Kırım Hanı Mengli Giray tarafından esir alınarak tahttan indirilmiştir. Bu olay, Altınordu Devleti'nin resmen sona erdiği tarih olarak kabul edilir. Şeyh Ahmad, esir olarak Kırım'da tutulmuş, bir süre sonra serbest bırakılmış, Litvanya'ya sığınmış ve orada ölmüştür. Şeyh Ahmad'ın düşüşü, Altınordu'nun üç yüzyıllık tarihinin kesin sonudur. Altınordu'nun mirası, Kazan, Kırım, Astrahan, Sibir, Kaşpak ve Nogay hanlıkları tarafından devam ettirilmiştir.",
+    "legacy": "Altınordu Devleti'nin son hükümdarı, üç yüzyıllık hanlığın resmen sona erdiği figür.",
+    "achievements": [
+      "Altınordu'nun son hükümdarı olma"
+    ],
+    "keyEvents": [
+      {
+        "year": "1481",
+        "title": "Tahta Çıkış",
+        "description": "Son resmi Altınordu hükümdarı oldu."
+      },
+      {
+        "year": "1487",
+        "title": "Kazan İsyanı",
+        "description": "Kazan Hanlığı'nın bağımsızlığını ilan etmesini engelleyemedi."
+      },
+      {
+        "year": "1502",
+        "title": "Altınordu'nun Sonu",
+        "description": "Kırım Hanı Mengli Giray tarafından esir alınarak tahttan indirildi."
+      }
+    ],
+    "predecessor": "Ahmad Han",
+    "successor": "Yok (Devlet sona erdi)",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Şeyh Ahmad, Altınordu'nun son hükümdarı. Büyük hanlığın izleri, Kırım ve Kazan'da yaşamaya devam etti.",
+      "source": "Şeyh Ahmad Han"
+    }
+  }
+]

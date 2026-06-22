@@ -1,0 +1,202 @@
+[
+  {
+    "id": "bb-menderes",
+    "order": 1,
+    "name": "Adnan Menderes",
+    "title": "Demokrat Parti Genel Başkanı / Başbakan",
+    "period": "1950 - 1960",
+    "dynasty": "Türkiye Cumhuriyeti Başbakanları",
+    "dynastyId": "cumhuriyet-bb",
+    "era": "Çağdaş Dönem",
+    "image": "/images/huk-menderes.jpg",
+    "description": "Türkiye'nin ilk demokratik seçimle iktidara gelen başbakanı. 27 Mayıs darbesiyle idam edildi.",
+    "fullBio": "Adnan Menderes (1899-1961), Türkiye Cumhuriyeti'nin ilk demokratik seçimle iktidara gelen başbakanıdır. Aydın'da doğmuş, Lozan Üniversitesi'nde eğitim görmüştür. 1946'da Demokrat Parti'yi kurmuş, 1950 seçimlerinde zafer kazanarak başbakan olmuştur. 1950-1960 arasında başbakanlık yapmış, tarım reformları ve ekonomik kalkınma hamleleriyle tanınmıştır. 27 Mayıs 1960 darbesiyle görevden alınmış, Yassıada'da yargılanarak 17 Eylül 1961'de idam edilmiştir. 1990'da mezarının İstanbul'a nakledilmesiyle yeniden anılmıştır.",
+    "legacy": "Türkiye'nin çok partili demokrasi tarihinin ilk demokratik seçilmiş başbakanıdır. İdam edilmesi Türk siyasi tarihinin en trajik olaylarından biridir.",
+    "achievements": [
+      "İlk demokratik seçim zaferi (1950)",
+      "Köprüler, barajlar, fabrikalar hamlesi",
+      "Tarım reformları"
+    ],
+    "keyEvents": [
+      {"year": "1950", "title": "Demokrat Parti Zaferi", "description": "İlk demokratik iktidar değişimi."},
+      {"year": "1960", "title": "27 Mayıs Darbesi", "description": "Askeri darbeyle görevden alındı."},
+      {"year": "1961", "title": "İdam", "description": "Yassıada'da idam edildi."}
+    ],
+    "predecessor": "Cumhuriyet Halk Partisi dönemi",
+    "successor": "Cemal Gürsel (MBK)",
+    "quote": {"text": "Köprüler, barajlar, fabrikalar; Türkiye'nin gelişiminin sembolleridir. Halkın iradesi, demokrasinin temelidir.", "source": "Adnan Menderes"},
+    "battles": [],
+    "relatedPeople": []
+  },
+  {
+    "id": "bb-ecevit",
+    "order": 2,
+    "name": "Bülent Ecevit",
+    "title": "CHP ve DSP Genel Başkanı / 4 kez Başbakan",
+    "period": "1974 - 2002",
+    "dynasty": "Türkiye Cumhuriyeti Başbakanları",
+    "dynastyId": "cumhuriyet-bb",
+    "era": "Çağdaş Dönem",
+    "image": "/images/huk-ecevit.jpg",
+    "description": "Kıbrıs Barış Harekatı'nın lideri, 4 kez başbakanlık yapan 'Karaoğlan'.",
+    "fullBio": "Bülent Ecevit (1925-2006), Türkiye Cumhuriyeti'nin 4 kez başbakanlık yapmış, Kıbrıs Barış Harekatı'nın lideri olan siyasetçi ve şairdir. İstanbul'da doğmuş, Robert College ve Londra'da eğitim görmüştür. 1974'te Kıbrıs Barış Harekatı'nı düzenlemiştir. CHP ve DSP genel başkanlığı yapmıştır. 2006'da Ankara'da vefat etmiştir.",
+    "legacy": "Kıbrıs Barış Harekatı lideri olarak Türk dış politikasında iz bırakan, 4 kez başbakanlık yapan efsanevi siyasetçi.",
+    "achievements": [
+      "4 kez başbakanlık",
+      "Kıbrıs Barış Harekatı (1974)",
+      "DSP kurucusu"
+    ],
+    "keyEvents": [
+      {"year": "1974", "title": "Kıbrıs Harekatı", "description": "Kıbrıs Barış Harekatı'nı düzenledi."},
+      {"year": "2006", "title": "Vefat", "description": "Ankara'da vefat etti."}
+    ],
+    "predecessor": "-",
+    "successor": "-",
+    "quote": {"text": "Kıbrıs, Türk'ün ebedi vatanıdır. Demokrasi, uzlaşma ve istikrar içinde gelişir.", "source": "Bülent Ecevit"},
+    "battles": [],
+    "relatedPeople": []
+  },
+  {
+    "id": "bb-ciller",
+    "order": 3,
+    "name": "Tansu Çiller",
+    "title": "DYP Genel Başkanı / Türkiye'nin İlk Kadın Başbakanı",
+    "period": "1993 - 1996",
+    "dynasty": "Türkiye Cumhuriyeti Başbakanları",
+    "dynastyId": "cumhuriyet-bb",
+    "era": "Çağdaş Dönem",
+    "image": "/images/huk-ciller.jpg",
+    "description": "Türkiye Cumhuriyeti'nin ilk ve tek kadın başbakanı. Ekonomi profesörü.",
+    "fullBio": "Tansu Çiller (1946-), Türkiye Cumhuriyeti'nin ilk ve tek kadın başbakanıdır. İstanbul'da doğmuş, Boğaziçi Üniversitesi'nde ve ABD'de ekonomi eğitimi almıştır. 1993'te DYP genel başkanı seçilmiş ve başbakan olmuştur. 1993-1996 arasında başbakanlık yapmıştır. Ekonomik kriz döneminde görev almış, Türk siyasi tarihinde önemli bir yere sahiptir.",
+    "legacy": "Türkiye'nin ilk kadın başbakanı olarak Türk kadınının siyasetteki başarısının sembolüdür.",
+    "achievements": [
+      "Türkiye'nin ilk kadın başbakanı",
+      "Ekonomi profesörü",
+      "DYP genel başkanı"
+    ],
+    "keyEvents": [
+      {"year": "1993", "title": "Başbakanlık", "description": "Türkiye'nin ilk kadın başbakanı oldu."},
+      {"year": "1996", "title": "Görev Sonu", "description": "Koalisyon hükümeti sona erdi."}
+    ],
+    "predecessor": "-",
+    "successor": "-",
+    "quote": {"text": "Kadın, Türk siyasetinin gücüdür. Ekonomi, milletin geleceğidir. Ben, bu milletin hizmetkârıyım.", "source": "Tansu Çiller"},
+    "battles": [],
+    "relatedPeople": []
+  },
+  {
+    "id": "bb-ozal",
+    "order": 4,
+    "name": "Turgut Özal",
+    "title": "ANAP Kurucusu / Başbakan (1983-1989)",
+    "period": "1983 - 1989",
+    "dynasty": "Türkiye Cumhuriyeti Başbakanları",
+    "dynastyId": "cumhuriyet-bb",
+    "era": "Çağdaş Dönem",
+    "image": "/images/huk-ozal.jpg",
+    "description": "24 Ocak Kararları'nın mimarı, liberal ekonominin öncüsü, 3 dönem başbakan.",
+    "fullBio": "Turgut Özal (1927-1993), 1983-1989 arasında 3 dönem Türkiye başbakanlığı yapmış, ardından 8. Cumhurbaşkanı olmuştur. Malatya'da doğmuş, İTÜ Elektrik Mühendisliği'nden mezun olmuştur. 24 Ocak 1980 ekonomik kararlarıyla liberal ekonomiyi getirmiştir. 1983'te ANAP'ı kurmuş, seçimleri kazanarak başbakan olmuştur. 1989'da cumhurbaşkanı seçilmiştir. 1993'te kalp krizi sonucu vefat etmiştir.",
+    "legacy": "Türkiye'nin ekonomik ve siyasi dönüşümünün mimarı olarak liberal ekonomiyi getiren, Türkiye'yi dünyaya açan en etkili başbakanlardan biridir.",
+    "achievements": [
+      "24 Ocak 1980 Kararları",
+      "ANAP'ın kuruluşu ve iktidarı",
+      "Liberal ekonomi dönüşümü",
+      "3 dönem başbakanlık"
+    ],
+    "keyEvents": [
+      {"year": "1983", "title": "ANAP İktidarı", "description": "Anavatan Partisi seçimleri kazandı."},
+      {"year": "1989", "title": "Cumhurbaşkanlığı", "description": "8. Cumhurbaşkanı seçildi."}
+    ],
+    "predecessor": "-",
+    "successor": "-",
+    "quote": {"text": "Ekonomi, siyasetin temel direğidir. Serbest piyasa, Türkiye'nin kalkınma hamlesidir.", "source": "Turgut Özal"},
+    "battles": [],
+    "relatedPeople": []
+  },
+  {
+    "id": "bb-demirel",
+    "order": 5,
+    "name": "Süleyman Demirel",
+    "title": "AP ve DYP Genel Başkanı / 7 kez Başbakan",
+    "period": "1965 - 1993",
+    "dynasty": "Türkiye Cumhuriyeti Başbakanları",
+    "dynastyId": "cumhuriyet-bb",
+    "era": "Çağdaş Dönem",
+    "image": "/images/huk-demirel.jpg",
+    "description": "7 kez başbakanlık yapan 'Çoban Sülü', Türk siyasetinin en uzun soluklu liderlerinden.",
+    "fullBio": "Süleyman Demirel (1924-2015), Türkiye Cumhuriyeti'nin 7 kez başbakanlık yapmış efsanevi siyasetçisidir. Isparta'da doğmuş, İTÜ İnşaat Mühendisliği'nden mezun olmuştur. 1965'te Adalet Partisi ile seçimleri kazanarak başbakan olmuştur. 1965-1980 arasında 5 kez, 1991-1993 arasında tekrar başbakanlık yapmış, toplam 7 kez başbakanlık yaparak dünya rekoru kırmıştır. 1993'te cumhurbaşkanı seçilmiştir. 2015'te vefat etmiştir.",
+    "legacy": "7 kez başbakanlık yaparak dünya rekoru kırmış, 'Çoban Sülü' lakabıyla halkın sevgisini kazanmış efsanevi bir siyasetçidir.",
+    "achievements": [
+      "7 kez başbakanlık (dünya rekoru)",
+      "Adalet Partisi ve DYP kurucusu",
+      "Köprüler, barajlar, fabrikalar hamlesi"
+    ],
+    "keyEvents": [
+      {"year": "1965", "title": "İlk Başbakanlık", "description": "Adalet Partisi iktidarı."},
+      {"year": "1971", "title": "12 Mart Muhtırası", "description": "Askeri muhtıra sonrası görevden alındı."},
+      {"year": "1993", "title": "Cumhurbaşkanlığı", "description": "9. Cumhurbaşkanı seçildi."}
+    ],
+    "predecessor": "-",
+    "successor": "-",
+    "quote": {"text": "Baba, bu milletin gönlündeki yerini kazandı. Köprüler, barajlar, fabrikalar; Türkiye'nin gelişiminin sembolleridir.", "source": "Süleyman Demirel"},
+    "battles": [],
+    "relatedPeople": []
+  },
+  {
+    "id": "bb-erdogan",
+    "order": 6,
+    "name": "Recep Tayyip Erdoğan",
+    "title": "AK Parti Genel Başkanı / 3 kez Başbakan",
+    "period": "2003 - 2014",
+    "dynasty": "Türkiye Cumhuriyeti Başbakanları",
+    "dynastyId": "cumhuriyet-bb",
+    "era": "Çağdaş Dönem",
+    "image": "/images/huk-erdogan.jpg",
+    "description": "2003-2014 arası 3 kez başbakan, ardından 12. Cumhurbaşkanı. Türkiye'nin en uzun süre görev yapan lideri.",
+    "fullBio": "Recep Tayyip Erdoğan (1954-), 2003-2014 arasında 3 kez Türkiye başbakanlığı yapmış, ardından 12. Cumhurbaşkanı olmuştur. İstanbul'da doğmuş, İmam Hatip Lisesi ve Marmara Üniversitesi'ni bitirmiştir. 1994'te İstanbul Büyükşehir Belediye Başkanı seçilmiştir. 2001'de AK Parti'yi kurmuş, 2002 seçimlerinde zafer kazanarak 2003'te başbakan olmuştur. 2014'ten bu yana cumhurbaşkanlığı görevini sürdürmektedir.",
+    "legacy": "3 kez başbakanlık ve cumhurbaşkanlığı ile Türkiye'nin en uzun süre görev yapan lideri olarak ülkenin siyasi ve ekonomik yapısında derin değişikliklere yol açmıştır.",
+    "achievements": [
+      "3 kez başbakanlık",
+      "AK Parti kurucusu",
+      "İstanbul Büyükşehir Belediye Başkanlığı"
+    ],
+    "keyEvents": [
+      {"year": "2003", "title": "Başbakanlık", "description": "AK Parti iktidarı."},
+      {"year": "2014", "title": "Cumhurbaşkanlığı", "description": "Halk oylamasıyla seçildi."}
+    ],
+    "predecessor": "-",
+    "successor": "-",
+    "quote": {"text": "Dünya beşten büyüktür. Bu millet, yeni bir yüzyıla demokrasi ve kalkınma ile giriyor.", "source": "Recep Tayyip Erdoğan"},
+    "battles": [],
+    "relatedPeople": []
+  },
+  {
+    "id": "bb-gul",
+    "order": 7,
+    "name": "Abdullah Gül",
+    "title": "AK Parti Kurucusu / Başbakan (2002-2003)",
+    "period": "2002 - 2003",
+    "dynasty": "Türkiye Cumhuriyeti Başbakanları",
+    "dynastyId": "cumhuriyet-bb",
+    "era": "Çağdaş Dönem",
+    "image": "/images/huk-gul.jpg",
+    "description": "AK Parti kurucusu, 11. Cumhurbaşkanı. Dışişleri Bakanlığı ve Başbakanlık yaptı.",
+    "fullBio": "Abdullah Gül (1950-), 2002-2003 arasında Türkiye başbakanlığı yapmış, ardından dışişleri bakanlığı ve 11. Cumhurbaşkanlığı yapmıştır. Kayseri'de doğmuş, İstanbul Üniversitesi İktisat Fakültesi'ni bitirdikten sonra doktorasını İngiltere'de tamamlamıştır. 2001'de AK Parti'yi kurmuştur. 2002-2003 arasında başbakanlık, 2003-2007 arasında dışişleri bakanlığı yapmıştır. 2007'de 11. Cumhurbaşkanı seçilmiştir.",
+    "legacy": "AK Parti'nin kurucularından ve Türkiye'nin demokratikleşme sürecinde önemli rol oynayan, 'komşularla sıfır sorun' politikasını başlatan devlet adamı.",
+    "achievements": [
+      "AK Parti'nin kuruluşu",
+      "Başbakanlık ve Dışişleri Bakanlığı",
+      "11. Cumhurbaşkanlığı",
+      "Komşularla sıfır sorun politikası"
+    ],
+    "keyEvents": [
+      {"year": "2002", "title": "Başbakanlık", "description": "AK Parti'nin ilk başbakanı oldu."},
+      {"year": "2007", "title": "Cumhurbaşkanlığı", "description": "11. Cumhurbaşkanı seçildi."}
+    ],
+    "predecessor": "-",
+    "successor": "-",
+    "quote": {"text": "Demokrasi, uzlaşma ve istikrar içinde gelişir. Türkiye, köprü görevini yerine getiren bir ülkedir.", "source": "Abdullah Gül"},
+    "battles": [],
+    "relatedPeople": []
+  }
+]

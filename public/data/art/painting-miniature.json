@@ -1,0 +1,330 @@
+{
+  "category": "Resim & Minyatür",
+  "title": "Türk Resim ve Minyatür Sanatı",
+  "subtitle": "İlk Çağ'dan Günümüze 2600 Yıllık Görsel Miras",
+  "description": "Türk resim sanatı, M.Ö. 600 yıllarında İskitler'in bozkır sanatıyla başlar, Osmanlı saray nakkaşhanesinin muhteşem minyatürleriyle zirveye ulaşır ve Cumhuriyet döneminde modern Türk resmiyle dünya sahnelerine çıkar.",
+  "relatedPages": [
+    {
+      "page": "Yazıtlar",
+      "url": "/yazitlar",
+      "note": "Orhun Yazıtları'ndaki yazı sanatı ve Göktürk dönemi görsel kültürü hakkında detaylı bilgi için Yazıtlar sayfasına bakınız."
+    },
+    {
+      "page": "Destanlar",
+      "url": "/destanlar",
+      "note": "Şehname, Siyer-i Nebî ve Dede Korkut gibi metinlerin minyatürlenmesi hakkında detaylı bilgi için Destanlar sayfasına bakınız."
+    }
+  ],
+  "periods": [
+    {
+      "id": "bozkir-sanati",
+      "era": "İlk Çağ",
+      "period": "M.Ö. 600 - M.S. 552",
+      "title": "Bozkır Sanatı: Hayvan Üslubu",
+      "description": "Konargöçer Türk topluluklarının yarattığı, stilize hayvan figürleriyle tanınan eşsiz bir sanat geleneği. İskitler, Sakalar, Hunlar ve diğer bozkır halkları bu üslubu mükemmelleştirmiştir.",
+      "sections": [
+        {
+          "heading": "Hayvan Üslubu (Animal Style)",
+          "content": "Konargöçer yaşam tarzını benimseyen bozkır topluluklarının sanat eserlerinde kullandıkları hayvan motiflerinin genel adıdır. M.Ö. 7. yüzyılda İskitler tarafından klasik bir ifade biçimine dönüştürülmüştür. Geyik, pars, kartal, at figürleri hareket halinde, birbirleriyle mücadele ederken veya kıvrılmış vaziyette stilize edilir. Bu figürler sadece süs değil, hayvanın gücünün kullanıcıya geçmesi inancını taşıyan tılsımlardı. İskitler metalurjide ustaydılar; altın, gümüş ve bronzu mükemmel işleyerek kılıç sapı, mızrak, bıçak, at koşum takımı gibi taşınabilir nesneleri hayvan motifleriyle süslediler.",
+          "techniques": ["Döküm", "Kakma", "Oyma", "Kabartma"],
+          "materials": ["Altın", "Bronz", "Kemik", "Keçe", "Yün", "Deri", "Boynuz", "Fil Dişi", "Ahşap"],
+          "characteristics": [
+            "Yüksek stilizasyon ile hayvan hareketlerinin vurgulanması",
+            "Hayvan mücadele sahneleri - iç içe geçmiş kıvrımlı formlar",
+            "Avcı ve av betimlemeleri",
+            "Havada asılıymış izlenimi veren dinamizm"
+          ],
+          "keyWorks": [
+            {
+              "name": "Altın Elbiseli Adam (Issyk Kurganı)",
+              "year": "M.Ö. 5. yüzyıl",
+              "location": "Kazakistan, Almatı",
+              "description": "1969'da bulunan bu zırh, binlerce saf altın parçadan oluşur. İskit/Saka sanatının zirvesidir."
+            },
+            {
+              "name": "Pazırık Halısı",
+              "year": "M.Ö. 5. yüzyıl",
+              "location": "Altay Dağları, Pazırık Kurganı",
+              "description": "Buzulların koruması sayesinde bozulmadan gelen dünyanın en eski halısı. 'Türk düğümü' (Gördes düğümü), İskit-Türk bağının somut kanıtıdır."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "İskitler (Sakalar) - Hayvan Üslubu ve Altın",
+          "author": "Beytullah Mutlu",
+          "url": "https://www.hayrendis.com/iskitler-sakalar/"
+        },
+        {
+          "title": "Hayvan Üslubu - Köken ve Yayılım",
+          "author": "Küre Ansiklopedi",
+          "url": "https://kureansiklopedi.com/tr/detay/hayvan-uslubu-4ead9"
+        }
+      ]
+    },
+    {
+      "id": "gokturk-uygur-sanati",
+      "era": "Orta Çağ",
+      "period": "M.S. 552 - 1037",
+      "title": "Göktürk ve Uygur Görsel Sanatları",
+      "description": "Göktürkler ve Uygurlar döneminde hayvan üslubu geleneksel sanat anlayışıyla devam etti. Kaya resimleri, kemik oyma eserler, madeni süs eşyaları ve Budist freskler bu dönemin önemli sanatsal ürünleridir.",
+      "sections": [
+        {
+          "heading": "Göktürk Dönemi Kaya Resimleri",
+          "content": "Göktürkler aracılığıyla hayvan üslubu Batı Avrasya'ya taşındı. Kaya resimleri, kemik oyma eserler ve madeni süs eşyaları üzerinde hayvan tasvirleri yoğunluk kazandı. Özellikle Orhun-Yenisey bölgesindeki kaya resimlerinde atlı savaşçılar, av sahneleri ve hayvan figürleri görülür. Bu dönem ayrıca Göktürk alfabesinin geliştiği bir dönemdir ve yazının sanatsal bir görsel unsur olarak kullanımı başlamıştır.",
+          "characteristics": [
+            "Kaya resimlerinde atlı savaşçı ve av sahneleri",
+            "Kemik oyma eserler üzerinde hayvan figürleri",
+            "Madeni süs eşyalarındaki stilize motifler"
+          ],
+          "note": "Göktürk alfabesi ve yazıtlar hakkında detaylı bilgi icin Yazitlar sayfasina bakiniz."
+        },
+        {
+          "heading": "Uygur Dönemi Fresk ve Duvar Resimleri",
+          "content": "Uygur Kağanlığı döneminde özellikle Koço (Turfan) bölgesindeki tapınaklarda freskler, geyik figürlü duvar resimleri ve dini metinlerin resimlendirilmesi önem kazandı. Maniheist ve Budist dini sanat eserleri, bu dönemde Türk sanatının farklı bir yönünü temsil eder. Duvar resimlerinde Uygur prensleri, Budist tanrı figürleri ve stilize hayvan motifleri bir arada görülür.",
+          "keyWorks": [
+            {
+              "name": "Koço Tapınağı Freskleri",
+              "year": "M.S. 8-9. yüzyıl",
+              "location": "Turfan, Doğu Türkistan",
+              "description": "Geyik figürlü freskler ve dini sahneler."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "selcuklu-minyatur",
+      "era": "Orta Çağ",
+      "period": "M.S. 1037 - 1299",
+      "title": "Selçuklu Minyatür Sanatı",
+      "description": "Anadolu Selçukluları döneminde el yazması kitapların resimlendirilmesiyle minyatür sanatı gelişmeye başladı. Darüşşifa ve medreselerdeki kültür ortamı, resimli el yazmalarının üretilmesine zemin hazırladı.",
+      "sections": [
+        {
+          "heading": "Selçuklu Minyatürünün Özellikleri",
+          "content": "Selçuklu döneminde özellikle el yazması kitapların resimlendirilmesiyle minyatür sanatı gelişmeye başladı. Vargi ve Guvenc lukası olarak bilinen süslemeler bu dönemin karakteristik özelliklerindendir. Darüşşifa ve medreselerdeki kültür ortamı, resimli el yazmalarının üretilmesine zemin hazırladı. Figürlerde yuvarlak yüzler, uzun burunlar ve stilize bedenler görülür. Altın varak kullanımı yaygındır.",
+          "characteristics": [
+            "Vargi ve Guvenc lukası süslemeleri",
+            "Yuvarlak yüzlü, uzun burunlu figürler",
+            "Altın varak kullanımı",
+            "Dini ve felsefi metinlerin resimlendirilmesi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "osmanli-minyatur",
+      "era": "Orta Çağ - Yeni Çağ",
+      "period": "1299 - 1923",
+      "title": "Osmanlı Minyatür Sanatı",
+      "description": "Osmanlı minyatür sanatı, saray nakkaşhanesinde 600 yıl boyunca süren muhteşem bir geleneğin ürünüdür. Padişah portrelerinden şehname'lere, savaş tasvirlerinden dini metinlere kadar geniş bir yelpazede eserler üretildi.",
+      "sections": [
+        {
+          "heading": "Fatih Dönemi ve Batılı Etkiler (1453-1481)",
+          "content": "II. Mehmed (Fatih) döneminde İstanbul saray atölyelerinde yerli ustaların yanı sıra Batılı sanatçılar da çalıştı. Sinan Bey Fatih'in musavviridir ve Frenk üstatlardan yetişmiştir. Bursalı Ahmed Şiblîzade ise portre çizmede nakkâşân-ı Rûm'un en iyisi olarak kabul edilir. Fatih döneminde başlayan Osmanlı padişah portreciliği XIX. yüzyıla kadar etkin bir tür olarak devam etti.",
+          "keyArtists": [
+            { "name": "Sinan Bey", "role": "Fatih'in musavviri", "note": "Frenk üstatlardan yetişmiş portreci" },
+            { "name": "Bursalı Ahmed Şiblîzade", "role": "Nakkaş", "note": "Portre çizmede nakkâşân-ı Rûm'un en iyisi" }
+          ]
+        },
+        {
+          "heading": "II. Bayezid ve Amasya Etkisi (1481-1512)",
+          "content": "II. Bayezid hükümdar olmadan önce 27 yıl Amasya'da valilik yaptı. Buradaki kültürel etkinlikler tahta çıktıktan sonra da sürdü. Akkoyunlu Türkmenlerinin Şiraz'daki atölyelerinden etkilenerek yeşil yapraklarla kaplanmış zeminler, altınla sıvanmış iri beyaz renkli bulutlu gökyüzü betimleri kullanıldı."
+        },
+        {
+          "heading": "I. Selim Dönemi - Tebriz Nakkaşhanesinden Geliş (1512-1520)",
+          "content": "I. Selim, 1514'te Tebriz'i Safevilerden aldığında, İslam dünyasında üstünlük kazanmış Tebriz Nakkaşhanesi'ni ve ünlü sanatçılarını İstanbul'a getirdi. Bu dönemde Mantıku't-tayr (1515) gibi önemli eserler resimlendi."
+        },
+        {
+          "heading": "Şah Kulu ve Saz Üslubu (1520-1556)",
+          "content": "Saray nakkaşhanesinde çalışan Şah Kulu, ejder figürleri, hançervari yapraklar, hatayî dizileri ve değerli bir kuyumcu yapıtı özeniyle bezenmiş giysili peri resimleriyle saz üslubunu yarattı. Bu üslup yüzyıllarca Türk bezemesinin simgesi oldu.",
+          "keyArtists": [
+            { "name": "Şah Kulu", "period": "1520-1556", "style": "Saz üslubu", "note": "Ejderler, hançervari yapraklar, hatayî dizileri" }
+          ]
+        },
+        {
+          "heading": "Nakkaş Nigârî - Galatalı Ressam (16. yüzyıl ortası)",
+          "content": "Haydar Reis (Nakkaş Nigârî), Galata'da yaşayan ve denizlere açıldığı için 'Reis' unvanını alan bir portre ustasıydı. Barbaros Hayreddin Paşa'nın, yaşlı Sultan Süleyman'ın, II. Selim'in ve Avrupa hükümdarlarının portrelerini çizdi.",
+          "keyArtists": [
+            { "name": "Nakkaş Nigârî (Haydar Reis)", "period": "ö. 1572", "specialty": "Portre", "note": "Barbaros, Kanuni, II. Selim portreleri" }
+          ]
+        },
+        {
+          "heading": "Nakkaş Osman ve Seyyid Lokman - Altın Çağ (1558-1597)",
+          "content": "Nakkaş Osman ve şehnameci Seyyid Lokman'ın iş birliğiyle Türk minyatür sanatı zirveye ulaştı. 1579-1597 yılları arasında Seyyid Lokman yazdı, Nakkaş Osman ve yardımcıları resimledi. Şehnâme-i Selîm Hân, Hünernâme ve 814 tasvirle altı cilt olarak hazırlanan Siyer-i Nebî bu dönemin başyapıtlarıdır.",
+          "keyArtists": [
+            { "name": "Nakkaş Osman", "period": "16. yüzyıl", "role": "Saray nakkaşhanesinin baş ustası" },
+            { "name": "Seyyid Lokman", "period": "ö. 1610", "role": "Şehnameci" }
+          ],
+          "keyWorks": [
+            { "name": "Hünernâme", "period": "1580'ler", "note": "Osmanlı padişahlarının resimli tarihi" },
+            { "name": "Siyer-i Nebî", "period": "1595-1596", "note": "814 tasvir, altı cilt - Osmanlı kitap sanatının zirvesi" }
+          ],
+          "note": "Bu eserlerin metinsel icerikleri hakkinda detayli bilgi icin Destanlar sayfasina bakiniz."
+        },
+        {
+          "heading": "Nakkaş Hasan ve Ta'lîkîzade (1590-1610)",
+          "content": "Nakkaş Hasan ve şehnameci Ta'lîkîzade'nin iş birliğiyle Şemâilnâme-i Âl-i Osmân, Şehnâme-i Hümâyûn ve Eğri Fetihnâmesi gibi eserler üretildi. Nakkaş Hasan, Safevi elçisi Zülfikâr Han'ın portresini bile resimledi.",
+          "keyArtists": [
+            { "name": "Nakkaş Hasan", "period": "16-17. yüzyıl", "note": "Enderun'da yetişmiş baş nakkaş" },
+            { "name": "Ta'lîkîzade", "period": "1596-1597'den sonra", "role": "Şehnameci" }
+          ]
+        },
+        {
+          "heading": "Levni ve 18. Yüzyıl (1680-1732)",
+          "content": "Nakkaş Levni, Osmanlı minyatür sanatının en büyük ustalarından biridir. Abdullah Buharî ile birlikte çiçek ressamlığını, manzara resimlerini ve kadın portrelerini geliştirdi. Hübânnâme ve Zenânnâme gibi eserlerde İstanbul yaşamını betimledi. Sulu boya tekniğine yakın resimleriyle farklı bir üslup oluşturdu.",
+          "keyArtists": [
+            { "name": "Abdullah Buharî", "period": "18. yüzyıl", "specialty": "Çiçek ressamlığı, kadın portreleri" },
+            { "name": "Nakkaş Levni (Siyavuş Abdal)", "period": "1680-1732", "specialty": "Figür, portre, çiçek", "note": "Hübânnâme ve Zenânnâme" }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "İstanbul Sarayının Resim Hazinesinden: Osmanlı Sanatında Minyatür",
+          "author": "Prof. Dr. Zeren Tanındı",
+          "url": "https://istanbultarihi.ist/275-istanbul-sarayinin-resim-hazinesinden-osmanli-sanatinda-minyatur"
+        }
+      ]
+    },
+    {
+      "id": "osman-hamdi",
+      "era": "Modern Çağ",
+      "period": "1842 - 1923",
+      "title": "Batılılaşma Dönemi: Asker Ressamlar ve Osman Hamdi Bey",
+      "description": "Türk resim sanatında batı tarzı resmin ilk adımları, askeri okullarda verilen resim dersleriyle başladı. Osman Hamdi Bey, hem ressam hem eğitimci hem müzeci kimliğiyle Türk sanat hayatında devrim yarattı.",
+      "sections": [
+        {
+          "heading": "Asker Ressamlar Kuşağı (19. yüzyıl)",
+          "content": "Mühendishane-i Berri Hümayun'da resim derslerinin verilmesiyle 'Asker Ressamlar Kuşağı' ortaya çıktı. 1794'te asker mekteplerinde başlayan resim dersleri hemen hemen peyzajla başlamıştır. Figür, devrin terbiye telakkileri yüzünden bu mekteplere sokulmamıştır.",
+          "keyArtists": [
+            { "name": "Süleyman Seyyit", "period": "1842-1913", "specialty": "Natürmort", "note": "Paris'te Boulanger ve Gérome'dan eğitim aldı" },
+            { "name": "Şeker Ahmet Paşa", "period": "1841-1907", "specialty": "Peyzaj, natürmort" },
+            { "name": "Hüseyin Zekai Paşa", "period": "1859-1919", "specialty": "Peyzaj" },
+            { "name": "Halil Paşa", "period": "1856-1940", "specialty": "Peyzaj, portre" }
+          ]
+        },
+        {
+          "heading": "Osman Hamdi Bey (1842-1910)",
+          "content": "Osman Hamdi Bey, Türk resim sanatının en çok yönlü isimlerinden biridir. Paris Güzel Sanatlar Okulu'nda Jean-Léon Gérôme ve Gustave Boulanger'nin atölyelerinde eğitim aldı. 1882'de Sanayi-i Nefise Mekteb-i Âlisi'ni (bugünkü Mimar Sinan Güzel Sanatlar Üniversitesi) kurdu ve 27 yıl müdürlüğünü üstlendi. 1881'de Müze-i Hümayun müdürlüğüne atandı ve Türk müzeciliğinin kurucusu oldu. İskender Lahdi'ni İstanbul'a getirerek dünya arkeoloji tarihine adını yazdırdı.",
+          "keyWorks": [
+            { "name": "Kaplumbağa Terbiyecisi", "year": "1906", "note": "En ünlü eseri, Doğu-Batı çatışmasını simgesel anlatır" },
+            { "name": "Mihrap", "note": "Doğu-Batı estetik çatışmasını figürler ve mimari detaylar üzerinden aktarır" },
+            { "name": "Kuran Okuyan Kız", "note": "Osmanlı kadınının iç mekandaki yaşayışını resmeder" }
+          ],
+          "contributions": [
+            "Türk resminde ilk figürlü kompozisyonu yapan ressam",
+            "Sanayi-i Nefise Mekteb-i Âlisi kurucusu (1882)",
+            "Müze-i Hümayun (İstanbul Arkeoloji Müzeleri) müdürü (1881)",
+            "Eserlerin yurt dışına kaçırılmasını engelleyen yasaların hazırlanması",
+            "Anadolu'da arkeolojik kazıların başlatılması"
+          ],
+          "sources": [
+            { "title": "Osman Hamdi Bey'in Hayatı ve Eserleri", "url": "https://www.oggusto.com/sanat/sanatci/osman-hamdi-bey-hayati-eserleri" },
+            { "title": "Osman Hamdi Bey'in Eserlerinde Doğu-Batı Etkileşimi", "author": "Academia", "url": "https://dergipark.org.tr/tr/pub/mahder/article/1617411" }
+          ]
+        },
+        {
+          "heading": "Hoca Ali Rıza (1858-1930) ve Üsküdar Ekolü",
+          "content": "Hoca Ali Rıza, Türk resminde açık hava ressamlığını ve poşad geleneğini başlatan figür olmasıyla tanınır. Süleyman Seyyid ve Osman Nuri Paşa'dan ders aldı. Üsküdar'ın peyzajlarını binlerce karakalem, suluboya ve yağlıboya çalışmasıyla ölümsüzleştirdi. 'Tek zevkim ve duygularım, ülkemin tatlı gökyüzü altındaki zümrüt perspektife serpilmiş yerli ve milli bir hayat dili söyleten yuvalarını, mahallelerin manzaralarını, ağaçlıklarını, yüksek tarihi eserlerini öldürmemek ve onlara uzun bir ömür kazandırmaktır.' sözleri sanat anlayışını özetler.",
+          "note": "Türk resmine milli ruhu veren ilk sanatçılardan biri olarak kabul edilir. Yaklaşık 3000 resmi olduğu söylenir.",
+          "sources": [
+            { "title": "Hoca Ali Rıza - Türk Kültür Portalı", "url": "https://www.kulturportali.gov.tr/portal/hoca-ali-riza-" },
+            { "title": "Sanat Aşığı Bir Derviş Meşrep - Üsküdarlı Hoca Ali Rıza", "author": "Üsküdar Belediyesi", "url": "https://www.uskudar.bel.tr" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cumhuriyet-resim",
+      "era": "Modern Çağ",
+      "period": "1923 - Günümüz",
+      "title": "Cumhuriyet Dönemi Türk Resmi",
+      "description": "Cumhuriyet'in ilanıyla Türk resim sanatı, Batı sanat akımlarıyla sentezlenerek modern bir kimlik kazandı. 1914 Kuşağı, D Grubu, Yeniler Grubu ve sonrasında gelen kuşaklar Türk resmini dünya sahnelerine taşıdı.",
+      "sections": [
+        {
+          "heading": "1914 Kuşağı (Türk İzlenimcileri)",
+          "content": "Cumhuriyet döneminin ilk önemli sanat akımı olan 1914 Kuşağı, Türk resminde izlenimci anlayışın temsilcileridir. Genellikle askeri okul kökenli olan bu ressamlar, doğadan esinlenen, ışık ve renk oyunlarına önem veren eserler ürettiler.",
+          "keyArtists": [
+            { "name": "Halil Paşa", "period": "1856-1940" },
+            { "name": "Hoca Ali Rıza", "period": "1858-1930", "note": "Açık hava ressamlığının öncüsü" },
+            { "name": "Ahmet Ziya Akbulut", "period": "1869-1938", "note": "İstanbul manzaraları" }
+          ]
+        },
+        {
+          "heading": "D Grubu (1933)",
+          "content": "1933'te kurulan D Grubu, Türk resminde daha radikal bir modernleşme çabası olarak ortaya çıktı. Grup, Türk resminin çağdaş dünya sanatıyla ilişkisini güçlendirmeyi amaçladı.",
+          "keyArtists": [
+            { "name": "Cemal Tollu", "period": "1899-1968" },
+            { "name": "Zeki Faik İzer", "period": "1905-1988" },
+            { "name": "Zühtü Müridoğlu", "period": "1906-1992" },
+            { "name": "Elif Naci", "period": "1898-1987" },
+            { "name": "Nurullah Berk", "period": "1904-1982" }
+          ]
+        },
+        {
+          "heading": "Yeniler Grubu (1937-1942)",
+          "content": "1937'de kurulan Yeniler Grubu, Türk resminde sosyal gerçekçi bir anlayışı savundu. Halkın günlük yaşamını, çalışma koşullarını ve sosyal sorunları resmetmeyi amaçladılar.",
+          "keyArtists": [
+            { "name": "Turgut Zaim", "period": "1904-1974", "note": "Anadolu insanını ve yaşamını resmetti" },
+            { "name": "Bedri Rahmi Eyüboğlu", "period": "1911-1975", "note": "Şair ve ressam, Anadolu motifleri" },
+            { "name": "Eren Eyüboğlu", "period": "1907-1988" },
+            { "name": "Sabri Berkel", "period": "1909-1992" }
+          ]
+        },
+        {
+          "heading": "Çağdaş Türk Resmi (1960-2000)",
+          "content": "1960'lardan sonra Türk resmi daha da çeşitlendi. Soyut sanat, pop art, kavramsal sanat gibi farklı akımlar Türkiye'de de kendini gösterdi. Burhan Doğança, Fikret Mualla, Abidin Dino gibi isimler dünya çapında tanındı.",
+          "keyArtists": [
+            { "name": "Burhan Doğança", "period": "1929-2013", "specialty": "Duvar yazıları, kentsel dokular", "note": "Dünyanın en ünlü Türk ressamlarından biri" },
+            { "name": "Fikret Mualla", "period": "1903-1967", "specialty": "Suluboya, Paris yaşamı" },
+            { "name": "Abidin Dino", "period": "1913-1993", "specialty": "Karikatür, resim, heykel", "note": "Sürrealist eğilimleri olan çok yönlü sanatçı" },
+            { "name": "Neşe Erdok", "period": "1940-", "specialty": "Soyut resim" },
+            { "name": "Komet", "period": "1941-2023", "specialty": "Sürrealist resim" }
+          ]
+        },
+        {
+          "heading": "Günümüz Türk Resmi (2000-Sonrası)",
+          "content": "Günümüzde Türk resim sanatı, uluslararası sanat piyasasında önemli bir yer tutuyor. İstanbul Bienali, Art İstanbul gibi etkinlikler Türkiye'yi sanat dünyasının merkezlerinden biri haline getirdi. Yeni medya sanatları, dijital sanat, performans ve video sanatı gibi alanlarda Türk sanatçılar önemli işler üretiyor.",
+          "keyEvents": [
+            { "name": "İstanbul Bienali", "since": "1987", "note": "İstanbul Kültür Sanat Vakfı (İKSV) tarafından düzenlenen uluslararası sergi" },
+            { "name": "Artİstanbul", "since": "2015", "note": "İstanbul'un uluslararası çağdaş sanat fuarı" }
+          ],
+          "contemporaryArtists": ["Haluk Akakçe", "İnci Eviner", "Gülsün Karamustafa", "Şükran Moral", "Taner Ceylan"]
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    { "year": "M.Ö. 600", "event": "İskit/Saka Hayvan Üslubu sanatının doğuşu" },
+    { "year": "M.Ö. 5. yy", "event": "Altın Elbiseli Adam (Issyk Kurganı) ve Pazırık Halısı" },
+    { "year": "M.S. 552", "event": "Göktürkler döneminde kaya resimleri" },
+    { "year": "744", "event": "Uygur Kağanlığı döneminde Koço freskleri" },
+    { "year": "1037", "event": "Anadolu Selçukluları'nda minyatür sanatının gelişimi" },
+    { "year": "1453", "event": "Fatih döneminde portreciliğin başlangıcı" },
+    { "year": "1514", "event": "Tebriz nakkaşhanesinden sanatçıların İstanbul'a getirilmesi" },
+    { "year": "1520-1556", "event": "Şah Kulu dönemi - Saz üslubu" },
+    { "year": "1579-1597", "event": "Nakkaş Osman ve Seyyid Lokman'ın Şehname'leri" },
+    { "year": "1680-1732", "event": "Levni dönemi - Osmanlı minyatörünün son büyük ustası" },
+    { "year": "1794", "event": "Askeri okullarda resim derslerinin başlaması" },
+    { "year": "1882", "event": "Sanayi-i Nefise Mekteb-i Âlisi'nin kuruluşu" },
+    { "year": "1914", "event": "1914 Kuşağı / Türk İzlenimcileri" },
+    { "year": "1933", "event": "D Grubu'nun kuruluşu" },
+    { "year": "1937", "event": "Yeniler Grubu'nun kuruluşu" },
+    { "year": "1987", "event": "İstanbul Bienali'nin başlangıcı" }
+  ],
+  "sources": [
+    { "title": "İskitler (Sakalar) - Hayvan Üslubu ve Altın", "author": "Beytullah Mutlu", "url": "https://www.hayrendis.com/iskitler-sakalar/", "type": "Web" },
+    { "title": "Hayvan Üslubu - Köken ve Yayılım", "author": "Küre Ansiklopedi", "url": "https://kureansiklopedi.com/tr/detay/hayvan-uslubu-4ead9", "type": "Web" },
+    { "title": "İstanbul Sarayının Resim Hazinesinden: Osmanlı Sanatında Minyatür", "author": "Prof. Dr. Zeren Tanındı", "url": "https://istanbultarihi.ist/275-istanbul-sarayinin-resim-hazinesinden-osmanli-sanatinda-minyatur", "type": "Web" },
+    { "title": "Osman Hamdi Bey'in Eserlerinde Doğu-Batı Etkileşimi", "author": "Academia", "url": "https://dergipark.org.tr/tr/pub/mahder/article/1617411", "type": "Akademik" },
+    { "title": "Osman Hamdi Bey Hayatı ve Eserleri", "author": "Ogusto", "url": "https://www.oggusto.com/sanat/sanatci/osman-hamdi-bey-hayati-eserleri", "type": "Web" },
+    { "title": "Hoca Ali Rıza - Türk Kültür Portalı", "author": "T.C. Kültür ve Turizm Bakanlığı", "url": "https://www.kulturportali.gov.tr/portal/hoca-ali-riza-", "type": "Web" },
+    { "title": "Gök Medrese Çini Bezemelerinin Güncel Tasarımlarda Kullanımı", "author": "Ayşegül Gül", "url": "https://isamveri.org/pdfdrg/G00075/2024_43/2024_43_GUL.pdf", "type": "Akademik" },
+    { "title": "Hoca Ali Rıza | Sakıp Sabancı Müzesi", "author": "Sakıp Sabancı Müzesi", "url": "https://www.sakipsabancimuzesi.org/sanatci/257", "type": "Müze" },
+    { "title": "Osman Hamdi Bey", "author": "Türkiye Turizm Ansiklopedisi", "url": "https://turkiyeturizmansiklopedisi.com/osman-hamdi-bey", "type": "Web" },
+    { "title": "Hayvan Üslubu", "author": "Vikipedi", "url": "https://tr.wikipedia.org/wiki/Hayvan_uslubu", "type": "Ansiklopedi" },
+    { "title": "Osmanlı Minyatür Sanatı", "author": "Türk Kültür Portalı", "url": "https://www.kulturportali.gov.tr/portal/osmanli-minyatur-sanati", "type": "Web" }
+  ]
+}

@@ -1,0 +1,356 @@
+[
+  {
+    "id": "avar-bayan",
+    "order": 1,
+    "name": "Bayan I (Baian)",
+    "title": "Avar Kağanı - Kurucu ve Fatih",
+    "period": "M.S. 562 - 602",
+    "dynasty": "Avar Kağanlığı",
+    "dynastyId": "avar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-avar-bayan.jpg",
+    "description": "Avar Kağanlığı'nın kurucusu ve en büyük hükümdarı. Tuna havzasından Alpler'e uzanan imparatorluk kurdu, Bizans'ın en büyük korkusu oldu.",
+    "fullBio": "Bayan I (Baian), M.S. 562 ile 602 yılları arasında 40 yıl hüküm sürmüş, Avar Kağanlığı'nın kurucusu, organizatörü ve Avrupa'nın en güçlü Türk hükümdarıdır. Avarlar, Moğolistan kökenli Rouran (Juan-Juan) İmparatorluğu'nun çöküşünden sonra batıya göç eden bir Türk boyu idi. 552'de Göktürklerin Rouran'ı yıkması üzerine Avarlar (Aparlar), Bayan'ın liderliğinde batıya yönelmişlerdir. 558 yılında Bizans İmparatoru I. Justinianos'a elçiler göndererek ittifak teklif etmiş, Bizans Avarları Aral Gölü'nun batısındaki bozkırlara yerleştirmiştir. Ancak Bayan, hızla Avar gücünü artırarak bağımsız bir politika izlemeye başlamıştır. Bayan, Bizans'a karşı iki yönlü bir strateji izledi: Diplomasiyle Bizans'tan büyük miktarlarda altın tazminatı alırken (yıllık 100.000 solidus), aynı zamanda Balkanlara akınlar düzenleyerek Bizans'ı baskı altında tuttu. 568 yılında Langobard Kralı Alboin ile ittifak kurarak Gepid Krallığı'nı yıktı, Gepid topraklarının çoğunu ele geçirdi. 574'te Bizans İmparatoru II. Justinasios, Avarlara yıllık 80.000 altın ödemeyi kabul etti. Bayan döneminde Avar Kağanlığı, kuzeyde Baltık Denizi'nden güneyde Ege Denizi'ne, doğuda Karadeniz'den batıda Alpler'e ve Adriyatik'e kadar uzanan devasa bir coğrafyada hüküm sürdü. Avar ordusu, Türk tipi kompozit yayları, ağır süvari zırhları ve disiplinli atlı okçu taktikleriyle Avrupa'nın en güçlü askeri gücü haline geldi. Bayan aynı zamanda Bizans'ın en ünlü generallerinden Narses'i de yenilgiye uğrattı. 595'teki Sava'da (Sirmium yakınlarında) Bizans ordusunu ezici bir yenilgiye uğrattı. 600'lü yılların başında, Bayan, Pers İmparatorluğu ile birlikte Bizans'a karşı ittifak kurarak, 626'da gerçekleşecek olan Konstantinopolis kuşatmasının temellerini attı. Bayan'ın kurduğu 'ikili kağanlık' sistemi (kutsal kağan + askeri yabgu) sonraki Türk devletlerine model oldu.",
+    "legacy": "Bayan I, Avrupa'da en büyük Türk imparatorluklarından birini kurmuş, Bizans'ı diz çöktürmüş, Balkanların kaderini değiştirmiş efsanevi bir liderdir. Onun askeri taktikleri ve örgütlenme modeli, sonraki Avrupa askeri tarihini derinden etkilemiştir.",
+    "achievements": [
+      "Avar Kağanlığı'nı kurup imparatorluk haline getirdi (562)",
+      "Bizans'tan yıllık 100.000 altın tazminat aldı",
+      "Gepid Krallığı'nı Langobardlarla birlikte yıktı (568)",
+      "Balkanlar'da Bizans üstünlüğünü sona erdirdi",
+      "Tuna'dan Alpler'e, Karadeniz'den Adriyatik'e imparatorluk kurdu",
+      "İkili kağanlık sistemini (Kağan + Yabgu) kurdu",
+      "Konstantinopolis kuşatması için Pers ittifakını hazırladı",
+      "Narses komutasındaki Bizans ordusunu yenilgiye uğrattı (595)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 558",
+        "title": "Bizans'a Elçi Gönderme",
+        "description": "Bayan, İmparator Justinianos'a elçiler göndererek ittifak teklif etti, Bizans Avarları batıya yerleştirdi."
+      },
+      {
+        "year": "M.S. 562",
+        "title": "Avar Kağanlığı'nın Kuruluşu",
+        "description": "Bayan resmen Avar Kağanı ilan edildi, merkez otoriteyi kurdu, Onlu askeri sistemi getirdi."
+      },
+      {
+        "year": "M.S. 568",
+        "title": "Gepid Zaferi",
+        "description": "Langobard Kralı Alboin ile ittifak kurarak Gepid Krallığı'nı yıktı, Tuna havzasının kontrolünü ele geçirdi."
+      },
+      {
+        "year": "M.S. 574",
+        "title": "Bizans'tan Tazminat",
+        "description": "Bizans İmparatoru II. Justinasios, Avarlara yıllık 80.000 altın ödemeyi kabul etti."
+      },
+      {
+        "year": "M.S. 581",
+        "title": "Sirmium'un Düşüşü",
+        "description": "Önemli Bizans kalesi Sirmium (günümüz Sremska Mitrovica) Avarlar tarafından ele geçirildi."
+      },
+      {
+        "year": "M.S. 587",
+        "title": "Balkan Seferleri",
+        "description": "Avar orduları Moesia, Dalmaçya ve Trakya'yı yağmalayarak Bizans Balkan topraklarının çoğunu kontrol etti."
+      },
+      {
+        "year": "M.S. 595",
+        "title": "Sava Muharebesi",
+        "description": "Sirmium yakınlarında Bizans'ın ünlü generallerinden Narses'i ezici bir yenilgiye uğrattı."
+      },
+      {
+        "year": "M.S. 596",
+        "title": "Pers İttifakı",
+        "description": "Sasani Pers İmparatoru II. Hüsrev ile Bizans'a karşı ittifak müzakereleri başladı, 626 kuşatmasının temelleri atıldı."
+      },
+      {
+        "year": "M.S. 602",
+        "title": "Bayan'ın Ölümü",
+        "description": "40 yıllık hükümdarlığının ardından öldü, oğlu veya torunu tahta çıktı."
+      }
+    ],
+    "predecessor": "Devletin kurucusu",
+    "successor": "Anonim Avar Kağanı (oğlu/torunu)",
+    "quote": {
+      "text": "Bizans'ın hazineleri bize yol gösterir, onların kılıçları ise bize güç.",
+      "source": "Bayan Kağan, Bizans elçilerine"
+    },
+    "battles": [
+      {
+        "name": "Gepid-Alman Savaşı (Avar-Langobard İttifakı)",
+        "year": "M.S. 568",
+        "result": "victory",
+        "description": "Langobardlarla birlikte Gepid Krallığı'nı yıkarak Tuna havzasının kontrolünü ele geçirdi."
+      },
+      {
+        "name": "Sirmium Kuşatması ve Alınışı",
+        "year": "M.S. 581",
+        "result": "victory",
+        "description": "Bizans'ın önemli Balkan kalesi Sirmium uzun bir kuşatma sonrası düştü."
+      },
+      {
+        "name": "Sava Muharebesi (Narses'in Yenilgisi)",
+        "year": "M.S. 595",
+        "result": "victory",
+        "description": "Bizans Generali Narses komutasındaki ordu ezici bir yenilgiye uğratıldı, Balkanlar Avar kontrolüne girdi."
+      },
+      {
+        "name": "Dalmaçya ve Adriyatik Seferi",
+        "year": "M.S. 600",
+        "result": "victory",
+        "description": "Avar orduları Dalmaçya kıyılarına ulaşarak Adriyatik Denizi'ne hakim oldu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "I. Justinianos",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (527-565). İlk olarak Avarları ittifak ortağı olarak batıya yerleştirdi."
+      },
+      {
+        "name": "II. Justinasios (Maurice)",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (574-582). Avarlara yıllık 80.000 altın tazminat ödemeyi kabul etti."
+      },
+      {
+        "name": "Alboin",
+        "role": "Langobard Kralı",
+        "description": "Langobardların kralı (560-572). Bayan ile ittifak kurarak Gepidleri yendi, sonra İtalya'ya göç etti."
+      },
+      {
+        "name": "II. Hüsrev (Hüsrev Parviz)",
+        "role": "Sasani Pers İmparatoru",
+        "description": "Pers İmparatoru (590-628). Bayan döneminde Bizans'a karşı Avar-Pers ittifakı kuruldu."
+      },
+      {
+        "name": "Narses (Bizans Generali)",
+        "role": "Bizans Generali",
+        "description": "Bizans'ın ünlü komutanı. 595'te Sava'da Bayan tarafından ağır yenilgiye uğratıldı."
+      },
+      {
+        "name": "Priskos",
+        "role": "Bizans Generali ve Diplomat",
+        "description": "Bizans'ın Balkan komutanı. Bayan ile çok sayıda diplomatik görüşme yaptı, Avar gücünü yakından izledi."
+      }
+    ]
+  },
+  {
+    "id": "avar-kagan-626",
+    "order": 2,
+    "name": "Avar Kağanı",
+    "title": "Avar Kağanı - Konstantinopolis Kuşatmacısı",
+    "period": "M.S. 602 - 626",
+    "dynasty": "Avar Kağanlığı",
+    "dynastyId": "avar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-avar-kagan.jpg",
+    "description": "Bayan'ın oğlu veya torunu. Bizans kaynaklarında ismi belirtilmeden 'Avar Kağanı' diye anılır. 626'da Perslerle birlikte Konstantinopolis'i kuşattı.",
+    "fullBio": "Bayan'ın 602'deki ölümünden sonra tahta çıkan oğlu veya torunu, Bizans kaynaklarında ismi belirtilmeden yalnızca 'Avar Kağanı' (ho Khagan ton Abaron) olarak anılmaktadır. Walter Pohl'un 'The Avars' adlı eserinde de, bu dönemdeki Avar kağanlarının isimlerinin kayıtlarda yer almadığı belirtilmektedir. Bu anonim kağanın dönemi, Avar tarihinin en dramatik olaylarına tanıklık etmiştir. 626 yılında, Sasani Pers İmparatoru II. Hüsrev ile önceden planlanan ittifak çerçevesinde, Avarlar kuzeyden, Persler güneyden olmak üzere Bizans İmparatorluğu'nun başkenti Konstantinopolis'e eş zamanlı saldırdılar. Temmuz-Ağustos 626'da gerçekleşen kuşatma, tarihin en büyük kuşatmalarından biridir. Avar ordusu 80.000 kişiden oluşuyordu ve Slav korsanlarının deniz desteğiyle Boğaz'ı kontrol altına almaya çalıştı. Ancak Bizans donanması, Theodosius limanında Pers-Avar filosunu ağır bir yenilgiye uğrattı. Karadan Avarlar surlara saldırsa da, Bizans İmparatoru Herakleios'un kardeşi Theodoros komutasındaki savunma direncini kıramadı. 10 Ağustos 626'da Avar ordusu kuşatmayı kaldırdı. Bu yenilgi, Avar Kağanlığı'nın dönüm noktası oldu. Avar prestiji büyük yara aldı, Slav müttefikleri sadakatlerini kaybetmeye başladı. Bizans tarihçisi Theophanes, bu zaferi 'Meryem Ana'nın mucizesi' olarak anlatmıştır. Anonim Avar Kağanı'nın 626 sonrası akıbeti bilinmemektedir.",
+    "legacy": "626 Konstantinopolis kuşatması, hem Avar tarihinin hem de Bizans tarihinin en dramatik olaylarından biridir. Bu başarısız kuşatma, Avar gücünün zirvesinden düşüşünün başlangıcı olmuştur. Tarihte ismi bilinmeyen bu hükümdar, Avrupa'nın kaderini değiştiren bir askeri harekata önderlik etmiştir.",
+    "achievements": [
+      "Bayan'ın imparatorluğunu devralıp sürdürdü",
+      "Perslerle ittifakı tamamlayarak 626 kuşatmasını planladı",
+      "80.000 kişilik orduyla Konstantinopolis'e yürüdü",
+      "Tarihin en büyük kuşatmalarından birini gerçekleştirdi (626)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 602",
+        "title": "Tahta Çıkış",
+        "description": "Bayan'ın ölümünden sonra Avar tahtına çıktı, imparatorluğun zirvesini devraldı."
+      },
+      {
+        "year": "M.S. 611",
+        "title": "Balkan Seferleri",
+        "description": "Avar orduları Selanik, Atina ve Peloponez'e ulaşarak Balkanların tamamını tehdit etti."
+      },
+      {
+        "year": "M.S. 614",
+        "title": "Selanik Kuşatması",
+        "description": "Avar ve Slav birlikleri, Bizans'ın ikinci büyük şehri Selanik'i uzun süre kuşattılar."
+      },
+      {
+        "year": "M.S. 617",
+        "title": "Pers İttifakının Güçlenmesi",
+        "description": "Pers İmparatoru Hüsrev Parviz ile koordineli hareket planları yapıldı, Konstantinopolis kuşatması hazırlandı."
+      },
+      {
+        "year": "M.S. 626",
+        "title": "Konstantinopolis Kuşatması",
+        "description": "29 Temmuz'da 80.000 kişilik orduyla kuşatma başladı, 10 Ağustos'ta çekilmek zorunda kalındı."
+      },
+      {
+        "year": "M.S. 626 (Ağustos sonrası)",
+        "title": "Prestij Kaybı ve Gerileme Başlangıcı",
+        "description": "Kuşatma başarısızlığı sonrası Avar otoritesi zayıfladı, Slav müttefikleri bağımsızlığa yöneldi."
+      }
+    ],
+    "predecessor": "Bayan I",
+    "successor": "Anonim Son Avar Kağanları",
+    "quote": {
+      "text": "Bu surlar bizim için son değil, başlangıç olacaktı...",
+      "source": "Anonim Avar Kağanı, kuşatma öncesi ordusuna"
+    },
+    "battles": [
+      {
+        "name": "Konstantinopolis Kuşatması (Avar-Pers)",
+        "year": "M.S. 626",
+        "result": "defeat",
+        "description": "80.000 kişilik Avar ordusu ve Slav korsanlarıyla birlikte Konstantinopolis kuşatıldı, Bizans donanması Boğaz'da filoyu yenilgiye uğrattı, 10 Ağustos'ta çekilindi."
+      },
+      {
+        "name": "Selanik Kuşatması",
+        "year": "M.S. 614",
+        "result": "draw",
+        "description": "Selanik uzun süre kuşatıldı ancak alınamadı, Bizans savunması direndi."
+      },
+      {
+        "name": "Theodosius Limanı Deniz Muharebesi",
+        "year": "M.S. 626",
+        "result": "defeat",
+        "description": "Avar-Slav filosu, Bizans donanması tarafından ağır yenilgiye uğratıldı, kuşatmanın kaderi sealed."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Herakleios (Heraclius)",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (610-641). Kuşatma sırasında Anadolu'da Pers ordusuyla çarpışıyordu, savunmayı kardeşi Theodoros yönetti."
+      },
+      {
+        "name": "Theodoros (Sergius ile birlikte)",
+        "role": "Bizans Savunma Komutanı",
+        "description": "Herakleios'un kardeşi. 626 kuşatmasında Konstantinopolis savunmasını başarıyla yönetti."
+      },
+      {
+        "name": "II. Hüsrev (Hüsrev Parviz)",
+        "role": "Sasani Pers İmparatoru",
+        "description": "Pers İmparatoru (590-628). Avar Kağanı ile eş zamanlı Konstantinopolis kuşatması planladı, güneyden şehre yaklaştı."
+      },
+      {
+        "name": "Patrik Sergius",
+        "role": "Konstantinopolis Patrikliği",
+        "description": "Konstantinopolis Patriği. 626 kuşatması sırasında halkı ve ordusu moralini yüksek tuttu, Meryem Ana ikonasını surlarda taşıdı."
+      },
+      {
+        "name": "Bonos",
+        "role": "Bizans Generali",
+        "description": "626 kuşatmasında şehir savunmasının askeri komutanı. Surlardaki savunmayı düzenledi."
+      }
+    ]
+  },
+  {
+    "id": "avar-son-donem",
+    "order": 3,
+    "name": "Son Avar Kağanları",
+    "title": "Avar Kağanları - Gerileme ve Yıkılış Dönemi",
+    "period": "M.S. 626 - 796",
+    "dynasty": "Avar Kağanlığı",
+    "dynastyId": "avar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-avar-son.jpg",
+    "description": "626 sonrası anonim Avar kağanları dönemi. Slavların bağımsızlığı, Bulgar baskısı ve sonunda Charlemagne tarafından yıkılış (796).",
+    "fullBio": "626 Konstantinopolis kuşatmasının başarısızlığından sonra Avar Kağanlığı hızla gerilemeye başladı. Tarihte isimleri kaydedilmeyen son Avar kağanları, 170 yıl boyunca çöken imparatorluklarını kurtarmaya çalıştılar. 626 sonrası ilk dönemde (626-680), Slav kabileleri Avar egemenliğinden kurtularak kendi devletlerini kurdular. Sırbistan, Hırvatistan, Slovenya ve Bulgaristan'daki ilk Slav prenslikleri bu dönemde ortaya çıktı. 670'lerde Hazarlar, Avarların doğusundan baskı yapmaya başladı. 680 civarında Bulgarlar, Han Asparuh liderliğinde Tuna'nın güneyine geçerek bağımsız Bulgar Devleti'ni kurdular. Bu, Avarların güney sınırlarında önemli bir güç kaybıydı. 720'lerden itibaren, Avar Kağanlığı artık eski görkeminden çok uzaktı. Tuna havzasının orta kesiminde, günümüz Macaristan'ında daralmış topraklarda varlığını sürdürüyordu. 740'larda, Charlemagne liderliğindeki Franklar, Avarlara karşı seferler düzenlemeye başladı. 791'de Charlemagne büyük bir orduyla Avar topraklarına girdi. 795'te Frank Generali Eric (Friuli Dükü) ve Slav müttefikleri, Avar 'halka' (halka şeklindeki taç/asker toplama yeri) ele geçirdi. Bu, Avar dini ve askeri merkezinin düşmesi anlamına geliyordu. 796'da Charlemagne'in oğlu Pippin (İtalya Kralı), Avar Kağanlığı'nın son kalesini bastırdı. Son Avar Kağanı, Franklara teslim oldu. Avar hazineleri (devasa miktarda altın ve mücevher) Frank sarayına götürüldü. Bu hazinelerin bir kısmı günümüzde Viyana ve Münih müzelerinde sergilenmektedir. Avarların bir kısmı Frank egemenliğine girdi, bir kısmı doğu Macaristan'da (günümüz Transilvanya'sı) yaşamaya devam etti. Bazı Avar boyları Bulgarlara, bazıları Slavlara karıştı. 9. yüzyılda Avar Kağanlığı'nın izleri tamamen kayboldu.",
+    "legacy": "Son Avar Kağanları dönemi, 170 yıllık bir gerileme ve direniş hikâyesidir. Avarların yıkılışı, Frank İmparatorluğu'nun doğu genişlemesinin habercisi oldu. Avar mirası, Macaristan topraklarında ve Avrupa askeri geleneğinde yaşamaya devam etti.",
+    "achievements": [
+      "170 yıl boyunca çöken imparatorluğu ayakta tutmaya çalıştılar",
+      "Frank baskısına karşı direniş gösterdiler",
+      "Macaristan'daki Avar kültür izleri (tümülüsler, hazineler) gelecek nesillere kaldı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 626-640",
+        "title": "Slav Bağımsızlık Hareketleri",
+        "description": "Slav kabileleri Avar egemenliğinden kurtularak Balkanlarda ilk Slav devletlerini kurdular."
+      },
+      {
+        "year": "M.S. 680",
+        "title": "Bulgarların Bağımsızlığı",
+        "description": "Han Asparuh Bulgarları Tuna güneyine geçerek bağımsız Bulgar Devleti'ni kurdular, Avar güney sınırları çöktü."
+      },
+      {
+        "year": "M.S. 720",
+        "title": "Avar Kağanlığı'nın Daralması",
+        "description": "Avar toprakları sadece Tuna orta havzasındaki (Macaristan) çekirdek bölgeye daraldı."
+      },
+      {
+        "year": "M.S. 791",
+        "title": "Charlemagne'in Avar Seferi",
+        "description": "Frank İmparatoru Charlemagne büyük bir orduyla Avar topraklarına girdi."
+      },
+      {
+        "year": "M.S. 795",
+        "title": "Halka'nın Düşmesi",
+        "description": "Frank Generali Eric, Avarların kutsal halka (asker toplama merkezi) ele geçirdi, devletin dini merkezi yıkıldı."
+      },
+      {
+        "year": "M.S. 796",
+        "title": "Avar Kağanlığı'nın Yıkılışı",
+        "description": "Charlemagne'in oğlu Pippin son Avar kalesini bastırdı, son kağan teslim oldu, devasa Avar hazineleri Frank sarayına götürüldü."
+      },
+      {
+        "year": "M.S. 805",
+        "title": "Avar İsyanı ve Son",
+        "description": "Teslim olan Avarlar Frank egemenliğine girdi, son direniş 805'te bastırıldı, Avar Kağanlığı resmen sona erdi."
+      }
+    ],
+    "predecessor": "Anonim Avar Kağanı (626 kuşatmacısı)",
+    "successor": "Hanedan sona erdi / Frank egemenliği",
+    "quote": {
+      "text": "Üç asırlık bir rüya uyandığında, geriye sadece bozkırın rüzgarı kalır.",
+      "source": "Avar geleneği üzerine"
+    },
+    "battles": [
+      {
+        "name": "Frank-Avar Savaşı (Charlemagne Seferi)",
+        "year": "M.S. 791",
+        "result": "defeat",
+        "description": "Charlemagne'in büyük Frank ordusu karşısında Avar savunması çöktü, önemli toprak kayıpları verildi."
+      },
+      {
+        "name": "Halka'nın Ele Geçirilmesi",
+        "year": "M.S. 795",
+        "result": "defeat",
+        "description": "Frank Generali Eric ve Slav müttefikleri Avarların kutsal askeri merkezi olan halkayı yağmaladı."
+      },
+      {
+        "name": "Son Avar Direnişi",
+        "year": "M.S. 796",
+        "result": "defeat",
+        "description": "Pippin (Charlemagne'in oğlu) son Avar direnişini kırdı, son kağan teslim oldu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Charlemagne (Şarlman)",
+        "role": "Frank İmparatoru",
+        "description": "Frank İmparatoru (768-814). 791'de Avar seferini başlatarak Kağanlığı çökertti."
+      },
+      {
+        "name": "Pippin (İtalya Kralı)",
+        "role": "Frank Komutanı",
+        "description": "Charlemagne'in oğlu ve İtalya Kralı. 796'da son Avar kalesini bastırarak Kağanlığı resmen yıktı."
+      },
+      {
+        "name": "Eric (Friuli Dükü)",
+        "role": "Frank Generali",
+        "description": "Frank generali. 795'te Avarların kutsal halka (halka) ele geçirerek Avar devlet yapısının belkemiğini kırdı."
+      },
+      {
+        "name": "Asparuh",
+        "role": "Bulgar Hanı",
+        "description": "Bulgarların ilk hanı (c. 679-701). Avar egemenliğinden kurtularak bağımsız Bulgar Devleti'ni kurdu."
+      },
+      {
+        "name": "II. Konstantinos (Konstantinos Porphyrogennetos)",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (913-959). 'De Administrando Imperio' eserinde Avarların tarihçesini ve yıkılışını anlattı."
+      },
+      {
+        "name": "Einhard",
+        "role": "Frank Tarihçisi",
+        "description": "Charlemagne'in biyografisi 'Vita Karoli Magni'nin yazarı. Avarların yıkılışını detaylıca kaydetti."
+      }
+    ]
+  }
+]

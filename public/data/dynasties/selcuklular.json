@@ -1,0 +1,530 @@
+[
+  {
+    "id": "selcuklu-selcuk-bey",
+    "order": 1,
+    "name": "Selçuk Bey",
+    "title": "Selçuklu Hanedanının Kurucusu",
+    "period": "M.S. 985 - 1009",
+    "dynasty": "Büyük Selçuklu İmparatorluğu",
+    "dynastyId": "selcuklular",
+    "era": "Orta Çağ",
+    "image": "/images/huk-selcuk-bey.jpg",
+    "description": "Oğuzların Kınık boyundan, hanedanın kurucusu. İslam'ı kabul ederek Kınık boyunu Müslüman Türklerin öncüsü yaptı.",
+    "fullBio": "Selçuk Bey, M.S. 985 ile 1009 yılları arasında hüküm sürmüş, Selçuklu hanedanının kurucusu ve Büyük Selçuklu İmparatorluğu'nun atasıdır. Oğuzların Kınık boyundan gelen Selçuk Bey, 985 yılında İslamiyet'i kabul etti ve boyunu Müslümanlığa davet etti. Karahanlı Devleti'ne bağlı olarak Cend şehrinde (Seyhun Nehri kıyısında) yaşıyordu. Selçuk Bey, sadece bir askeri lider değil, aynı zamanda derin din bilgisi olan bir alimdi. Oğlu Arslan İsrail (Mikail) ile birlikte Kınık boyunu güçlendirdi. Ancak Gazneli Mahmut, Selçukluların güçlenmesinden endişe duydu. 1025 yılında Gazneli Mahmut, Arslan İsrail'i esir aldı ve Kınık boyunu dağıttı. Bu baskı, Selçuklu torunlarının Horasan'a göçüne ve sonradan büyük imparatorluğu kurmasına yol açtı. Selçuk Bey'in torunları Tuğrul Bey, Çağrı Bey ve diğerleri, onun attığı temeller üzerine dünya tarihinin en büyük imparatorluklarından birini kurdular.",
+    "legacy": "Selçuklu hanedanının kurucusu ve büyük imparatorluğun atasıdır. Onun soyundan gelen torunları, 200 yıl hüküm sürecek bir hanedan başlattılar.",
+    "achievements": [
+      "Selçuklu hanedanını kurdu",
+      "Kınık boyunu İslamiyet'e davet etti (985)",
+      "Oğuzlar içinde Müslüman Türk kimliğini oluşturdu",
+      "Torunlarına imparatorluk mirası bıraktı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 985",
+        "title": "İslam'ı Kabul ve Beylik Kuruluşu",
+        "description": "İslamiyet'i kabul ederek Kınık boyunu Müslümanlığa davet etti, beylik kurdu."
+      },
+      {
+        "year": "M.S. 1000",
+        "title": "Cend'de Güçlenme",
+        "description": "Seyhun Nehri kıyısındaki Cend şehrinde Kınık boyunu güçlendirdi."
+      },
+      {
+        "year": "M.S. 1009",
+        "title": "Selçuk Bey'in Ölümü",
+        "description": "Öldü, oğlu Arslan İsrail (Mikail) beyliğin başına geçti."
+      },
+      {
+        "year": "M.S. 1025",
+        "title": "Gazneli Baskısı (Oğlu Döneminde)",
+        "description": "Oğlu Arslan İsrail (Mikail) döneminde Gazneli Mahmut tarafından baskı gördü, bu durum sonradan torunlarının Horasan'a göçünü tetikledi."
+      }
+    ],
+    "predecessor": "Kınık boyu reisi",
+    "successor": "Arslan İsrail (Mikail) (oğlu)",
+    "quote": {
+      "text": "Kınık boyu, İslam'ın kılıcı olacaktır. Torunlarımızın zaferleri bizim dualarımızdadır.",
+      "source": "Selçuk Bey"
+    },
+    "battles": [
+      {
+        "name": "Cend Çevresi Kabile Çatışmaları",
+        "year": "M.S. 990-1000",
+        "result": "victory",
+        "description": "Kınık boyunu Cend'de (Seyhun kıyısı) yerleştirirken çevredeki gayri Müslim Türk boylarıyla mücadele ederek bölgede hakimiyet kurdu."
+      },
+      {
+        "name": "Karahanlı-Gazneli Arasında Kınık Boyunun Direnişi",
+        "year": "M.S. 1000-1009",
+        "result": "inconclusive",
+        "description": "Gazneli Mahmut'un Kınık boyunu dağıtma politikasına karşı diplomatik ve askeri direniş gösterdi, oğlu Arslan İsrail komutasında gerilla taktikleriyle Gazneli birliklerine karşı mücadele edildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Arslan İsrail (Mikail)",
+        "role": "Oğlu",
+        "description": "Selçuk Bey'in oğlu. Gazneli Mahmut tarafından 1025'te esir alındı."
+      },
+      {
+        "name": "Tuğrul Bey",
+        "role": "Torunu",
+        "description": "Selçuk Bey'in torunu. Büyük Selçuklu İmparatorluğu'nun kurucusu."
+      },
+      {
+        "name": "Çağrı Bey",
+        "role": "Torunu",
+        "description": "Selçuk Bey'in torunu. Tuğrul Bey'in kardeşi, doğu cephesinin komutanı."
+      }
+    ]
+  },
+  {
+    "id": "selcuklu-tugrul",
+    "order": 2,
+    "name": "Tuğrul Bey",
+    "title": "Büyük Selçuklu Sultanı / İlk Sultan",
+    "period": "M.S. 1037 - 1063",
+    "dynasty": "Büyük Selçuklu İmparatorluğu",
+    "dynastyId": "selcuklular",
+    "era": "Orta Çağ",
+    "image": "/images/huk-tugrul-bey.jpg",
+    "description": "Büyük Selçuklu İmparatorluğu'nun kurucusu. 1040 Dandanakan zaferiyle Gaznelileri yendi, 1055'te Bağdat'a girdi.",
+    "fullBio": "Tuğrul Bey, M.S. 1037-1063 arasında 26 yıl hüküm sürmüş, Büyük Selçuklu İmparatorluğu'nun kurucusu ve ilk büyük sultanıdır. Kardeşi Çağrı Bey ile birlikte 1037'de devleti kurdular. Tuğrul Bey batıda, Çağrı Bey doğuda fetihler yaptı. 23 Mayıs 1040'ta Dandanakan Muharebesi'nde Gazneli I. Mesud'u ezici bir yenilgiye uğrattılar. Bu zafer, Türk tarihinin en önemli dönüm noktalarından biridir; Gazneliler Horasan ve İran'ı kaybetti, Selçuklular büyük imparatorluğun temellerini attı. 1055 yılında Bağdat'a giren Tuğrul Bey, Abbasi Halifesi Kaim-Biemrillah'tan 'Doğu ve Batı'nın Hükümdarı' unvanını aldı. Böylece Türkler, İslam dünyasının liderliğini resmen elde etti. Tuğrul Bey, Nizamülmülk'ü vezirliğe getirerek devlet teşkilatını kurdu. İpek Yolu'nun güvenliğini sağladı, şehirleri imar etti. Fetihlerden sonra hoşgörülü bir yönetim kurarak fethedilen halkların desteğini kazandı. Kardeşi Çağrı Bey ile olan mükemmel işbirliği, imparatorluğun doğu-batı ekseninde eş zamanlı genişlemesini sağladı.",
+    "legacy": "Büyük Selçuklu İmparatorluğu'nun kurucusudur. Dandanakan zaferi ve Bağdat'a giriş, Türk tarihinin en önemli dönüm noktalarıdır.",
+    "achievements": [
+      "Büyük Selçuklu İmparatorluğu'nu kurdu (1037)",
+      "Dandanakan Muharebesi'nde Gaznelileri yendi (1040)",
+      "Bağdat'a girip Abbasi Halifesi'nden unvan aldı (1055)",
+      "Nizamülmülk'ü vezirliğe getirdi",
+      "İpek Yolu güvenliğini sağladı",
+      "Türkleri İslam dünyasının lideri yaptı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1035",
+        "title": "Horasan'a Göç ve Güçlenme",
+        "description": "Kardeşi Çağrı Bey ile Horasan'a göç ederek güçlendi."
+      },
+      {
+        "year": "M.S. 1037",
+        "title": "Büyük Selçuklu İmparatorluğu'nun Kuruluşu",
+        "description": "Kardeşi Çağrı Bey ile birlikte resmen devleti kurdular."
+      },
+      {
+        "year": "M.S. 1040 (23 Mayıs)",
+        "title": "Dandanakan Zaferi",
+        "description": "Gazneli ordusunu ezici yenilgiye uğrattı, İran'ın kapıları açıldı."
+      },
+      {
+        "year": "M.S. 1055",
+        "title": "Bağdat'a Giriş",
+        "description": "Abbasi Halifesi'ni koruma altına aldı, 'Doğu ve Batı'nın Hükümdarı' unvanı aldı."
+      },
+      {
+        "year": "M.S. 1063",
+        "title": "Tuğrul Bey'in Ölümü",
+        "description": "Bağdat'ta vefat etti, yeğeni Alp Arslan tahta çıktı."
+      }
+    ],
+    "predecessor": "Amcası Arslan İsrail dönemi",
+    "successor": "Alp Arslan (yeğeni)",
+    "quote": {
+      "text": "Biz, İslam'ın kılıcıyız. Gittiğimiz her yerde adalet ve dinin hükümranlığı gelir.",
+      "source": "Tuğrul Bey, Bağdat'a girişinde"
+    },
+    "battles": [
+      {
+        "name": "Dandanakan Muharebesi",
+        "year": "M.S. 1040",
+        "result": "victory",
+        "description": "Gazneli I. Mesud'u ezici yenilgiye uğrattı, İran ve Horasan fethedildi."
+      },
+      {
+        "name": "Rey Muharebesi",
+        "year": "M.S. 1051",
+        "result": "victory",
+        "description": "İran'ın kontrolünü tamamen ele geçirdi, Rey başkent yapıldı."
+      },
+      {
+        "name": "Bağdat Girişi",
+        "year": "M.S. 1055",
+        "result": "victory",
+        "description": "Şii Büveyhiler'i Bağdat'tan çıkararak Abbasi Halifesi'ni korudu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Çağrı Bey",
+        "role": "Kardeşi, Ortak Kurucu",
+        "description": "Tuğrul Bey'in kardeşi. Doğu cephesinin komutanı, Dandanakan zaferinin mimarı."
+      },
+      {
+        "name": "Alp Arslan",
+        "role": "Yeğeni, Halef",
+        "description": "Tuğrul Bey'in yerine geçen yeğeni. Malazgirt fatihi."
+      },
+      {
+        "name": "Nizamülmülk",
+        "role": "Vezir",
+        "description": "Tuğrul Bey tarafından vezirliğe getirilen büyük devlet adamı."
+      },
+      {
+        "name": "I. Mesud (Gazneli)",
+        "role": "Düşman / Mağlup",
+        "description": "Gazneli Sultanı. Dandanakan'da Tuğrul Bey'e yenildi."
+      }
+    ]
+  },
+  {
+    "id": "selcuklu-cagri",
+    "order": 3,
+    "name": "Çağrı Bey",
+    "title": "Büyük Selçuklu Ortak Kurucusu / Doğu Fatihi",
+    "period": "M.S. 1040 - 1060",
+    "dynasty": "Büyük Selçuklu İmparatorluğu",
+    "dynastyId": "selcuklular",
+    "era": "Orta Çağ",
+    "image": "/images/huk-cagri-bey.jpg",
+    "description": "Tuğrul Bey'in kardeşi, doğu kanadının komutanı. Dandanakan zaferinin mimarı, Horasan ve Maveraünnehir'in fatihi.",
+    "fullBio": "Çağrı Bey (989-1060), Büyük Selçuklu İmparatorluğu'nun kurucularından ve doğu cephesinin efsanevi komutanıdır. Ağabeyi Tuğrul Bey ile birlikte amcaları Selçuk Bey'in torunlarındandır. Tuğrul Bey batıda fetihler yaparken, Çağrı Bey doğu cephesini yönetti. 23 Mayıs 1040'ta Dandanakan Muharebesi'nde Gazneli I. Mesud'u ezici yenilgiye uğrattı. Bu zafer, Büyük Selçuklu İmparatorluğu'nun kuruluşunu mümkün kıldı. Çağrı Bey, Gaznelileri Hindistan'a doğru geri çekilmeye zorlayarak Orta Asya'da Türk birliğini sağladı. 1040 sonrası Horasan, Maveraünnehir ve Doğu İran'ı tamamen kontrol altına aldı. Oğlu Kavurt Bey (sonradan Kirman Atabeyliği'nin kurucusu) ve diğer oğulları, onun kurduğu doğu cephesi üzerinden Anadolu'ya yöneleceklerdi. Çağrı Bey, fetihlerden sonra adil bir yönetim kurarak halkın desteğini kazandı. Tuğrul Bey ile olan mükemmel kardeşlik ve işbirliği, imparatorluğun doğu ve batı kanatlarında eş zamanlı muazzam bir genişleme göstermesini sağladı. 1060'ta öldüğünde doğu, tamamen Selçuklu kontrolü altındaydı.",
+    "legacy": "Büyük Selçuklu İmparatorluğu'nun doğu kanadının fatihidir. Dandanakan zaferiyle imparatorluğun temellerini attı.",
+    "achievements": [
+      "Dandanakan zaferi (1040) - imparatorluğun temeli",
+      "Horasan ve Maveraünnehir'i fethetti",
+      "Gaznelileri Hindistan'a geri püskürttü",
+      "Doğu cephesini tamamen kontrol altına aldı",
+      "Kardeşi Tuğrul Bey ile mükemmel işbirliği kurdu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1035",
+        "title": "Horasan'a Göç",
+        "description": "Ağabeyi Tuğrul Bey ile birlikte Horasan'a göç etti."
+      },
+      {
+        "year": "M.S. 1040 (23 Mayıs)",
+        "title": "Dandanakan Zaferi",
+        "description": "Gaznelileri ezici yenilgiye uğrattı, doğu fetihlerinin kapısı açıldı."
+      },
+      {
+        "year": "M.S. 1043",
+        "title": "Maveraünnehir Kontrolü",
+        "description": "Semerkant, Buhara ve tüm Maveraünnehir'i Selçuklu kontrolüne aldı."
+      },
+      {
+        "year": "M.S. 1050",
+        "title": "Gazneli Sınırı Güvence",
+        "description": "Gaznelileri Hindistan'a geri çekilmeye zorlayarak doğu sınırlarını güvence altına aldı."
+      },
+      {
+        "year": "M.S. 1060",
+        "title": "Çağrı Bey'in Ölümü",
+        "description": "Başarılı bir hükümdarlığın ardından öldü, oğulları doğu idaresini devraldı."
+      }
+    ],
+    "predecessor": "-",
+    "successor": "Oğulları (Kavurt Bey vb.)",
+    "quote": {
+      "text": "Doğuda sınır yoktur. Gazneliler gittikçe, biz de ilerleyeceğiz. İslam'ın bayrağı her yere dikilecek.",
+      "source": "Çağrı Bey"
+    },
+    "battles": [
+      {
+        "name": "Dandanakan Muharebesi",
+        "year": "M.S. 1040",
+        "result": "victory",
+        "description": "Ağabeyi Tuğrul Bey ile birlikte Gaznelileri ezici yenilgiye uğrattı."
+      },
+      {
+        "name": "Semerkant Muharebesi",
+        "year": "M.S. 1043",
+        "result": "victory",
+        "description": "Maveraünnehir'in kalbi Semerkant'ı fethetti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Tuğrul Bey",
+        "role": "Ağabeyi, Ortak Kurucu",
+        "description": "Büyük Selçuklu İmparatorluğu'nun kurucusu. Çağrı Bey ile birlikte hareket etti."
+      },
+      {
+        "name": "Kavurt Bey",
+        "role": "Oğlu",
+        "description": "Çağrı Bey'in oğlu. Kirman Atabeyliği'nin kurucusu."
+      },
+      {
+        "name": "I. Mesud (Gazneli)",
+        "role": "Düşman / Mağlup",
+        "description": "Gazneli Sultanı. Dandanakan'da Çağrı Bey'e yenildi."
+      }
+    ]
+  },
+  {
+    "id": "selcuklu-alp-arslan",
+    "order": 4,
+    "name": "Sultan Alp Arslan",
+    "title": "Büyük Selçuklu Sultanı / Malazgirt Fatihi",
+    "period": "M.S. 1063 - 1072",
+    "dynasty": "Büyük Selçuklu İmparatorluğu",
+    "dynastyId": "selcuklular",
+    "era": "Orta Çağ",
+    "image": "/images/huk-alp-arslan.jpg",
+    "description": "1071 Malazgirt Meydan Muharebesi'yle Anadolu'nun kapılarını Türklere açan efsanevi sultan. Romanos Diogenes'i esir aldı.",
+    "fullBio": "Sultan Alp Arslan (20 Ocak 1029 - 15 Aralık 1072), 1063-1072 arasında 9 yıl hüküm sürmüş, Büyük Selçuklu İmparatorluğu'nun en büyük hükümdarlarından biridir. Amcası Tuğrul Bey'den sonra tahta çıktı. Hükümdarlığının ilk yıllarında iç isyanları bastırdı, ardından fetihlere yöneldi. 1064'te Fergana'yı, 1065'te Buhara ve Semerkant'ı imparatorluğa kattı. 1064'te Gürcistan'da Ani kalesini fethetti. En büyük zaferi 26 Ağustos 1071'deki Malazgirt Meydan Muharebesi'dir. 20.000 atlı okçusuyla 200.000 kişilik Bizans ordusunu yendi, İmparator Romanos Diogenes'i esir aldı. Malazgirt Zaferi, Türk tarihinin en önemli dönüm noktalarından biridir; Anadolu'nun kapıları Türklere açıldı, bin yıllık Türk yurdu olmasının temeli atıldı. Alp Arslan, büyük devlet adamıydı; ünlü vezir Nizamülmülk'ü göreve getirdi, Nizamiye Medreseleri'nin kurulmasını sağladı. 1072'de Özbekistan'da bir kale kuşatmasında esir komutan tarafından şehit edildi. Ölmeden önce 'Benim yerime geçecek oğlumdan daha çok oğlum var' diyerek Melikşah'ı işaret etti.",
+    "legacy": "Malazgirt zaferiyle Anadolu'nun Türkleşmesinin kapısını araladı. Türk tarihinin en önemli hükümdarlarından biridir.",
+    "achievements": [
+      "Malazgirt Zaferi (1071) - Anadolu'nun kapıları açıldı",
+      "Bizans İmparatoru Romanos Diogenes'i esir aldı",
+      "Ani'nin Fethi (1064)",
+      "Nizamülmülk'ü vezirliğe getirdi",
+      "Nizamiye Medreseleri'nin temelini attı",
+      "İmparatorluğu zirveye taşıdı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1063",
+        "title": "Tahta Çıkış",
+        "description": "Amcası Tuğrul Bey'in ölümünden sonra sultan oldu."
+      },
+      {
+        "year": "M.S. 1064",
+        "title": "Ani'nin Fethi",
+        "description": "Gürcistan'da Ani kalesini fethetti."
+      },
+      {
+        "year": "M.S. 1071 (26 Ağustos)",
+        "title": "Malazgirt Meydan Muharebesi",
+        "description": "20.000 atlıyla 200.000 kişilik Bizans ordusunu yendi, Romanos Diogenes'i esir aldı."
+      },
+      {
+        "year": "M.S. 1072",
+        "title": "Şehadet",
+        "description": "Özbekistan'da kale kuşatmasında esir komutan tarafından şehit edildi."
+      }
+    ],
+    "predecessor": "Tuğrul Bey (amcası)",
+    "successor": "Melikşah (oğlu)",
+    "quote": {
+      "text": "Bugün buraya ne geldiniz? Eğer melik beni tahttan indirmek istiyorsa, ben onu tahttan indirebilirim. Ama bunu Allah'tan başkası yapamaz.",
+      "source": "Alp Arslan, Malazgirt'te Romanos Diogenes'e"
+    },
+    "battles": [
+      {
+        "name": "Malazgirt Meydan Muharebesi",
+        "year": "M.S. 1071",
+        "result": "victory",
+        "description": "26 Ağustos 1071. 20.000 atlıyla 200.000 kişilik Bizans ordusunu yendi, Anadolu'nun kapıları açıldı."
+      },
+      {
+        "name": "Ani Muharebesi",
+        "year": "M.S. 1064",
+        "result": "victory",
+        "description": "Gürcistan'da Ani kalesini fethetti."
+      },
+      {
+        "name": "Fergana Muharebesi",
+        "year": "M.S. 1064",
+        "result": "victory",
+        "description": "Fergana vadisini imparatorluğa kattı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Melikşah",
+        "role": "Oğlu, Halef",
+        "description": "Alp Arslan'ın oğlu. Büyük Selçuklu'nun altın çağını yaşattı."
+      },
+      {
+        "name": "Nizamülmülk",
+        "role": "Vezir",
+        "description": "Alp Arslan ve Melikşah döneminin büyük vezir. Nizamiye Medreseleri'nin kurucusu."
+      },
+      {
+        "name": "Romanos Diogenes",
+        "role": "Bizans İmparatoru / Esir",
+        "description": "Bizans İmparatoru. Malazgirt'te Alp Arslan tarafından esir alındı."
+      },
+      {
+        "name": "Tuğrul Bey",
+        "role": "Amcası",
+        "description": "Büyük Selçuklu'nun kurucusu. Alp Arslan ondan sonra tahta çıktı."
+      }
+    ]
+  },
+  {
+    "id": "selcuklu-meliksah",
+    "order": 5,
+    "name": "Sultan Melikşah",
+    "title": "Büyük Selçuklu Sultanı / Altın Çağ",
+    "period": "M.S. 1072 - 1092",
+    "dynasty": "Büyük Selçuklu İmparatorluğu",
+    "dynastyId": "selcuklular",
+    "era": "Orta Çağ",
+    "image": "/images/huk-meliksah.jpg",
+    "description": "Büyük Selçuklu'nun zirve dönemi. Nizamiye Medreseleri, Celali Takvimi. Ömer Hayyam'ın hamisi. 20 yıllık altın çağ.",
+    "fullBio": "Sultan Melikşah (8 Ağustos 1055 - 19 Kasım 1092), 1072-1092 arasında 20 yıl hüküm sürmüş, Büyük Selçuklu İmparatorluğu'nun en parlak dönemini yaşatan büyük hükümdardır. Babası Alp Arslan'ın şehadetinden sonra henüz 18 yaşındayken tahta çıktı, Nizamülmülk'ün desteğiyle ülkeyi başarıyla yönetti. Melikşah döneminde imparatorluğun sınırları Akdeniz'den Maveraünnehir'e, Yemen'den Kafkasya'ya kadar uzandı. 1086'da Suriye ve Filistin'i, 1087'de Mekke ve Medine'yi topraklarına kattı. Nizamülmülk'ün reformlarıyla adalet sistemi, vergi düzeni ve askeri teşkilat mükemmelleştirildi. Nizamiye Medreseleri sistemi zirveye ulaştı; Bağdat, Nisapur, Merv, İsfahan'da büyük medreseler açıldı. Ünlü gökbilimci Ömer Hayyam, Melikşah adına Celali Takvimi'ni hazırladı. Gazali, Kaşgarlı Mahmud gibi bilginler bu dönemde yaşadı. Melikşah'ın ani ölümü (1092) üzerine imparatorluk parçalanmaya başladı. Aynı yıl Nizamülmülk de Haşhaşiler tarafından öldürüldü.",
+    "legacy": "Büyük Selçuklu'nun altın çağını yaşattı. Nizamiye Medreseleri ile İslam biliminin gelişimine temel katkı sağladı.",
+    "achievements": [
+      "Büyük Selçuklu zirve dönemini yaşattı (1072-1092)",
+      "Nizamiye Medreseleri'ni zirveye taşıdı",
+      "Ömer Hayyam'a Celali Takvimi'ni yaptırdı",
+      "Mekke ve Medine'yi topraklarına kattı (1087)",
+      "İmparatorluğu en geniş sınırlarına ulaştırdı",
+      "Adalet ve vergi sistemini reforme etti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1072",
+        "title": "Tahta Çıkış",
+        "description": "Babası Alp Arslan'ın şehadeti üzerine 18 yaşında sultan oldu."
+      },
+      {
+        "year": "M.S. 1085",
+        "title": "Suriye ve Filistin'in Fethi",
+        "description": "Suriye, Filistin ve Lübnan'ı imparatorluğa kattı."
+      },
+      {
+        "year": "M.S. 1087",
+        "title": "Mekke ve Medine",
+        "description": "Kutsal toprakları topraklarına kattı, Hac emirliği unvanı aldı."
+      },
+      {
+        "year": "M.S. 1088",
+        "title": "Celali Takvimi",
+        "description": "Ömer Hayyam, Melikşah adına Celali Takvimi'ni tamamladı."
+      },
+      {
+        "year": "M.S. 1092",
+        "title": "Melikşah'ın Ölümü",
+        "description": "19 Kasım'da ani ölümüyle altın çağ sona erdi, imparatorluk parçalanmaya başladı."
+      }
+    ],
+    "predecessor": "Alp Arslan (babası)",
+    "successor": "Berkyaruk (oğlu)",
+    "quote": {
+      "text": "Devletin temeli adalettir. Adalet olmayan yerde, imparatorluk çöker.",
+      "source": "Sultan Melikşah"
+    },
+    "battles": [
+      {
+        "name": "Suriye Fethi",
+        "year": "M.S. 1085",
+        "result": "victory",
+        "description": "Suriye, Filistin ve Lübnan'ı fethederek Akdeniz'e ulaştı."
+      },
+      {
+        "name": "Türkmen Akıncı Seferleri",
+        "year": "M.S. 1080",
+        "result": "victory",
+        "description": "Türkmen akıncıları Anadolu'yu tamamen Türk yurdu haline getirdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Nizamülmülk",
+        "role": "Vezir",
+        "description": "Melikşah döneminin büyük vezir. Nizamiye Medreseleri'nin kurucusu. 1092'de Haşhaşiler tarafından öldürüldü."
+      },
+      {
+        "name": "Ömer Hayyam",
+        "role": "Bilgin / Astronom",
+        "description": "Ünlü gökbilimci ve şair. Melikşah adına Celali Takvimi'ni hazırladı."
+      },
+      {
+        "name": "Alp Arslan",
+        "role": "Babası",
+        "description": "Malazgirt fatihi. Melikşah ondan sonra tahta çıktı."
+      },
+      {
+        "name": "Berkyaruk",
+        "role": "Oğlu, Halef",
+        "description": "Melikşah'ın oğlu. Babasının ölümünden sonra tahta çıktı ancak imparatorluk parçalandı."
+      }
+    ]
+  },
+  {
+    "id": "selcuklu-sencer",
+    "order": 6,
+    "name": "Sultan Sencer",
+    "title": "Büyük Selçuklu Sultanı / Son Büyük Sultan",
+    "period": "M.S. 1118 - 1157",
+    "dynasty": "Büyük Selçuklu İmparatorluğu",
+    "dynastyId": "selcuklular",
+    "era": "Orta Çağ",
+    "image": "/images/huk-sencer.jpg",
+    "description": "Büyük Selçuklu'nun son büyük sultanı. 40 yıl hüküm sürdü. Haçlı Seferleri'ne karşı mücadele etti. Oğuzlar tarafından esir alındı.",
+    "fullBio": "Sultan Sencer (1085-1157), 1118-1157 arasında 39 yıl hüküm sürmüş, Büyük Selçuklu İmparatorluğu'nun son büyük hükümdarı ve Türk tarihinin en dirençli liderlerinden biridir. Melikşah'ın oğullarından olan Sencer, henüz 10 yaşındayken Horasan valisi olarak atandı. 1118'de Büyük Selçuklu tahtına çıktığında imparatorluk parçalanma sürecindeydi. Sencer, büyük çaba ile doğu topraklarını bir arada tutmayı başardı. 1141'de Katvan'da Karahıtaylar'a yenilmesi, dönüm noktası oldu; Harzemşahlar ve diğer beylikler bağımsızlıklarını ilan etti. Haçlı Seferleri'ne karşı mücadele etti. 1153'te Oğuz Türkleri tarafından esir alınarak üç yıl hapis tutuldu. Kurtulduğunda sağlığı bozulmuştu. 1157'de Merv'de vefat etti. Onun ölümüyle Büyük Selçuklu İmparatorluğu resmen sona erdi. Sencer'in esareti ve kurtuluşu, Türk edebiyatında yüzyıllarca anıldı.",
+    "legacy": "Büyük Selçuklu'nun son büyük hükümdarıdır. 40 yıllık hükümdarlığı ve esaretten kurtuluşu, Türk destanlarında yaşamaktadır.",
+    "achievements": [
+      "39 yıl hüküm sürdü - en uzun Selçuklu hükümdarlığı",
+      "Haçlı Seferleri'ne karşı mücadele etti",
+      "Doğu topraklarını bir arada tutmaya çalıştı",
+      "Esraretten kurtularak direnişin sembolü oldu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1118",
+        "title": "Tahta Çıkış",
+        "description": "Parçalanan imparatorluğun tahtına çıktı."
+      },
+      {
+        "year": "M.S. 1141",
+        "title": "Katvan Yenilgisi",
+        "description": "Karahıtaylar'a yenilerek doğu kontrolü zayıfladı."
+      },
+      {
+        "year": "M.S. 1153",
+        "title": "Oğuzlar Tarafından Esir Alınma",
+        "description": "Oğuz Türkleri tarafından esir alındı, üç yıl hapis tutuldu."
+      },
+      {
+        "year": "M.S. 1156",
+        "title": "Kurtuluş",
+        "description": "Esaretten kurtuldu ancak sağlığı tamamen bozulmuştu."
+      },
+      {
+        "year": "M.S. 1157",
+        "title": "Sencer'in Ölümü ve İmparatorluğun Sonu",
+        "description": "Merv'de vefat etti, Büyük Selçuklu İmparatorluğu resmen sona erdi."
+      }
+    ],
+    "predecessor": "Berkyaruk (kuzeni)",
+    "successor": "Hanedan sona erdi (1157)",
+    "quote": {
+      "text": "Ben, Melikşah'ın oğluyum. Esraretten kurtuldum, ama imparatorluğumu kurtaramadım.",
+      "source": "Sultan Sencer"
+    },
+    "battles": [
+      {
+        "name": "Katvan Muharebesi",
+        "year": "M.S. 1141",
+        "result": "defeat",
+        "description": "Karahıtaylar'a ağır yenilgi, doğu toprakları kaybedildi."
+      },
+      {
+        "name": "Oğuz Direnişi",
+        "year": "M.S. 1153",
+        "result": "defeat",
+        "description": "Oğuzlar tarafından esir alındı, üç yıl esarette kaldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Melikşah",
+        "role": "Amcası",
+        "description": "Büyük Selçuklu'nun altın çağ sultanı. Sencer onun soyundan geldi."
+      },
+      {
+        "name": "Berkyaruk",
+        "role": "Kuzeni, Önceki Sultan",
+        "description": "Melikşah'ın oğlu. Sencer'den önce tahtta kaldı."
+      },
+      {
+        "name": "Gazi-Bey Oğuzlar",
+        "role": "İsyancılar / Esir Edenler",
+        "description": "Sencer'i 1153'te esir alan Oğuz Türkleri."
+      }
+    ]
+  }
+]

@@ -1,0 +1,383 @@
+[
+  {
+    "id": "karahan-kulbilge",
+    "order": 1,
+    "name": "Kül Bilge Kadir Han",
+    "title": "Karahanlı Devleti Kurucusu",
+    "period": "M.S. 840 - 893",
+    "dynasty": "Karahanlılar",
+    "dynastyId": "karahanlilar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karahan-kulbilge.jpg",
+    "description": "Uygur Kağanlığı'nın çöküşü sonrası Karluk, Çiğil ve Yağma boylarını birleştirerek Karahanlı Devleti'ni kurdu. Balasagun'u başkent yaptı.",
+    "fullBio": "Kül Bilge Kadir Han, M.S. 840 ile 893 yılları arasında hüküm sürmüş, Karahanlı Devleti'nin kurucusu ve ilk hükümdarıdır. 840 yılında Uygur Kağanlığı'nın çöküşünden sonra Karluk, Çiğil ve Yağma Türk boylarını bir araya getirerek Orta Asya'da yeni bir devlet kurdu. Balasagun'u (günümüz Kırgızistan'ında) başkent yaptı. Döneminde henüz İslamiyet kabul edilmemiş, Türk geleneksel inancı (Tengricilik) hakimdi. Ancak İpek Yolu üzerinde yer alan Karahanlı topraklarında Müslüman tüccarlar ve misyonerler aracılığıyla İslamiyet'in etkisi giderek artıyordu. Kül Bilge Kadir Han, Göktürk devlet geleneğini sürdürdü, kağanlık sistemini korudu. 893 yılında öldüğünde devlet oğulları arasında paylaşıldı, bu durum sonradan doğu-batı bölünmesinin temelini attı. Kurduğu hanedan, 372 yıl boyunca (840-1212) hüküm sürecek ve Türk-İslam medeniyetinin temelini oluşturacaktı.",
+    "legacy": "İlk Müslüman Türk devletinin kurucusu sayılan hanedanın atasıdır. 372 yıl hüküm sürecek Karahanlı hanedanını başlattı.",
+    "achievements": [
+      "Karahanlı Devleti'ni kurdu (840)",
+      "Balasagun'u başkent yaptı",
+      "Karluk, Çiğil ve Yağma boylarını birleştirdi",
+      "Göktürk devlet geleneğini sürdürdü",
+      "İpek Yolu ticaretini kontrol altına aldı",
+      "372 yıllık hanedanın temelini attı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 840",
+        "title": "Karahanlı Devleti'nin Kuruluşu",
+        "description": "Uygur Kağanlığı'nın çöküşünden sonra Karluk, Çiğil ve Yağma boylarını birleştirerek devleti kurdu."
+      },
+      {
+        "year": "M.S. 850",
+        "title": "Balasagun Başkent",
+        "description": "Balasagun'u (günümüz Kırgızistan) başkent yaparak devleti örgütledi."
+      },
+      {
+        "year": "M.S. 870",
+        "title": "İpek Yolu Kontrolü",
+        "description": "İpek Yolu'nun stratejik noktalarını kontrol altına alarak zenginleşti."
+      },
+      {
+        "year": "M.S. 893",
+        "title": "Kül Bilge Kadir Han'ın Ölümü",
+        "description": "53 yıllık hükümdarlığın ardından öldü, devlet oğulları arasında paylaşıldı."
+      }
+    ],
+    "predecessor": "Uygur Kağanlığı çöküşü sonrası",
+    "successor": "Oğulcak Han (oğlu)",
+    "quote": {
+      "text": "Bozkırın oğulları, şimdi yeni bir çağın eşiğindeyiz. Geleneklerimizi koruyarak ilerleyeceğiz.",
+      "source": "Kül Bilge Kadir Han"
+    },
+    "battles": [
+      {
+        "name": "Talas Kuruluş Savaşı",
+        "year": "M.S. 840",
+        "result": "victory",
+        "description": "Uygur çöküşü sonrası boşalan bölgede rakip boyları yenerek devletin temellerini attı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Oğulcak Han",
+        "role": "Oğlu, Halef",
+        "description": "Kül Bilge'nin oğlu. 893'ten sonra Kaşgar merkezli Doğu Karahanlılar'ın temelini attı."
+      },
+      {
+        "name": "Bazır Arslan Han",
+        "role": "Oğlu, Batı Kolu",
+        "description": "Kül Bilge'nin diğer oğlu. Semerkant merkezli Batı Karahanlılar'ı yönetti."
+      },
+      {
+        "name": "Kırgız Kağanı",
+        "role": "Kuzey Komşusu",
+        "description": "Uygurları yıkan Yenisey Kırgızları'nın lideri. Kuzey sınırında Karahanlılar'ın rakibi."
+      }
+    ]
+  },
+  {
+    "id": "karahan-satuk",
+    "order": 2,
+    "name": "Satuk Buğra Han",
+    "title": "İslam'ı Kabul Eden İlk Türk Hükümdarı",
+    "period": "M.S. 920 - 955",
+    "dynasty": "Karahanlılar",
+    "dynastyId": "karahanlilar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karahan-satuk.jpg",
+    "description": "Türk tarihinin dönüm noktası. 934'te Müslüman oldu, amcasına karşı savaşıp kağanlığı ele geçirdi. Türk-İslam sentezini başlattı.",
+    "fullBio": "Satuk Buğra Han (Abdülkerim Satuk Buğra Han), M.S. 920 ile 955 yılları arasında hüküm sürmüş, Karahanlı Devleti'nin en önemli hükümdarı ve Türk dünyasının İslamiyet'i kabul eden ilk büyük hükümdarıdır. Asıl adı Satuk olan Buğra Han, 934 yılında gizlice İslamiyet'i kabul etti, inancını gizli tutarak güçlenmeyi bekledi. Efsaneye göre, bir gece rüyasında yeşil bir at üzerinde beyaz elbiseli bir yiğit (Hz. Ali olarak yorumlandı) görmüş ve İslamiyet'i seçmiştir. Samanîler'in Buhara emiri Nasr bin Ali'nin etkisiyle Müslüman olduğu da rivayet edilir. Müslüman olduktan sonra Abdülkerim ismini aldı. Amcası Oğulçak Kadir Han'ın zulüm dolu yönetimine karşı Müslüman Türk beylerinin desteğini alarak 955 yılında savaşa tutuştu ve zafer kazandı. Kağanlığı ele geçirerek İslamiyet'i resmen ilan etti. Bu tarihi olay, Türk tarihinin en önemli dönüm noktalarından biridir. Satuk Buğra Han'ın İslamiyet'i kabulü, Türk-İslam medeniyetinin doğuşunu simgeler. Camiler, medreseler ve kervansaraylar inşa ettirdi. Türklerin Müslüman olması, sonraki yüzyıllarda Büyük Selçuklu ve Osmanlı imparatorluklarının temelini oluşturdu. Türbesi bugün Sincan Uygur Özerk Bölgesi'ndeki Artuş şehrinde ziyaret edilmektedir.",
+    "legacy": "Türk tarihinin en önemli dönüm noktalarından biridir. İslam'ı kabul eden ilk Türk hükümdarı olarak Türk-İslam medeniyetinin temelini atmıştır.",
+    "achievements": [
+      "İslam'ı kabul eden ilk Türk hükümdarı oldu (934)",
+      "Amcası Oğulçak Han'ı devirerek kağanlığı ele geçirdi (955)",
+      "Türk-İslam sentezini başlattı",
+      "Camiler ve medreseler inşa ettirdi",
+      "İslam'ı Türk topraklarına yaydı",
+      "Komşu Türk boylarının İslam'ı kabulünü teşvik etti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 920",
+        "title": "Tahta Çıkış",
+        "description": "Artuş (Atuş) yöresinde bey olarak hüküm sürmeye başladı."
+      },
+      {
+        "year": "M.S. 934",
+        "title": "İslam'ı Gizlice Kabul",
+        "description": "Gizlice Müslüman oldu, Abdülkerim ismini aldı, inancını gizli tuttu."
+      },
+      {
+        "year": "M.S. 942",
+        "title": "Müslüman Türk Beylerinin Desteği",
+        "description": "Gizli Müslüman Türk beyleri ve Samanî emiri Nasr'ın desteğini aldı."
+      },
+      {
+        "year": "M.S. 955",
+        "title": "Amcasını Devirme ve İslam'ın İlanı",
+        "description": "Amcası Oğulçak Han'ı yenerek kağanlığı ele geçirdi, İslam'ı resmen ilan etti."
+      },
+      {
+        "year": "M.S. 955 (sonrası)",
+        "title": "Türk-İslam Medeniyetinin Doğuşu",
+        "description": "Camiler ve medreseler inşa ederek Türk-İslam sentezinin temelini attı."
+      }
+    ],
+    "predecessor": "Oğulçak Kadir Han (amcası, devirdiği hükümdar)",
+    "successor": "Musa Baytaş (oğlu)",
+    "quote": {
+      "text": "La ilahe illallah, Muhammedün Resulullah. Bu kelime benim ve milletimin kurtuluşudur.",
+      "source": "Satuk Buğra Han'ın Müslüman olma kelime-i şehadeti"
+    },
+    "battles": [
+      {
+        "name": "Artuş Muharebesi",
+        "year": "M.S. 955",
+        "result": "victory",
+        "description": "Amcası Oğulçak Kadir Han'ı yenerek kağanlığı ele geçirdi, Türk tarihinin dönüm noktası."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Nasr bin Ali (Samanî Emiri)",
+        "role": "İslam'ı Tanıtan Hükümdar",
+        "description": "Samanîler'in Buhara emiri. Satuk Buğra'nın Müslüman olmasında etkili oldu."
+      },
+      {
+        "name": "Oğulçak Kadir Han",
+        "role": "Amcası / Devirdiği Hükümdar",
+        "description": "Satuk Buğra'nın amcası ve önceki hükümdar. Zulüm dolu yönetimiyle devrildi."
+      },
+      {
+        "name": "Musa Baytaş",
+        "role": "Oğlu, Halef",
+        "description": "Satuk Buğra'dan sonra tahta çıktı, babasının İslam politikalarını sürdürdü."
+      },
+      {
+        "name": "Şeyh Necmeddin",
+        "role": "İslam Alimi",
+        "description": "Satuk Buğra'ya İslam öğretilerini anlatan alim, onun Müslüman olmasında etkili oldu."
+      }
+    ]
+  },
+  {
+    "id": "karahan-mahmut",
+    "order": 3,
+    "name": "Mahmut Karahan (Buğra Han Muhammed)",
+    "title": "Karahanlı Hükümdarı - Altın Çağ",
+    "period": "M.S. 998 - 1005",
+    "dynasty": "Karahanlılar",
+    "dynastyId": "karahanlilar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karahan-mahmut.jpg",
+    "description": "Karahanlıların en güçlü dönemini yaşattı. Kutadgu Bilig bu dönemde yazıldı. Türk-İslam kültürünün altın çağı.",
+    "fullBio": "Mahmut Karahan (Tam adı: Buğra Han Muhammed bin Musa), M.S. 998 ile 1005 yılları arasında hüküm sürmüş, Karahanlı Devleti'nin en güçlü, en zengin ve en parlak dönemini yaşatan büyük hükümdardır. Döneminde Karahanlı Devleti, Maveraünnehir'den Pamir Dağları'na, Semerkant ve Buhara'dan Doğu Türkistan ve Kaşgar'a kadar genişledi. Gazneliler, diğer komşu devletlerle olan karmaşık ilişkileri ustaca yönetti. Mahmut Karahan döneminde Karahanlı sarayında bilim, edebiyat, felsefe ve sanat büyük bir gelişme gösterdi. Ünlü Türk bilgini Yusuf Has Hacib'in 'Kutadgu Bilig' (Mutluluk Veren Bilgi) adlı başyapıtı, işte bu parlak dönemde (1069-1070) yazıldı ve Mahmut Karahan'a ithaf edildi. Eser, devlet yönetimi, ahlak ve felsefe üzerine Türkçe yazılmış ilk büyük edebi yapıttır. Mahmut Karahan, şehirleri imar etti, büyük camiler, medreseler, kervansaraylar inşa ettirdi. Türkçe edebiyat gelişti, Türkçe ilk yazılı edebi eserler ortaya çıktı. Onun döneminde Farsça ve Arapça ile birlikte üç dilli zengin bir kültür ortamı oluştu.",
+    "legacy": "Karahanlıların altın çağını yaşatan hükümdardır. Kutadgu Bilig'in ithaf edildiği hükümdar olarak Türk edebiyat tarihinde önemli bir yere sahiptir.",
+    "achievements": [
+      "Karahanlı topraklarını en geniş sınırlara ulaştırdı",
+      "Kutadgu Bilig'e himaye sağladı",
+      "Türk-İslam kültürünün altın çağını yaşattı",
+      "Camiler, medreseler, kervansaraylar inşa ettirdi",
+      "Türkçe edebiyatın gelişimini destekledi",
+      "Üç dilli (Türkçe, Farsça, Arapça) kültür ortamı oluşturdu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 998",
+        "title": "Tahta Çıkış",
+        "description": "Karahanlı tahtına çıkarak devletin en parlak dönemini başlattı."
+      },
+      {
+        "year": "M.S. 999",
+        "title": "Samanîler'in Yıkılması",
+        "description": "Samanî Devleti'nin yıkılması sonrası Karahanlılar Maveraünnehir'de tek güç oldu."
+      },
+      {
+        "year": "M.S. 1000",
+        "title": "Semerkant ve Buhara",
+        "description": "İki büyük şehri kontrol altına alarak zengin İpek Yolu şehirlerine hakim oldu."
+      },
+      {
+        "year": "M.S. 1002",
+        "title": "Kutadgu Bilig'in Yazılması Başladı",
+        "description": "Yusuf Has Hacib, Kutadgu Bilig'i yazmaya başladı, Mahmut Karahan'a ithaf edildi."
+      },
+      {
+        "year": "M.S. 1005",
+        "title": "Mahmut Karahan'ın Ölümü",
+        "description": "Altın çağın hükümdarı öldü, devlet yavaşça zayıflamaya başladı."
+      }
+    ],
+    "predecessor": "Nasır bin Ali",
+    "successor": "I. Ahmed Togan Han (Arslan Kara Han)",
+    "quote": {
+      "text": "Bilgi, devletin temelidir. Kutadgu Bilig, bizim devletimizin aynasıdır.",
+      "source": "Mahmut Karahan, Kutadgu Bilig'i kabul ederken"
+    },
+    "battles": [
+      {
+        "name": "Samanîleri Yenme",
+        "year": "M.S. 999",
+        "result": "victory",
+        "description": "Samanî ordusunu yenerek Maveraünnehir'de hakimiyeti ele geçirdi."
+      },
+      {
+        "name": "Hendesehan Savaşı",
+        "year": "M.S. 1006",
+        "result": "defeat",
+        "description": "Gazneli Mahmut ile yapılan savaşta yenilgi aldı, Fergana bölgesini kaybetti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Yusuf Has Hacib",
+        "role": "Bilgin / Kutadgu Bilig Yazarı",
+        "description": "Ünlü Türk bilgini. Kutadgu Bilig'i Mahmut Karahan döneminde yazdı (1069-1070)."
+      },
+      {
+        "name": "Gazneli Mahmut",
+        "role": "Gazneli Sultanı / Rakip",
+        "description": "Gazneli Sultanı (998-1030). Mahmut Karahan ile Hendesehan Savaşı'nda çarpıştı."
+      },
+      {
+        "name": "Nasr bin Ali",
+        "role": "Önceki Hükümdar",
+        "description": "Mahmut Karahan'dan önceki hükümdar."
+      }
+    ]
+  },
+  {
+    "id": "karahan-nasir",
+    "order": 4,
+    "name": "Nasır bin Ali",
+    "title": "Karahanlı Hükümdarı - Bilim ve Edebiyat Hamisi",
+    "period": "M.S. 1017 - 1032",
+    "dynasty": "Karahanlılar",
+    "dynastyId": "karahanlilar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karahan-nasir.jpg",
+    "description": "Divan-ı Lügati't-Türk'ün tamamlandığı dönemin hükümdarı. Bilim ve edebiyatın gelişimine büyük katkı sağladı.",
+    "fullBio": "Nasır bin Ali, M.S. 1017 ile 1032 yılları arasında hüküm sürmüş, Karahanlı Devleti'nin en kültürlü dönemlerinden birini yaşatan hükümdardır. Döneminde Karahanlı sarayında bilim, edebiyat ve sanat büyük gelişme gösterdi. 1025 yılında Kaşgarlı Mahmud'un 'Divan-ı Lügati't-Türk' adlı eseri tamamlandı ve Nasır bin Ali'ye sunuldu. Bu eser, Türk dillerinin en eski ve en kapsamlı sözlüğüdür. Eserde Türk boylarının dilleri, kültürleri, gelenekleri ve yaşam tarzları detaylıca anlatılmaktadır. Nasır bin Ali, astronomi ve matematik alanlarında bilimsel çalışmaları destekledi. Maveraünnehir ve Doğu Türkistan'da camiler ve medreseler inşa ettirdi. Onun döneminde Karahanlı Devleti doğu-batı olarak ikiye bölündü (1041), ancak Nasır bin Ali döneminde bu bölünme henüz gerçekleşmemişti. Türkçe yazılı edebiyatın temelleri atıldı, ilk Türkçe eserler ortaya çıktı. Nasır bin Ali, bu kültür patlamasının öncüsü oldu.",
+    "legacy": "Divan-ı Lügati't-Türk'ün tamamlandığı dönemin hükümdarı olarak Türk dil ve kültür tarihinde önemli bir yere sahiptir.",
+    "achievements": [
+      "Divan-ı Lügati't-Türk'ün tamamlanmasına destek verdi (1025)",
+      "Bilim ve sanatı destekledi",
+      "Türkçe edebiyatın gelişimine katkı sağladı",
+      "Astronomi ve matematik çalışmalarını destekledi",
+      "Camiler ve medreseler inşa ettirdi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1017",
+        "title": "Tahta Çıkış",
+        "description": "Karahanlı tahtına çıkarak kültür hamisi bir dönem başlattı."
+      },
+      {
+        "year": "M.S. 1025",
+        "title": "Divan-ı Lügati't-Türk Tamamlandı",
+        "description": "Kaşgarlı Mahmud, Türk dillerinin en kapsamlı sözlüğünü tamamlayıp sunmuştur."
+      },
+      {
+        "year": "M.S. 1028",
+        "title": "Medrese ve Kervansaraylar",
+        "description": "Eğitim ve ticaret yapılarının inşasına hız verdi."
+      },
+      {
+        "year": "M.S. 1032",
+        "title": "Nasır bin Ali'nin Ölümü",
+        "description": "Kültür ve bilim döneminin ardından öldü."
+      }
+    ],
+    "predecessor": "I. Ahmed Togan Han",
+    "successor": "I. Süleyman Han (bölünme sonrası)",
+    "quote": {
+      "text": "Türk dili, milletimizin canıdır. Divan-ı Lügati't-Türk, bu canın aynasıdır.",
+      "source": "Nasır bin Ali, Divan-ı Lügati't-Türk'ü kabul ederken"
+    },
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Kaşgarlı Mahmud",
+        "role": "Bilgin / Divan-ı Lügati't-Türk Yazarı",
+        "description": "Ünlü Türk bilgini. Divan-ı Lügati't-Türk'ü Nasır bin Ali döneminde tamamladı (1025)."
+      },
+      {
+        "name": "Yusuf Has Hacib",
+        "role": "Bilgin / Kutadgu Bilig Yazarı",
+        "description": "Kutadgu Bilig'in yazarı. Nasır bin Ali döneminde yaşamış ve eserini sunmuştur."
+      }
+    ]
+  },
+  {
+    "id": "karahan-mesud2",
+    "order": 5,
+    "name": "II. Mesud Han",
+    "title": "Batı Karahanlı Son Kağanı",
+    "period": "M.S. 1160 - 1178",
+    "dynasty": "Karahanlılar (Batı Kolu)",
+    "dynastyId": "karahanlilar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karahan-mesud2.jpg",
+    "description": "Batı Karahanlılar'ın son güçlü hükümdarı. Harzemşahlar'ın yükselişine karşı mücadele etti ama durduramadı.",
+    "fullBio": "II. Mesud Han, M.S. 1160 ile 1178 yılları arasında hüküm sürmüş, Batı Karahanlılar'ın son güçlü hükümdarıdır. 1041'de Karahanlı Devleti'nin doğu-batı olarak ikiye bölünmesinden sonra Batı Karahanlılar, Semerkant merkezli hüküm sürdü. II. Mesud Han döneminde Harzemşahlar'ın hızlı yükselişi başladı. Maveraünnehir'de güç dengeleri değişmeye başladı. Mesud Han, Harzemşah tehdidine karşı çeşitli ittifaklar kurmaya çalışsa da durduramadı. 1178'de ölümüyle birlikte Batı Karahanlılar hızla zayıfladı. 1212'de Harzemşahlar tarafından tamamen ortadan kaldırıldılar. Doğu Karahanlılar ise 1211'de Kara-Hitaylar tarafından yıkıldı. Böylece 372 yıllık Karahanlı hanedanı sona erdi. Karahanlı mirası, Türk-İslam medeniyetinin en önemli yapı taşlarından biri olarak kaldı. İlk Müslüman Türk devleti, Türkçe yazılı edebiyatın başlangıcı, Türk-İslam mimarisinin ilk örnekleri ve Türk-İslam hukukunun temelleri Karahanlılar döneminde atıldı.",
+    "legacy": "Batı Karahanlılar'ın son güçlü hükümdarıdır. Harzemşah yükselişine karşı direniş gösterse de 372 yıllık hanedanın sonunu getiren süreci durduramadı.",
+    "achievements": [
+      "Harzemşah tehdidine karşı direniş gösterdi",
+      "372 yıllık hanedanın sonunu geciktirmeye çalıştı",
+      "Semerkant'ı korumaya çalıştı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1160",
+        "title": "Tahta Çıkış",
+        "description": "Batı Karahanlı tahtına çıktı, Harzemşah tehdidiyle karşı karşıyaydı."
+      },
+      {
+        "year": "M.S. 1170",
+        "title": "Harzemşah Saldırıları",
+        "description": "Harzemşahlar Maveraünnehir'e saldırmaya başladı, Mesud Han direndi."
+      },
+      {
+        "year": "M.S. 1178",
+        "title": "II. Mesud Han'ın Ölümü",
+        "description": "Son güçlü hükümdar öldü, Batı Karahanlılar hızla zayıfladı."
+      },
+      {
+        "year": "M.S. 1212",
+        "title": "Karahanlıların Sonu",
+        "description": "Harzemşahlar tarafından tamamen yıkıldılar, 372 yıllık hanedan sona erdi."
+      }
+    ],
+    "predecessor": "I. Süleyman Han",
+    "successor": "Hanedan sona erdi (1212)",
+    "quote": {
+      "text": "372 yıllık bir gelenek, bir kaç yılda yıkılabilir. Ama mirasımız kalıcı olacaktır.",
+      "source": "II. Mesud Han"
+    },
+    "battles": [
+      {
+        "name": "Harzemşah Sınır Savaşı",
+        "year": "M.S. 1170",
+        "result": "defeat",
+        "description": "Harzemşah ordularına karşı sınır savunmasında yenilgi aldı."
+      },
+      {
+        "name": "Semerkant Savunması",
+        "year": "M.S. 1175",
+        "result": "draw",
+        "description": "Semerkant'ı korumak için yaptığı savunma başarılı oldu ancak güç kaybetti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Alâeddin Harzemşah",
+        "role": "Harzemşah Sultanı / Rakip",
+        "description": "Harzemşahlar'ın güçlü sultanı. Karahanlıları yıkarak Maveraünnehir'de tek güç oldu."
+      },
+      {
+        "name": "I. Süleyman Han",
+        "role": "Önceki Hükümdar",
+        "description": "Doğu-Batı bölünmesi sonrası Batı Karahanlılar'ın önceki hükümdarı."
+      }
+    ]
+  }
+]

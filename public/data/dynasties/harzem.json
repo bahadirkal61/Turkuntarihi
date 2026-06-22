@@ -1,0 +1,522 @@
+[
+  {
+    "id": "harzem-anus-tigin",
+    "order": 1,
+    "name": "Anuş Tigin Gunca Tekiş",
+    "title": "Harzemşahlık Kurucusu",
+    "period": "M.S. 1077 - 1096",
+    "dynasty": "Harzemşahlar",
+    "dynastyId": "harzem",
+    "era": "Orta Çağ",
+    "image": "/images/huk-harzem-anus.jpg",
+    "description": "Selçuklu hizmetinde başlayan kariyerini, Harzem'de bağımsız bir beyliğe dönüştüren Hanedan kurucusu. Oğulları ve torunlarıyla devleti imparatorluğa çevirdi.",
+    "fullBio": "Anuş Tigin Gunca Tekiş (öl. 1096), Harzemşah Hanedanı'nın kurucusudur. Türkistan'ın step bölgelerinden gelmiş, ilk önce Büyük Selçuklu Sultanı Melikşah'ın hizmetine girmiştir. Sultan tarafından Harzem valiliğine atanmış ve bu görevi oğullarına miras bırakacak şekilde aile hanedanı haline getirmiştir. Anuş Tigin döneminde Harzem, Selçuklu İmparatorluğu'nun bir eyaleti konumundaydı ancak hanedan kurucusu, bölgede kalıcı bir Türk-İslam devletinin temellerini atmıştır. Ölümünden sonra oğlu Kutbeddin Muhammed beyliğin başına geçmiş ve hanedanın gücünü artırmıştır. Anuş Tigin'in kurduğu bu yapı, iki asır boyunca İran ve Orta Asya'nın en güçlü devletlerinden biri olacak Harzemşah İmparatorluğu'nun ilk tohumlarıdır.",
+    "legacy": "Selçuklu hizmetinden çıkarak Harzem'de kalıcı bir Türk hanedanı kurdu. Torunları devleti imparatorluk seviyesine taşıdı.",
+    "achievements": [
+      "Harzem'de kalıcı Türk hanedanının kurucusu (1077)",
+      "Büyük Selçuklu İmparatorluğu'nda Harzem valiliği",
+      "Harzem bölgesinde Türk-İslam devlet geleneğinin temellerini attı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1077",
+        "title": "Harzem Valiliği",
+        "description": "Melikşah tarafından Harzem valiliğine atandı, hanedanın temelleri atıldı."
+      },
+      {
+        "year": "M.S. 1096",
+        "title": "Ölüm",
+        "description": "Anuş Tigin öldü, beyliğin başına oğlu Kutbeddin geçti."
+      }
+    ],
+    "predecessor": "Büyük Selçuklu hâkimiyeti",
+    "successor": "Kutbeddin Muhammed (oğlu)",
+    "quote": {
+      "text": "Harzem, Türklerin eliyle bir cennet haline gelecektir.",
+      "source": "Anuş Tigin Gunca Tekiş"
+    },
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Melikşah",
+        "role": "Büyük Selçuklu Sultanı",
+        "description": "Anuş Tigin'i Harzem valiliğine atayan Selçuklu Sultanı."
+      },
+      {
+        "name": "Kutbeddin Muhammed",
+        "role": "Oğlu / Halef",
+        "description": "Anuş Tigin'in oğlu, Harzemşahlığı güçlendiren ikinci hükümdar."
+      }
+    ]
+  },
+  {
+    "id": "harzem-kutbeddin",
+    "order": 2,
+    "name": "Kutbeddin Muhammed",
+    "title": "Harzemşah",
+    "period": "M.S. 1096 - 1127",
+    "dynasty": "Harzemşahlar",
+    "dynastyId": "harzem",
+    "era": "Orta Çağ",
+    "image": "/images/huk-harzem-kutbeddin.jpg",
+    "description": "Anuş Tigin'in oğlu, Harzemşahlığı Selçuklu egemenliği altında güçlendiren ikinci hükümdar. 'Kutb' (Eksen) unvanını alan ilk hanedan üyesidir.",
+    "fullBio": "Kutbeddin Muhammed (öl. 1127), Harzemşah Hanedanı'nın ikinci hükümdarıdır. Babası Anuş Tigin'den 1096'da Harzem beyliğini devralmıştır. Döneminde Harzem, Selçuklu Sultanı Sencer'in bölgedeki en güçlü temsilcisi konumundaydı. Kutbeddin Muhammed, 'Kutbeddin' (Dinin Ekseni) unvanını kullanan ilk hanedan üyesidir. Karahanlılar ve diğer bölgesel güçlerle mücadele ederek Harzem topraklarını genişletmiştir. Özellikle Maveraünnehir ve Harezm bölgesinde Selçuklu otoritesini sağlamlaştırmıştır. Oğlu Atsız'a bıraktığı hanedan, onun güçlendirdiği temeller üzerine yükselerek gelecekte bir imparatorluk haline gelecektir.",
+    "legacy": "'Kutb' unvanıyla hanedana dini meşruiyet kazandırdı. Harzemşah topraklarını genişletip Selçuklu idaresinde özerkliğe doğru ilk adımları attırdı.",
+    "achievements": [
+      "'Kutbeddin' unvanını kullanan ilk hanedan üyesi",
+      "Harzem topraklarını genişletme",
+      "Selçuklu Sultanı Sencer'in bölgedeki en güçlü temsilcisi oldu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1096",
+        "title": "Tahta Geçiş",
+        "description": "Babası Anuş Tigin'den Harzem beyliğini devraldı."
+      },
+      {
+        "year": "M.S. 1100'ler",
+        "title": "Bölgesel Güçlenme",
+        "description": "Karahanlılar ve diğer rakiplere karşı Harzem topraklarını genişletti."
+      },
+      {
+        "year": "M.S. 1127",
+        "title": "Ölüm",
+        "description": "Kutbeddin Muhammed öldü, yerine oğlu Atsız geçti."
+      }
+    ],
+    "predecessor": "Anuş Tigin Gunca Tekiş (babası)",
+    "successor": "Alaeddin Atsız (oğlu)",
+    "quote": {
+      "text": "Harzem'in gücü, adaletin sağlamasıyla büyür.",
+      "source": "Kutbeddin Muhammed"
+    },
+    "battles": [
+      {
+        "name": "Karahanlı Çatışmaları",
+        "year": "M.S. 1110'lar",
+        "result": "victory",
+        "description": "Karahanlılar'a karşı sınır çatışmalarında üstünlük sağlandı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Sultan Sencer",
+        "role": "Büyük Selçuklu Sultanı",
+        "description": "Kutbeddin'in bağlı olduğu Selçuklu Sultanı, bölgedeki üst otorite."
+      },
+      {
+        "name": "Alaeddin Atsız",
+        "role": "Oğlu / Halef",
+        "description": "Kutbeddin'in oğlu, 'Alaeddin' unvanını alan ilk Harzemşah."
+      }
+    ]
+  },
+  {
+    "id": "harzem-atsiz",
+    "order": 3,
+    "name": "Alaeddin Atsız",
+    "title": "Büyük Harzemşah",
+    "period": "M.S. 1127 - 1156",
+    "dynasty": "Harzemşahlar",
+    "dynastyId": "harzem",
+    "era": "Orta Çağ",
+    "image": "/images/huk-harzem-atsiz.jpg",
+    "description": "'Alaeddin' unvanını alan ilk Harzemşah. Gurularla mücadele ederek Harzem topraklarını önemli ölçüde genişletti, hanedanı bölgesel güce dönüştürdü.",
+    "fullBio": "Alaeddin Atsız (öl. 1156), Harzemşahlar'ın üçüncü ve en güçlü erken dönem hükümdarıdır. 1127'de babası Kutbeddin Muhammed'den tahtı devralmıştır. Atsız, 'Alaeddin' (Dinin Yücesi) unvanını kullanan ilk hanedan üyesidir ve bu unvan, sonraki tüm hükümdarlar tarafından kullanılacaktır. Döneminin en önemli mücadelesi, Afganistan ve Horasan'daki Gurular (Gurlular) ile olan savaşlardır. Atsız, Gurular'ı yenilgiye uğratıp önemli toprak kazanımları elde etmiş, ancak sonraki yıllarda Gurular geri çekilerek Atsız'ın topraklarını tehdit etmeye devam etmiştir. Ayrıca Karahanlılar ve Kıpçaklarla mücadele ederek Harzemşah nüfuzunu genişletmiştir. Oğlu İl-Arslan'a bıraktığı devlet, artık bölgede saygın bir güç haline gelmişti.",
+    "legacy": "'Alaeddin' unvanını kullanan ilk Harzemşah olarak hanedana yeni bir kimlik kazandırdı. Gurularla mücadelede önemli başarılar elde etti.",
+    "achievements": [
+      "'Alaeddin' unvanını kullanan ilk Harzemşah (1127)",
+      "Gurular'a karşı önemli askeri başarılar",
+      "Harzemşah topraklarını Horasan ve Afganistan sınırına kadar genişletti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1127",
+        "title": "Tahta Geçiş",
+        "description": "Babası Kutbeddin Muhammed'den tahtı devraldı."
+      },
+      {
+        "year": "M.S. 1130'lar",
+        "title": "Guru Savaşları",
+        "description": "Gurular'a karşı büyük seferler düzenledi, toprak kazandı."
+      },
+      {
+        "year": "M.S. 1152",
+        "title": "Kıpçak Seferi",
+        "description": "Kuzeydeki Kıpçakları yenerek Harezm bölgesinin güvenliğini sağladı."
+      },
+      {
+        "year": "M.S. 1156",
+        "title": "Ölüm",
+        "description": "Alaeddin Atsız öldü, yerine oğlu İl-Arslan geçti."
+      }
+    ],
+    "predecessor": "Kutbeddin Muhammed (babası)",
+    "successor": "İl-Arslan (oğlu)",
+    "quote": {
+      "text": "Gurular'ın gölgesi Horasan'ın üzerinden kalkana kadar kılıcım kınına girmeyecektir.",
+      "source": "Alaeddin Atsız"
+    },
+    "battles": [
+      {
+        "name": "Gurular Seferi",
+        "year": "M.S. 1135",
+        "result": "victory",
+        "description": "Gurular'a karşı Horasan'da önemli bir askeri zafer kazandı."
+      },
+      {
+        "name": "Kıpçak Savaşı",
+        "year": "M.S. 1152",
+        "result": "victory",
+        "description": "Kuzey sınırlarını güvence altına almak için Kıpçaklar üzerine sefer düzenlendi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Gurular",
+        "role": "Rakip Güç",
+        "description": "Afganistan kökenli İslam hanedanı, Harzemşahlar'ın ana rakipleri."
+      },
+      {
+        "name": "Sultan Sencer",
+        "role": "Büyük Selçuklu Sultanı",
+        "description": "Atsız döneminin başlarında Selçuklu üst otoritesi, 1157'de öldü."
+      }
+    ]
+  },
+  {
+    "id": "harzem-ilarslan",
+    "order": 4,
+    "name": "İl-Arslan",
+    "title": "Harzemşah",
+    "period": "M.S. 1156 - 1172",
+    "dynasty": "Harzemşahlar",
+    "dynastyId": "harzem",
+    "era": "Orta Çağ",
+    "image": "/images/huk-harzem-ilarslan.jpg",
+    "description": "Selçuklu Sultanı Sencer'in ölümüyle ortaya çıkan boşluktan yararlanarak bağımsızlık yolunda ilk adımları atan Harzemşah. Büyük Selçuklu'nun çöküşünden en çok fayda sağlayan devleti kurdu.",
+    "fullBio": "İl-Arslan (öl. 1172), Harzemşahlar'ın dördüncü hükümdarıdır. 1156'da babası Alaeddin Atsız'dan tahtı devralmıştır. İl-Arslan dönemi, Harzemşahlar için bir dönüm noktasıdır. 1157'de Büyük Selçuklu Sultanı Sencer'in ölümüyle birlikte Selçuklu İmparatorluğu çöküşe geçmiş ve bu durumdan en çok Harzemşahlar fayda sağlamıştır. İl-Arslan, Sencer'in ölümünden hemen sonra fiilen bağımsız hareket etmeye başlamış, Karahanlılar üzerine seferler düzenleyerek Maveraünnehir'de nüfuzunu artırmıştır. 1171'de Selçuklu karşıtı bir ittifak kurarak resmen bağımsızlığını ilan etmiştir. Ancak bu dönemde Kıpçaklarla olan mücadeleleri devam etmiş ve 1172'de bir Kıpçak saldırısında esir düşerek ölmüştür. Onun başlattığı bağımsızlık süreci, oğlu Tekiş tarafından tamamlanacaktır.",
+    "legacy": "Büyük Selçuklu'nun çöküşünden en çok fayda sağlayan hükümdar olarak Harzemşah devletini fiilen bağımsızlığa taşıdı.",
+    "achievements": [
+      "Büyük Selçuklu çöküşünden yararlanarak bağımsızlık yolunda ilk adımlar",
+      "Karahanlılar üzerine seferlerle Maveraünnehir'de nüfuz artırma",
+      "Harzemşah ordusunu modernleştirme"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1156",
+        "title": "Tahta Geçiş",
+        "description": "Babası Alaeddin Atsız'dan sonra tahta çıktı."
+      },
+      {
+        "year": "M.S. 1157",
+        "title": "Sencer'in Ölümü ve Fırsat",
+        "description": "Selçuklu Sultanı Sencer öldü, İl-Arslan bağımsız hareket etmeye başladı."
+      },
+      {
+        "year": "M.S. 1171",
+        "title": "Fiilen Bağımsızlık",
+        "description": "Selçuklu karşıtı ittifakla fiilen bağımsızlığını ilan etti."
+      },
+      {
+        "year": "M.S. 1172",
+        "title": "Şehadet",
+        "description": "Kıpçak saldırısında esir düşerek hayatını kaybetti."
+      }
+    ],
+    "predecessor": "Alaeddin Atsız (babası)",
+    "successor": "Alaeddin Tekiş (oğlu)",
+    "quote": {
+      "text": "Sencer'in gölgesi kalktı, artık Harzem'in güneşi kendi ekseninde dönecektir.",
+      "source": "İl-Arslan"
+    },
+    "battles": [
+      {
+        "name": "Karahanlı Seferi",
+        "year": "M.S. 1165",
+        "result": "victory",
+        "description": "Maveraünnehir'de Karahanlı topraklarına sefer düzenlendi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Sultan Sencer",
+        "role": "Büyük Selçuklu Sultanı",
+        "description": "1157'de ölümüyle Selçuklu otoritesi zayıfladı, İl-Arslan bağımsızlık fırsatı buldu."
+      },
+      {
+        "name": "Kıpçaklar",
+        "role": "Rakip Göçebe Güç",
+        "description": "Kuzeyden Harzem'i tehdit eden göçebe Türk toplulukları."
+      }
+    ]
+  },
+  {
+    "id": "harzem-tekiyyudin",
+    "order": 5,
+    "name": "Alaeddin Tekiş",
+    "title": "Büyük Harzemşah",
+    "period": "M.S. 1172 - 1200",
+    "dynasty": "Harzemşahlar",
+    "dynastyId": "harzem",
+    "era": "Orta Çağ",
+    "image": "/images/huk-tekis.jpg",
+    "description": "Harzemşahları tam bağımsızlığa kavuşturan, Karahanlıları yıkarak Maveraünnehir ve İran'ın kuzeyini kontrolü altına alan hükümdar. Babasının başlattığı bağımsızlığı tamamladı.",
+    "fullBio": "Alaeddin Tekiş (öl. 1200), Harzemşahlar'ın beşinci hükümdarıdır. Babası İl-Arslan'ın 1172'de Kıpçaklar tarafından esir alınıp öldürülmesinden sonra tahta çıkmıştır. Tekiş, Harzemşah devletini tam bağımsızlığa kavuşturan hükümdardır. 1180'lerde ve 1190'larda Karahanlı Devleti'ne karşı bir dizi sefer düzenleyerek onları Maveraünnehir'den tamamen çıkarmış, Buhara ve Semerkant'ı kontrolü altına almıştır. 1194'te büyük bir zafer kazanarak Karahanlı Devleti'ni resmen ortadan kaldırmıştır. Ayrıca Selçuklu kalıntılarına ve diğer bölgesel güçlere karşı da mücadele ederek Harzemşah topraklarını bugünkü İran'ın kuzeyinden Kazakistan'ın güneyine kadar genişletmiştir. Oğlu Alaeddin Muhammed'e bıraktığı devlet, artık bir imparatorluktu.",
+    "legacy": "Harzemşahları tam bağımsızlığa kavuşturan, Karahanlıları yıkarak Orta Asya'nın en güçlü devletini kuran hükümdardır.",
+    "achievements": [
+      "Harzemşah Devleti'ni tam bağımsızlığa kavuşturdu",
+      "Karahanlıları yıkarak Buhara ve Semerkant'ı aldı (1194)",
+      "Toprakları İran'dan Kazakistan'a kadar genişletti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1172",
+        "title": "Tahta Geçiş",
+        "description": "Babası İl-Arslan'ın ölümü üzerine hükümdar oldu."
+      },
+      {
+        "year": "M.S. 1182",
+        "title": "Buhara Seferi",
+        "description": "Karahanlı topraklarına ilk büyük seferini düzenledi."
+      },
+      {
+        "year": "M.S. 1194",
+        "title": "Karahanlıları Yıkma",
+        "description": "Karahanlı Devleti'ni resmen ortadan kaldırarak Maveraünnehir'de tek hakim oldu."
+      },
+      {
+        "year": "M.S. 1200",
+        "title": "Ölüm",
+        "description": "Alaeddin Tekiş öldü, imparatorluğu oğlu Muhammed'e bıraktı."
+      }
+    ],
+    "predecessor": "İl-Arslan (babası)",
+    "successor": "Alaeddin Muhammed (oğlu)",
+    "quote": {
+      "text": "Maveraünnehir'deki tek hükümdar benim. Karahanlı güneşi battı, Harzem ayı doğdu.",
+      "source": "Alaeddin Tekiş"
+    },
+    "battles": [
+      {
+        "name": "Karahanlı Seferi",
+        "year": "M.S. 1194",
+        "result": "victory",
+        "description": "Karahanlı Devleti'ni yıkarak Maveraünnehir'de tek hakim oldu."
+      },
+      {
+        "name": "Gurular Savaşı",
+        "year": "M.S. 1190",
+        "result": "victory",
+        "description": "Horasan sınırında Gurular'a karşı askeri üstünlük sağladı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Karahanlılar",
+        "role": "Yenilen Rakip",
+        "description": "Tekiş tarafından yıkılan, Maveraünnehir'deki eski Türk hanedanı."
+      },
+      {
+        "name": "Alaeddin Muhammed",
+        "role": "Oğlu / Halef",
+        "description": "Tekiş'in oğlu, Harzemşah İmparatorluğu'nu zirveye taşıyan hükümdar."
+      }
+    ]
+  },
+  {
+    "id": "harzem-muhammed",
+    "order": 6,
+    "name": "Alaeddin Muhammed II",
+    "title": "Harzemşahlar İmparatoru",
+    "period": "M.S. 1200 - 1220",
+    "dynasty": "Harzemşahlar",
+    "dynastyId": "harzem",
+    "era": "Orta Çağ",
+    "image": "/images/huk-harzem-muhammed.jpg",
+    "description": "Harzemşah İmparatorluğu'nu zirveye taşıyan, ancak Cengiz Han'ın elçilerini öldürterek Moğol istilasını tetikleyen trajik hükümdar. 1210'da Guruları yendi, 1218'de felaketi başlattı.",
+    "fullBio": "Alaeddin Muhammed (öl. 1220/1221), Harzemşahlar'ın altıncı ve en görkemli döneminin hükümdarıdır. 1200'de babası Tekiş'in ölümüyle tahta çıkmıştır. Döneminde Harzemşah toprakları, Horasan, İran'ın tamamı, Maveraünnehir, Afganistan ve Hindistan'ın kuzeyini kapsayarak en geniş sınırlarına ulaşmıştır. 1210 yılında Gurular'ı yenilgiye uğratarak Afganistan'ı tamamen ele geçirmiştir. Ancak 1218'de Cengiz Han'ın 450 kişilik ticaret ve elçi kafilesini öldürtmesi, tarihin dönüm noktalarından biri olmuştur. Cengiz Han, bu olay üzerine kişisel olarak 200.000 kişilik orduyla batıya yürümüş ve Harzemşah orduları ezici yenilgilere uğramıştır. 1219-1220'de Buhara, Semerkant, Urgenç, Merv, Nişabur gibi şehirler Moğollar tarafından yağmalanıp yakılmıştır. Muhammed, başkentleri düşünce Hazar Denizi'ne kaçmış ve bir adada 1220 veya 1221'de yalnızlık içinde ölmüştür.",
+    "legacy": "Devleti zirveye taşıyan ancak Moğol elçilerini öldürterek tarihin en büyük istilalarından birini tetikleyen trajik figür. Onun hatası, Orta Asya medeniyetinin kaderini değiştirdi.",
+    "achievements": [
+      "Harzemşah İmparatorluğu'nu en geniş sınırlarına ulaştırdı",
+      "Gurular'ı yenilgiye uğratarak Afganistan'ı tamamen ele geçirdi (1210)",
+      "Güney İran ve batıda Gürcistan'ı fethederek imparatorluğu genişletti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1200",
+        "title": "Tahta Geçiş",
+        "description": "Babası Alaeddin Tekiş'ten imparatorluğu devraldı."
+      },
+      {
+        "year": "M.S. 1210",
+        "title": "Gurular'ın Yenilgisi",
+        "description": "Afganistan'da Gurular'ı yenerek Horasan ve Khorasan'ı tamamen kontrol altına aldı."
+      },
+      {
+        "year": "M.S. 1218",
+        "title": "Otrar Faciası",
+        "description": "Cengiz Han'ın 450 kişilik elçi ve ticaret kafilesinin Otrar'da valisi tarafından öldürülmesi, Moğol istilasının tetikleyicisi oldu."
+      },
+      {
+        "year": "M.S. 1219-1220",
+        "title": "Moğol İstilası",
+        "description": "Cengiz Han'ın orduları Buhara, Semerkant, Merv, Nişabur'u yıktı, imparatorluk çöktü."
+      },
+      {
+        "year": "M.S. 1220",
+        "title": "Hazar Denizi'nde Ölüm",
+        "description": "Başkentlerin düşmesi üzerine Hazar Denizi'ndeki Abaskun Adası'na kaçtı ve burada öldü."
+      }
+    ],
+    "predecessor": "Alaeddin Tekiş (babası)",
+    "successor": "Celaleddin Harzemşah (oğlu)",
+    "quote": {
+      "text": "Cengiz Han benim dünyadaki tek rakibimdir. Ama onun elçilerini öldürmek benim emrim değildi... Bu bir felaket olacak.",
+      "source": "Alaeddin Muhammed II, Otrar Faciası sonrası"
+    },
+    "battles": [
+      {
+        "name": "Gurular Seferi",
+        "year": "M.S. 1210",
+        "result": "victory",
+        "description": "Gurular'a karşı Afganistan'da büyük zafer, Horasan tamamen alındı."
+      },
+      {
+        "name": "Buhara Savunması",
+        "year": "M.S. 1220",
+        "result": "defeat",
+        "description": "Cengiz Han'ın ordusu Buhara'yı kuşatıp yıktı, 30.000 asker öldürüldü."
+      },
+      {
+        "name": "İndus Muharebesi",
+        "year": "M.S. 1221",
+        "result": "defeat",
+        "description": "Cengiz Han oğulları Celaleddin'i İndus Nehri'nde yendi, imparatorluk sona erdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Cengiz Han",
+        "role": "Moğol İmparatoru / Düşman",
+        "description": "Alaeddin Muhammed'in elçilerinin öldürülmesi üzerine 200.000 kişilik orduyla batıya yürüdü."
+      },
+      {
+        "name": "Celaleddin Harzemşah",
+        "role": "Oğlu / Halef",
+        "description": "Babasının ölümünden sonra direnişi sürdüren son Harzemşah hükümdarı."
+      },
+      {
+        "name": "Gayir Han",
+        "role": "Otrar Valisi",
+        "description": "Cengiz Han'ın elçilerini öldürterek felaketi başlatan Otrar valisi."
+      }
+    ]
+  },
+  {
+    "id": "harzem-celaleddin",
+    "order": 7,
+    "name": "Celaleddin Harzemşah",
+    "title": "İslam'ın Kılıcı",
+    "period": "M.S. 1220 - 1231",
+    "dynasty": "Harzemşahlar",
+    "dynastyId": "harzem",
+    "era": "Orta Çağ",
+    "image": "/images/huk-harzem-celaleddin.jpg",
+    "description": "Moğol istilasına karşı tek başına direnen, Yassı Çemen'de Moğolları yenerek Cengiz Han'a ilk büyük yenilgiyi tattıran, Harzemşahlar'ın son büyük hükümdarı. İslam tarihinin en büyük direnişçilerinden biri.",
+    "fullBio": "Celaleddin Mengüberti (1199-1231), Harzemşahlar'ın son ve en efsanevi hükümdarıdır. 1220'de babası Alaeddin Muhammed'in ölümü üzerine, çökmekte olan imparatorluğun başına geçmiştir. Cengiz Han'ın 200.000 kişilik ordusu karşısında imkansızı başarmaya çalışmıştır. 1221'de Parvan'da Moğol birliklerini yendikten sonra, 10 Kasım 1221'de Yassı Çemen Muharebesi'nde Cengiz Han'ın oğlu Tuluy komutasındaki büyük Moğol ordusunu ağır bir yenilgiye uğratmıştır. Bu zafer, Cengiz Han'a ilk büyük hezimeti tattıran muharebe olarak tarihe geçmiştir. Cengiz Han'ın kendisi hakkında 'anne babasından hayırlı bir evlat doğurmuş' dediği rivayet edilir. Ancak devleti kurtarmaya yetmemiş, Hindistan'a kaçmış, Delhi Sultanı İltutmuş tarafından korunmuş, sonra İran'a dönüp mücadeleyi sürdürmüş, son olarak 1231'de Kürtler tarafından öldürülmüştür. Cengiz Han'ın onun cesaretine hayran kalarak 'oğullarından hayırlı bir evlat yetiştirmiş' dediği rivayet olunur.",
+    "legacy": "Yassı Çemen'de Moğolları yenerek Cengiz Han'a ilk büyük yenilgiyi tattıran, İslam dünyasının en büyük direniş sembollerinden biri. Moğol istilası karşısında asla boyun eğmeyen tek hükümdar.",
+    "achievements": [
+      "Yassı Çemen'de Moğollara büyük yenilgi tattırdı (1221) - Cengiz Han'ın ilk büyük hezimeti",
+      "Parvan'da Moğol birliklerini yendi (1221)",
+      "Moğol istilasına karşı tek başına 10 yıl direndi",
+      "Cengiz Han'ın hayranlığını kazanan tek Müslüman hükümdar"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1220",
+        "title": "Tahta Geçiş",
+        "description": "Babasının ölümüyle çökmekte olan imparatorluğun başına geçti."
+      },
+      {
+        "year": "M.S. 1221",
+        "title": "Parvan Zaferi",
+        "description": "Guristan'da Moğol birliklerini yendi."
+      },
+      {
+        "year": "M.S. 1221 (10 Kasım)",
+        "title": "Yassı Çemen Muharebesi",
+        "description": "Cengiz Han oğlu Tuluy'u ağır yenilgiye uğrattı, Cengiz Han'ın ilk büyük hezimeti."
+      },
+      {
+        "year": "M.S. 1221-1224",
+        "title": "Hindistan Sürgünü",
+        "description": "Hindistan'a kaçıp Delhi Sultanı İltutmuş'un himayesine girdi."
+      },
+      {
+        "year": "M.S. 1225-1231",
+        "title": "İran'da Mücadele",
+        "description": "İran'a dönüp Moğollar ve diğer güçlere karşı mücadeleyi sürdürdü."
+      },
+      {
+        "year": "M.S. 1231",
+        "title": "Şehadet",
+        "description": "Kürtler tarafından uyurken öldürüldü, Harzemşah hanedanı sona erdi."
+      }
+    ],
+    "predecessor": "Alaeddin Muhammed II (babası)",
+    "successor": "Harzemşah hanedanı sona erdi",
+    "quote": {
+      "text": "Bir gün ben öleceğim, ama Moğol zulmüne boyun eğdiğim gün, o gün ölmüş sayılırım! Yassı Çemen'de Cengiz Han'a gösterdim ki, Türk'ün imanı tükense bile kılıcı tükenmez!",
+      "source": "Celaleddin Harzemşah"
+    },
+    "battles": [
+      {
+        "name": "Parvan Muharebesi",
+        "year": "M.S. 1221",
+        "result": "victory",
+        "description": "Guristan'da Moğol birliklerini yendi."
+      },
+      {
+        "name": "Yassı Çemen Muharebesi",
+        "year": "M.S. 1221 (10 Kasım)",
+        "result": "victory",
+        "description": "Cengiz Han oğlu Tuluy komutasındaki 30.000 kişilik Moğol ordusunu ağır yenilgiye uğrattı. Cengiz Han'ın ilk büyük hezimeti."
+      },
+      {
+        "name": "İndus Muharebesi",
+        "year": "M.S. 1221",
+        "result": "defeat",
+        "description": "Cengiz Han'ın kendisi komutasındaki ordu karşısında yenildi, Hindistan'a kaçtı."
+      },
+      {
+        "name": "Rey Muharebesi",
+        "year": "M.S. 1225",
+        "result": "victory",
+        "description": "İran'a dönüşünde Rey şehrini ele geçirdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Cengiz Han",
+        "role": "Moğol İmparatoru / Düşman",
+        "description": "Celaleddin'in en büyük düşmanı, Yassı Çemen'de ilk kez yenildi, Celaleddin hakkında hayranlıkla bahsetti."
+      },
+      {
+        "name": "Tuluy",
+        "role": "Cengiz Han'ın Oğlu / Yenilen Komutan",
+        "description": "Yassı Çemen'de Celaleddin tarafından ağır yenilgiye uğratılan Moğol komutanı."
+      },
+      {
+        "name": "İltutmuş",
+        "role": "Delhi Sultanı / Himayeci",
+        "description": "Celaleddin'i Hindistan'da himaye eden Delhi Türk Sultanı."
+      },
+      {
+        "name": "Alaeddin Muhammed II",
+        "role": "Babası",
+        "description": "Celaleddin'in babası, Moğol istilasından kaçan imparator."
+      }
+    ]
+  }
+]

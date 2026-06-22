@@ -1,0 +1,541 @@
+[
+  {
+    "id": "cumhuriyet-ataturk",
+    "order": 1,
+    "name": "Mustafa Kemal Atatürk",
+    "title": "Cumhuriyet'in Kurucusu / 1. Cumhurbaşkanı / Başkomutan",
+    "period": "1923 - 1938",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Çağdaş Dönem",
+    "image": "/images/huk-ataturk.jpg",
+    "description": "Türkiye Cumhuriyeti'nin kurucusu, Türk milletinin kurtarıcısı, dünya tarihinin en büyük devlet adamlarından biri.",
+    "fullBio": "Mustafa Kemal Atatürk (1881-1938), Türkiye Cumhuriyeti'nin kurucusu ve ilk Cumhurbaşkanı, Türk tarihinin en büyük devrimcisi ve devlet adamıdır. 1881 yılında Selanik'te doğmuş, askeri okulda eğitim görmüş, Manastır Askeri Lisesi'nde okumuştur. I. Dünya Savaşı'nda Çanakkale Cephesi'nde Anafartalar Grup Komutanı olarak görev yapmış, 1915'te Anafartalar Zaferi'ni kazanarak 'Anafartalar Kahramanı' unvanını almıştır. Savaşın sonunda Osmanlı ordularının Suriye'deki Yıldırım Orduları Grup Komutanlığına atanmıştır. 19 Mayıs 1919'da Samsun'a çıkarak Türk Kurtuluş Savaşı'nı başlatmıştır. 23 Nisan 1920'de Ankara'da Türkiye Büyük Millet Meclisi'ni açarak meşru bir hükümet oluşturmuş, İstanbul hükümetine karşı tek meşru güç olarak Ankara Hükümeti'ni kurmuştur. 1921 yılında Sakarya Meydan Muharebesi'nde Yunan ilerleyişini durdurmuş, 19 Eylül 1921'de Meclis tarafından 'Gazi' unvanı ve Mareşal rütbesi ile ödüllendirilmiştir. 26 Ağustos-9 Eylül 1922'de Büyük Taarruz'u başlatarak Yunan ordusunu Anadolu'dan atmış, 9 Eylül'de İzmir'i kurtarmıştır. 24 Temmuz 1923'te Lozan Antlaşması ile Türkiye'nin bağımsızlığı ve toprak bütünlüğü tüm dünya tarafından tanınmıştır. 29 Ekim 1923'te Cumhuriyet ilan edilmiş, Atatürk oybirliğiyle ilk Cumhurbaşkanı seçilmiştir. 1924'te Halifelik kaldırılmış, 1926'da Medeni Kanun kabul edilmiş, 1928'de Harf Devrimi yapılmış, 1934'te Kadınlara seçme ve seçilme hakkı tanınmıştır. 1938 yılında Dolmabahçe Sarayı'nda vefat etmiştir.",
+    "legacy": "Modern Türkiye'nin kurucusu, Türk milletinin kurtarıcısı olarak dünya tarihinin en büyük devlet adamlarından biridir.",
+    "achievements": [
+      "Cumhuriyet'in ilanı (1923)",
+      "TBMM'nin kuruluşu (1920)",
+      "Büyük Taarruz Zaferi (1922)",
+      "Halifeliğin kaldırılması (1924)",
+      "Harf Devrimi (1928)",
+      "Medeni Kanun (1926)",
+      "Kadınlara seçme ve seçilme hakkı (1934)"
+    ],
+    "keyEvents": [
+      {
+        "year": "1919",
+        "title": "Samsun'a Çıkış",
+        "description": "19 Mayıs. Milli Mücadele'nin başlangıcı."
+      },
+      {
+        "year": "1920",
+        "title": "TBMM'nin Açılması",
+        "description": "23 Nisan. Büyük Millet Meclisi Ankara'da açıldı."
+      },
+      {
+        "year": "1922",
+        "title": "Büyük Taarruz",
+        "description": "30 Ağustos Zaferi. Yunan işgali sona erdi."
+      },
+      {
+        "year": "1923",
+        "title": "Cumhuriyet'in İlanı",
+        "description": "29 Ekim. Türkiye Cumhuriyeti kuruldu."
+      },
+      {
+        "year": "1924",
+        "title": "Halifeliğin Kaldırılması",
+        "description": "3 Mart. Halifelik kaldırıldı."
+      },
+      {
+        "year": "1928",
+        "title": "Harf Devrimi",
+        "description": "1 Kasım. Latin alfabesi kabul edildi."
+      },
+      {
+        "year": "1934",
+        "title": "Soyadı Kanunu",
+        "description": "Atatürk soyadı verildi."
+      },
+      {
+        "year": "1938",
+        "title": "Vefat",
+        "description": "10 Kasım. Türkiye'nin kurucusu hayatını kaybetti."
+      }
+    ],
+    "predecessor": "Devletin kurucusu / Önceki dönemden bilinmiyor",
+    "successor": "İsmet İnönü",
+    "quote": {
+      "text": "Yurtta sulh, cihanda sulh. Egemenlik kayıtsız şartsız milletindir. Bu memleket, tarihte Türklüğün beşiği olmuştur.",
+      "source": "Mustafa Kemal Atatürk"
+    },
+    "relatedPeople": [],
+    "battles": [
+      {
+        "name": "Samsun'a Çıkış",
+        "year": "1919",
+        "result": "victory",
+        "description": "19 Mayıs. Milli Mücadele'nin başlangıcı."
+      },
+      {
+        "name": "Büyük Taarruz",
+        "year": "1922",
+        "result": "victory",
+        "description": "30 Ağustos Zaferi. Yunan işgali sona erdi."
+      }
+    ]
+  },
+  {
+    "id": "cumhuriyet-inonu",
+    "order": 2,
+    "name": "İsmet İnönü",
+    "title": "2. Cumhurbaşkanı / Mareşal / Milli Şef",
+    "period": "1938 - 1950",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Çağdaş Dönem",
+    "image": "/images/huk-inonu.jpg",
+    "description": "Atatürk'ün en yakın arkadaşı, İkinci Dünya Savaşı döneminde Türkiye'yi yöneten devlet adamı.",
+    "fullBio": "İsmet İnönü (1884-1973), Türkiye Cumhuriyeti'nin ikinci Cumhurbaşkanı, Atatürk'ün en yakın arkadaşı ve Türk Kurtuluş Savaşı'nın başkomutan vekili, Lozan Barış Antlaşması'nın başmüzakerecisidir. 1884 yılında İzmir'de doğmuş, askeri okulda eğitim görmüştür. I. Dünya Savaşı'nda Çanakkale Cephesi'nde görev yapmış, ordu komutanlıklarına atanmıştır. Kurtuluş Savaşı'nda Batı Cephesi Komutanı olarak görev yapmış, I. ve II. İnönü Muharebeleri'nde Yunan ordusunun ilerleyişini durdurarak savaşın seyrini değiştirmiştir. 1922-1924 yılları arasında üç kez Başbakanlık yapmış, Lozan Konferansı'nda Türk heyetine başkanlık etmiştir. 1924 yılında Cumhuriyet Halk Partisi'nin kurucuları arasında yer almıştır. Atatürk'ün vefatından sonra 11 Kasım 1938'de Cumhurbaşkanı seçilmiş, 'Millî Şef' unvanını almıştır. II. Dünya Savaşı'nda Türkiye'yi savaş dışı tutmayı başarmıştır. 1950'de çok partili sisteme geçişle birlikte iktidarı Demokrat Parti'ye devretmiş, ana muhalefet lideri olmuştur. 1961 ve 1965 seçimlerinde tekrar Başbakanlık yapmıştır. 25 Aralık 1973'te Ankara'da vefat etmiştir.",
+    "legacy": "Atatürk'ün en yakın arkadaşı olarak Cumhuriyet'in kuruluş ve gelişme döneminde en önemli rol oynayan devlet adamıdır.",
+    "achievements": [
+      "Lozan Antlaşması",
+      "Çok partili demokrasiye geçiş",
+      "II. Dünya Savaşı'nda tarafsızlık"
+    ],
+    "keyEvents": [
+      {
+        "year": "1923",
+        "title": "Lozan Antlaşması",
+        "description": "Türkiye'nin bağımsızlığı uluslararası alanda tanındı."
+      },
+      {
+        "year": "1938",
+        "title": "Cumhurbaşkanlığı",
+        "description": "Atatürk'ün ardından 2. Cumhurbaşkanı oldu."
+      }
+    ],
+    "predecessor": "Mustafa Kemal Atatürk",
+    "successor": "Celal Bayar",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "İki savaş gördüm, iki zafer kazandım. Lozan'da verdiğim mücadele, Kurtuluş Savaşı'ndan daha zordu. Cumhuriyet, benim değil milletin eseridir.",
+      "source": "İsmet İnönü"
+    }
+  },
+  {
+    "id": "cumhuriyet-bayar",
+    "order": 3,
+    "name": "Celal Bayar",
+    "title": "3. Cumhurbaşkanı",
+    "period": "1950 - 1960",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Çağdaş Dönem",
+    "image": "/images/huk-bayar.jpg",
+    "description": "Türkiye'nin ilk demokratik seçimle iktidara gelen cumhurbaşkanı. 27 Mayıs darbesiyle görevden alındı.",
+    "fullBio": "Celal Bayar (1883-1986), Türkiye Cumhuriyeti'nin üçüncü Cumhurbaşkanı, Demokrat Parti'nin kurucusu ve Türkiye'nin çok partili döneminin ilk Başbakanıdır. 1883 yılında Gemlik'te doğmuş, Genç Türk Devrimi'nin aktif isimlerinden biri olarak siyasi hayatına başlamıştır. İttihat ve Terakki döneminde milletvekili ve bakanlık yapmıştır. Cumhuriyet döneminde 1937-1939 yılları arasında Atatürk hükümetlerinde Başbakanlık yapmıştır. 1945 yılında Cumhuriyet Halk Partisi'nden istifa etmiş, 1946 yılında Adnan Menderes, Refik Koraltan ve Fuat Köprülü ile birlikte Demokrat Parti'yi kurmuştur. 14 Mayıs 1950 seçimlerinde Demokrat Parti iktidara gelmiş, Celal Bayar Cumhurbaşkanı seçilmiştir. 1950-1960 yılları arasında Cumhurbaşkanlığı yapmış, bu dönem Türkiye'nin çok partili sistemdeki ilk deneyimidir. 27 Mayıs 1960 askeri darbesiyle görevine son verilmiş, Yassıada'da yargılanarak idam cezasına çarptırılmış, daha sonra cezası müebbet hapse çevrilmiştir. 1964 yılında sağlık nedeniyle tahliye edilmiştir. 22 Ağustos 1986'da İstanbul'da 103 yaşında vefat etmiştir.",
+    "legacy": "Türkiye'nin çok partili demokrasi tarihinin ilk demokratik seçilmiş cumhurbaşkanıdır.",
+    "achievements": [
+      "İlk demokratik seçim zaferi (1950)"
+    ],
+    "keyEvents": [
+      {
+        "year": "1950",
+        "title": "Demokrat Parti Zaferi",
+        "description": "İlk demokratik iktidar değişimi."
+      },
+      {
+        "year": "1960",
+        "title": "27 Mayıs Darbesi",
+        "description": "Askeri darbeyle görevden alındı."
+      }
+    ],
+    "predecessor": "İsmet İnönü",
+    "successor": "Cemal Gürsel",
+    "battles": [
+      {
+        "name": "Demokrat Parti Zaferi",
+        "year": "1950",
+        "result": "victory",
+        "description": "İlk demokratik iktidar değişimi."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Vatanını en çok seven, görevini en iyi yapandır. Demokrat Parti, çok partili hayata geçişin nişanesidir.",
+      "source": "Celal Bayar"
+    }
+  },
+  {
+    "id": "cumhuriyet-gursel",
+    "order": 4,
+    "name": "Cemal Gürsel",
+    "title": "4. Cumhurbaşkanı / Orgeneral",
+    "period": "1961 - 1966",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Modern",
+    "image": "/images/huk-gursel.jpg",
+    "description": "27 Mayıs 1960 darbesinin lideri, 4. Cumhurbaşkanı. Türkiye'nin yeni anayasasını hazırlatan komutan.",
+    "fullBio": "Cemal Gürsel (1895-1966), Türkiye Cumhuriyeti'nin 4. Cumhurbaşkanı ve 27 Mayıs 1960 askeri darbesinin lideridir. 1895 yılında Erzurum'da doğmuş, askeri okulda eğitim görmüş, topçu sınıfında subay olarak mezun olmuştur. II. Dünya Savaşı döneminde çeşitli komutanlıklarda bulunmuş, 1958 yılında Kara Kuvvetleri Komutanlığına atanmıştır. 27 Mayıs 1960'ta Demokrat Parti hükümetine karşı askeri darbe yapılmış, Cemal Gürsel Milli Birlik Komitesi başkanı ve devlet başkanı olmuştur. 1961 yılında yeni anayasanın kabul edilmesiyle Cumhurbaşkanı seçilmiştir. Görev süresinde Türkiye'nin ekonomik kalkınma hamlelerini başlatmış, Planlama Teşkilatı'nı kurmuştur. 1966 yılında beyin ameliyatı için gittiği ABD'de hayatını kaybetmiştir.",
+    "legacy": "27 Mayıs darbesinin lideri olarak Türkiye'nin askeri müdahaleler dönemini başlatan, ancak demokratik anayasayı hazırlatan devlet adamı.",
+    "achievements": [
+      "27 Mayıs 1960 darbesi",
+      "1961 Anayasası'nın hazırlanması",
+      "Devlet Planlama Teşkilatı'nın kuruluşu"
+    ],
+    "keyEvents": [
+      {
+        "year": "1960",
+        "title": "Askeri Darbe",
+        "description": "27 Mayıs. Demokrat Parti iktidarına son verdi."
+      },
+      {
+        "year": "1961",
+        "title": "Cumhurbaşkanlığı",
+        "description": "Yeni anayasa ile 4. Cumhurbaşkanı seçildi."
+      }
+    ],
+    "predecessor": "Celal Bayar",
+    "successor": "Cevdet Sunay",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "27 Mayıs, demokrasinin askeri darbe ile yeniden doğuşudur. Anayasa, milletin kendi kendini yönetme iradesidir.",
+      "source": "Cemal Gürsel"
+    }
+  },
+  {
+    "id": "cumhuriyet-sunay",
+    "order": 5,
+    "name": "Cevdet Sunay",
+    "title": "5. Cumhurbaşkanı / Orgeneral",
+    "period": "1966 - 1973",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Modern",
+    "image": "/images/huk-sunay.jpg",
+    "description": "Türk Silahlı Kuvvetleri'nin 14. Genelkurmay Başkanı ve 5. Cumhurbaşkanı. 7 yıl cumhurbaşkanlığı yaptı.",
+    "fullBio": "Cevdet Sunay (1899-1982), Türkiye Cumhuriyeti'nin 5. Cumhurbaşkanıdır. 1899 yılında Trabzon'da doğmuş, Kurtuluş Savaşı'na katılmıştır. 1960 yılında Genelkurmay Başkanlığına atanmıştır. 28 Mart 1966'da Cumhurbaşkanı seçilmiş, 1973'e kadar görev yapmıştır. Cumhurbaşkanlığı döneminde Türkiye, Kıbrıs Barış Harekâtı öncesi dönemde önemli gelişmeler yaşamıştır. 1982 yılında İstanbul'da vefat etmiştir.",
+    "legacy": "Genelkurmay Başkanlığı'ndan Cumhurbaşkanlığı'na geçen, Türkiye'nin istikrarsız 1970'ler öncesi döneminde görev yapan devlet adamı.",
+    "achievements": [
+      "Genelkurmay Başkanlığı (1960-1966)",
+      "5. Cumhurbaşkanlığı (1966-1973)"
+    ],
+    "keyEvents": [
+      {
+        "year": "1966",
+        "title": "Cumhurbaşkanlığı",
+        "description": "28 Mart. 5. Cumhurbaşkanı seçildi."
+      },
+      {
+        "year": "1971",
+        "title": "12 Mart Muhtırası",
+        "description": "Ordu muhtıra verdi, hükümet istifa etti."
+      }
+    ],
+    "predecessor": "Cemal Gürsel",
+    "successor": "Fahri Korutürk",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Büyük Türk milleti, her zorlukta olduğu gibi bu dönemi de aşacaktır. Cumhuriyet, bin yıllık devlet geleneğimizin devamıdır.",
+      "source": "Cevdet Sunay"
+    }
+  },
+  {
+    "id": "cumhuriyet-koruturk",
+    "order": 6,
+    "name": "Fahri Korutürk",
+    "title": "6. Cumhurbaşkanı / Oramiral",
+    "period": "1973 - 1980",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Modern",
+    "image": "/images/huk-koruturk.jpg",
+    "description": "Türk Deniz Kuvvetleri'nden çıkan ilk ve tek Cumhurbaşkanı. 12 Eylül darbesine kadar görev yaptı.",
+    "fullBio": "Fahri Korutürk (1903-1987), Türkiye Cumhuriyeti'nin 6. Cumhurbaşkanı ve Türk Deniz Kuvvetleri'nden çıkan tek Cumhurbaşkanıdır. 1903 yılında İstanbul'da doğmuş, 1923 yılında Deniz Harp Okulu'nu bitirmiştir. 1968-1972 yılları arasında Moskova Büyükelçiliği yapmıştır. 6 Nisan 1973'te TBMM tarafından 6. Cumhurbaşkanı seçilmiştir. Cumhurbaşkanlığı döneminde 1974 Kıbrıs Barış Harekâtı gerçekleşmiştir. 12 Eylül 1980 askeri darbesiyle görev süresi sona ermiştir.",
+    "legacy": "Deniz Kuvvetleri'nden çıkan tek Cumhurbaşkanı olarak, Kıbrıs Barış Harekâtı'nın gerçekleştiği dönemde ülkeye liderlik etmiştir.",
+    "achievements": [
+      "Kıbrıs Barış Harekâtı (1974)",
+      "Deniz Kuvvetleri'nden çıkan ilk Cumhurbaşkanı"
+    ],
+    "keyEvents": [
+      {
+        "year": "1973",
+        "title": "Cumhurbaşkanlığı",
+        "description": "6 Nisan. 6. Cumhurbaşkanı seçildi."
+      },
+      {
+        "year": "1974",
+        "title": "Kıbrıs Barış Harekâtı",
+        "description": "20 Temmuz. Kıbrıs'a askeri müdahale."
+      },
+      {
+        "year": "1980",
+        "title": "12 Eylül Darbesi",
+        "description": "Askeri darbeyle görev süresi sona erdi."
+      }
+    ],
+    "predecessor": "Cevdet Sunay",
+    "successor": "Kenan Evren",
+    "battles": [
+      {
+        "name": "Kıbrıs Barış Harekâtı",
+        "year": "1974",
+        "result": "victory",
+        "description": "20 Temmuz. Kıbrıs'a askeri müdahale."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Denizcilik, Türk milletinin bin yıllık geleneğidir. Cumhuriyet gemisi, badireli denizlerde yol almaya devam ediyor.",
+      "source": "Fahri Korutürk"
+    }
+  },
+  {
+    "id": "cumhuriyet-evren",
+    "order": 7,
+    "name": "Kenan Evren",
+    "title": "7. Cumhurbaşkanı / Orgeneral",
+    "period": "1982 - 1989",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Modern",
+    "image": "/images/huk-evren.jpg",
+    "description": "12 Eylül 1980 darbesinin lideri, 7. Cumhurbaşkanı. 1982 Anayasası'nın mimarı.",
+    "fullBio": "Kenan Evren (1917-2015), Türkiye Cumhuriyeti'nin 7. Cumhurbaşkanı ve 12 Eylül 1980 askeri darbesinin lideridir. 1917 yılında Manisa'da doğmuş, 1977 yılında Genelkurmay Başkanlığına atanmıştır. 12 Eylül 1980'de Kenan Evren liderliğinde askeri darbe yapılmış, siyasi partiler kapatılmıştır. 1982 yılında yeni anayasa kabul edilmiş, 7. Cumhurbaşkanı seçilmiştir. 9 Mayıs 2015'te Ankara'da vefat etmiştir.",
+    "legacy": "12 Eylül darbesinin lideri olarak Türkiye siyasetinde derin izler bırakan tarihi bir figür.",
+    "achievements": [
+      "12 Eylül 1980 darbesi",
+      "1982 Anayasası"
+    ],
+    "keyEvents": [
+      {
+        "year": "1980",
+        "title": "12 Eylül Darbesi",
+        "description": "Askeri müdahale. Siyasi partiler kapatıldı."
+      },
+      {
+        "year": "1982",
+        "title": "Yeni Anayasa",
+        "description": "Halkoylamasıyla kabul edildi."
+      }
+    ],
+    "predecessor": "Fahri Korutürk",
+    "successor": "Turgut Özal",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "12 Eylül, Türkiye'nin kader dönüm noktalarından biridir. Anayasal düzen, toplumsal barışın teminatıdır.",
+      "source": "Kenan Evren"
+    }
+  },
+  {
+    "id": "cumhuriyet-ozal",
+    "order": 8,
+    "name": "Turgut Özal",
+    "title": "8. Cumhurbaşkanı / 3 kez Başbakan",
+    "period": "1989 - 1993",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Modern",
+    "image": "/images/huk-ozal.jpg",
+    "description": "Türkiye'nin en etkili siyasetçilerinden biri. 24 Ocak Kararları'nın mimarı, liberal ekonominin öncüsü.",
+    "fullBio": "Turgut Özal (1927-1993), Türkiye Cumhuriyeti'nin 8. Cumhurbaşkanı, 1983-1989 yılları arasında Başbakanlık yapmış, Türkiye'nin en etkili siyasetçilerindendir. 1927 yılında Malatya'da doğmuş, İTÜ Elektrik Mühendisliği'nden mezun olmuştur. 1983 yılında kurduğu Anavatan Partisi ile seçimleri kazanmıştır. Başbakanlığı döneminde 24 Ocak 1980 Kararları ile liberal ekonomi politikalarını getirmiştir. 1989 yılında Cumhurbaşkanı seçilmiştir. 17 Nisan 1993'te Ankara'da kalp krizi sonucu vefat etmiştir.",
+    "legacy": "Türkiye'nin ekonomik ve siyasi dönüşümünün mimarı olarak, liberal ekonomiyi getiren, Türkiye'yi dünyaya açan en etkili siyasetçilerden biridir.",
+    "achievements": [
+      "24 Ocak 1980 Kararları",
+      "ANAP'ın kuruluşu",
+      "Liberal ekonomi dönüşümü",
+      "AB Gümrük Birliği süreci"
+    ],
+    "keyEvents": [
+      {
+        "year": "1983",
+        "title": "ANAP İktidarı",
+        "description": "Anavatan Partisi seçimleri kazandı."
+      },
+      {
+        "year": "1989",
+        "title": "Cumhurbaşkanlığı",
+        "description": "8. Cumhurbaşkanı seçildi."
+      },
+      {
+        "year": "1993",
+        "title": "Vefat",
+        "description": "17 Nisan. Ankara'da kalp krizi sonucu hayatını kaybetti."
+      }
+    ],
+    "predecessor": "Kenan Evren",
+    "successor": "Süleyman Demirel",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Ekonomi, siyasetin temel direğidir. Serbest piyasa, Türkiye'nin kalkınma hamlesidir. 24 saat çalışmak, bu milletin özelliğidir.",
+      "source": "Turgut Özal"
+    }
+  },
+  {
+    "id": "cumhuriyet-demirel",
+    "order": 9,
+    "name": "Süleyman Demirel",
+    "title": "9. Cumhurbaşkanı / 7 kez Başbakan",
+    "period": "1993 - 2000",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Modern",
+    "image": "/images/huk-demirel.jpg",
+    "description": "Türkiye'nin 7 kez Başbakanlık yapmış 'Çoban Sülü' lakaplı efsanevi siyasetçisi.",
+    "fullBio": "Süleyman Demirel (1924-2015), Türkiye Cumhuriyeti'nin 9. Cumhurbaşkanı, 7 kez Başbakanlık yapmış, Türkiye siyasetinin en uzun soluklu isimlerinden biridir. 1924 yılında Isparta'da doğmuş, İTÜ İnşaat Mühendisliği'nden mezun olmuştur. 1965 yılında Adalet Partisi ile seçimleri kazanarak 29 yaşında Başbakan olmuştur. 1965-1980 arasında 5 kez, 1991-1993 arasında tekrar Başbakanlık yapmış, toplam 7 kez Başbakanlık yaparak dünya rekoru kırmıştır. 16 Mayıs 1993'te Cumhurbaşkanı seçilmiştir. 17 Haziran 2015'te Ankara'da vefat etmiştir.",
+    "legacy": "Türkiye'nin 7 kez Başbakanlık yapmış, 'Çoban Sülü' lakaplı efsanevi bir siyasetçidir.",
+    "achievements": [
+      "7 kez Başbakanlık (dünya rekoru)",
+      "9. Cumhurbaşkanlığı",
+      "Adalet Partisi'nin kuruluşu"
+    ],
+    "keyEvents": [
+      {
+        "year": "1965",
+        "title": "İlk Başbakanlık",
+        "description": "Adalet Partisi iktidarı."
+      },
+      {
+        "year": "1971",
+        "title": "12 Mart Muhtırası",
+        "description": "Askeri muhtıra sonrası görevden alındı."
+      },
+      {
+        "year": "1993",
+        "title": "Cumhurbaşkanlığı",
+        "description": "9. Cumhurbaşkanı seçildi."
+      }
+    ],
+    "predecessor": "Turgut Özal",
+    "successor": "Ahmet Necdet Sezer",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Baba, bu milletin gönlündeki yerini kazandı. Köprüler, barajlar, fabrikalar; Türkiye'nin gelişiminin sembolleridir.",
+      "source": "Süleyman Demirel"
+    }
+  },
+  {
+    "id": "cumhuriyet-sezer",
+    "order": 10,
+    "name": "Ahmet Necdet Sezer",
+    "title": "10. Cumhurbaşkanı / Yargıtay Başkanı",
+    "period": "2000 - 2007",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Modern",
+    "image": "/images/huk-sezer.jpg",
+    "description": "Türkiye'nin ilk sivil ve laik Cumhurbaşkanı. Yargıtay Başkanlığı'ndan Cumhurbaşkanı seçildi.",
+    "fullBio": "Ahmet Necdet Sezer (1941-), Türkiye Cumhuriyeti'nin 10. Cumhurbaşkanıdır. 1941 yılında Afyonkarahisar'da doğmuş, Ankara Üniversitesi Hukuk Fakültesi'ni bitirmiştir. 1996 yılında Yargıtay Başkanlığına atanmıştır. Laiklik ilkesinin güçlü savunucusu olarak tanınmıştır. 5 Mayıs 2000'de TBMM tarafından 10. Cumhurbaşkanı seçilmiştir. Cumhurbaşkanlığı döneminde 2001 ekonomik krizi yaşanmıştır. 2007 yılında görev süresi sona ermiştir.",
+    "legacy": "Laiklik ilkesinin güçlü savunucusu olarak Türkiye'nin laik-demokratik geleneğinin önemli temsilcisidir.",
+    "achievements": [
+      "İlk sivil kökenli Cumhurbaşkanı",
+      "Laikliğin savunucusu"
+    ],
+    "keyEvents": [
+      {
+        "year": "2000",
+        "title": "Cumhurbaşkanlığı",
+        "description": "5 Mayıs. 10. Cumhurbaşkanı seçildi."
+      },
+      {
+        "year": "2001",
+        "title": "Ekonomik Kriz",
+        "description": "Şubat krizi."
+      }
+    ],
+    "predecessor": "Süleyman Demirel",
+    "successor": "Abdullah Gül",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Hukukun üstünlüğü, demokrasinin olmazsa olmazıdır. Laiklik, Türkiye Cumhuriyeti'nin temel direğidir.",
+      "source": "Ahmet Necdet Sezer"
+    }
+  },
+  {
+    "id": "cumhuriyet-gul",
+    "order": 11,
+    "name": "Abdullah Gül",
+    "title": "11. Cumhurbaşkanı / Dışişleri Bakanı / Başbakan",
+    "period": "2007 - 2014",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Modern",
+    "image": "/images/huk-gul.jpg",
+    "description": "AK Parti'nin kurucularından, Türkiye'nin 11. Cumhurbaşkanı. Dış politikada 'komşularla sıfır sorun' vizyonunun mimarı.",
+    "fullBio": "Abdullah Gül (1950-), Türkiye Cumhuriyeti'nin 11. Cumhurbaşkanıdır. 1950 yılında Kayseri'de doğmuş, İstanbul Üniversitesi İktisat Fakültesi'ni bitirdikten sonra doktorasını İngiltere'de tamamlamıştır. 2001 yılında AK Parti'yi kurmuştur. 2002-2003 arasında Başbakanlık, 2003-2007 arasında Dışişleri Bakanlığı yapmıştır. Dışişleri Bakanlığı döneminde 'komşularla sıfır sorun' politikasını başlatmıştır. 2007 yılında 11. Cumhurbaşkanı seçilmiştir.",
+    "legacy": "AK Parti'nin kurucularından ve Türkiye'nin demokratikleşme sürecinde önemli rol oynayan devlet adamı.",
+    "achievements": [
+      "AK Parti'nin kuruluşu",
+      "11. Cumhurbaşkanlığı",
+      "Komşularla sıfır sorun politikası"
+    ],
+    "keyEvents": [
+      {
+        "year": "2007",
+        "title": "Cumhurbaşkanlığı",
+        "description": "11. Cumhurbaşkanı seçildi."
+      }
+    ],
+    "predecessor": "Ahmet Necdet Sezer",
+    "successor": "Recep Tayyip Erdoğan",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Demokrasi, uzlaşma ve istikrar içinde gelişir. Türkiye, köprü görevini yerine getiren bir ülkedir.",
+      "source": "Abdullah Gül"
+    }
+  },
+  {
+    "id": "cumhuriyet-erdogan",
+    "order": 12,
+    "name": "Recep Tayyip Erdoğan",
+    "title": "12. Cumhurbaşkanı / 3 kez Başbakan",
+    "period": "2014 - Günümüz",
+    "dynasty": "Türkiye Cumhuriyeti",
+    "dynastyId": "cumhuriyet-cb",
+    "era": "Modern",
+    "image": "/images/huk-erdogan.jpg",
+    "description": "Türkiye'nin 12. ve mevcut Cumhurbaşkanı. 2003-2014 arası 3 kez Başbakanlık yaptı. Türkiye'nin en uzun süre görev yapan lideri.",
+    "fullBio": "Recep Tayyip Erdoğan (1954-), Türkiye Cumhuriyeti'nin 12. ve mevcut Cumhurbaşkanıdır. 1954 yılında İstanbul'da doğmuş, İmam Hatip Lisesi ve Marmara Üniversitesi'ni bitirmiştir. 1994 yılında İstanbul Büyükşehir Belediye Başkanı seçilmiştir. 2001 yılında AK Parti'yi kurmuş, 2002 seçimlerinde zafer kazanarak 2003 yılında Başbakan olmuştur. 2003-2014 arasında 3 kez Başbakanlık yapmıştır. 2014 yılında doğrudan halk oylamasıyla Cumhurbaşkanı seçilmiş, 2018 ve 2023 yıllarında tekrar seçilerek görevini sürdürmektedir.",
+    "legacy": "Türkiye'nin en uzun süre görev yapan lideri olarak ülkenin siyasi ve ekonomik yapısında derin değişikliklere yol açmıştır.",
+    "achievements": [
+      "3 kez Başbakanlık",
+      "12. Cumhurbaşkanlığı",
+      "Cumhurbaşkanlığı Hükümet Sistemi"
+    ],
+    "keyEvents": [
+      {
+        "year": "2003",
+        "title": "Başbakanlık",
+        "description": "AK Parti iktidarı."
+      },
+      {
+        "year": "2014",
+        "title": "Cumhurbaşkanlığı",
+        "description": "Halk oylamasıyla seçildi."
+      },
+      {
+        "year": "2016",
+        "title": "15 Temmuz Darbe Girişimi",
+        "description": "FETÖ darbe girişimi bastırıldı."
+      }
+    ],
+    "predecessor": "Abdullah Gül",
+    "successor": "Hanedan sona erdi / Bilinmiyor",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Dünya beşten büyüktür. Bu millet, yeni bir yüzyıla demokrasi ve kalkınma ile giriyor. Türkiye Yüzyılı, milletimizin vizyonudur.",
+      "source": "Recep Tayyip Erdoğan"
+    }
+  }
+]

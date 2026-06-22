@@ -1,0 +1,385 @@
+[
+  {
+    "id": "ilhanli-hulagu",
+    "order": 1,
+    "name": "Hülagü Han",
+    "title": "İlhanlı Devleti Kurucusu",
+    "period": "M.S. 1256 - 1265",
+    "dynasty": "İlhanlılar",
+    "dynastyId": "ilhanli",
+    "era": "Orta Çağ",
+    "image": "/images/huk-ilhanli-hulagu.jpg",
+    "description": "Moğol İmparatorluğu'nun batı kolunu kurdu. 1258'de Bağdat'ı yağmalayarak Abbasi Halifeliği'ni sona erdirdi. Memlukler'e karşı Ayn Calut'da yenildi.",
+    "fullBio": "Hülagü Han (1218-1265), İlhanlı Devleti'nin kurucusu ve Cengiz Han'ın torunudur. Moğol İmparatoru Möngke'nin kardeşi olarak İran ve Ortadoğu'yu fethetmekle görevlendirildi. 1256'da Alamut Kalesi'ni alarak Haşhaşiler'i (Nizari İsmaililer) yıktı. 10 Şubat 1258'de Bağdat'ı kuşatıp yağmalayarak 500 yıllık Abbasi Halifeliği'ni sona erdirdi. Halife Müste'sım Billah'ı idam ettirdi. Bu olay İslam dünyasında büyük şok yarattı. 1260'ta Suriye'ye ilerleyip Halep ve Şam'ı aldı ancak 3 Eylül 1260'ta Mısır Memlukleri'ne karşı Ayn Calut Muharebesi'nde ağır yenilgi aldı. Bu yenilgi Moğol ilerleyişinin durdurulduğu ilk büyük muharebedir. Hülagü, 1265'e kadar İran, Irak, Anadolu ve Kafkasya'da hüküm sürdü. Onun kurduğu devlet, batıdaki Moğol Hanedanı (Altın Orda) ve doğudaki Yuan Hanedanı'ndan bağımsız olarak hüküm sürdü.",
+    "legacy": "Bağdat'ı yıkarak Abbasi Halifeliği'ni sona erdiren, İlhanlı Devleti'ni kuran Moğol hükümdarıdır. Ayn Calut yenilgisi Moğol yayılmacılığının durdurulduğu ilk büyük zaferdir.",
+    "achievements": [
+      "İlhanlı Devleti'ni kurdu (1256)",
+      "Haşhaşiler'i (Nizari İsmaililer) yıktı (1256)",
+      "Bağdat'ı fethetti, Abbasi Halifeliği'ni sona erdirdi (1258)",
+      "Halep ve Şam'ı aldı (1260)",
+      "İran, Irak, Anadolu ve Kafkasya'da hüküm sürdü"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1256",
+        "title": "İlhanlı Devleti'nin Kuruluşu",
+        "description": "Möngke'nin emriyle İran ve Ortadoğu'yu fethetmek üzere görevlendirildi."
+      },
+      {
+        "year": "M.S. 1256",
+        "title": "Haşhaşiler'in Yıkılması",
+        "description": "Alamut Kalesi'ni alarak Nizari İsmaililer'i yıktı."
+      },
+      {
+        "year": "M.S. 1258 (10 Şubat)",
+        "title": "Bağdat'ın Düşüşü ve Abbasi Sonu",
+        "description": "Bağdat yağmalandı, Halife Müste'sım Billah idam edildi, 500 yıllık Abbasi Halifeliği sona erdi."
+      },
+      {
+        "year": "M.S. 1260",
+        "title": "Suriye Seferi",
+        "description": "Halep ve Şam alındı."
+      },
+      {
+        "year": "M.S. 1260 (3 Eylül)",
+        "title": "Ayn Calut Yenilgisi",
+        "description": "Memlukler'e karşı ağır yenilgi, Moğol ilerleyişi durduruldu."
+      },
+      {
+        "year": "M.S. 1265",
+        "title": "Hülagü Han'ın Ölümü",
+        "description": "İlhanlı Devleti'nin kurucusu öldü, oğlu Abaka halefi oldu."
+      }
+    ],
+    "predecessor": "Moğol İmparatorluğu hâkimiyeti",
+    "successor": "Abaka Han (oğlu)",
+    "quote": {
+      "text": "Bağdat'ın hazineleri, dünyanın gözlerini kamaştıracak kadar büyük. Ama bir halifenin kellesi, bir hazineden daha değerlidir.",
+      "source": "Hülagü Han"
+    },
+    "battles": [
+      {
+        "name": "Bağdat Kuşatması",
+        "year": "M.S. 1258",
+        "result": "victory",
+        "description": "Bağdat yağmalandı, Abbasi Halifeliği sona erdi."
+      },
+      {
+        "name": "Ayn Calut Muharebesi",
+        "year": "M.S. 1260",
+        "result": "defeat",
+        "description": "Memluklere karşı ağır yenilgi, Moğol ilerleyişi durduruldu."
+      },
+      {
+        "name": "Alamut Kalesi Fethi",
+        "year": "M.S. 1256",
+        "result": "victory",
+        "description": "Haşhaşiler'in merkezi ele geçirildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Cengiz Han",
+        "role": "Dedesi",
+        "description": "Moğol İmparatorluğu'nun kurucusu, Hülagü'nün dedesi."
+      },
+      {
+        "name": "Möngke Kağan",
+        "role": "Ağabeyi / Moğol İmparatoru",
+        "description": "Moğol İmparatoru, Hülagü'yü batıya fethetmekle görevlendirdi."
+      },
+      {
+        "name": "Halife Müste'sım Billah",
+        "role": "Abbasi Halifesi / Mağlup",
+        "description": "Son Abbasi Halifesi, Bağdat düşerken idam edildi."
+      },
+      {
+        "name": "Kutuz",
+        "role": "Memluk Sultanı / Galip",
+        "description": "Ayn Calut'ta Hülagü'yü yenilgiye uğratan Memluk Sultanı."
+      },
+      {
+        "name": "Baybars",
+        "role": "Memluk Komutanı / Galip",
+        "description": "Ayn Calut muharebesinde Memluk ordusunu yöneten efsanevi komutan."
+      }
+    ]
+  },
+  {
+    "id": "ilhanli-abaka",
+    "order": 2,
+    "name": "Abaka Han",
+    "title": "2. İlhanlı Hükümdarı",
+    "period": "M.S. 1265 - 1282",
+    "dynasty": "İlhanlılar",
+    "dynastyId": "ilhanli",
+    "era": "Orta Çağ",
+    "image": "/images/huk-ilhanli-abaka.jpg",
+    "description": "Babası Hülagü'nün izinden gitti. Memlukler'le savaşlara devam etti. Moğol iç savaşlarına karıştı. Anadolu'da Moğol nüfuzunu pekiştirdi.",
+    "fullBio": "Abaka Han (1234-1282), 1265-1282 arasında hüküm sürmüş, İlhanlı Devleti'nin ikinci hükümdarıdır. Babası Hülagü'den sonra tahta çıktı. Döneminde Memlukler'le sürekli çatışmalar yaşandı. 1277'de Gazi ilimlerinin hocası Seyfettin el-Belhi komutasında Memlukler'e karşı sefer düzenlendi ancak sonuçsuz kaldı. 1281'de Horuns seferi başarısız oldu. Anadolu'da Selçuklu sultanları üzerindeki Moğol kontrolünü pekiştirdi. 1277'de Pervane Muineddin Süleyman'ın ölümüyle Anadolu'da güç dengeleri değişti. Abaka, Budist olmasına rağmen Hristiyan ve Müslüman tebaasına hoşgörüyle yaklaştı. 1282'de içki içerken zehirlenerek öldüğü söylenir.",
+    "legacy": "İlhanlıların ilk dönem istikrarını sağladı. Anadolu'da Moğol nüfuzunu pekiştirdi.",
+    "achievements": [
+      "İlhanlı topraklarını korudu",
+      "Anadolu'da Moğol nüfuzunu pekiştirdi",
+      "Memlukler'le mücadele etti",
+      "Moğol iç savaşlarında taraf tuttu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1265",
+        "title": "Tahta Çıkış",
+        "description": "Babası Hülagü'den sonra İlhanlı tahtına çıktı."
+      },
+      {
+        "year": "M.S. 1277",
+        "title": "Anadolu'da Pervane Olayı",
+        "description": "Pervane Muineddin Süleyman'ın ölümüyle Anadolu'da güç dengeleri değişti."
+      },
+      {
+        "year": "M.S. 1281",
+        "title": "Horuns Seferi",
+        "description": "Memluklere karşı sefer başarısız oldu."
+      },
+      {
+        "year": "M.S. 1282",
+        "title": "Abaka Han'ın Ölümü",
+        "description": "İçki içerken zehirlenerek öldüğü söylenir."
+      }
+    ],
+    "predecessor": "Hülagü Han (babası)",
+    "successor": "Ahmed Teküder (kardeşi)",
+    "quote": {
+      "text": "Memlukler, Moğol kılıcının önünde duran tek duvardır. Bu duvarı yıkmak zorundayız.",
+      "source": "Abaka Han"
+    },
+    "battles": [
+      {
+        "name": "Horuns Muharebesi",
+        "year": "M.S. 1281",
+        "result": "defeat",
+        "description": "Memluklere karşı sefer başarısız oldu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Hülagü Han",
+        "role": "Babası, Kurucu",
+        "description": "İlhanlı Devleti'nin kurucusu."
+      },
+      {
+        "name": "Pervane Muineddin Süleyman",
+        "role": "Anadolu Emiri",
+        "description": "Anadolu'da Moğol-Selçuklu ilişkilerinde önemli figür."
+      }
+    ]
+  },
+  {
+    "id": "ilhanli-gazan",
+    "order": 3,
+    "name": "Gazan Han (Mahmud Gazan)",
+    "title": "İslam'ı Kabul Eden Reformcu İlhanlı",
+    "period": "M.S. 1295 - 1304",
+    "dynasty": "İlhanlılar",
+    "dynastyId": "ilhanli",
+    "era": "Orta Çağ",
+    "image": "/images/huk-ilhanli-gazan.jpg",
+    "description": "İlhanlıların en büyük hükümdarı. 1295'te İslam'ı kabul etti. Rashid al-Din'i vezir yaparak büyük reformlar gerçekleştirdi. Moğol yasalarını İslam hukukuyla birleştirdi.",
+    "fullBio": "Gazan Han (1271-1304), 1295-1304 arasında hüküm sürmüş, İlhanlıların en büyük hükümdarı ve devleti dönüştüren reformcu hükümdardır. 16 Kasım 1295'te İslam'ı resmen kabul etti, adını Mahmud koydu. Bu, İlhanlı Devleti'nin dönüm noktasıdır; Moğol yönetimi Müslümanlaştı. Büyük devlet adamı ve bilgin Rashid al-Din'i vezirliğe getirerek büyük reformlar gerçekleştirdi. 1298'de Moğol yasalarını (Yasa) İslam hukukuyla birleştiren yeni bir kanunname hazırlattı. Tarım, ticaret ve sanayi desteklendi. Medreseler, camiler, kervansaraylar inşa ettirildi. Tahrir defterleri ( nüfus ve arazi kayıtları) tutturarak vergi sistemini düzenledi. 1303'te Memluklere karşı son büyük sefer düzenlendi ancak Şam önlerinde durduruldu. Gazan'ın reformları, İlhanlıların İran'da yerleşik bir Müslüman devlete dönüşmesini sağladı. 1304'te vefat etti.",
+    "legacy": "İslam'ı kabul ederek İlhanlıları Müslüman bir devlete dönüştürdü. Rashid al-Din ile birlikte büyük reformlar gerçekleştirdi.",
+    "achievements": [
+      "İslam'ı resmen kabul etti (1295)",
+      "Rashid al-Din'i vezirliğe getirdi",
+      "Moğol yasalarını İslam hukukuyla birleştirdi",
+      "Vergi ve tarım reformları yaptı",
+      "Tahrir defterleri tutturdu",
+      "Medreseler ve camiler inşa ettirdi",
+      "İlhanlıları Müslüman devlete dönüştürdü"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1295 (16 Kasım)",
+        "title": "İslam'ı Kabul",
+        "description": "İslam'ı resmen kabul etti, adını Mahmud koydu. İlhanlıların dönüm noktası."
+      },
+      {
+        "year": "M.S. 1298",
+        "title": "Büyük Reformlar",
+        "description": "Rashid al-Din ile birlikte Moğol-İslam hukuku birleştirildi, vergi sistemi düzenlendi."
+      },
+      {
+        "year": "M.S. 1303",
+        "title": "Son Memluk Seferi",
+        "description": "Memluklere karşı son büyük sefer, Şam önlerinde durduruldu."
+      },
+      {
+        "year": "M.S. 1304",
+        "title": "Gazan Han'ın Ölümü",
+        "description": "Büyük reformcu hükümdar öldü."
+      }
+    ],
+    "predecessor": "Baydu (amcası oğlu)",
+    "successor": "Ölceytü (Oljeitu) (kardeşi)",
+    "quote": {
+      "text": "İslam, adaletin dinidir. Moğol yasaları güçlüydü ama İslam, kalpleri fetheder.",
+      "source": "Gazan Han, İslam'ı kabul ederken"
+    },
+    "battles": [
+      {
+        "name": "Marsus Muharebesi",
+        "year": "M.S. 1303",
+        "result": "defeat",
+        "description": "Memluklere karşı son büyük sefer, Şam önlerinde durduruldu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Rashid al-Din",
+        "role": "Vezir / Bilgin",
+        "description": "Gazan'ın büyük vezir, doktor ve tarihçisi. 'Cami' al-Tawarikh'ın yazarı."
+      },
+      {
+        "name": "Hülagü Han",
+        "role": "Dedesi",
+        "description": "İlhanlı Devleti'nin kurucusu."
+      },
+      {
+        "name": "Baydu",
+        "role": "Önceki Hükümdar / Amcası Oğlu",
+        "description": "Gazan'dan önce kısa süreli hüküm süren İlhanlı hükümdarı."
+      }
+    ]
+  },
+  {
+    "id": "ilhanli-olceytu",
+    "order": 4,
+    "name": "Ölceytü (Oljeitu / Muhammed Hudabende)",
+    "title": "Şiiliği Destekleyen Bilim Hamisi İlhanlı",
+    "period": "M.S. 1304 - 1316",
+    "dynasty": "İlhanlılar",
+    "dynastyId": "ilhanli",
+    "era": "Orta Çağ",
+    "image": "/images/huk-ilhanli-olceytu.jpg",
+    "description": "Sultaniyye'de büyük başkent kuran, Şii mezhebini resmen destekleyen, gökbilimci ve bilim hamisi İlhanlı hükümdarı.",
+    "fullBio": "Ölceytü (1280-1316), 1304-1316 arasında hüküm sürmüş, Gazan'ın kardeşi ve İlhanlıların dördüncü büyük hükümdarıdır. 1304'te tahta çıktı. 1306'da Sultaniyye'yi (İran'ın Zanjan ili) yeni başkent yaptırdı, muhteşem bir saray ve şehir inşa ettirdi. 1310'da Şii mezhebini resmen devlet mezhebi ilan etti, bu karar Sünnilerin tepkisini çekti ancak İran'ın Şileşmesinde önemli rol oynadı. Rashid al-Din'i vezirliğe getirdi ve 'Cami' al-Tawarikh' (Tarihlerin Toplamı) adlı dünyanın en büyük tarih ansiklopedisinin yazımını destekledi. 1313'te Memlukler'le barış antlaşması imzaladı. Gökbilim ilmine büyük ilgi duydu, gözlemevi kurdu. 1316'da vefat etti. Mezarı Sultaniyye'de Oljeitu Kümbeti olarak hala ziyaret edilmektedir.",
+    "legacy": "Sultaniyye başkentini kurdu, Şiiliği resmen destekledi, bilim ve sanata büyük destek verdi.",
+    "achievements": [
+      "Sultaniyye'yi başkent yaptı (1306)",
+      "Şii mezhebini resmen destekledi (1310)",
+      "'Cami' al-Tawarikh' ansiklopedisini destekledi",
+      "Rashid al-Din'i vezir yaptı",
+      "Gözlemevi kurdu",
+      "Memlukler'le barış imzaladı (1313)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1304",
+        "title": "Tahta Çıkış",
+        "description": "Gazan'ın kardeşi olarak İlhanlı tahtına çıktı."
+      },
+      {
+        "year": "M.S. 1306",
+        "title": "Sultaniyye Başkent",
+        "description": "Yeni başkent Sultaniyye kuruldu."
+      },
+      {
+        "year": "M.S. 1310",
+        "title": "Şii Mezhebi Resmi Destek",
+        "description": "Şiiliği devlet mezhebi ilan etti."
+      },
+      {
+        "year": "M.S. 1313",
+        "title": "Memluk Barışı",
+        "description": "Memlukler'le barış antlaşması imzalandı."
+      },
+      {
+        "year": "M.S. 1316",
+        "title": "Ölceytü'nün Ölümü",
+        "description": "Sultaniyye'de vefat etti."
+      }
+    ],
+    "predecessor": "Gazan Han (kardeşi)",
+    "successor": "Ebu Said (oğlu)",
+    "quote": {
+      "text": "Sultaniyye, Moğol gücünün ve İslam bilgeliğinin birleşeceği yeni bir Roma olacaktır.",
+      "source": "Ölceytü"
+    },
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Rashid al-Din",
+        "role": "Vezir / Tarihçi",
+        "description": "'Cami' al-Tawarikh' ansiklopedisinin yazarı, Ölceytü'nün vezir."
+      },
+      {
+        "name": "Gazan Han",
+        "role": "Kardeşi, Önceki Hükümdar",
+        "description": "İslam'ı kabul eden büyük reformcu İlhanlı hükümdarı."
+      }
+    ]
+  },
+  {
+    "id": "ilhanli-ebu-said",
+    "order": 5,
+    "name": "Ebu Said Bahadır Han",
+    "title": "Son Büyük İlhanlı Hükümdarı",
+    "period": "M.S. 1316 - 1335",
+    "dynasty": "İlhanlılar",
+    "dynastyId": "ilhanli",
+    "era": "Orta Çağ",
+    "image": "/images/huk-ilhanli-ebu-said.jpg",
+    "description": "İlhanlıların son büyük hükümdarı. 19 yıl hüküm sürdü. Rashid al-Din'in idam ettirilmesiyle ünlü. 1335'te ölümüyle İlhanlılar parçalandı.",
+    "fullBio": "Ebu Said (1305-1335), 1316-1335 arasında 19 yıl hüküm sürmüş, İlhanlıların son büyük ve son hükümdarıdır. Henüz 11 yaşında tahta çıktığı için ilk yıllar karargâh (kurultay) tarafından yönetildi. 1318'de emir Çoban'ın etkisiyle ünlü vezir Rashid al-Din idam ettirildi, serveti müsadere edildi. Bu, İlhanlıların en büyük hata ve hazinelerinden biri olarak görülür. 1327'de emir Çoban'ın etkisinden kurtularak kendi yönetimini kurdu. Anadolu'da Osmanlı Beyliği'nin yükselişine tanık oldu. 1335'te karısının ölümü üzerine büyük üzüntüye düştü, bir gece ansızın vefat etti. Ölümünden sonra İlhanlı Devleti oğul bırakmadığı için parçalandı; Celayirler, Cobaniler, İnkâriler ve Serbedarlar gibi küçük beyliklere ayrıldı.",
+    "legacy": "İlhanlıların son hükümdarı. Rashid al-Din'in idamıyla devletin bilgi birikiminin büyük kaybına yol açtı.",
+    "achievements": [
+      "19 yıl hüküm sürdü - en uzun İlhanlı hükümdarlığı",
+      "Emir Çoban'ın etkisinden kurtuldu (1327)",
+      "Kendi yönetimini kurdu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1316",
+        "title": "11 Yaşında Tahta Çıkış",
+        "description": "Babası Ölceytü'nün ölümüyle küçük yaşta tahta çıktı."
+      },
+      {
+        "year": "M.S. 1318",
+        "title": "Rashid al-Din'in İdamı",
+        "description": "Büyük vezir ve bilgin Rashid al-Din idam ettirildi - İlhanlıların en büyük kaybı."
+      },
+      {
+        "year": "M.S. 1327",
+        "title": "Bağımsız Yönetim",
+        "description": "Emir Çoban'ın etkisinden kurtularak kendi yönetimini kurdu."
+      },
+      {
+        "year": "M.S. 1335",
+        "title": "Ebu Said'in Ölümü ve İlhanlıların Sonu",
+        "description": "Ölümüyle İlhanlılar parçalandı."
+      }
+    ],
+    "predecessor": "Ölceytü (babası)",
+    "successor": "Hanedan sona erdi / Celayirler, Cobaniler",
+    "quote": {
+      "text": "Rashid al-Din'in kellesi, bir hazineden pahalıya mal oldu. Bilgi, altından değerlidir.",
+      "source": "Ebu Said, Rashid al-Din'in idamından sonra söylenen"
+    },
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Rashid al-Din",
+        "role": "Vezir / Kurban",
+        "description": "'Cami' al-Tawarikh' yazarı, Ebu Said döneminde idam edildi."
+      },
+      {
+        "name": "Emir Çoban",
+        "role": "Emir / Vesayet",
+        "description": "Ebu Said'in ilk yıllarında vesayet kuran güçlü emir."
+      },
+      {
+        "name": "Ölceytü",
+        "role": "Babası",
+        "description": "Sultaniyye'yi başkent yapan İlhanlı hükümdarı."
+      }
+    ]
+  }
+]

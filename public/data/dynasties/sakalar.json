@@ -1,0 +1,114 @@
+[
+  {
+    "id": "saka-tomris",
+    "name": "Tomris (Tomyris)",
+    "title": "Massaget Kraliçesi",
+    "period": "M.Ö. 530 - M.Ö. 520",
+    "dynasty": "Sakalar (Massagetler)",
+    "description": "Dünya tarihinin en güçlü kadın komutanlarından biri, Pers İmparatoru Büyük Kiros'u Sır Derya kıyısında yenerek öldüren Massaget kraliçesi.",
+    "smallBio": "Pers İmparatoru Büyük Kiros'u yenen, efsanevi Massaget kadın hükümdarı.",
+    "fullBio": "Tomris (Tomyris), M.Ö. 530 civarında güney Kazakistan ve kuzey Türkmenistan steplerinde hüküm sürmüş, Massaget (Büyük Sakalar) kabilesinin kadın hükümdarıdır. Dünya tarihinin en güçlü kadın komutanlarından biridir.\n\nM.Ö. 530'da Pers İmparatoru Büyük Kiros (Kyros), Massaget topraklarını fethetmek için sefer düzenledi. Kiros önce Tomris'in oğlu Spargapises'i aldatıcı bir barış ziyafetinde sarhoş ederek esir aldı. Genç prens utancından kendini öldürdü.\n\nOğlunun ölüm haberini alan Tomris, Kiros'a meşhur mesajını gönderdi: 'Kan doymamışsın. Beni yenmekle yetinmeyecek, oğlumu da aldattın. Gelin, kanla doyurayım seni.'\n\nTomris, Kiros'a açık meydan muharebesi teklif etti. Kiros bunu kabul etti. Sır Derya (Jeyhun) kıyısında yapılan savaşta, Tomris ordusunun üçte birini geri çekti. Kiros bunu kaçış sandı ve peşinden gitti. Geri kalan Massaget süvarileri iki kanattan çevreleyip Pers ordusunu tamamen imha etti.\n\nKiros savaşta öldü. Tomris, onun cesedini arattırdı. Bulununca, önce oğlunun başının kesildiği kılıcı aldı ve Kiros'un başını bir şarap tulumuna koydu. Tulumu taşıyıp Massaget komutanlarına şöyle dedi: 'Sana doydum, dedim ya. İşte seni kanla doyuruyorum. Hani kanla doyurmak istiyordun.'\n\nHerodot bu olayı 'Tarih' eserinde ayrıntılı olarak aktarmış, Tomris'i oğlunu kutsal bir öfkeyle öven büyük bir ana olarak tasvir etmiştir.\n\nTomris'in zaferi, Türk kadınının tarihteki en görkemli askeri başarılarından biridir.",
+    "achievements": [
+      "Büyük Kiros'u yenerek öldürme (M.Ö. 530)",
+      "Pers İmparatorluğu'na en büyük yenilgiyi tattırma",
+      "Türk kadın hükümdarlık geleneğinin ilk büyük örneği"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.Ö. 530",
+        "title": "Kiros'un Esir Aldığı Oğul Spargapises",
+        "description": "Kiros, Tomris'in oğlu Spargapises'i aldatarak esir aldı. Genç prens utancından kendini öldürdü."
+      },
+      {
+        "year": "M.Ö. 530",
+        "title": "Sır Derya Muharebesi",
+        "description": "Tomris'in ordusu, Kiros'un Pers ordusunu Sır Derya kıyısında tamamen imha etti. Kiros öldü."
+      }
+    ],
+    "battles": [
+      {
+        "name": "Sır Derya Muharebesi (Syr Darya)",
+        "year": "M.Ö. 530",
+        "result": "victory",
+        "description": "Tomris'in Massaget ordusu, Büyük Kiros'un Pers ordusunu tamamen imha etmiş, Kiros savaşta ölmüştür. Dünya tarihinin en büyük yenilgilerinden biri olmuştur."
+      }
+    ],
+    "quote": {
+      "text": "Sana doyurayım dedim ya... İşte seni kanla doyuruyorum.",
+      "source": "Tomris, Kiros'un cesedine (M.Ö. 530)"
+    },
+    "legacy": "Tomris, Türk tarihinin en büyük kadın hükümdarıdır. Dünyanın en büyük imparatorlarından birini yenmiş, oğlunun intikamını almıştır. Onun hikayesi, Türk kadınının gücünün ve kararlılığının sembolüdür.",
+    "relatedPeople": [
+      {
+        "name": "Büyük Kiros (Kyros)",
+        "role": "Pers İmparatoru",
+        "description": "Pers İmparatorluğu'nun kurucusu (M.Ö. 559-530). Tomris'e karşı savaşarak ölmüştür."
+      },
+      {
+        "name": "Spargapises",
+        "role": "Massaget Prensi (Oğlu)",
+        "description": "Tomris'in oğlu. Kiros tarafından aldatılarak esir alınmış, utancından kendini öldürmüştür."
+      },
+      {
+        "name": "Herodot",
+        "role": "Tarihçi",
+        "description": "Tomris hikayesini 'Tarih' eserinde ayrıntılı olarak aktarmıştır (M.Ö. 440)."
+      }
+    ],
+    "predecessor": "Bilinmiyor",
+    "successor": "Bilinmiyor",
+    "dynastyId": "sakalar",
+    "order": 1,
+    "image": "/images/huk-saka-tomris.jpg"
+  },
+  {
+    "id": "saka-kabileleri",
+    "name": "Saka Kabile Konfederasyonu",
+    "title": "Saka Liderleri",
+    "period": "M.Ö. 600 - M.S. 100",
+    "dynasty": "Sakalar",
+    "description": "M.Ö. 600'den M.S. 100'e kadar Orta Asya'da egemen olan, hayvan üslubu sanatının yaratıcıları Saka kabilelerinin konfederasyon liderleri.",
+    "smallBio": "Orta Asya steplerinde yüzyıllar boyunca hüküm süren Saka kabilelerinin liderleri.",
+    "fullBio": "Sakalar (Saka), İskitlerin Orta Asya'daki koludur. Pers kaynaklarında 'Saka', Yunan kaynaklarında 'Asya İskitleri' olarak anılırlar. M.Ö. 600'den M.S. 100'e kadar Orta Asya'da önemli bir güç olmuşlardır.\n\nSakalar üç ana gruba ayrılırdı:\n1. Haumavarga Sakaları (Bugünkü Özbekistan bölgesi)\n2. Tigraxauda Sakaları (Bugünkü Kazakistan güneyi)\n3. Paradraya Sakaları (Kuzey Karadeniz ve Kafkasya)\n\nSakalar, Pers İmparatorluğu ile uzun süreli mücadeleler vermişlerdir. I. Darius (M.Ö. 522-486), Sakalara karşı sefer düzenlemiş fakat tam bir başarı elde edememiştir.\n\nM.Ö. 2. yüzyılda bazı Saka grupları güneye doğru göç ederek Hindistan'a ulaşmışlardır. İndo-Sakalar (Indo-Scythians) olarak bilinen bu gruplar, bugünkü Pakistan ve kuzeybatı Hindistan'da hüküm sürmüşlerdir.\n\nSakaların en önemli kültürel katkısı, hayvan üslubunda sanat (Animal Style) olarak bilinen benzersiz sanat tarzıdır. Bu tarz, sonraki Türk sanatının temelini oluşturmuştur.",
+    "achievements": [
+      "Orta Asya'da yüzyıllar boyunca egemenlik",
+      "Saka-Pers savaşlarında direniş",
+      "İndo-Saka krallıklarının kurulması (M.Ö. 2. yy.)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.Ö. 520",
+        "title": "Darius'un Saka Seferi",
+        "description": "I. Darius, Sakalara karşı sefer düzenlemiş fakat tam başarı elde edememiştir."
+      },
+      {
+        "year": "M.Ö. 100 - M.S. 100",
+        "title": "İndo-Saka Krallıkları",
+        "description": "Sakaların bir kısmı Hindistan'a göç ederek Pencap ve Sind bölgesinde krallıklar kurmuştur."
+      }
+    ],
+    "battles": [],
+    "quote": {
+      "text": "",
+      "source": ""
+    },
+    "legacy": "Sakalar, Türk halkının Orta Asya'daki en önemli atalarındandır. Hayvan üslubu sanatı, sonraki Türk medeniyetlerinin sanatsal temelini oluşturmuştur. İsko-Saka bağlantıları da Türk dünyasının geniş coğrafyadaki etkisini gösterir.",
+    "relatedPeople": [
+      {
+        "name": "I. Darius",
+        "role": "Pers İmparatoru",
+        "description": "M.Ö. 520'de Sakalara karşı sefer düzenlemiştir."
+      },
+      {
+        "name": "Maues",
+        "role": "İndo-Saka Kralı",
+        "description": "M.Ö. 85-60 arasında hüküm sürmüş, Sakaların Hindistan'daki en önemli kralıdır."
+      }
+    ],
+    "predecessor": "Bilinmiyor",
+    "successor": "Bilinmiyor",
+    "dynastyId": "sakalar",
+    "order": 2,
+    "image": "/images/huk-saka-kabile.jpg"
+  }
+]

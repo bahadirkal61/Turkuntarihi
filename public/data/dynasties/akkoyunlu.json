@@ -1,0 +1,887 @@
+[
+  {
+    "id": "karakoyunlu-bayram-khwaja",
+    "order": 1,
+    "name": "Bayram Khwaja",
+    "title": "Karakoyunlu Beyliği Kurucusu",
+    "period": "M.S. 1374 - 1380",
+    "dynasty": "Karakoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karakoyunlu-bayram.jpg",
+    "description": "Karakoyunlu Beyliği'nin kurucusu. Van Gölü çevresinde Siyah Koyunlu bayrağı altında Türkmen boylarını birleştiren ilk bey.",
+    "fullBio": "Bayram Khwaja (öl. 1380), Karakoyunlu Beyliği'nin kurucusu ve ilk beyidir. 1374'te Doğu Anadolu'da, özellikle Van Gölü çevresinde Siyah Koyunlu (Karakoyunlu) bayrağı altında Türkmen boylarını birleştirerek bağımsız bir beylik kurdu. Akkoyunluların (Beyaz Koyunlu) rakibi olarak ortaya çıktı. Döneminde Karakoyunlular, Doğu Anadolu ve Kuzeybatı İran'da önemli bir güç haline gelmeye başladı. 1380'de öldüğünde yerine kardeşi Kara Muhammed geçti.",
+    "legacy": "Karakoyunlu Beyliği'nin kurucusu, Doğu Anadolu'daki Türkmen birliğinin temsilcisi.",
+    "achievements": [
+      "Karakoyunlu Beyliği'ni kurdu (1374)",
+      "Doğu Anadolu'da Türkmen gücünü birleştirdi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1374",
+        "title": "Beyliğin Kuruluşu",
+        "description": "Van Gölü çevresinde Karakoyunlu Beyliği'ni kurdu."
+      },
+      {
+        "year": "M.S. 1380",
+        "title": "Ölüm",
+        "description": "Altı yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Devletin kurucusu",
+    "successor": "Kara Muhammed (kardeşi)",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Siyah Koyunlu bayrağı, Doğu Anadolu'nun dağlarında dalgalanacak. Biz, Türkmen boylarının birliğinin simgesiyiz.",
+      "source": "Bayram Khwaja"
+    }
+  },
+  {
+    "id": "karakoyunlu-kara-muhammed",
+    "order": 2,
+    "name": "Kara Muhammed",
+    "title": "Karakoyunlu Beyi",
+    "period": "M.S. 1380 - 1389",
+    "dynasty": "Karakoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karakoyunlu-kara-muhammed.jpg",
+    "description": "Ağabeyi Bayram Khwaja'nın ardından bey oldu. Timur tehdidi altında varlık mücadelesi verdi.",
+    "fullBio": "Kara Muhammed (öl. 1389), Bayram Khwaja'nın kardeşi ve Karakoyunlu Beyliği'nin ikinci beyidir. 1380'de ağabeyinin ölümüyle tahta çıktı. Döneminde Karakoyunlu Beyliği gücünü artırdı ancak 1386'da Timur'un batı seferi sırasında toprakları yağmalandı ve Timur'a tabi olmak zorunda kaldı. Timur'un ölümünden hemen önce bağımsızlığını ilan etmeye çalışırken 1389'da öldü.",
+    "legacy": "Karakoyunlu'nun Timur tehdidi altında varlık mücadelesi verdiği dönemin hükümdarı.",
+    "achievements": [
+      "Karakoyunlu gücünü artırdı",
+      "Timur tehdidine karşı varlık mücadelesi verdi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1380",
+        "title": "Tahta Çıkış",
+        "description": "Ağabeyi Bayram Khwaja'nın ardından bey oldu."
+      },
+      {
+        "year": "M.S. 1386",
+        "title": "Timur Baskısı",
+        "description": "Timur orduları Karakoyunlu topraklarını yağmaladı, Timur'a tabi olundu."
+      },
+      {
+        "year": "M.S. 1389",
+        "title": "Ölüm",
+        "description": "Dokuz yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Bayram Khwaja (ağabeyi)",
+    "successor": "Kara Yusuf (oğlu)",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Timur",
+        "role": "Moğol-Türk Hükümdarı / Baskı",
+        "description": "Kara Muhammed döneminde Karakoyunlu topraklarını işgal etti."
+      }
+    ],
+    "quote": {
+      "text": "Timur'un gölgesi altında yaşıyoruz, ama Siyah Koyunlu'nun koyunları bu gölgede bile otlarını bulur.",
+      "source": "Kara Muhammed"
+    }
+  },
+  {
+    "id": "akkoyunlu-karayuluk",
+    "order": 3,
+    "name": "Kara Yülük Osman",
+    "title": "Akkoyunlu Beyliği Kurucusu",
+    "period": "M.S. 1378 - 1435",
+    "dynasty": "Akkoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-akkoyunlu-karayuluk.jpg",
+    "description": "Diyarbakır merkezli Akkoyunlu Beyliği'nin kurucusu. Bayandur boyundan, Karakoyunluların rakibi.",
+    "fullBio": "Kara Yülük Osman (öl. 1435), Bayandur boyundan gelen Akkoyunlu Beyliği'nin kurucusudur. 1378'de Diyarbakır merkezli beylığini kurdu. Karakoyunlularla sürekli rekabet halinde oldu. Timur'un bölgeye gelmesiyle Timur'a tabi olmak zorunda kaldı. 57 yıl hüküm sürdü, Karakoyunlu-Akkoyunlu rekabetinin temellerini attı.",
+    "legacy": "Akkoyunlu Beyliği'nin kurucusu, Karakoyunlu-Akkoyunlu rekabetinin temelini attı.",
+    "achievements": [
+      "Akkoyunlu Beyliği'ni kurdu (1378)",
+      "Diyarbakır merkezli Türkmen beylığı tesis etti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1378",
+        "title": "Beylik Kuruluşu",
+        "description": "Diyarbakır'da Akkoyunlu Beyliği'ni kurdu."
+      },
+      {
+        "year": "M.S. 1402",
+        "title": "Timur'a Tabiyet",
+        "description": "Ankara Muharebesi sonrası Timur'a tabi oldu."
+      },
+      {
+        "year": "M.S. 1435",
+        "title": "Ölüm",
+        "description": "57 yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Devletin kurucusu",
+    "successor": "Hamza Bey (oğlu)",
+    "battles": [
+      {
+        "name": "Karakoyunlu Çatışmaları",
+        "year": "M.S. 1390'lar",
+        "result": "draw",
+        "description": "Karakoyunlularla Doğu Anadolu'da üstünlük mücadelesi verdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Timur",
+        "role": "Bölge Hakimi",
+        "description": "Kara Yülük Osman'ın tabi olduğu bölge hakimi."
+      }
+    ],
+    "quote": {
+      "text": "Beyaz Koyunlu bayrağı, Diyarbakır'ın surlarından doğan bir şafaktır. Karanlık dağlarda bile beyaz koyun yolunu bulur.",
+      "source": "Kara Yülük Osman"
+    }
+  },
+  {
+    "id": "karakoyunlu-kara-yusuf",
+    "order": 4,
+    "name": "Kara Yusuf",
+    "title": "Karakoyunlu Beyliği'nin En Güçlü Beyi",
+    "period": "M.S. 1390 - 1420",
+    "dynasty": "Karakoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karakoyunlu-kara-yusuf.jpg",
+    "description": "Karakoyunlu Beyliği'ni zirveye taşıyan, Tebriz merkezli büyük Türkmen devleti kuran en güçlü bey. Timur'dan kaçıp Mısır'a sığındı, geri dönüp imparatorluk kurdu.",
+    "fullBio": "Kara Yusuf (öl. 1420), Kara Muhammed'in oğlu ve Karakoyunlu'nun en güçlü beyidir. 1390'da tahta çıktı ancak Timur tehdidi nedeniyle 1390-1400 arasında Mısır'a sürgünde yaşadı. Timur'un 1405'teki ölümünden sonra döndü ve Karakoyunlu topraklarında tam egemenlik kurdu. Tebriz'i merkez yaptı, Doğu Anadolu, Güney Kafkasya ve Kuzeybatı İran'da geniş bir alanda hüküm sürdü. Akkoyunlular üzerinde üstünlük kurarak bölgedeki en güçlü Türkmen devleti haline geldi. 1420'de öldü.",
+    "legacy": "Karakoyunlu'nun en güçlü beyi, Tebriz merkezli büyük Türkmen devletinin kurucusu.",
+    "achievements": [
+      "Karakoyunlu Beyliği'ni zirveye taşıdı",
+      "Tebriz'i merkez haline getirdi",
+      "Akkoyunlular üzerinde üstünlük kurdu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1390",
+        "title": "Tahta Çıkış",
+        "description": "Babası Kara Muhammed'in ardından bey oldu."
+      },
+      {
+        "year": "M.S. 1390-1400",
+        "title": "Mısır Sürgünü",
+        "description": "Timur tehdidi nedeniyle Mısır'a kaçtı."
+      },
+      {
+        "year": "M.S. 1405",
+        "title": "Timur Sonrası Güçlenme",
+        "description": "Timur'un ölümünden sonra geri dönüp tam egemenlik kurdu."
+      },
+      {
+        "year": "M.S. 1420",
+        "title": "Ölüm",
+        "description": "Otuz yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Kara Muhammed (babası)",
+    "successor": "İskender (oğlu)",
+    "battles": [
+      {
+        "name": "Akkoyunlu Seferi",
+        "year": "M.S. 1410",
+        "result": "victory",
+        "description": "Akkoyunlular üzerinde askeri üstünlük kurdu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Timur",
+        "role": "Tehdit / Mısır Sürgünü Nedeni",
+        "description": "Kara Yusuf'un Mısır'a kaçmasına neden olan Timur tehdidi."
+      }
+    ],
+    "quote": {
+      "text": "Mısır'da on yıl sürgünde kaldım, Siyah Koyunlu'nun rüzgârını özledim. Tebriz'e döndüğümde anladım ki, bu topraklar benim kaderimdir.",
+      "source": "Kara Yusuf"
+    }
+  },
+  {
+    "id": "karakoyunlu-iskender",
+    "order": 5,
+    "name": "İskender",
+    "title": "Karakoyunlu Beyi",
+    "period": "M.S. 1420 - 1438",
+    "dynasty": "Karakoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karakoyunlu-iskender.jpg",
+    "description": "Kara Yusuf'un oğlu, Karakoyunlu-Akkoyunlu rekabetinin şiddetlendiği dönemde hüküm sürdü. 1438'de öldürüldü.",
+    "fullBio": "İskender (öl. 1438), Kara Yusuf'un oğlu ve Karakoyunlu'nun dördüncü beyidir. 1420'de tahta çıktı, 18 yıl hüküm sürdü. İlk yıllarda Karakoyunlu gücünü korudu ancak 1430'larda Akkoyunlu Beyliği'nin güçlenmesiyle çatışmalar arttı. Akkoyunlu lideri Kara Yülük Osman ile sürekli mücadele etti. Döneminde iç karışıklıklar başladı, otoritesi zayıfladı. 1438'de öldürüldü, yerine kardeşi Cihanşah geçti.",
+    "legacy": "Karakoyunlu-Akkoyunlu rekabetinin şiddetlendiği dönemde hüküm süren bey.",
+    "achievements": [
+      "Karakoyunlu sınırlarını genişletme çabası"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1420",
+        "title": "Tahta Çıkış",
+        "description": "Kara Yusuf'un oğlu olarak bey oldu."
+      },
+      {
+        "year": "M.S. 1430",
+        "title": "Akkoyunlu Çatışmaları",
+        "description": "Akkoyunlular ile çatışmalar arttı."
+      },
+      {
+        "year": "M.S. 1438",
+        "title": "Ölüm",
+        "description": "On sekiz yıllık hükümdarlığının ardından öldürüldü."
+      }
+    ],
+    "predecessor": "Kara Yusuf (babası)",
+    "successor": "Cihanşah (kardeşi)",
+    "battles": [
+      {
+        "name": "Akkoyunlu Sınır Savaşı",
+        "year": "M.S. 1432",
+        "result": "draw",
+        "description": "Kara Yülük Osman'la Doğu Anadolu'da sınır çatışması."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Kara Yülük Osman",
+        "role": "Akkoyunlu Kurucusu / Rakip",
+        "description": "İskender dönemindeki ana Akkoyunlu rakibi."
+      }
+    ],
+    "quote": {
+      "text": "Babam Tebriz'i bir cennet yapmıştı. Ben o cenneti korumaya çalıştım, ama Akkoyunlu'nun kurtları kapıya dayandı.",
+      "source": "İskender"
+    }
+  },
+  {
+    "id": "akkoyunlu-hamza",
+    "order": 6,
+    "name": "Hamza Bey",
+    "title": "Akkoyunlu Beyi",
+    "period": "M.S. 1435 - 1444",
+    "dynasty": "Akkoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-akkoyunlu-hamza.jpg",
+    "description": "Kara Yülük Osman'ın oğlu, Akkoyunlu Beyliği'nin kuruluş döneminde hüküm sürdü. Karakoyunlularla mücadele etti.",
+    "fullBio": "Hamza Bey (öl. 1444), Kara Yülük Osman'ın oğlu ve Akkoyunlu'nun ikinci beyidir. 1435'te babasının ölümüyle tahta çıktı. Döneminde Akkoyunlu varlığını Doğu Anadolu'da güçlendirdi, Karakoyunlularla mücadeleye devam etti. 1440'larda topraklarını genişletmeye çalışsa da hem Karakoyunlular hem de Timur kalıntıları karşısında sınırlı başarılar elde edebildi. 1444'te öldürüldü, yerine kardeşi Cihangir geçti.",
+    "legacy": "Akkoyunlu Beyliği'nin kuruluş döneminde hüküm süren bey.",
+    "achievements": [
+      "Akkoyunlu varlığını Doğu Anadolu'da güçlendirme"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1435",
+        "title": "Tahta Çıkış",
+        "description": "Kara Yülük Osman'ın oğlu olarak bey oldu."
+      },
+      {
+        "year": "M.S. 1444",
+        "title": "Ölüm",
+        "description": "Dokuz yıllık hükümdarlığının ardından öldürüldü."
+      }
+    ],
+    "predecessor": "Kara Yülük Osman (babası)",
+    "successor": "Cihangir Bey (kardeşi)",
+    "battles": [
+      {
+        "name": "Karakoyunlu Çatışması",
+        "year": "M.S. 1438",
+        "result": "defeat",
+        "description": "İskender komutasındaki Karakoyunlu ordusu karşısında zorlandı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "İskender",
+        "role": "Karakoyunlu Beyi / Rakip",
+        "description": "Hamza Bey dönemindeki ana Karakoyunlu rakibi."
+      }
+    ],
+    "quote": {
+      "text": "Babamın kurduğu bu beylik, henüz bir fidan. Onu büyütmek için Karakoyunlu fırtınalarına karşı dimdik durmalıyız.",
+      "source": "Hamza Bey"
+    }
+  },
+  {
+    "id": "akkoyunlu-cihangir",
+    "order": 7,
+    "name": "Cihangir Bey",
+    "title": "Akkoyunlu Beyi - Uzun Hasan'ın Yükselişine Zemin",
+    "period": "M.S. 1444 - 1453",
+    "dynasty": "Akkoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-akkoyunlu-cihangir.jpg",
+    "description": "Uzun Hasan'ın yükselişine zemin hazırlayan, Karakoyunlular karşısında zorlanan, ama torununu yetiştiren bey.",
+    "fullBio": "Cihangir Bey (öl. 1453), Hamza Bey'in kardeşi ve Akkoyunlu'nun üçüncü beyidir. 1444'te tahta çıktı. Döneminde Karakoyunlular karşısında zor durumda kaldı, Cihanşah karşısında önemli toprak kayıpları yaşadı. Osmanlılarla ittifak arayışlarına girdi. 1453'te yeğeni Uzun Hasan tarafından devirildi. Cihangir'in düşüşü, Akkoyunlu'da Uzun Hasan döneminin başlangıcı oldu.",
+    "legacy": "Uzun Hasan'ın yükselişine zemin hazırlayan, onu yetiştiren amca.",
+    "achievements": [
+      "Akkoyunlu Beyliği'ni Uzun Hasan'a devretti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1444",
+        "title": "Tahta Çıkış",
+        "description": "Hamza Bey'in ardından bey oldu."
+      },
+      {
+        "year": "M.S. 1453",
+        "title": "Tahttan İndirilme",
+        "description": "Yeğeni Uzun Hasan tarafından devirildi."
+      }
+    ],
+    "predecessor": "Hamza Bey (ağabeyi)",
+    "successor": "Uzun Hasan (yeğeni)",
+    "battles": [
+      {
+        "name": "Karakoyunlu Çatışması",
+        "year": "M.S. 1450",
+        "result": "defeat",
+        "description": "Cihanşah komutasındaki Karakoyunlu ordusu karşısında toprak kaybetti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Uzun Hasan",
+        "role": "Yeğeni / Halef",
+        "description": "Cihangir'i devirerek tahta çıkan, Akkoyunlu'nun en büyük hükümdarı."
+      },
+      {
+        "name": "Cihanşah",
+        "role": "Karakoyunlu Beyi / Rakip",
+        "description": "Cihangir döneminde Akkoyunlu'yu baskı altında tutan Karakoyunlu lideri."
+      }
+    ],
+    "quote": {
+      "text": "Yeğenim Uzun Hasan'ı yetiştirdim. Onun boyu benim tahtımdan uzun oldu. Belki de bu taht, onun için yapılmıştı.",
+      "source": "Cihangir Bey"
+    }
+  },
+  {
+    "id": "karakoyunlu-cihansah",
+    "order": 8,
+    "name": "Cihanşah",
+    "title": "Karakoyunlu'nun Son Büyük Beyi - Tebriz'in Hamisi",
+    "period": "M.S. 1438 - 1467",
+    "dynasty": "Karakoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karakoyunlu-cihansah.jpg",
+    "description": "Karakoyunlu'yu ikinci zirveye taşıyan, Tebriz'i İslam dünyasının en önemli kültür merkezlerinden biri yapan, Behzad'ı himaye eden sanat hamisi. Uzun Hasan'a yenilerek öldürüldü.",
+    "fullBio": "Cihanşah (öl. 1467), İskender'in kardeşi ve Karakoyunlu'nun son büyük beylik lideridir. 1438'de tahta çıkıp 29 yıl hüküm sürdü. Tebriz merkezli olarak Güney Kafkasya, İran ve Doğu Anadolu'da geniş bir alanda hüküm sürdü. Bilim ve sanatın büyük hamisiydi; ünlü ressam ve minyatür sanatçısı Behzad'ı himaye etti. Tebriz, İslam dünyasının en önemli kültür merkezlerinden biri haline geldi. 1467'de Akkoyunlu lideri Uzun Hasan ile yaptığı savaşta yenilgiye uğrayıp öldürüldü. Bu yenilgi Karakoyunlu'nun fiilen sonu oldu.",
+    "legacy": "Karakoyunlu'nun son büyük beyi, Tebriz'i kültür merkezi yapan sanat hamisi.",
+    "achievements": [
+      "Karakoyunlu Beyliği'ni ikinci zirveye taşıma",
+      "Tebriz'i kültür merkezi haline getirme",
+      "Behzad'ı himaye etme"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1438",
+        "title": "Tahta Çıkış",
+        "description": "Kardeşi İskender'in ardından Karakoyunlu beyi oldu."
+      },
+      {
+        "year": "M.S. 1450'ler",
+        "title": "Tebriz'in Altın Çağı",
+        "description": "Sarayında sanat ve kültür gelişti, Behzad yetişti."
+      },
+      {
+        "year": "M.S. 1467",
+        "title": "Uzun Hasan Savaşı ve Ölüm",
+        "description": "Akkoyunlu Uzun Hasan'a yenilerek öldürüldü, Karakoyunlu çöktü."
+      }
+    ],
+    "predecessor": "İskender (ağabeyi)",
+    "successor": "Hasan Ali (oğlu)",
+    "battles": [
+      {
+        "name": "Uzun Hasan'a Karşı Son Savaş",
+        "year": "M.S. 1467",
+        "result": "defeat",
+        "description": "Akkoyunlu Uzun Hasan'a yenilerek öldürüldü, Karakoyunlu fiilen sona erdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Behzad",
+        "role": "Ressam / Saray Sanatçısı",
+        "description": "Cihanşah'ın himayesinde yetişen, dünya minyatür sanatının en büyük ustası."
+      },
+      {
+        "name": "Uzun Hasan",
+        "role": "Akkoyunlu Lideri / Galip",
+        "description": "Cihanşah'ı yenerek Karakoyunlu'yu sona erdiren Akkoyunlu lideri."
+      }
+    ],
+    "quote": {
+      "text": "Tebriz'de sanatın ışığı parlıyor, ama Uzun Hasan'ın kılıcı bu ışığı söndürmeye geliyor. Behzad'ın fırçası, askerimin kılıcından keskin olmalıydı.",
+      "source": "Cihanşah"
+    }
+  },
+  {
+    "id": "akkoyunlu-uzun-hasan",
+    "order": 9,
+    "name": "Uzun Hasan",
+    "title": "Akkoyunlu Hükümdarı - Fatih'in Rakibi",
+    "period": "M.S. 1453 - 1478",
+    "dynasty": "Akkoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-uzun-hasan.jpg",
+    "description": "Akkoyunlu'yı büyük imparatorluk haline getiren, Karakoyunluları yıkan, 1473 Otlukbeli'nde Fatih Sultan Mehmet'e yenilen efsanevi hükümdar. Safevi hanedanının atası.",
+    "fullBio": "Uzun Hasan (1423-1478), Akkoyunlu'nun en güçlü hükümdarı ve Türk tarihinin en etkili liderlerinden biridir. Bayandur boyundan, amcası Cihangir'i devirerek 1453'te tek hükümdar oldu. Doğu Anadolu ve Kuzey Irak'ı kapsayan toprakları, Güney Kafkasya, İran'ın kuzeybatısı ve Irak'ı kontrol eden büyük bir imparatorluğa dönüştürdü. 1467'de Cihanşah'ı yenerek Karakoyunlu'yu tamamen yıktı. 1473'teki Otlukbeli Muharebesi'nde Fatih Sultan Mehmet'in ordusuyla karşı karşıya geldi ancak topçu ve tüfek birlikleri karşısında yenildi. Bu yenilgi Akkoyunlu gücünün gerilemesinin başlangıcı oldu. Venedik ve Avrupa devletleriyle ittifaklar kurarak Osmanlı'ya karşı diplomasi yürüttü. Torunu Safevi Şah İsmail, İran'da Türk egemenliğini yeniden kurdu.",
+    "legacy": "Akkoyunlu'nun en büyük hükümdarı. Otlukbeli yenilgisi Anadolu'da Osmanlı hâkimiyetinin kesinleşmesini sağladı. Torunu Şah İsmail, İran'da Safevi Devleti'ni kurdu.",
+    "achievements": [
+      "Akkoyunlu'yu büyük imparatorluk haline getirdi",
+      "Karakoyunluları yenerek yıktı (1467-1468)",
+      "Doğu Anadolu, Irak, Azerbaycan'ı kontrol altına aldı",
+      "Safevi hanedanının atası oldu (torunu Şah İsmail)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1453",
+        "title": "Tek Hükümdar Olma",
+        "description": "Amcası Cihangir'i devirerek tek hakim oldu."
+      },
+      {
+        "year": "M.S. 1467",
+        "title": "Cihanşah'ı Yenme",
+        "description": "Karakoyunlu Cihanşah'ı yenerek öldürdü."
+      },
+      {
+        "year": "M.S. 1468",
+        "title": "Karakoyunlu'nun Sonu",
+        "description": "Hasan Ali'yi yenerek Karakoyunlu Devleti'ni tamamen ortadan kaldırdı."
+      },
+      {
+        "year": "M.S. 1473 (Ağustos)",
+        "title": "Otlukbeli Muharebesi",
+        "description": "Fatih Sultan Mehmet'e yenildi, Osmanlı-Anadolu hâkimiyeti kesinleşti."
+      },
+      {
+        "year": "M.S. 1478",
+        "title": "Ölüm",
+        "description": "25 yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Cihangir Bey (amcası)",
+    "successor": "Halil Bey (oğlu)",
+    "battles": [
+      {
+        "name": "Karakoyunlu Yıkımı",
+        "year": "M.S. 1467-1468",
+        "result": "victory",
+        "description": "Cihanşah ve Hasan Ali'yi yenerek Karakoyunlu'yu tamamen yıktı."
+      },
+      {
+        "name": "Otlukbeli Muharebesi",
+        "year": "M.S. 1473",
+        "result": "defeat",
+        "description": "Fatih Sultan Mehmet'in topçu ve tüfek birlikleri karşısında yenildi, Akkoyunlu gücü geriledi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Fatih Sultan Mehmet",
+        "role": "Osmanlı Sultanı / Galip",
+        "description": "Otlukbeli'nde Uzun Hasan'ı yenen Osmanlı Sultanı."
+      },
+      {
+        "name": "Şeyh Cüneyd",
+        "role": "Safevi Tarikatı Lideri / Kayınpeder",
+        "description": "Uzun Hasan'ın kızıyla evlenen, Safevi tarikatının lideri, Şah İsmail'in dedesi."
+      },
+      {
+        "name": "Şah İsmail",
+        "role": "Torun / Safevi Kurucusu",
+        "description": "Uzun Hasan'ın torunu, Safevi Devleti'nin kurucusu."
+      }
+    ],
+    "quote": {
+      "text": "Otlukbeli'nde toplar patladığında anladım ki, kılıç artık tüfeğin önünde saygı duracak. Fatih, Anadolu'nun kaderini değiştirdi. Ama benim kanımda, İran'ı değiştirecek bir torun doğacak.",
+      "source": "Uzun Hasan"
+    }
+  },
+  {
+    "id": "karakoyunlu-hasan-ali",
+    "order": 10,
+    "name": "Hasan Ali",
+    "title": "Son Karakoyunlu Beyi",
+    "period": "M.S. 1467 - 1468",
+    "dynasty": "Karakoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-karakoyunlu-hasan-ali.jpg",
+    "description": "94 yıllık Karakoyunlu Devleti'nin son beyi. Babası Cihanşah'ın ardından sadece bir yıl tahtta kaldı, Uzun Hasan tarafından yıkıldı.",
+    "fullBio": "Hasan Ali (öl. 1468), Cihanşah'ın oğlu ve Karakoyunlu'nun son beyidir. 1467'de babasının ölümüyle tahta çıktı ancak beylik çok kötü durumdaydı. 1468'de Uzun Hasan tarafından yenilgiye uğratıldı. Karakoyunlu Beyliği resmen ortadan kaldırıldı, toprakları Akkoyunlu'ya katıldı. 1374'te kurulan Karakoyunlu Devleti, 94 yıllık varlığına son vermiştir.",
+    "legacy": "94 yıllık Karakoyunlu Devleti'nin son beyi.",
+    "achievements": [
+      "Son Karakoyunlu Beyi (1467-1468)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1467",
+        "title": "Tahta Çıkış",
+        "description": "Babası Cihanşah'ın ardından son Karakoyunlu beyi oldu."
+      },
+      {
+        "year": "M.S. 1468",
+        "title": "Karakoyunlu'nun Sonu",
+        "description": "Uzun Hasan tarafından yenilgiye uğratıldı, devlet sona erdi."
+      }
+    ],
+    "predecessor": "Cihanşah (babası)",
+    "successor": "Yok (Devlet sona erdi, topraklar Akkoyunlu'ya katıldı)",
+    "battles": [
+      {
+        "name": "Son Karakoyunlu Savaşı",
+        "year": "M.S. 1468",
+        "result": "defeat",
+        "description": "Uzun Hasan tarafından yenilgiye uğratıldı, 94 yıllık devlet sona erdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Uzun Hasan",
+        "role": "Akkoyunlu Lideri / Galip",
+        "description": "Hasan Ali'yi yenerek Karakoyunlu'yu sona erdiren."
+      }
+    ],
+    "quote": {
+      "text": "Babamın kanı henüz kurumamıştı, Uzun Hasan'ın atları Tebriz'e girdi. 94 yıllık Siyah Koyunlu rüyası, bir yılda bitti.",
+      "source": "Hasan Ali"
+    }
+  },
+  {
+    "id": "akkoyunlu-halil",
+    "order": 11,
+    "name": "Halil Bey",
+    "title": "Akkoyunlu Beyi",
+    "period": "M.S. 1478",
+    "dynasty": "Akkoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-akkoyunlu-halil.jpg",
+    "description": "Uzun Hasan'ın oğlu, babasının ardından kısa süre bey oldu. Kardeşi Ya'kub tarafından devirildi.",
+    "fullBio": "Halil Bey (öl. 1478), Uzun Hasan'ın oğlu ve Akkoyunlu'nun beşinci beyidir. 1478'de babasının ölümüyle tahta çıktı ancak hükümdarlığı çok kısa sürdü. Kardeşleri arasındaki taht mücadelesi sonucu aynı yıl kardeşi Ya'kub tarafından devirildi. Halil Bey'in kısa hükümdarlığı, Uzun Hasan sonrası iç karışıklıkların başlangıcıdır.",
+    "legacy": "Uzun Hasan sonrası taht mücadelelerinin kurbanı.",
+    "achievements": [
+      "Akkoyunlu beylerinden biri",
+      "Bölgede hakimiyet kurdu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1478",
+        "title": "Kısa Hükümdarlık",
+        "description": "Uzun Hasan'ın oğlu olarak kısa süre bey oldu, kardeşi Ya'kub tarafından devirildi."
+      }
+    ],
+    "predecessor": "Uzun Hasan (babası)",
+    "successor": "Ya'kub Bey (kardeşi)",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Ya'kub Bey",
+        "role": "Kardeşi / Halef",
+        "description": "Halil Bey'i devirerek tahta çıkan kardeşi."
+      }
+    ],
+    "quote": {
+      "text": "Babamın atları daha tozunu silklemeden, kardeşim Ya'kub tahtı ele geçirdi. Uzun Hasan'ın oğulları, birlikte değil, birbirine karşı savaştı.",
+      "source": "Halil Bey"
+    }
+  },
+  {
+    "id": "akkoyunlu-yakub",
+    "order": 12,
+    "name": "Ya'kub Bey",
+    "title": "Akkoyunlu Sanatının Altın Çağı",
+    "period": "M.S. 1478 - 1490",
+    "dynasty": "Akkoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-akkoyunlu-yakub.jpg",
+    "description": "Kardeşi Halil'i devirerek tahta çıkan, Akkoyunlu sanat ve edebiyatının altın çağını yaşatan, Ahmeti ve Hamdullah Hamdi'yi himaye eden hükümdar.",
+    "fullBio": "Ya'kub Bey (ö. 1490), Uzun Hasan'ın oğlu ve Akkoyunlu'nun altıncı beyidir. 1478'de kardeşi Halil Bey'i devirerek tahta çıktı. On iki yıl hüküm sürdü (1478-1490). Döneminde Akkoyunlu sanat ve edebiyatı altın çağını yaşadı. Ahmeti ve Hamdullah Hamdi gibi ünlü şairler Ya'kub Bey döneminde eserlerini sundu. 1473 Otlukbeli yenilgisinin ardından Osmanlılarla ilişkileri normalize etmeye çalıştı. 1490'da ölümü üzerine iç karışıklıklar yeniden başladı.",
+    "legacy": "Akkoyunlu sanatının altın çağının mimarı, edebiyat ve bilim hamisi.",
+    "achievements": [
+      "Akkoyunlu sanatının altın çağını yaşattı",
+      "Ahmeti ve Hamdullah Hamdi'yi himaye etti",
+      "Osmanlılarla ilişkileri normalize etmeye çalıştı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1478",
+        "title": "Tahta Çıkış",
+        "description": "Kardeşi Halil Bey'i devirerek hükümdar oldu."
+      },
+      {
+        "year": "M.S. 1480'ler",
+        "title": "Sanatın Altın Çağı",
+        "description": "Sarayında sanat ve edebiyat altın çağını yaşadı."
+      },
+      {
+        "year": "M.S. 1490",
+        "title": "Ölüm",
+        "description": "On iki yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Halil Bey (kardeşi)",
+    "successor": "Bayındır Bey (kardeşi/oğlu)",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Ahmeti",
+        "role": "Şair",
+        "description": "Ya'kub Bey döneminin ünlü şairi."
+      },
+      {
+        "name": "Hamdullah Hamdi",
+        "role": "Şair / Yazar",
+        "description": "Ya'kub Bey sarayında eserler veren ünlü şair ve yazar."
+      }
+    ],
+    "quote": {
+      "text": "Otlukbeli'de kaybettiğimizi, fırça ve kalemle geri kazanacağız. Ahmeti'nin dizeleri, Hamdi'nin satırları, benim en güçlü silahımdır.",
+      "source": "Ya'kub Bey"
+    }
+  },
+  {
+    "id": "akkoyunlu-bayindir",
+    "order": 13,
+    "name": "Bayındır Bey",
+    "title": "Akkoyunlu Beyi",
+    "period": "M.S. 1490 - 1491",
+    "dynasty": "Akkoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-akkoyunlu-bayindir.jpg",
+    "description": "Ya'kub Bey'in ardından sadece bir yıl hüküm süren, kardeşi Rüstem tarafından devrilen kısa ömürlü bey.",
+    "fullBio": "Bayındır Bey (öl. 1491), Ya'kub Bey'in ardından 1490'da tahta çıkan Akkoyunlu beyidir. Hükümdarlığı sadece bir yıl sürdü. Döneminde iç karışıklıklar doruk noktasına ulaştı, Safevi hareketinin etkisi hızla arttı. 1491'de kardeşi Rüstem Bey tarafından devirildi.",
+    "legacy": "Akkoyunlu çöküş döneminde kısa ömürlü bey.",
+    "achievements": [
+      "Akkoyunlu beylik döneminde hükümdarlık yaptı",
+      "Bölgesel güç oluşturdu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1490",
+        "title": "Tahta Çıkış",
+        "description": "Ya'kub Bey'in ardından bey oldu."
+      },
+      {
+        "year": "M.S. 1491",
+        "title": "Tahttan İndirilme",
+        "description": "Kardeşi Rüstem Bey tarafından devirildi."
+      }
+    ],
+    "predecessor": "Ya'kub Bey",
+    "successor": "Rüstem Bey (kardeşi)",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Bir yıl tahtta oturdum, bir yılda indirildim. Akkoyunlu'nun son demleri, bir yılda tükenecek kadar kırılganmış.",
+      "source": "Bayındır Bey"
+    }
+  },
+  {
+    "id": "akkoyunlu-rustem",
+    "order": 14,
+    "name": "Rüstem Bey",
+    "title": "Akkoyunlu Beyi",
+    "period": "M.S. 1491 - 1497",
+    "dynasty": "Akkoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-akkoyunlu-rustem.jpg",
+    "description": "Bayındır'ın ardından tahta çıkan, Safevi tehdidiyle mücadele eden ama durumu stabilize edemeyen hükümdar.",
+    "fullBio": "Rüstem Bey (öl. 1497), Bayındır Bey'in ardından 1491'de tahta çıkan Akkoyunlu beyidir. Altı yıl hüküm sürdü (1491-1497). Döneminde Akkoyunlu Beyliği kritikleşti, Safevi hareketi hızla güçlendi. Rüstem Bey, Safevi tehdidine karşı direnmeye çalıştı ancak durumu stabilize edemedi. 1497'de öldü, yerine kardeşi Gövde Ahmed geçti.",
+    "legacy": "Safevi yükselişine tanık olan, bu tehditle mücadele edemeyen bey.",
+    "achievements": [
+      "Akkoyunlu hanedan üyesi",
+      "Siyasi mücadelelerde yer aldı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1491",
+        "title": "Tahta Çıkış",
+        "description": "Bayındır Bey'i devirerek hükümdar oldu."
+      },
+      {
+        "year": "M.S. 1494",
+        "title": "Safevi Tehdidi",
+        "description": "Şeyh Haydar Safevi hareketini güçlendirdi, tehdit arttı."
+      },
+      {
+        "year": "M.S. 1497",
+        "title": "Ölüm",
+        "description": "Altı yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Bayındır Bey (kardeşi)",
+    "successor": "Gövde Ahmed Bey (kardeşi)",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "Şeyh Haydar",
+        "role": "Safevi Lideri / Tehdit",
+        "description": "Rüstem Bey döneminde Safevi hareketini güçlendiren lider."
+      }
+    ],
+    "quote": {
+      "text": "Safevi kırmızı başlıkları görünür oldu doğuda. Ben bu kırmızı dalgayı durduramadım, çünkü Akkoyunlu'nun kendi evi çatırdıyordu.",
+      "source": "Rüstem Bey"
+    }
+  },
+  {
+    "id": "akkoyunlu-govde-ahmed",
+    "order": 15,
+    "name": "Gövde Ahmed Bey",
+    "title": "Akkoyunlu Beyi",
+    "period": "M.S. 1497",
+    "dynasty": "Akkoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-akkoyunlu-govde-ahmed.jpg",
+    "description": "Rüstem Bey'in ardından sadece birkaç ay hüküm süren, kardeşi Alvand tarafından devrilen son dönem beyi.",
+    "fullBio": "Gövde Ahmed Bey (öl. 1497), Rüstem Bey'in ardından 1497'de tahta çıkan Akkoyunlu beyidir. Hükümdarlığı sadece birkaç ay sürdü. Döneminde Safevi hareketi hızla güçlenmekte, Akkoyunlu İran'daki kontrolü zayıflamaktaydı. Aynı yıl içinde kardeşi Alvand tarafından devirildi.",
+    "legacy": "Akkoyunlu son dönem taht mücadelelerinin bir parçası.",
+    "achievements": [
+      "Akkoyunlu beylerinden biri",
+      "Hanedan içinde önemli rol oynadı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1497",
+        "title": "Kısa Hükümdarlık",
+        "description": "Rüstem Bey'in ardından kısa süre bey oldu, kardeşi Alvand tarafından devirildi."
+      }
+    ],
+    "predecessor": "Rüstem Bey (ağabeyi)",
+    "successor": "Alvand Bey (kardeşi)",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Birkaç ay tahtta kaldım, belki de Akkoyunlu'nun en kısa hükümdarıyım. Ama bu kısalık, hanedanın ne kadar çürüdüğünün göstergesidir.",
+      "source": "Gövde Ahmed Bey"
+    }
+  },
+  {
+    "id": "akkoyunlu-alvand",
+    "order": 16,
+    "name": "Alvand Bey",
+    "title": "Akkoyunlu Beyi - Safevi Tehdidi Dönemi",
+    "period": "M.S. 1497 - 1504",
+    "dynasty": "Akkoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-akkoyunlu-alvand.jpg",
+    "description": "Gövde Ahmed'i devirerek tahta çıkan, Safevi yükselişine karşı direnen ama başarısız olan son dönem beylerinden.",
+    "fullBio": "Alvand Bey (öl. 1504), Gövde Ahmed Bey'i devirerek 1497'de tahta çıkan Akkoyunlu beyidir. Yedi yıl hüküm sürdü (1497-1504). Döneminde Safevi lideri I. İsmail hızla güçlenerek 1501'de Safevi Devleti'ni kurdu. Alvand Bey, Safevi tehdidine karşı direnmeye çalıştı ancak 1502-1503'te Safevi orduları karşısında önemli yenilgiler aldı. 1504'te öldü, yerine kardeşi Murad geçti.",
+    "legacy": "Safevi yükselişine tanık olan, bu tehditle mücadele eden son Akkoyunlu beylerinden biri.",
+    "achievements": [
+      "Safevi tehdidine karşı direniş"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1497",
+        "title": "Tahta Çıkış",
+        "description": "Gövde Ahmed Bey'i devirerek hükümdar oldu."
+      },
+      {
+        "year": "M.S. 1501",
+        "title": "Safevi Devleti'nin Kuruluşu",
+        "description": "I. İsmail Safevi Devleti'ni kurdu, tehdit arttı."
+      },
+      {
+        "year": "M.S. 1502-1503",
+        "title": "Safevi Yenilgileri",
+        "description": "Safevi orduları karşısında önemli yenilgiler aldı."
+      },
+      {
+        "year": "M.S. 1504",
+        "title": "Ölüm",
+        "description": "Yedi yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Gövde Ahmed Bey (kardeşi)",
+    "successor": "Murad Bey (kardeşi)",
+    "battles": [
+      {
+        "name": "Safevi Çatışması",
+        "year": "M.S. 1502",
+        "result": "defeat",
+        "description": "I. İsmail komutasındaki Safevi ordusu karşısında yenilgi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "I. İsmail",
+        "role": "Safevi Şah / Galip",
+        "description": "Alvand Bey döneminde Safevi Devleti'ni kuran, Akkoyunlu'yu yıkan lider."
+      }
+    ],
+    "quote": {
+      "text": "I. İsmail'in kırmızı başlıklı orduları karşısında direndim, ama Akkoyunlu'nun içi çürümüştü. Torunumuz olan Safevi, bizi yuttu.",
+      "source": "Alvand Bey"
+    }
+  },
+  {
+    "id": "akkoyunlu-murad",
+    "order": 17,
+    "name": "Murad Bey",
+    "title": "Son Akkoyunlu Beyi",
+    "period": "M.S. 1504 - 1508",
+    "dynasty": "Akkoyunlu Devleti",
+    "dynastyId": "akkoyunlu",
+    "era": "Orta Çağ",
+    "image": "/images/huk-akkoyunlu-murad.jpg",
+    "description": "130 yıllık Akkoyunlu Devleti'nin son beyi. 1508'de Safevi orduları tarafından yenilerek hanedan sona erdi.",
+    "fullBio": "Murad Bey (öl. 1508), Alvand Bey'in ardından 1504'te tahta çıkan son Akkoyunlu beyidir. Dört yıl hüküm sürdü (1504-1508). Beyliğin durumu umutsuzdu, Safevi orduları hızla batıya ilerliyordu. Murad Bey, son direnişi organize etmeye çalıştı ancak yetersiz kaldı. 1508'de Safevi orduları tarafından yenilgiye uğratıldı, esir alınarak öldürüldü. 1378'de kurulan Akkoyunlu Devleti, 130 yıllık varlığına son vermiştir. Toprakları Safevi Devleti'ne katıldı.",
+    "legacy": "130 yıllık Akkoyunlu Devleti'nin son beyi.",
+    "achievements": [
+      "Akkoyunlu son direnişini organize etme"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1504",
+        "title": "Tahta Çıkış",
+        "description": "Son Akkoyunlu beyi oldu."
+      },
+      {
+        "year": "M.S. 1508",
+        "title": "Akkoyunlu'nun Sonu",
+        "description": "Safeviler tarafından yenilgiye uğratıldı, devlet sona erdi."
+      }
+    ],
+    "predecessor": "Alvand Bey (ağabeyi)",
+    "successor": "Yok (Devlet sona erdi, topraklar Safevi'ye katıldı)",
+    "battles": [
+      {
+        "name": "Son Akkoyunlu Savaşı",
+        "year": "M.S. 1508",
+        "result": "defeat",
+        "description": "Safevi ordusu tarafından yenilgiye uğratıldı, hanedan sona erdi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "I. İsmail",
+        "role": "Safevi Şah / Galip",
+        "description": "Murad Bey'i yenen, Akkoyunlu'yu sona erdiren Safevi kurucusu."
+      }
+    ],
+    "quote": {
+      "text": "130 yıllık Beyaz Koyunlu rüyası, benimle son buldu. Safevi'nin kılıcı, Uzun Hasan'ın torunlarının elinde, bizi tarihin sayfalarına gömdü.",
+      "source": "Murad Bey"
+    }
+  }
+]

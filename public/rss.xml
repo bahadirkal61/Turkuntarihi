@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Türk Tarihi - 2500 Yıllık Medeniyetin Dijital Ansiklopedisi</title>
+    <link>https://turkuntarihi.com</link>
+    <description>M.Ö. 520'den günümüze Türk tarihi. 272 hükümdar, 21 devlet, destanlar, Orhun Yazıtları, Türk coğrafyası ve kültürü.</description>
+    <language>tr</language>
+    <lastBuildDate>Thu, 19 Jun 2024 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://turkuntarihi.com/rss.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://turkuntarihi.com/icon-192.png</url>
+      <title>Türk Tarihi</title>
+      <link>https://turkuntarihi.com</link>
+    </image>
+
+    <item>
+      <title>Türk Tarihi Atlası Yayında</title>
+      <link>https://turkuntarihi.com</link>
+      <guid isPermaLink="true">https://turkuntarihi.com</guid>
+      <pubDate>Thu, 19 Jun 2024 00:00:00 GMT</pubDate>
+      <description>Türk Tarihi Atlası, M.Ö. 520'den günümüze 2500 yıllık Türk medeniyetini kapsayan dijital ansiklopedi olarak yayına başladı.</description>
+      <category>Türk Tarihi</category>
+    </item>
+
+    <item>
+      <title>Türk Tarihi - Hükümdarlar Bölümü</title>
+      <link>https://turkuntarihi.com/tarih</link>
+      <guid isPermaLink="true">https://turkuntarihi.com/tarih</guid>
+      <pubDate>Thu, 19 Jun 2024 00:00:00 GMT</pubDate>
+      <description>M.Ö. 520'den günümüze 21 devlet ve 272 hükümdarın biyografileri, savaşları ve dönemleri.</description>
+      <category>Türk Tarihi</category>
+    </item>
+
+    <item>
+      <title>Türk Destanları</title>
+      <link>https://turkuntarihi.com/destanlar</link>
+      <guid isPermaLink="true">https://turkuntarihi.com/destanlar</guid>
+      <pubDate>Thu, 19 Jun 2024 00:00:00 GMT</pubDate>
+      <description>Oğuz Kağan'dan Manas'a, Dede Korkut'tan Destan-ı Tepegöz'e Türk destanlarının tam metinleri.</description>
+      <category>Destanlar</category>
+    </item>
+
+    <item>
+      <title>Orhun Yazıtları</title>
+      <link>https://turkuntarihi.com/yazitlar</link>
+      <guid isPermaLink="true">https://turkuntarihi.com/yazitlar</guid>
+      <pubDate>Thu, 19 Jun 2024 00:00:00 GMT</pubDate>
+      <description>Bilge Kağan, Kül Tigin ve Tonyukuk yazıtlarının orijinal metinleri ve çevirileri.</description>
+      <category>Yazıtlar</category>
+    </item>
+
+    <item>
+      <title>Günümüz Türk Devletleri</title>
+      <link>https://turkuntarihi.com/cografya</link>
+      <guid isPermaLink="true">https://turkuntarihi.com/cografya</guid>
+      <pubDate>Thu, 19 Jun 2024 00:00:00 GMT</pubDate>
+      <description>Altay'dan Anadolu'ya, Balkanlar'dan Sibirya'ya kadar uzanan Türk coğrafyası ve günümüz Türk devletleri.</description>
+      <category>Coğrafya</category>
+    </item>
+
+    <item>
+      <title>Türk Sanatı</title>
+      <link>https://turkuntarihi.com/sanat</link>
+      <guid isPermaLink="true">https://turkuntarihi.com/sanat</guid>
+      <pubDate>Thu, 19 Jun 2024 00:00:00 GMT</pubDate>
+      <description>M.Ö. 600'den günümüze Türk resim, müzik, edebiyat ve el sanatları mirası.</description>
+      <category>Sanat</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,526 @@
+[
+  {
+    "id": "bulgar-kubrat",
+    "order": 1,
+    "name": "Kubrat Han",
+    "title": "Büyük Bulgar Hanı - Birleştirici",
+    "period": "M.S. 632 - 665",
+    "dynasty": "Büyük Bulgar Devleti / Onoğur Bulgarları",
+    "dynastyId": "bulgar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-bulgar-kubrat.jpg",
+    "description": "Onoğur Bulgarlarını tek çatı altında birleştiren kurucu lider. 'Kubrat'ın Vasiyeti' efsanesiyle Türk birlik bilincinin sembolü oldu.",
+    "fullBio": "Kubrat Han (Kurt/Kovrat), M.S. 632 ile 665 yılları arasında hüküm sürmüş, Büyük Bulgar Devleti'nin kurucusu ve Türk tarihinin en önemli devlet adamlarından biridir. Dulo boyundan gelen Kubrat, Avar Kağanlığı'nın egemenliği altındaki Onoğur (On-Armaklı) Bulgar boylarını birleştirerek bağımsız bir devlet kurdu. Kubrat'ın ilk kayda geçen diplomatik başarısı, 635 yılında Bizans İmparatoru Herakleios ile ittifak kurması ve Patrikios unvanıyla Bizans'ın müttefiki olmasıdır. Bu ittifak, Kubrat'ın Avarlardan bağımsızlığını ilan etmesini ve Bulgarları tek çatı altında toplamasını mümkün kıldı. Kubrat döneminde Bulgar Devleti, Karadeniz'in kuzeyinden Kafkasya'ya, Kuban Nehri'nden Dinyeper'e kadar geniş bir coğrafyada hüküm sürdü. Kubrat, Bizanslılar tarafından 'saygıdeğer dost' olarak nitelendirilmiş, Herakleios'un kişisel dostluğunu kazanmıştır. Kubrat'ın en kalıcı mirası, ölüm döşeğinde oğullarına bıraktığı meşhur vasiyetidir: Oğullarını tek tek sopaların kolayca kırılabileceğini ama bir demet olarak bir arada tutulduğunda kırılamayacağını göstererek birlik içinde olmalarını tavsiye etti. Bu 'Kubrat'ın Vasiyeti', Türk birlik bilincinin ve devlet felsefesinin en önemli sembollerinden biri olmuştur. Kubrat'ın beş oğlu vardı: Batbayan, Kotrag, Asparuh, Bezmer ve Altsek. Ölümünden sonra oğulları arasında ihtilaf çıktı, büyük oğul Batbayan devleti yönetmeye çalışsa da Hazar baskısı artınca kardeşler farklı yönlere dağıldılar. Asparuh batıya (Tuna deltası), Kotrag kuzeye (Itil Bulgarları), diğerleri ise farklı bölgelere göç etti. Kubrat'ın kurduğu devlet geleneği, Avrupa'daki tek Türk devleti olarak günümüz Bulgaristan'ın temelini oluşturdu.",
+    "legacy": "Kubrat Han, Bulgarların kurucusu ve 'Birlikte bükülen sopalar' efsanesinin yaratıcısı olarak Türk tarihinin en önemli sembollerinden biridir. Onun kurduğu devlet geleneği, 681'de Asparuh tarafından devam ettirilerek günümüz Bulgaristan'ın temelini oluşturdu.",
+    "achievements": [
+      "Onoğur Bulgarlarını tek çatı altında birleştirdi (632)",
+      "Avar egemenliğinden bağımsızlığını ilan etti",
+      "Bizans İmparatoru Herakleios ile ittifak kurdu (635)",
+      "Patrikios unvanını alarak uluslararası statü kazandı",
+      "Karadeniz-Kafkasya arasında büyük Bulgar devleti kurdu",
+      "'Kubrat'ın Vasiyeti' ile Türk birlik felsefesini simgeleştirdi",
+      "Beş oğlu arasında devlet geleneğini yaydı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 632",
+        "title": "Büyük Bulgar Devleti'nin Kuruluşu",
+        "description": "Kubrat, Avarlardan bağımsızlığını ilan ederek Onoğur Bulgarlarını birleştirdi ve Büyük Bulgar Devleti'ni kurdu."
+      },
+      {
+        "year": "M.S. 635",
+        "title": "Bizans İttifakı",
+        "description": "Bizans İmparatoru Herakleios ile ittifak kurdu, Patrikios unvanı verildi, 'saygıdeğer dost' olarak tanındı."
+      },
+      {
+        "year": "M.S. 650",
+        "title": "Devletin Zirvesi",
+        "description": "Bulgar Devleti Karadeniz'den Kafkasya'ya, Kuban'dan Dinyeper'e kadar genişleyerek en geniş sınırlarına ulaştı."
+      },
+      {
+        "year": "M.S. 660",
+        "title": "Hazar Tehdidi",
+        "description": "Hazarların batıya yönelik baskıları artmaya başladı, Kubrat savunma hazırlıklarına başladı."
+      },
+      {
+        "year": "M.S. 665",
+        "title": "Kubrat'ın Ölümü ve Vasiyeti",
+        "description": "Ölüm döşeğinde oğullarına 'sopa demeti' vasiyetini bıraktı, beş oğlu arasında devlet paylaşıldı."
+      }
+    ],
+    "predecessor": "Devletin kurucusu / Avar egemenliği altında Bulgar boyları",
+    "successor": "Asparuh Han (oğlu)",
+    "quote": {
+      "text": "Birlikte tutulan sopalar kırılmaz, ayrı ayrı ele alınırsa her biri kolayca kırılır. Birliğinizi bozmayın.",
+      "source": "Kubrat Han'ın oğullarına vasiyeti"
+    },
+    "battles": [
+      {
+        "name": "Avar Bağımsızlık Savaşı",
+        "year": "M.S. 632",
+        "result": "victory",
+        "description": "Kubrat, Avar Kağanlığı'nın boyunduruğundan kurtularak Bulgar boylarının bağımsızlığını sağladı."
+      },
+      {
+        "name": "Kuban Nehri Seferi",
+        "year": "M.S. 640",
+        "result": "victory",
+        "description": "Kuban havzasındaki boyları birleştirerek devletin sınırlarını genişletti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Herakleios",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (610-641). Kubrat'la ittifak kurdu, ona Patrikios unvanı verdi, kişisel dostuydu."
+      },
+      {
+        "name": "Organa",
+        "role": "Kubrat'ın Amcası / Dulo Boyu Beyi",
+        "description": "Kubrat'ın amcası ve himayecisi. Kubrat'ın yetişmesinde ve Avar sarayında eğitiminde etkili oldu."
+      },
+      {
+        "name": "Asparuh",
+        "role": "Oğlu, İlk Bulgar İmparatorluğu Kurucusu",
+        "description": "Kubrat'ın en küçük oğlu. Batıya göç ederek 681'de İlk Bulgar İmparatorluğu'nu kurdu."
+      },
+      {
+        "name": "Batbayan",
+        "role": "Büyük Oğlu",
+        "description": "Kubrat'ın en büyük oğlu. Babasının ardından Büyük Bulgar topraklarını yönetmeye çalıştı ancak Hazar baskısına dayanamadı."
+      },
+      {
+        "name": "Kotrag",
+        "role": "Oğlu, İtil Bulgarları Kurucusu",
+        "description": "Kubrat'ın oğullarından biri. Kuzeye göç ederek İtil (Volga) Bulgarlarını kurdu, günümüz Tataristan'ın atası."
+      }
+    ]
+  },
+  {
+    "id": "bulgar-asparuh",
+    "order": 2,
+    "name": "Asparuh Han",
+    "title": "İlk Bulgar İmparatorluğu Kurucusu",
+    "period": "M.S. 681 - 700",
+    "dynasty": "İlk Bulgar İmparatorluğu",
+    "dynastyId": "bulgar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-bulgar-asparuh.jpg",
+    "description": "Kubrat'ın oğlu. 680'de Bizans'ı Ongal'da yendi, 681'de Tuna deltasında İlk Bulgar İmparatorluğu'nu kurdu.",
+    "fullBio": "Asparuh Han (İskender), M.S. 681 ile 700 yılları arasında hüküm sürmüş, İlk Bulgar İmparatorluğu'nun kurucusu ve Avrupa'daki en kalıcı Türk devletinin öncüsüdür. Kubrat'ın en küçük oğlu olan Asparuh, babasının ölümünden sonra Hazar baskısı artınca batıya doğru göç etmeye karar verdi. Yaklaşık 30.000 Bulgar'la birlikte 30.000 kadar Slav'ı da beraberinde alarak batıya yürüdü. 680 yılında Bizans İmparatoru IV. Konstantinos Pogonatos, Bulgarları durdurmak için büyük bir ordu gönderdi. Asparuh, Ongal (Deliorman) bataklıklarında Bizans ordusunu pusuya düşürerek ezici bir yenilgiye uğrattı. Bu zafer, Bulgar tarihinin en önemli dönüm noktalarından biridir. Yenilgiye uğrayan IV. Konstantinos, 681 yılında mecburen Asparuh'un egemenliğini tanıdı ve yıllık haraç ödemeyi kabul etti. İşte bu olay, modern tarihçiler tarafından İlk Bulgar İmparatorluğu'nun kuruluşu olarak kabul edilir. Asparuh, Tuna Nehri'nin güneyindeki Deliorman bölgesinde yeni bir yurt kurdu. Bulgarlar, burada yerel Slav boylarıyla kaynaşarak Slav-Bulgar devletini oluşturdular. Asparuh, Bulgar geleneklerini, Tengricilik inancını ve Türk tipi askeri organizasyonu korudu. Onun kurduğu devlet, günümüz Bulgaristan'ın doğrudan atasıdır ve 681 yılı hâlâ Bulgaristan'ın resmi kuruluş yılı olarak kutlanmaktadır.",
+    "legacy": "Asparuh, günümüz Bulgaristan'ın kurucusu olarak kabul edilir. 681'de kurduğu devlet, Avrupa'da en uzun süre varlığını sürdüren Türk kökenli devlet olmuştur.",
+    "achievements": [
+      "İlk Bulgar İmparatorluğu'nu kurdu (681)",
+      "Ongal Savaşı'nda Bizans ordusunu ezdi (680)",
+      "Tuna'nın güneyinde kalıcı Bulgar yurdu kurdu",
+      "Bizans İmparatoru IV. Konstantinos'u vergi ödemeye zorladı",
+      "Bulgar-Slav kaynaşmasının temelini attı",
+      "Tengricilik inancını ve Türk geleneklerini Avrupa'da sürdürdü"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 665-670",
+        "title": "Batıya Göç",
+        "description": "Hazar baskısı üzerine babasının vasiyetini yerine getirerek batıya göç etti, Slav boylarını da birliğine kattı."
+      },
+      {
+        "year": "M.S. 680",
+        "title": "Ongal Zaferi",
+        "description": "Ongal (Deliorman) bataklıklarında Bizans ordusunu pusuya düşürerek ezici bir yenilgiye uğrattı."
+      },
+      {
+        "year": "M.S. 681",
+        "title": "İlk Bulgar İmparatorluğu'nun Kuruluşu",
+        "description": "Bizans İmparatoru IV. Konstantinos mecburen Bulgar egemenliğini tanıdı, yıllık haraç ödemeyi kabul etti."
+      },
+      {
+        "year": "M.S. 685",
+        "title": "Pliska'nın İnşası",
+        "description": "Başkent Pliska (günümüz Pliska) kuruldu, saray ve askeri karargâh inşa edildi."
+      },
+      {
+        "year": "M.S. 689",
+        "title": "Bizans Sınır Savaşları",
+        "description": "Trakya'ya yönelik seferlerle Bizans sınırını genişletti, Bulgar nüfuzunu Tuna'nın güneyine yaydı."
+      },
+      {
+        "year": "M.S. 700",
+        "title": "Asparuh'ın Ölümü",
+        "description": "Oğlu Tervel tahta çıktı, Bulgar devlet geleneği güçlü bir şekilde devam etti."
+      }
+    ],
+    "predecessor": "Kubrat Han (babası)",
+    "successor": "Tervel Han (oğlu)",
+    "quote": {
+      "text": "Tuna'nın ötesinde, bu topraklarda kalıcı bir yurt kuracağız. Geleneklerimizi yaşatacağız.",
+      "source": "Asparuh Han, oğullarına"
+    },
+    "battles": [
+      {
+        "name": "Ongal (Deliorman) Muharebesi",
+        "year": "M.S. 680",
+        "result": "victory",
+        "description": "Bizans ordusunu bataklıklarda pusuya düşürerek tamamen imha etti, Bulgar tarihinin en büyük zaferlerinden biri."
+      },
+      {
+        "name": "Varna Muharebesi",
+        "year": "M.S. 683",
+        "result": "victory",
+        "description": "Karadeniz kıyısındaki Biz garnizonlarını yenerek Bulgar deniz sınırlarını güvence altına aldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "IV. Konstantinos Pogonatos",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (654-685). Asparuh'a karşı sefer düzenledi, Ongal'da yenilgiye uğrayıp Bulgar egemenliğini tanımak zorunda kaldı."
+      },
+      {
+        "name": "Kubrat Han",
+        "role": "Babası, Büyük Bulgar Kurucusu",
+        "description": "Büyük Bulgar Devleti'nin kurucusu (632-665). Asparuh'a birlik vasiyetini bıraktı."
+      },
+      {
+        "name": "Tervel",
+        "role": "Oğlu ve Hâli",
+        "description": "Asparuh'dan sonra tahta çıktı (700-721), Bizans'ın Kurtarıcısı unvanını aldı."
+      },
+      {
+        "name": "Konstantinos IV",
+        "role": "Bizans İmparatoru (Oğlu)",
+        "description": "IV. Konstantinos'un oğlu ve hâli. Babasının Bulgarlara ödediği haraçtan vazgeçmeye çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "bulgar-tervel",
+    "order": 3,
+    "name": "Tervel Han",
+    "title": "Bulgar Hanı - Bizans'ın Kurtarıcısı (Savior)",
+    "period": "M.S. 700 - 721",
+    "dynasty": "İlk Bulgar İmparatorluğu",
+    "dynastyId": "bulgar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-bulgar-tervel.jpg",
+    "description": "Bizans İmparatoru II. Justinianus'u tahta geri döndürdü, 718'de Arap kuşatmasında Konstantinopolis'i kurtardı.",
+    "fullBio": "Tervel Han, M.S. 700 ile 721 yılları arasında hüküm sürmüş, İlk Bulgar İmparatorluğu'nun en görkemli dönemlerinden birini yaşatan ve Bizans tarihinde eşsiz bir rol oynayan hükümdardır. Asparuh'un oğlu olan Tervel, babasının kurduğu devleti güçlendirerek Balkanlar'daki en önemli güç haline getirdi. Tervel'in en unutulmaz başarısı, 705 yılında Bizans İmparatoru II. Justinianus Rhinotmetos'u tahta geri döndürmesidir. Justinianus, tahttan indirilmiş ve burnu kesilmiş (Rhinotmetos = 'kesik burunlu') halde sürgündeydi. Tervel, 15.000 Bulgar süvarisinden oluşan bir orduyla Justinianus'u Konstantinopolis kapılarına kadar getirdi, şehri kuşattı ve içerden destekçilerin yardımıyla Justinianus'u tekrar tahta çıkardı. Karşılığında Tervel, 'Kurtarıcı' (Savior/Soteir) unvanı aldı, imparatorun kızı Theodora ile evlendi ve 'Caesar' unvanını kullanan ilk Bulgar hükümdarı oldu. Tervel'in ikinci büyük başarısı, 717-718 yıllarındaki Arap kuşatmasında Bizans'a yardım etmesidir. Halife Süleyman bin Abdülmelik'in komutasındaki 120.000 kişilik Arap ordusu, Eylül 717'den Ağustos 718'e kadar Konstantinopolis'i kuşattı. Bizans İmparatoru III. Leo, Tervel'den yardım istedi. Tervel, 50.000 Bulgar süvarisiyle Arapların geri hattına saldırdı, lojistik hatlarını kesti ve kuşatma kuvvetlerini geri çekilmeye zorladı. Bu yardım, Konstantinopolis'in düşmesini engelledi ve Avrupa tarihinin seyrini değiştirdi. Eğer şehir düşseydi, İslam orduları Avrupa'ya yayılacaktı. Tervel dönemi, Bulgar-Bizans ilişkilerinin en sıcak dönemiydi. Bulgarlar, Bizans'ın en önemli müttefiki olarak görülüyordu. Tervel'in ölümünden sonra Bulgar-Bizans ilişkileri bozulmaya başladı.",
+    "legacy": "Tervel Han, 'Bizans'ın Kurtarıcısı' unvanıyla Avrupa tarihinde eşsiz bir yere sahiptir. Onun 718'deki müdahalesi, Konstantinopolis'in düşmesini engelleyerek İslam'ın Avrupa'ya yayılmasını durdurdu.",
+    "achievements": [
+      "II. Justinianus'u tahta geri döndürdü (705)",
+      "'Kurtarıcı' (Savior) ve 'Caesar' unvanlarını aldı",
+      "Bizans İmparatoru'nun kızıyla evlendi",
+      "717-718 Arap kuşatmasında Bizans'a yardım etti",
+      "Konstantinopolis'in düşmesini engelledi",
+      "Bulgarları Balkanlar'ın en güçlü devleti yaptı",
+      "50.000 Bulgar süvarisiyle Arap ordusunu geri püskürttü"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 700",
+        "title": "Tahta Çıkış",
+        "description": "Babası Asparuh'dan sonra Bulgar tahtına çıktı, devleti güçlendirdi."
+      },
+      {
+        "year": "M.S. 705",
+        "title": "Justinianus'u Tahta Çıkarma",
+        "description": "15.000 Bulgar süvarisiyle II. Justinianus Rhinotmetos'u Konstantinopolis'e getirerek tahta geri döndürdü."
+      },
+      {
+        "year": "M.S. 705 (sonrası)",
+        "title": "'Kurtarıcı' ve 'Caesar' Unvanları",
+        "description": "Justinianus tarafından 'Savior/Kurtarıcı' unvanı verildi, imparatorun kızı Theodora ile evlendi."
+      },
+      {
+        "year": "M.S. 707",
+        "title": "Anadolu Seferi",
+        "description": "Justinianus'la birlikte Anadolu'ya sefer düzenleyerek Arap saldırılarına karşı ortak hareket etti."
+      },
+      {
+        "year": "M.S. 717-718",
+        "title": "Konstantinopolis'i Kurtarma",
+        "description": "120.000 kişilik Arap ordusunun kuşatmasına 50.000 süvariyle müdahale ederek şehrin düşmesini engelledi."
+      },
+      {
+        "year": "M.S. 719",
+        "title": "Bulgar-Bizans İttifakı'nın Zirvesi",
+        "description": "İki devlet arasındaki ilişkiler en üst düzeye ulaştı, ortak savunma planları yapıldı."
+      },
+      {
+        "year": "M.S. 721",
+        "title": "Tervel'in Ölümü",
+        "description": "Başarılı bir hükümdarlığın ardından öldü, Bulgar-Bizans ilişkileri bozulmaya başladı."
+      }
+    ],
+    "predecessor": "Asparuh Han (babası)",
+    "successor": "Krum Han (geçiş dönemi sonrası)",
+    "quote": {
+      "text": "Bizans'ın dostu olmak, onun düşmanından daha karlıdır. Ama dostluğun bedelini ödetmek gerekir.",
+      "source": "Tervel Han"
+    },
+    "battles": [
+      {
+        "name": "Konstantinopolis Muharebesi (Justinianus'u Tahta Çıkarma)",
+        "year": "M.S. 705",
+        "result": "victory",
+        "description": "15.000 Bulgar süvarisiyle Konstantinopolis'i kuşatarak II. Justinianus'u tahta geri çıkardı."
+      },
+      {
+        "name": "Arap-Bulgar Muharebesi (718)",
+        "year": "M.S. 718",
+        "result": "victory",
+        "description": "50.000 Bulgar süvarisiyle Arap kuşatma kuvvetlerinin geri hattına saldırdı, lojistik hatlarını kesti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "II. Justinianus Rhinotmetos",
+        "role": "Bizans İmparatoru",
+        "description": "'Kesik burunlu' Bizans İmparatoru. Tervel tarafından tahta geri çıkarıldı, ona 'Kurtarıcı' unvanı verdi."
+      },
+      {
+        "name": "III. Leo (Leo Isaurikos)",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (717-741). 717-718 Arap kuşatmasında Tervel'den yardım istedi, şehri birlikte savundular."
+      },
+      {
+        "name": "Süleyman bin Abdülmelik",
+        "role": "Emevi Halifesi",
+        "description": "Emevi Halifesi (715-717). Konstantinopolis'i kuşatan 120.000 kişilik Arap ordusunun komutanı."
+      },
+      {
+        "name": "Theodora",
+        "role": "Bizans İmparatoriçesi, Tervel'in Eşi",
+        "description": "II. Justinianus'un kızı. Tervel ile evlenerek Bulgar-Bizans ittifakının sembolü oldu."
+      },
+      {
+        "name": "Maslamah bin Abdülmelik",
+        "role": "Arap Komutanı",
+        "description": "Emevi komutanı. Konstantinopolis kuşatmasında Arap ordusunu yönetti, Bulgar saldırısı sonucu geri çekilmek zorunda kaldı."
+      }
+    ]
+  },
+  {
+    "id": "bulgar-krum",
+    "order": 4,
+    "name": "Krum Han",
+    "title": "Bulgar Hanı - Bizans'ın Korkusu",
+    "period": "M.S. 803 - 814",
+    "dynasty": "İlk Bulgar İmparatorluğu",
+    "dynastyId": "bulgar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-bulgar-krum.jpg",
+    "description": "Bulgarların en güçlü hükümdarı. 811'de Nikephoros'u öldürüp kafatasından kadeh yaptı, Bulgarları zirveye taşıdı.",
+    "fullBio": "Krum Han (Krum), M.S. 803 ile 14 Nisan 814 yılları arasında hüküm sürmüş, İlk Bulgar İmparatorluğu'nun en güçlü ve en korkulan hükümdarıdır. Krum tahta çıktığında Bulgarlar, Bizans'ın baskısı altında zor günler yaşıyordu. 807'de Krum, Bizans İmparatoru Nikephoros I Genikos'un Bulgar topraklarına düzenlediği sefere karşılık vererek başkent Pliska'yı savundu. 809'da önemli Bizans kalesi Sardika'yı (günümüz Sofya) ele geçirerek ilk büyük zaferini kazandı. Krum'un en büyük zaferi, 26 Temmuz 811'deki Vürbitsa (Pliska) Muharebesi'dir. Bizans İmparatoru Nikephoros I, büyük bir orduyla Bulgaristan'ı işgal etti, Pliska'yı yağmaladı ve yaktı. Ancak dönüş yolunda Vürbitsa Geçidi'nde Krum'un hazırladığı pusuya düştü. Bizans ordusu tamamen imha edildi, Nikephoros I savaş alanında öldürüldü. Krum, ölen imparatorun kafatasından gümüşle kaplı bir kadeh yaptırarak Bulgar asillerinin önünde içki içti. Bu olay, Bizans tarihinin en büyük şoklarından biri oldu. Nikephoros, Roma'dan beri savaş alanında öldürülen ilk Roma/Bizans imparatordu. 813'te Krum, Konstantinopolis'e yürüdü. Anastasios Walls yakınlarında Bizans ordusunu yenilgiye uğrattı ve şehri kuşattı. Kuşatma sırasında imparatorun sarayını görerek ok attığı söylenir. Ancak şehir alınamadı. Krum, Haziran 814'te yeni bir sefer hazırlığı sırasında felç geçirerek öldü. Oğlu Omurtag tahta çıktı. Krum döneminde Bulgar Devleti, Tuna'dan Ege Denizi'ne, Adriyatik'ten Karadeniz'e kadar genişleyerek en geniş sınırlarına ulaştı. Bulgar Kanunları'nın ilk temelleri atıldı.",
+    "legacy": "Krum Han, Bulgar tarihinin en güçlü hükümdarıdır. Nikephoros'u öldürerek Bizans'ı şoka uğratmış, Bulgarları Balkanların mutlak hakimi yapmıştır. Kafatasından kadeh efsanesi, Orta Çağ'ın en ünlü hikâyelerindendir.",
+    "achievements": [
+      "Sardika'yı (Sofya) ele geçirdi (809)",
+      "Nikephoros I'ı savaş alanında öldürdü (811)",
+      "Ölen imparatorun kafatasından kadeh yaptı",
+      "Konstantinopolis'i kuşattı (813)",
+      "Bulgarları Balkanların en geniş topraklarına ulaştırdı",
+      "Bulgar Kanunları'nın temellerini attı",
+      "Pliska'ya yeni surlar ve saray inşa ettirdi",
+      "Roma'dan beri savaşta öldürülen ilk imparatoru yenilgiye uğrattı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 803",
+        "title": "Tahta Çıkış",
+        "description": "Bulgar tahtına çıktı, Bizans baskısına karşı direnişi örgütledi."
+      },
+      {
+        "year": "M.S. 807",
+        "title": "Nikephoros'un Bulgar Seferine Karşılık",
+        "description": "Bizans İmparatoru Nikephoros'un seferine karşılık vererek Pliska'yı savundu."
+      },
+      {
+        "year": "M.S. 809",
+        "title": "Sardika'nın Alınması",
+        "description": "Önemli Bizans kalesi Sardika (Sofya) ele geçirildi, Bulgar güney sınırları genişledi."
+      },
+      {
+        "year": "M.S. 811 (Temmuz 26)",
+        "title": "Vürbitsa Zaferi ve Nikephoros'un Ölümü",
+        "description": "Pliska'ya giren Nikephoros dönüşte pusuya düştü, ordusu imha edildi, kendisi öldürüldü."
+      },
+      {
+        "year": "M.S. 811 (sonrası)",
+        "title": "Kafatasından Kadeh",
+        "description": "Ölen Nikephoros'un kafatasından gümüşle kaplı kadeh yaptırarak Bulgar asilleriyle birlikte içti."
+      },
+      {
+        "year": "M.S. 813",
+        "title": "Konstantinopolis Kuşatması",
+        "description": "Anastasios Walls'da Bizans ordusunu yendi, Konstantinop surlarına dayandı."
+      },
+      {
+        "year": "M.S. 814 (Haziran)",
+        "title": "Krum'un Ölümü",
+        "description": "Yeni bir sefer hazırlığı sırasında felç geçirerek öldü, oğlu Omurtag tahta çıktı."
+      }
+    ],
+    "predecessor": "Kardam Han (geçiş dönemi)",
+    "successor": "Omurtag Han (oğlu)",
+    "quote": {
+      "text": "Sen yağmaladın, ben yapacağım. Sen yaktın, ben inşa edeceğim. Ama sen geldiğinde, ben hazır olacağım.",
+      "source": "Krum Han, Nikephoros'un Pliska'yı yağmalaması sonrası"
+    },
+    "battles": [
+      {
+        "name": "Vürbitsa (Pliska) Muharebesi",
+        "year": "M.S. 811",
+        "result": "victory",
+        "description": "Bizans İmparatoru Nikephoros I pusuda düşürülerek öldürüldü, ordusu tamamen imha edildi."
+      },
+      {
+        "name": "Anastasios Walls Muharebesi",
+        "year": "M.S. 813",
+        "result": "victory",
+        "description": "Konstantinopolis surları önünde Bizans ordusu yenilgiye uğratıldı, şehir kuşatıldı."
+      },
+      {
+        "name": "Sardika Muharebesi",
+        "year": "M.S. 809",
+        "result": "victory",
+        "description": "Önemli Bizans kalesi Sardika (Sofya) ele geçirildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Nikephoros I Genikos",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (802-811). 811'de Vürbitsa'da Krum tarafından öldürüldü, Roma'dan beri ilk savaşta ölen imparator."
+      },
+      {
+        "name": "I. Mihail (Michael I Rangabe)",
+        "role": "Bizans İmparatoru",
+        "description": "Nikephoros'un ardıllı. 813'te Krum'a karşı Anastasios Walls'da yenilgiye uğradı."
+      },
+      {
+        "name": "Leo V the Armenian",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (813-820). Krum'un kuşatması karşısında direndi, 814'te Krum'un ölümüyle barış yaptı."
+      },
+      {
+        "name": "Staurakios",
+        "role": "Nikephoros'un Oğlu",
+        "description": "Nikephoros'un oğlu ve hâli. Vürbitsa savaşında ağır yaralandı, tahtta kısa süre kaldı."
+      }
+    ]
+  },
+  {
+    "id": "bulgar-simeon",
+    "order": 5,
+    "name": "I. Simeon (Symeon)",
+    "title": "Bulgar Çarı - Altın Çağ",
+    "period": "M.S. 893 - 927",
+    "dynasty": "İlk Bulgar İmparatorluğu",
+    "dynastyId": "bulgar",
+    "era": "Orta Çağ",
+    "image": "/images/huk-bulgar-simeon.jpg",
+    "description": "Bulgaristan'ın en büyük hükümdarı. Çar unvanını aldı, Preslav'ı kültür merkezi yaptı, Bulgar altın çağını yaşattı.",
+    "fullBio": "I. Simeon (Symeon), M.S. 893 ile 27 Mayıs 927 yılları arasında hüküm sürmüş, İlk Bulgar İmparatorluğu'nun en görkemli dönemini yaşatan, Bulgaristan tarihinin en büyük hükümdarı ve Çar unvanını kullanan ilk Bulgar lideridir. Presian Han'ın torunu ve Boris Han'ın oğlu olan Simeon, gençliğinde Bizans'ta Konstantinopolis'te rehin olarak eğitim görmüştür. Magnaura Üniversitesi'nde retorik, felsefe ve teoloji okudu, Bizans kültürünü derinden tanıma fırsatı buldu. 893'te tahta çıktığında Bulgarlar, Hristiyanlığı kabul etmiş (864) ancak Bizans'ın Patrikhanesiyle dini anlaşmazlıklar yaşıyordu. Simeon, Bulgaristan'da bağımsız bir Patrikhane kurdu ve Bulgar dilinde dinî hizmetlerin yapılmasını sağladı. 913 yılında, Bulgaristan'da Çar (Tsar) unvanını ilk kez kullandı. Bu unvan, Roma İmparatorluğu'nun mirasçısı olduğunu ilan etmesi anlamına geliyordu. Simeon döneminde Bulgar İmparatorluğu, Balkanların tamamına hakim oldu. Tuna'dan Ege Denizi'ne, Adriyatik'ten Karadeniz'e kadar genişledi. Başkent Preslav (Preslav), altın kubbeli sarayları, kütüphaneleri ve üniversiteleriyle 'Yeni Konstantinopolis' olarak anılıyordu. Simeon, Bizans'a karşı birçok askeri zafer kazandı. 896'da Bulgarophygon Muharebesi'nde Bizans ordusunu ezici bir yenilgiye uğrattı. 917'de Aheloy (Anchialus) Muharebesi'nde Bizans ordusunu tamamen imha etti. 921-924 arasında Konstantinopolis'e üç kez yürüdü ancak şehir alınamadı. Simeon, aynı zamanda büyük bir kültür hamisiydi. Preslav ve Ohrid'de üniversiteler kurdu, Bulgar alfabesi (Glagolit ve Kiril alfabesi) yaygınlaştırıldı. Simeon'un ölümünden sonra Bulgar İmparatorluğu kısa süre sonra Bizans tarafından yeniden fethedildi (1018).",
+    "legacy": "I. Simeon, Bulgaristan'ın altın çağının yaratıcısıdır. Çar unvanı, bağımsız Bulgar Kilisesi, Preslav'ın kültür merkezi haline gelmesi onun mirasıdır. 'Çar Simeon Bulgarları' hâlâ Bulgar ulusal kimliğinin temelini oluşturur.",
+    "achievements": [
+      "Bulgaristan'ın ilk Çar'ı oldu (913)",
+      "Bağımsız Bulgar Kilisesi ve Patrikhanesi kurdu",
+      "Bulgar dilinde dinî hizmetleri başlattı",
+      "Preslav'ı 'Yeni Konstantinopolis' haline getirdi",
+      "Bulgarophygon'da Bizans'ı ezdi (896)",
+      "Aheloy'da Bizans ordusunu imha etti (917)",
+      "Balkanların tamamına hakim oldu",
+      "Üniversiteler ve kütüphaneler kurdu",
+      "Kiril alfabesinin yaygınlaşmasını sağladı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 893",
+        "title": "Tahta Çıkış",
+        "description": "Presian Han'ın oğlu olarak Bulgar tahtına çıktı, başkenti Pliska'dan Preslav'a taşıdı."
+      },
+      {
+        "year": "M.S. 896",
+        "title": "Bulgarophygon Zaferi",
+        "description": "Bizans ordusunu ezici bir yenilgiye uğrattı, Balkanlarda üstünlüğü sağladı."
+      },
+      {
+        "year": "M.S. 913",
+        "title": "Çar Unvanının İlanı",
+        "description": "Preslav'da taç giyerek Bulgaristan'ın ilk Çar'ı oldu, Roma'nın eşit haklı imparatoru olduğunu ilan etti."
+      },
+      {
+        "year": "M.S. 917",
+        "title": "Aheloy (Anchialus) Zaferi",
+        "description": "Bizans ordusunu tamamen imha ederek Bulgar tarihinin en büyük askeri zaferlerinden birini kazandı."
+      },
+      {
+        "year": "M.S. 921-924",
+        "title": "Konstantinopolis Seferleri",
+        "description": "Üç kez Konstantinop surlarına dayandı ancak şehir alınamadı."
+      },
+      {
+        "year": "M.S. 925",
+        "title": "Preslav Kültür Merkezi",
+        "description": "Preslav'daki saray kompleksi, üniversite ve kütüphaneler tamamlandı, 'Yeni Konstantinopolis' unvanı aldı."
+      },
+      {
+        "year": "M.S. 927",
+        "title": "Simeon'un Ölümü",
+        "description": "34 yıllık görkemli hükümdarlığın ardından öldü, oğlu I. Peter tahta çıktı."
+      }
+    ],
+    "predecessor": "Vladimir (abisi, tahttan indirildi)",
+    "successor": "I. Peter (oğlu)",
+    "quote": {
+      "text": "Ben Konstantinopolis'in eşit haklı imparatoruyum. Roma'nın mirası bana da aittir.",
+      "source": "I. Simeon, Çar unvanını ilan ederken (913)"
+    },
+    "battles": [
+      {
+        "name": "Bulgarophygon Muharebesi",
+        "year": "M.S. 896",
+        "result": "victory",
+        "description": "Bizans ordusu ezici bir yenilgiye uğratıldı, Bulgar üstünlüğü kesinleşti."
+      },
+      {
+        "name": "Aheloy (Anchialus) Muharebesi",
+        "year": "M.S. 917",
+        "result": "victory",
+        "description": "Bizans ordusu tamamen imha edildi, imparatorun kardeşi öldürüldü, bu zafer Bulgar tarihinin zirvesidir."
+      },
+      {
+        "name": "Katasyrtai Muharebesi",
+        "year": "M.S. 917",
+        "result": "victory",
+        "description": "Konstantinopolis surları yakınlarında Bizans ordusu yenilgiye uğratıldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "VI. Leo (Leo VI the Wise)",
+        "role": "Bizans İmparatoru",
+        "description": "'Bilge Leo'. Bizans İmparatoru (886-912). Simeon'a karşı mücadele etti."
+      },
+      {
+        "name": "VII. Konstantinos",
+        "role": "Bizans İmparatoru",
+        "description": "Bizans İmparatoru (913-959). Aheloy yenilgisinde tahtta idi, Bulgar üstünlüğünü tanımak zorunda kaldı."
+      },
+      {
+        "name": "Boris Han (Mihail)",
+        "role": "Babası, Hristiyanlığı Kabul Eden Han",
+        "description": "Boris Han (852-889). 864'te Hristiyanlığı kabul etti, Simeon'un kültür hamiliği için temel attı."
+      },
+      {
+        "name": "Patrik Fokios",
+        "role": "Konstantinopolis Patrikliği",
+        "description": "Konstantinopolis Patriği. Simeon'un bağımsız Bulgar Kilisesi kurmasına karşı çıktı."
+      },
+      {
+        "name": "Kiril ve Methodios'un öğrencileri",
+        "role": "Bulgar alfabesinin yayıcıları",
+        "description": "Simeon döneminde Preslav ve Ohrid'de Kiril alfabesinin yaygınlaştırılmasında görev aldılar."
+      }
+    ]
+  }
+]

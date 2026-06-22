@@ -1,0 +1,869 @@
+[
+  {
+    "id": "kirim-haci1",
+    "order": 1,
+    "name": "I. Hacı Giray Han",
+    "title": "Kırım Hanlığı Kurucusu",
+    "period": "M.S. 1427 - 1466",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-haci1.jpg",
+    "description": "Altınordu'nun çöküşü sonrası Kırım'da bağımsız hanlığı kuran, Giray Hanedanı'nın atası, Cengiz Han'ın Joci Han soyundan gelen efsanevi kurucu.",
+    "fullBio": "I. Hacı Giray Han (1397-1466), Kırım Hanlığı'nın kurucusu ve Giray Hanedanı'nın atasıdır. Cengiz Han'ın büyük oğlu Joci Han'ın soyundandır. Altınordu'nun çöküşü sonrasındaki karışıklık döneminde, 1427'de Kırım'da bağımsız hanlığını ilan etmiştir. Hacı Giray, Kırım Yarımadası'nı merkez alarak, bozkır gelenekleriyle İslam medeniyetini birleştiren bir devlet modeli kurmuştur. 1456'da oğulları arasındaki taht kavgası sonucu tahttan indirilmiş, 1461'de yeniden tahta çıkmıştır. 1466'da ölünceye kadar Kırım Tatar devlet geleneğinin, kanunlarının ve idari yapısının temellerini atmıştır. Kırım Hanlığı'nı 'Cengiz Han geleneğinin gerçek halefi' olarak konumlandırmıştır.",
+    "legacy": "Kırım Tatar devletinin kurucusu, 356 yıllık hanedanın atası. Cengiz Han geleneğini Kırım'da yeniden canlandıran hükümdar.",
+    "achievements": [
+      "Kırım Hanlığı'nı kurdu (1427)",
+      "Giray Hanedanı'nı tesis etti",
+      "Kırım Tatar devlet geleneğini ve kanunlarını oluşturdu",
+      "Bozkır geleneği ile İslam medeniyetini birleştirdi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1427",
+        "title": "Hanlık Kuruluşu",
+        "description": "Altınordu'nun çöküşü sonrası Kırım'da bağımsız hanlığını ilan etti."
+      },
+      {
+        "year": "M.S. 1454",
+        "title": "Osmanlı ile İlişkiler",
+        "description": "II. Murat döneminde Osmanlı İmparatorluğu ile diplomatik ilişkiler kurdu."
+      },
+      {
+        "year": "M.S. 1456",
+        "title": "Tahttan İndirilme",
+        "description": "Oğulları arasındaki taht kavgası sonucu tahttan indirildi."
+      },
+      {
+        "year": "M.S. 1461",
+        "title": "İkinci Saltanat",
+        "description": "Yeniden tahta çıkarak hükümdarlığına devam etti."
+      },
+      {
+        "year": "M.S. 1466",
+        "title": "Ölüm",
+        "description": "Hacı Giray Han öldü, hanlığın temelleri sağlam atılmıştı."
+      }
+    ],
+    "predecessor": "Altınordu dönemi",
+    "successor": "Nur Devlet Giray (oğlu)",
+    "battles": [
+      {
+        "name": "Kırım Fetihleri",
+        "year": "M.S. 1427-1430",
+        "result": "victory",
+        "description": "Kırım Yarımadası'nın tamamında hakimiyet kurdu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Joci Han",
+        "role": "Soy Ata",
+        "description": "Cengiz Han'ın büyük oğlu, Giray Hanedanı'nın soyunu başlatan ata."
+      },
+      {
+        "name": "Edigu",
+        "role": "Altınordu Komutanı",
+        "description": "Altınordu'nun çöküşü dönemindeki yetkili, Hacı Giray'ın hanlık kurmasına zemin hazırladı."
+      }
+    ],
+    "quote": {
+      "text": "Kırım, Cengiz Han'ın mirasının sonsuza dek yaşayacağı kutsal topraklardır. Giray hanedanı, bu mirasın bekçisidir.",
+      "source": "I. Hacı Giray Han"
+    }
+  },
+  {
+    "id": "kirim-nur-devlet",
+    "order": 2,
+    "name": "Nur Devlet Giray",
+    "title": "Kırım Hanı",
+    "period": "M.S. 1466 - 1469",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-nur-devlet.jpg",
+    "description": "Hacı Giray'ın oğlu, hanedandaki ilk taht kavgasının tarafı. Kardeşi Mengli Giray ile mücadele etti, sonunda yenildi.",
+    "fullBio": "Nur Devlet Giray (öl. 1469), Hacı Giray'ın oğlu ve Kırım Hanlığı'nın ikinci hanıdır. 1466'da babasının ölümü üzerine tahta çıkmıştır. Ancak kardeşi Mengli Giray ile şiddetli bir taht mücadelesine girmiştir. 1466-1467 ve 1467-1469 olmak üzere iki kısa dönem hüküm sürmüştür. Nur Devlet, Litvanya Büyük Dükü Kazimir Jagiellończyk'ın desteğini alırken, Mengli Giray Osmanlı Sultan II. Mehmet'in desteğini arkasına almıştır. Bu taht mücadelesi, Kırım Hanlığı tarihindeki ilk büyük hanedan içi çatışma olarak kayda geçmiştir. 1469'da tamamen yenilerek tahttan indirilmiş, Mengli Giray tek hakim olmuştur.",
+    "legacy": "Kırım Hanlığı'ndaki ilk taht mücadelesinin simgesi. Kardeşi Mengli'ye karşı kaybeden taraf.",
+    "achievements": [
+      "Kırım Hanlığı'nın ikinci hükümdarı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1466",
+        "title": "Tahta Çıkış",
+        "description": "Babasının ölümüyle Kırım Hanı oldu."
+      },
+      {
+        "year": "M.S. 1467",
+        "title": "İlk Tahttan İndirilme",
+        "description": "Mengli Giray tarafından tahttan indirildi, tekrar çıktı."
+      },
+      {
+        "year": "M.S. 1469",
+        "title": "Son Yenilgi",
+        "description": "Mengli Giray'a karşı son mücadelesini kaybederek tahttan indirildi."
+      }
+    ],
+    "predecessor": "I. Hacı Giray Han (babası)",
+    "successor": "I. Mengli Giray Han (kardeşi)",
+    "battles": [
+      {
+        "name": "Taht Mücadelesi",
+        "year": "M.S. 1466-1469",
+        "result": "defeat",
+        "description": "Kardeşi Mengli Giray ile girdiği taht mücadelesini kaybetti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "I. Mengli Giray Han",
+        "role": "Kardeşi / Rakip",
+        "description": "Nur Devlet'in taht mücadelesinde yenildiği kardeşi, sonraki Kırım Hanı."
+      }
+    ],
+    "quote": {
+      "text": "Taht, kardeşi kardeşe düşüren bir alevdir. Ama bu alevde eriyen ben oldum.",
+      "source": "Nur Devlet Giray"
+    }
+  },
+  {
+    "id": "kirim-mengli1",
+    "order": 3,
+    "name": "I. Mengli Giray Han",
+    "title": "Kırım'ın Fatihi",
+    "period": "M.S. 1469 - 1515",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-mengli1.jpg",
+    "description": "Kırım Hanlığı'nın en uzun süre tahtta kalan hükümdarı (47 yıl). Kefe'yi fethederek Karadeniz ticaretini kontrol altına aldı. Fatih Sultan Mehmet'in müttefiki.",
+    "fullBio": "I. Mengli Giray Han (1445-1515), Kırım Hanlığı'nın en uzun süre hüküm süren ve en başarılı hükümdarlarından biridir. 1469'da kardeşi Nur Devlet'i yenerek tahta çıkmış, 47 yıl boyunca (1469-1515) hüküm sürmüştür. Fatih Sultan Mehmet ile ittifak kurarak 1475'te Gedik Ahmet Paşa komutasındaki Osmanlı donanmasının Kefe'yi (Theodosia) fethetmesini sağlamıştır. Kefe'nin fethi, Kırım Hanlığı'nın Karadeniz ticaretindeki hakimiyetinin başlangıcı olmuştur. Döneminde Kırım, Altınordu'nun gerçek halefi olarak Türk dünyasında büyük saygı görmüştür. Mengli Giray, hanlığın sınırlarını genişletmiş, Moskova Knezliği ve Lehistan-Litvanya Birliği'ne karşı başarılı seferler düzenlemiştir. Aynı zamanda Kırım'da İslam eğitimini teşvik etmiş, medreseler ve camiler inşa ettirmiştir.",
+    "legacy": "47 yıllık hükümdarlığıyla Kırım Hanlığı'nın en istikrarlı dönemini yaratan, Kefe'yi fethederek Karadeniz'de güçlü bir Türk devleti kuran hükümdar.",
+    "achievements": [
+      "47 yıl Kırım tahtında kaldı (en uzun süreli han)",
+      "Kefe'yi (Theodosia) fethetti (1475), Karadeniz ticaretini ele geçirdi",
+      "Fatih Sultan Mehmet ile ittifak kurarak Osmanlı-Kırım müttefikliğini tesis etti",
+      "Kırım Hanlığı'nı Altınordu'nun gerçek halefi olarak kabul ettirdi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1469",
+        "title": "Tahta Çıkış",
+        "description": "Kardeşi Nur Devlet'i yenerek tek hakim oldu."
+      },
+      {
+        "year": "M.S. 1475",
+        "title": "Kefe Fethi",
+        "description": "Osmanlı donanmasıyla birlikte Kefe'yi (Theodosia) fethetti, Karadeniz ticaretinin ana limanı oldu."
+      },
+      {
+        "year": "M.S. 1480",
+        "title": "Moskova Seferi",
+        "description": "Moskova Knezliği'ne karşı başarılı bir sefer düzenledi."
+      },
+      {
+        "year": "M.S. 1502",
+        "title": "Akkerman Antlaşması",
+        "description": "Osmanlı İmparatorluğu ile resmi müttefiklik ilişkileri pekiştirildi."
+      },
+      {
+        "year": "M.S. 1515",
+        "title": "Ölüm",
+        "description": "Uzun ve başarılı hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "Nur Devlet Giray (kardeşi)",
+    "successor": "I. Mehmet Giray (oğlu)",
+    "battles": [
+      {
+        "name": "Kefe Fethi",
+        "year": "M.S. 1475",
+        "result": "victory",
+        "description": "Osmanlı donanmasıyla birlikte Ceneviz kalesi Kefe'yi fethetti."
+      },
+      {
+        "name": "Moskova Seferi",
+        "year": "M.S. 1480",
+        "result": "victory",
+        "description": "Moskova Knezliği'ne karşı başarılı sefer, Ruslar üzerinde baskı kuruldu."
+      },
+      {
+        "name": "Vederaş Muharebesi",
+        "year": "M.S. 1506",
+        "result": "victory",
+        "description": "Lehistan-Litvanya ordularını yenerek batı sınırlarını güvence altına aldı."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Fatih Sultan Mehmet",
+        "role": "Osmanlı Sultanı / Müttefik",
+        "description": "Mengli Giray'ın müttefiki, Gedik Ahmet Paşa'yı Kefe'ye gönderen Sultan."
+      },
+      {
+        "name": "Gedik Ahmet Paşa",
+        "role": "Osmanlı Kaptan-ı Derya",
+        "description": "Fatih'in emriyle Kefe'yi fetheden Osmanlı deniz komutanı."
+      }
+    ],
+    "quote": {
+      "text": "Kefe, Kırım'ın Karadeniz'e açılan kapısıdır. Bu kapıyı açan el, Giray'ın elidir.",
+      "source": "I. Mengli Giray Han, Kefe Fethi sonrası"
+    }
+  },
+  {
+    "id": "kirim-mehmet1",
+    "order": 4,
+    "name": "I. Mehmet Giray",
+    "title": "Kırım Hanı",
+    "period": "M.S. 1515 - 1523",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-mehmet.jpg",
+    "description": "Mengli Giray'ın oğlu, Kanuni döneminde Osmanlı-Kırım müttefikliğini sürdüren hükümdar. Yeniçeri tertibini Kırım ordusuna uyguladı.",
+    "fullBio": "I. Mehmet Giray (öl. 1523), Mengli Giray'ın oğlu ve Kırım Hanlığı'nın dördüncü hükümdarıdır. 1515'te babasının ölümüyle tahta çıkmıştır. Dönemi, Kanuni Sultan Süleyman'ın ilk yıllarına denk gelmiş ve Osmanlı-Kırım müttefikliği en üst seviyede devam etmiştir. Mehmet Giray, Kırım ordusunu modernleştirmiş, Yeniçeri ocağına benzer bir askeri yapı kurmuştur. Moskova Knezliği ve Lehistan'a karşı birçok başarılı sefer düzenlemiştir. 1523'te oğulları arasındaki taht kavgası sırasında öldürülmüştür. Ölümü, hanedanda bir dönem karışıklık döneminin başlangıcı olmuştur.",
+    "legacy": "Kırım ordusunu modernleştiren, Osmanlı müttefikliğini güçlendiren hükümdar. Trajik ölümü hanedanı karışıklığa sürükledi.",
+    "achievements": [
+      "Kırım ordusunu Yeniçeri modeline göre yeniden düzenledi",
+      "Osmanlı-Kırım müttefikliğini Kanuni döneminde güçlendirdi",
+      "Moskova ve Lehistan'a karşı başarılı seferler düzenledi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1515",
+        "title": "Tahta Çıkış",
+        "description": "Babası I. Mengli Giray'ın ölümüyle Kırım Hanı oldu."
+      },
+      {
+        "year": "M.S. 1520",
+        "title": "Moskova Seferi",
+        "description": "Büyük bir orduyla Moskova üzerine yürüdü, Ruslar ağır kayıplar verdi."
+      },
+      {
+        "year": "M.S. 1523",
+        "title": "Tahtta Öldürülme",
+        "description": "Oğullarının taht kavgasında bir oğlu tarafından öldürüldü."
+      }
+    ],
+    "predecessor": "I. Mengli Giray Han (babası)",
+    "successor": "Gazi I. Giray (oğlu)",
+    "battles": [
+      {
+        "name": "Moskova Seferi",
+        "year": "M.S. 1520",
+        "result": "victory",
+        "description": "Moskova çevresinde Rus ordularını yenilgiye uğrattı."
+      },
+      {
+        "name": "Lehistan Sınır Savaşı",
+        "year": "M.S. 1522",
+        "result": "victory",
+        "description": "Lehistan-Litvanya topraklarına sefer düzenledi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Kanuni Sultan Süleyman",
+        "role": "Osmanlı Sultanı / Müttefik",
+        "description": "I. Mehmet Giray dönemindeki Osmanlı Sultanı, Kırım'ın müttefiki."
+      }
+    ],
+    "quote": {
+      "text": "Kırım'ın ordusu, bozkırın fırtınası gibidir. Nereye eserse orada hiçbir duvar ayakta kalamaz.",
+      "source": "I. Mehmet Giray"
+    }
+  },
+  {
+    "id": "kirim-gazi1",
+    "order": 5,
+    "name": "Gazi I. Giray",
+    "title": "Kırım Hanı",
+    "period": "M.S. 1523 - 1524",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-gazi-1.jpg",
+    "description": "Babasının öldürülmesi sonrası tahta çıkan, ancak sadece bir yıl hüküm sürebilen kısa ömürlü hükümdar.",
+    "fullBio": "Gazi I. Giray (öl. 1524), I. Mehmet Giray'ın oğlu ve Kırım Hanlığı'nın beşinci hükümdarıdır. 1523'te babasının tahtta öldürülmesi üzerine tahta çıkmıştır. Ancak kardeşleri ve amcalarının da taht iddiaları vardı. Sadece bir yıl hüküm sürebilmiş, 1524'te tahttan indirilmiş ve öldürülmüştür. Gazi I. Giray'ın kısaltılmış hükümdarlığı, hanedandaki taht kavgalarının ne kadar şiddetli olduğunu göstermektedir.",
+    "legacy": "Taht kavgalarının kurbanı olan kısa ömürlü bir hükümdar.",
+    "achievements": [
+      "Kırım Hanı (1523-1524)"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1523",
+        "title": "Tahta Çıkış",
+        "description": "Babasının ölümü üzerine tahta çıktı."
+      },
+      {
+        "year": "M.S. 1524",
+        "title": "Tahttan İndirilme ve Ölüm",
+        "description": "Rakipleri tarafından tahttan indirildi ve öldürüldü."
+      }
+    ],
+    "predecessor": "I. Mehmet Giray (babası)",
+    "successor": "İslam I. Giray (amcası/kardeşi)",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Bu taht, kanla sulanan bir tahttır. Bugün ben, yarın başkası...",
+      "source": "Gazi I. Giray"
+    }
+  },
+  {
+    "id": "kirim-islam1",
+    "order": 6,
+    "name": "İslam I. Giray",
+    "title": "Kırım Hanı",
+    "period": "M.S. 1532",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-islam-1.jpg",
+    "description": "Sadece birkaç ay tahtta kalabilen, hanedandaki taht çekişmelerinin kurbanı olan hükümdar.",
+    "fullBio": "İslam I. Giray (öl. 1532), Kırım Hanlığı'nın altıncı hükümdarıdır. 1532'de tahta çıkmış ancak aynı yıl içinde tahttan indirilmiştir. Dönemi hanedan içi taht mücadelelerinin en şiddetli dönemlerinden birine denk gelmektedir. Kardeşi Sahib Giray tarafından yenilerek tahttan indirilmiştir.",
+    "legacy": "Taht kavgalarının kurbanı, çok kısa süreli hükümdar.",
+    "achievements": [
+      "Kırım Hanı olarak hükümdarlık yaptı",
+      "Kırım Hanlığı'nı güçlendirdi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1532",
+        "title": "Kısa Hükümdarlık",
+        "description": "Tahta çıktı ancak aynı yıl kardeşi Sahib Giray tarafından tahttan indirildi."
+      }
+    ],
+    "predecessor": "Gazi I. Giray (yeğeni/kardeşi)",
+    "successor": "I. Sahib Giray (kardeşi)",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "I. Sahib Giray",
+        "role": "Kardeşi / Rakip",
+        "description": "İslam I. Giray'ı tahttan indiren kardeşi."
+      }
+    ],
+    "quote": {
+      "text": "Bu tahtta bir yıl kalmak, halkın gönlünde ebedi kalmaktan daha zordur.",
+      "source": "İslam I. Giray"
+    }
+  },
+  {
+    "id": "kirim-sahib1",
+    "order": 7,
+    "name": "I. Sahib Giray Han",
+    "title": "Kırım'ın Kanunisi",
+    "period": "M.S. 1532 - 1551",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-sahib1.jpg",
+    "description": "Kırım'da kapsamlı reformlar yapan, adalet sistemi kuran, devleti merkezileştiren önemli reformcu hükümdar. Kanuni'nin müttefiki.",
+    "fullBio": "I. Sahib Giray Han (ö. 1551), Kırım Hanlığı'nın en önemli reformcu hükümdarlarından biridir. 1532'de kardeşi İslam I. Giray'ı tahttan indirerek hükümdar olmuştur. 19 yıllık hükümdarlığı boyunca Kırım'da kapsamlı reformlar gerçekleştirmiştir. Hanlığın idari yapısını merkezileştirmiş, adalet sistemi kurmuş, vergileri düzenlemiş ve orduyu disiplin altına almıştır. Kanuni Sultan Süleyman ile yakın ilişkiler kurmuş, Osmanlı-Kırım ittifakını güçlendirmiştir. Lehistan-Litvanya Birliği ve Moskova Knezliği'ne karşı birçok sefer düzenlemiştir. Ayrıca Kırım'da eğitim ve kültür alanında önemli çalışmalar yapmış, medreseler açmıştır. 1551'te ölümüne kadar Kırım Hanlığı'nı en organize dönemini yaşatmıştır.",
+    "legacy": "Kırım'ın Kanunisi olarak anılan, devleti hukuk ve düzen içinde yöneten reformcu hükümdar.",
+    "achievements": [
+      "Kırım'da kapsamlı idari ve hukuk reformları yaptı",
+      "Adalet sistemi kurdu, vergileri düzenledi",
+      "Hanlık ordusunu disiplin altına aldı",
+      "Kanuni Sultan Süleyman ile ittifakı pekiştirdi",
+      "Kırım'da eğitim ve kültür alanında medreseler açtı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1532",
+        "title": "Tahta Çıkış",
+        "description": "Kardeşi İslam I. Giray'ı yenerek tahta çıktı."
+      },
+      {
+        "year": "M.S. 1535",
+        "title": "İdari Reformlar",
+        "description": "Hanlığın idari yapısını merkezileştiren reformları başlattı."
+      },
+      {
+        "year": "M.S. 1541",
+        "title": "Moskova Seferi",
+        "description": "Moskova Knezliği'ne büyük bir sefer düzenledi."
+      },
+      {
+        "year": "M.S. 1551",
+        "title": "Ölüm",
+        "description": "Reformcu hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "İslam I. Giray (kardeşi)",
+    "successor": "I. Devlet Giray (oğlu/kardeşi)",
+    "battles": [
+      {
+        "name": "Moskova Seferi",
+        "year": "M.S. 1541",
+        "result": "victory",
+        "description": "Moskova üzerine düzenlenen seferde önemli başarılar elde etti."
+      },
+      {
+        "name": "Lehistan Sınır Savaşı",
+        "year": "M.S. 1545",
+        "result": "victory",
+        "description": "Lehistan-Litvanya ordularını yenerek batı sınırlarını korudu."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Kanuni Sultan Süleyman",
+        "role": "Osmanlı Sultanı / Müttefik",
+        "description": "I. Sahib Giray dönemindeki müttefik Osmanlı Sultanı."
+      }
+    ],
+    "quote": {
+      "text": "Devlet, adaletle ayakta durur. Adaletin olmadığı yerde hanlık, çölde savrulan kum tanesinden farksızdır.",
+      "source": "I. Sahib Giray Han"
+    }
+  },
+  {
+    "id": "kirim-devlet1",
+    "order": 8,
+    "name": "I. Devlet Giray Han",
+    "title": "Moskova'nın Kasırgası",
+    "period": "M.S. 1551 - 1577",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-devlet.jpg",
+    "description": "1571'te Moskova'yı ateşe veren, Kırım Hanlığı'nı zirveye taşıyan en güçlü han. Kanuni'nin dostu, Ruslar'ın kabusu.",
+    "fullBio": "I. Devlet Giray Han (öl. 1577), Kırım Hanlığı'nın en güçlü ve en efsanevi hükümdarıdır. 1551'de amcası I. Sahib Giray'ın ölümüyle tahta çıkmıştır. 26 yıllık hükümdarlığı boyunca Kırım Hanlığı en parlak dönemini yaşamıştır. 1571 yılında 80.000 kişilik orduyla Moskova üzerine yürümüş, şehri tamamen yakıp yıkmıştır. Bu olay, Rus tarihinde 'Moskova'nın Yanması' olarak kayda geçmiş ve Rusların kolektif hafızasında derin izler bırakmıştır. Devlet Giray, aynı zamanda 1572'de Moskova yakınlarındaki Molodi Muharebesi'nde Rus ordularına ağır bir yenilgi tattırmıştır. Kanuni Sultan Süleyman ve II. Selim dönemlerinde Osmanlı-Kırım ittifakını en üst düzeyde tutmuştur. Kefe üzerinden Karadeniz ticaretini kontrol etmiş, hanlığın ekonomisini güçlendirmiştir.",
+    "legacy": "Moskova'yı yakan, Kırım Hanlığı'nı zirveye taşıyan, Rus tarihinin en büyük korkularından biri olmuş efsanevi hükümdar.",
+    "achievements": [
+      "1571'te Moskova'yı ateşe verdi, şehri tamamen yıktı",
+      "1572 Molodi Muharebesi'nde Rus ordularını ağır yenilgiye uğrattı",
+      "Kırım Hanlığı'nı en geniş sınırlarına ve en güçlü dönemine taşıdı",
+      "Osmanlı-Kırım ittifakını en üst düzeyde sürdürdü",
+      "Kefe üzerinden Karadeniz ticaretini kontrol etti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1551",
+        "title": "Tahta Çıkış",
+        "description": "Amcası I. Sahib Giray'ın ölümüyle Kırım Hanı oldu."
+      },
+      {
+        "year": "M.S. 1571",
+        "title": "Moskova'nın Yanması",
+        "description": "80.000 kişilik orduyla Moskova'yı kuşatıp şehri tamamen yakıp yıktı. Rus tarihinin en büyük facialarından biri."
+      },
+      {
+        "year": "M.S. 1572",
+        "title": "Molodi Muharebesi",
+        "description": "Moskova yakınlarında 60.000 kişilik Rus ordusunu ağır yenilgiye uğrattı."
+      },
+      {
+        "year": "M.S. 1577",
+        "title": "Ölüm",
+        "description": "Kırım'ın en güçlü döneminin ardından öldü."
+      }
+    ],
+    "predecessor": "I. Sahib Giray Han (amcası)",
+    "successor": "II. Mehmet Giray (oğlu)",
+    "battles": [
+      {
+        "name": "Moskova'nın Yanması",
+        "year": "M.S. 1571",
+        "result": "victory",
+        "description": "80.000 kişilik orduyla Moskova'yı yakıp yıktı, Ruslar ağır kayıplar verdi."
+      },
+      {
+        "name": "Molodi Muharebesi",
+        "year": "M.S. 1572",
+        "result": "victory",
+        "description": "Moskova yakınlarında 60.000 kişilik Rus ordusunu yendi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "Kanuni Sultan Süleyman",
+        "role": "Osmanlı Sultanı / Müttefik",
+        "description": "I. Devlet Giray'ın müttefiki, Kırım'a askeri ve diplomatik destek veren Sultan."
+      },
+      {
+        "name": "IV. İvan (Korkunç İvan)",
+        "role": "Moskova Çarı / Düşman",
+        "description": "Moskova'yı yöneten Çar, I. Devlet Giray'ın en büyük düşmanı."
+      }
+    ],
+    "quote": {
+      "text": "Moskova'ya giden yol, Türk'ün atının nallarıyla döşelidir. 1571'de bu yolu tekrar yürüdük ve o tahtrevanlı şehri kül ettik!",
+      "source": "I. Devlet Giray Han, Moskova Seferi sonrası"
+    }
+  },
+  {
+    "id": "kirim-mehmet2",
+    "order": 9,
+    "name": "II. Mehmet Giray",
+    "title": "Kırım Hanı",
+    "period": "M.S. 1577 - 1584",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-mehmet-2.jpg",
+    "description": "Babasının büyük mirasını koruma çabasında olan, ancak iç çekişmelerle mücadele eden hükümdar.",
+    "fullBio": "II. Mehmet Giray (öl. 1584), I. Devlet Giray'ın oğlu ve Kırım Hanlığı'nın dokuzuncu hükümdarıdır. 1577'de babasının ölümüyle tahta çıkmıştır. Babasının Moskova'ya karşı büyük seferlerinin ardından hanlığı ayakta tutmaya çalışmıştır. Ancak döneminde hanedan içi çekişmeler artmış, Ruslar güçlenmeye başlamıştır. 1584'te bir iç ayaklanma sonucu öldürülmüştür.",
+    "legacy": "Babasının büyük mirasını koruyamayan, iç çekişmelerin kurbanı olan hükümdar.",
+    "achievements": [
+      "Moskova seferlerini sürdürmeye çalıştı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1577",
+        "title": "Tahta Çıkış",
+        "description": "Babası I. Devlet Giray'ın ölümüyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 1584",
+        "title": "Öldürülme",
+        "description": "Hanedan içi çekişme sonucu öldürüldü."
+      }
+    ],
+    "predecessor": "I. Devlet Giray Han (babası)",
+    "successor": "İslam II. Giray (kardeşi)",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Babamın ateşiyle yaktığı bu devleti, soğuk hesaplarla söndüremem.",
+      "source": "II. Mehmet Giray"
+    }
+  },
+  {
+    "id": "kirim-islam2",
+    "order": 10,
+    "name": "İslam II. Giray",
+    "title": "Kırım Hanı",
+    "period": "M.S. 1584 - 1588",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-islam-2.jpg",
+    "description": "Dört yıl tahtta kalan, hanedandaki istikrarsızlık döneminin bir parçası olan hükümdar.",
+    "fullBio": "İslam II. Giray (öl. 1588), II. Mehmet Giray'ın kardeşi ve Kırım Hanlığı'nın onuncu hükümdarıdır. 1584'te ağabeyinin öldürülmesiyle tahta çıkmıştır. Dört yıllık hükümdarlığı döneminde hanlığın iç istikrarını korumaya çalışmış ancak hanedan içi çekişmeler devam etmiştir. 1588'de ölmüştür.",
+    "legacy": "Kısa dönemli, hanedan içi çekişmeler döneminin hükümdarı.",
+    "achievements": [
+      "Kırım Hanı olarak hükümdarlık yaptı",
+      "Osmanlı-Kırım ilişkilerini yönetti"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1584",
+        "title": "Tahta Çıkış",
+        "description": "Ağabeyi II. Mehmet Giray'ın ölümüyle tahta çıktı."
+      },
+      {
+        "year": "M.S. 1588",
+        "title": "Ölüm",
+        "description": "Dört yıllık hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "II. Mehmet Giray (ağabeyi)",
+    "successor": "II. Gazi Giray (yeğeni)",
+    "battles": [],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Bu taht, oturanı değil, halkı seveni taşır.",
+      "source": "İslam II. Giray"
+    }
+  },
+  {
+    "id": "kirim-gazi2",
+    "order": 11,
+    "name": "II. Gazi Giray",
+    "title": "Kırım'ın İskenderi",
+    "period": "M.S. 1588 - 1607",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-gazi1.jpg",
+    "description": "19 yıl tahtta kalan, hanlığı yeniden güçlendiren, İran ve Kafkasya seferleri düzenleyen, Kırım edebiyatını destekleyen büyük hükümdar.",
+    "fullBio": "II. Gazi Giray (ö. 1607), Kırım Hanlığı'nın önemli hükümdarlarından biridir. 1588'de tahta çıkmış, 19 yıl boyunca (1588-1607) hüküm sürmüştür. Döneminde hanlığı yeniden güçlendirmiş, hanedan içi çekişmeleri bastırarak istikrarı sağlamıştır. İran Safevi Devleti ve Kafkasya'ya karşı seferler düzenlemiştir. Aynı zamanda edebiyat ve sanatın hamisi olmuş, Kırım Türkçesiyle eserler yazdırarak Kırım edebiyatının gelişmesine katkıda bulunmuştur. 1607'de ölmüştür.",
+    "legacy": "19 yıllık istikrarlı hükümdarlığıyla hanlığı yeniden güçlendiren, edebiyat ve sanatın hamisi hükümdar.",
+    "achievements": [
+      "19 yıl Kırım tahtında kalarak istikrarı sağladı",
+      "İran Safevileri ve Kafkasya'ya karşı seferler düzenledi",
+      "Kırım Türk edebiyatını ve sanatını destekledi",
+      "Hanedan içi çekişmeleri bastırdı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1588",
+        "title": "Tahta Çıkış",
+        "description": "İslam II. Giray'ın ölümüyle Kırım Hanı oldu."
+      },
+      {
+        "year": "M.S. 1594",
+        "title": "Kafkasya Seferi",
+        "description": "Kafkasya'ya sefer düzenleyerek bölgede nüfuzunu artırdı."
+      },
+      {
+        "year": "M.S. 1601",
+        "title": "Edebiyat Hamiliği",
+        "description": "Kırım sarayında edebiyat ve sanatı desteklemeye başladı."
+      },
+      {
+        "year": "M.S. 1607",
+        "title": "Ölüm",
+        "description": "Uzun ve istikrarlı hükümdarlığının ardından öldü."
+      }
+    ],
+    "predecessor": "İslam II. Giray (amcası)",
+    "successor": "III. Mehmet Giray (oğlu)",
+    "battles": [
+      {
+        "name": "Kafkasya Seferi",
+        "year": "M.S. 1594",
+        "result": "victory",
+        "description": "Kafkasya'da bölgesel güçlere karşı askeri başarı elde etti."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Kılıçla fethedilen topraklar, kalemle yaşatılır. Kırım'ın kılıcı kadar kalemi de keskin olmalıdır.",
+      "source": "II. Gazi Giray"
+    }
+  },
+  {
+    "id": "kirim-mehmet3",
+    "order": 12,
+    "name": "III. Mehmet Giray",
+    "title": "Kırım Hanı",
+    "period": "M.S. 1610 - 1623",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-mehmet-3.jpg",
+    "description": "13 yıl hüküm süren, Osmanlı İmparatorluğu'nun güçlü müttefiki, Lehistan ve Ruslar'a karşı seferler düzenleyen hükümdar.",
+    "fullBio": "III. Mehmet Giray (öl. 1623), II. Gazi Giray'ın oğlu ve Kırım Hanlığı'nın onikinci hükümdarıdır. 1610'da tahta çıkmış, 13 yıl boyunca hüküm sürmüştür. Osmanlı İmparatorluğu'nun en güvenilir müttefiklerinden biri olmuştur. Lehistan-Litvanya Birliği ve Moskova Knezliği'ne karşı birçok başarılı sefer düzenlemiştir. Döneminde Kırım Hanlığı, Osmanlı'nın Polonya ve Rusya politikalarında önemli bir araç olarak kullanılmıştır. 1623'te hanedan içi bir çekişme sonucu tahttan indirilmiştir.",
+    "legacy": "Osmanlı müttefikliği döneminde Kırım'ı güçlü bir şekilde yöneten hükümdar.",
+    "achievements": [
+      "Osmanlı İmparatorluğu'nun güçlü müttefiki oldu",
+      "Lehistan ve Ruslar'a karşı başarılı seferler düzenledi"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1610",
+        "title": "Tahta Çıkış",
+        "description": "II. Gazi Giray'ın oğlu olarak Kırım Hanı oldu."
+      },
+      {
+        "year": "M.S. 1618",
+        "title": "Polonya Seferi",
+        "description": "Lehistan-Litvanya Birliği'ne karşı büyük sefer düzenledi."
+      },
+      {
+        "year": "M.S. 1623",
+        "title": "Tahttan İndirilme",
+        "description": "Hanedan içi çekişme sonucu tahttan indirildi."
+      }
+    ],
+    "predecessor": "II. Gazi Giray (babası)",
+    "successor": "I. Canibek Giray (oğlu/kardeşi)",
+    "battles": [
+      {
+        "name": "Polonya Seferi",
+        "year": "M.S. 1618",
+        "result": "victory",
+        "description": "Lehistan-Litvanya ordularını ağır yenilgiye uğrattı."
+      }
+    ],
+    "relatedPeople": [],
+    "quote": {
+      "text": "Osmanlı'nın gölgesi, Kırım'ın güneşidir. Bu gölgede halkımız huzur bulur.",
+      "source": "III. Mehmet Giray"
+    }
+  },
+  {
+    "id": "kirim-selim1",
+    "order": 13,
+    "name": "I. Selim Giray Han",
+    "title": "Kırım'ın Dörtlüsü",
+    "period": "M.S. 1671 - 1704",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-selim1.jpg",
+    "description": "Tam dört kez tahta çıkan (1671-1678, 1684-1691, 1692-1699, 1702-1704), Viyana Kuşatması'na katılan, Kırım tarihinin en çok tahta geçen hükümdarı.",
+    "fullBio": "I. Selim Giray Han (ö. 1704), Kırım Hanlığı tarihinin en çok tahta çıkan hükümdarıdır. Tam dört ayrı dönemde (1671-1678, 1684-1691, 1692-1699, 1702-1704) Kırım tahtında oturmuştur. IV. Mehmet dönemindeki Viyana Kuşatması'na (1683) büyük Kırım Tatar birlikleriyle katılmıştır. Osmanlı-Rus ve Osmanlı-Avusturya savaşlarında önemli roller oynamıştır. Döneminde Rusya'nın yükselişi başlamış, Kırım'ın kuzey sınırları tehdit altına girmiştir. Her tahta çıkışı ve inişi, hanedan içi çekişmelerin ve Osmanlı sarayının müdahalelerinin bir yansımasıdır. 1704'te son döneminin ardından ölmüştür.",
+    "legacy": "Dört kez tahta çıkarak Kırım Hanlığı tarihinde eşsiz bir rekora sahip olan, Viyana Kuşatması'na katılan hükümdar.",
+    "achievements": [
+      "4 kez Kırım Hanı olarak tahta çıktı (tarihi rekor)",
+      "1683 Viyana Kuşatması'na büyük Kırım birlikleriyle katıldı",
+      "Osmanlı-Avusturya ve Osmanlı-Rus savaşlarında aktif rol aldı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1671",
+        "title": "İlk Tahta Çıkış",
+        "description": "İlk kez Kırım Hanı oldu."
+      },
+      {
+        "year": "M.S. 1678",
+        "title": "İlk Tahttan İniş",
+        "description": "İlk dönemi sona erdi."
+      },
+      {
+        "year": "M.S. 1683",
+        "title": "Viyana Kuşatması",
+        "description": "IV. Mehmet'in Viyana Kuşatması'na 40.000 Kırım Tatar birliğiyle katıldı."
+      },
+      {
+        "year": "M.S. 1704",
+        "title": "Ölüm",
+        "description": "Son döneminin ardından öldü."
+      }
+    ],
+    "predecessor": "Değişken (çoklu dönem)",
+    "successor": "Değişken (çoklu dönem)",
+    "battles": [
+      {
+        "name": "Viyana Kuşatması",
+        "year": "M.S. 1683",
+        "result": "defeat",
+        "description": "Osmanlı ordusu Viyana önünde yenildi, Kırım birlikleri geri çekildi."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "IV. Mehmet",
+        "role": "Osmanlı Sultanı",
+        "description": "Viyana Kuşatması'na Kırım birlikleriyle birlikte yürüdüğü Sultan."
+      }
+    ],
+    "quote": {
+      "text": "Bu taht benim için bir alışveriş minderi değil. Dört kez düştüm, beşinci kez kalktım. Çünkü Giray, düştüğü yerden doğan güneştir.",
+      "source": "I. Selim Giray Han"
+    }
+  },
+  {
+    "id": "kirim-kaplan1",
+    "order": 14,
+    "name": "I. Kaplan Giray Han",
+    "title": "Kırım'ın Kaplanı",
+    "period": "M.S. 1707 - 1736",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-kaplan.jpg",
+    "description": "Üç kez tahta çıkan (1707-1708, 1713-1715, 1730-1736), Rusya'nın yükselen tehdidine karşı Kırım'ı savunan, Prut Zaferi'ne katkıda bulunan hükümdar.",
+    "fullBio": "I. Kaplan Giray Han (öl. 1736), Kırım Hanlığı'nın önemli hükümdarlarından biridir. Üç ayrı dönemde (1707-1708, 1713-1715, 1730-1736) tahtta kalmıştır. Döneminde Rusya Çariçesi I. Petro ve ardından Anna İvanovna döneminde Rusya'nın Kırım ve Osmanlı topraklarına yönelik tehdidi hızla artmıştır. 1711 Prut Zaferi'nde Osmanlı ordusuna Kırım birlikleriyle destek vererek Rus ordusunun çekilmesini sağlamıştır. Rus işgallerine karşı birçok başarılı savunma savaşı yönetmiştir. 1736'da ölmüştür.",
+    "legacy": "Rusya'nın yükselişi döneminde Kırım'ı savunan, Prut Zaferi'nde önemli rol oynayan hükümdar.",
+    "achievements": [
+      "3 kez Kırım Hanı olarak tahta çıktı",
+      "1711 Prut Zaferi'nde Osmanlı ordusuna destek verdi",
+      "Rus tehdidine karşı Kırım'ı savundu"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1707",
+        "title": "İlk Tahta Çıkış",
+        "description": "İlk kez Kırım Hanı oldu."
+      },
+      {
+        "year": "M.S. 1711",
+        "title": "Prut Zaferi",
+        "description": "III. Ahmet'in Prut seferinde Kırım birlikleriyle Osmanlı ordusuna destek verdi, Ruslar çekilmek zorunda kaldı."
+      },
+      {
+        "year": "M.S. 1730",
+        "title": "Üçüncü Tahta Çıkış",
+        "description": "Son kez Kırım Hanı oldu."
+      },
+      {
+        "year": "M.S. 1736",
+        "title": "Ölüm",
+        "description": "Son döneminin ardından öldü."
+      }
+    ],
+    "predecessor": "Değişken (çoklu dönem)",
+    "successor": "Değişken (çoklu dönem)",
+    "battles": [
+      {
+        "name": "Prut Muharebesi",
+        "year": "M.S. 1711",
+        "result": "victory",
+        "description": "Osmanlı ordusuyla birlikte Rus ordusunu yenilgiye uğrattı, Ruslar ağır barış koşullarını kabul etti."
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "III. Ahmet",
+        "role": "Osmanlı Sultanı / Müttefik",
+        "description": "Prut seferindeki Osmanlı Sultanı, Kaplan Giray'ın müttefiki."
+      }
+    ],
+    "quote": {
+      "text": "Rus ayısı kuzeyden açlıkla bakıyor. Ama Kırım'ın kapısında Giray'ın kılıcı, o ayının pençesinden keskindir.",
+      "source": "I. Kaplan Giray Han"
+    }
+  },
+  {
+    "id": "kirim-sahin",
+    "order": 15,
+    "name": "Şahin Giray Han",
+    "title": "Son Kırım Hanı",
+    "period": "M.S. 1777 - 1783",
+    "dynasty": "Kırım Hanlığı",
+    "dynastyId": "kirim",
+    "era": "Yeni Çağ",
+    "image": "/images/huk-kirim-sahin.jpg",
+    "description": "356 yıllık Kırım Hanlığı'nın son hükümdarı. Rusya'nın 1783 ilhakıyla hanlık sona erdi. Kırım Tatar tarihinin en trajik figürlerinden biri.",
+    "fullBio": "Şahin Giray Han (ö. 1787), Kırım Hanlığı'nın son ve onbeşinci hükümdarıdır. 1777'de tahta çıkmıştır. Döneminde Rusya İmparatoriçesi II. Katerina'nın Kırım'ı ilhak planları hız kazanmıştır. Şahin Giray, Osmanlı İmparatorluğu ve Rusya arasında denge politikası izlemeye çalışmış ancak başarılı olamamıştır. 8 Nisan 1783'te II. Katerina, Kırım'ın Rusya'ya ilhak edildiğini ilan etmiş, böylece 356 yıllık Kırım Hanlığı sona ermiştir. Şahin Giray Ruslara sığınmış, önce Petersburg'a götürülmüş, sonra kalın kafalı ve huzursuz bir sürgün olarak 1787'de ordu içinde Rus çevrelerinde öldürülmüştür. Onun sonu, birçok Türk devletinin Batı karşısındaki trajik kaderinin sembolü olmuştur.",
+    "legacy": "356 yıllık Kırım Hanlığı'nın son hükümdarı. Kırım Tatarlarının Rus işgali altındaki trajik kaderinin simgesi.",
+    "achievements": [
+      "Son Kırım Hanı olarak hanedanı temsil etti (1777-1783)",
+      "Osmanlı-Rus denge politikasını korumaya çalıştı"
+    ],
+    "keyEvents": [
+      {
+        "year": "M.S. 1777",
+        "title": "Tahta Çıkış",
+        "description": "Kırım Hanlığı'nın son döneminin hükümdarı oldu."
+      },
+      {
+        "year": "M.S. 1778",
+        "title": "Rus Baskısı",
+        "description": "II. Katerina'nın Kırım üzerindeki baskısı artmaya başladı."
+      },
+      {
+        "year": "M.S. 1783 (8 Nisan)",
+        "title": "Rus İlhakı ve Hanlığın Sonu",
+        "description": "II. Katerina Kırım'ı Rusya'ya ilhak ettiğini ilan etti, 356 yıllık Kırım Hanlığı resmen sona erdi."
+      },
+      {
+        "year": "M.S. 1787",
+        "title": "Sürgünde Ölüm",
+        "description": "Rusya'da sürgün hayatı yaşarken öldürüldü."
+      }
+    ],
+    "predecessor": "II. Selim Giray (amcası/kardeşi)",
+    "successor": "Hanedan sona erdi (1783)",
+    "battles": [],
+    "relatedPeople": [
+      {
+        "name": "II. Katerina (Büyük Katerina)",
+        "role": "Rus İmparatoriçesi / İlhakçı",
+        "description": "Kırım'ı işgal ederek 356 yıllık hanlığa son veren Rus hükümdarı."
+      },
+      {
+        "name": "Potemkin",
+        "role": "Rus Prensi / General",
+        "description": "Katerina'nın görkemli prensi ve favorisi, Kırım'ın işgali ve ilhakının baş mimarı."
+      },
+      {
+        "name": "I. Abdülhamid",
+        "role": "Osmanlı Sultanı",
+        "description": "Dönemindeki Osmanlı Sultanı, Kırım'ın ilhakına engel olamadı."
+      }
+    ],
+    "quote": {
+      "text": "Bu taht, 356 yıldır Giray'ın kanıyla beslenen bir tahttır. Ama artık bu kanın yetmediği bir döneme girdik. Kırım'ın gökyüzü, Rus ayısının gölgesiyle karardı.",
+      "source": "Şahin Giray Han, 1783 ilhakı öncesi"
+    }
+  }
+]
