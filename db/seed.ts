@@ -1,6 +1,6 @@
 import { getDb } from "../api/queries/connection";
 import { adminUsers } from "./schema";
-import bcrypt from "bcrypt";
+import bcrypt from "bcryptjs";
 
 const SALT_ROUNDS = 12;
 
