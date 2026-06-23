@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import {
-  Crown, Scroll, BookOpen, Flame, ChevronRight, Heart, Shield, Quote, MessageSquare
+  Crown, Scroll, BookOpen, Flame, ChevronRight, Shield, Quote, MessageSquare
 } from "lucide-react";
 import { rulerQuotes } from "../data/quotes";
 import SearchBox from "../components/SearchBox";
@@ -197,41 +197,6 @@ export default function Home() {
                 </p>
               </div>
               <ChevronRight className="w-5 h-5 text-stone-600 group-hover:text-emerald-500 transition-colors" />
-            </div>
-          </Link>
-        </div>
-      </section>
-
-      {/* ===== DESTEK OL CARD ===== */}
-      <section ref={addRef} className="scroll-reveal px-4 pb-20">
-        <div className="max-w-md mx-auto">
-          <Link
-            to="/destek"
-            className="group block bg-gradient-to-br from-amber-900/20 to-stone-900 border border-amber-700/20 rounded-2xl p-6 hover:border-amber-600/50 transition-all"
-          >
-            <div className="flex items-center gap-4">
-              <div className="w-12 h-12 rounded-xl bg-amber-600/20 flex items-center justify-center group-hover:bg-amber-600/30 transition-colors">
-                <Heart className="w-6 h-6 text-amber-500" />
-              </div>
-              <div className="flex-1">
-                <EditableText
-                  storageKey="home_support_title"
-                  defaultValue="Destek Ol"
-                  className="text-lg font-bold text-white group-hover:text-amber-400 transition-colors block"
-                  as="h3"
-                >
-                  Destek Ol
-                </EditableText>
-                <EditableText
-                  storageKey="home_support_desc"
-                  defaultValue="Türk tarihinin korunması ve gelecek nesillere aktarılması için desteğiniz önemli."
-                  className="text-stone-400 text-sm block"
-                  as="p"
-                >
-                  Türk tarihinin korunması ve gelecek nesillere aktarılması için desteğiniz önemli.
-                </EditableText>
-              </div>
-              <ChevronRight className="w-5 h-5 text-stone-600 group-hover:text-amber-500 transition-colors" />
             </div>
           </Link>
         </div>
